@@ -67,7 +67,7 @@ DISPLAY = {
     "BE3A": ("1-я Национальная, франкоф.", "Бельгия", "🇧🇪"),
     "BE3V": ("1-я Национальная, фламанд.", "Бельгия", "🇧🇪"),
     # "FREE" литералом, а не FREE_COMP: та константа объявлена ниже по файлу
-    "FREE": ("Свободные агенты", "Без клуба", "🆓"),
+    "FREE": ("Без клуба", "Без клуба", "🆓"),
 }
 
 DELAY = [1.0, 1.9]   # пауза между запросами, сек (меняется ключом --delay)
@@ -188,6 +188,24 @@ def clubs_of(soup):
 
 DOB = re.compile(r"(\d{2}/\d{2}/\d{4})\s*\((\d{1,2})\)")
 
+
+def position_of(tr):
+    """Амплуа игрока из строки таблицы.
+
+    В составе клуба вложенный блок имеет класс posrela, в таблице игроков
+    без клуба - нет. Раньше брали только первый вариант, и у всех свободных
+    агентов позиция оставалась пустой, хотя на странице она есть.
+    """
+    for sel in ("td.posrela table tr:nth-of-type(2) td",
+                "table.inline-table tr:nth-of-type(2) td",
+                "table tr:nth-of-type(2) td"):
+        node = tr.select_one(sel)
+        if node:
+            text = node.get_text(" ", strip=True)
+            if text:
+                return text
+    return ""
+
 # заголовок столбца -> наше поле; сверяемся с thead, а не с номерами ячеек,
 # потому что состав столбцов у Transfermarkt меняется от вида к виду
 COLMAP = {
@@ -226,10 +244,7 @@ def parse_squad(soup, club_id):
             i = idx.get(field)
             return tds[i] if i is not None and i < len(tds) else ""
 
-        pos = ""
-        posrela = tr.select_one("td.posrela table tr:nth-of-type(2) td")
-        if posrela:
-            pos = posrela.get_text(" ", strip=True)
+        pos = position_of(tr)
         dob = DOB.search(cell("birth"))
         nat = tr.select_one("td img.flaggenrahmen")
 
@@ -278,10 +293,7 @@ def parse_free_agents(soup):
             i = idx.get(name)
             return tds[i] if i is not None and i < len(tds) else ""
 
-        pos = ""
-        posrela = tr.select_one("td.posrela table tr:nth-of-type(2) td")
-        if posrela:
-            pos = posrela.get_text(" ", strip=True)
+        pos = position_of(tr)
         nat = tr.select_one("td img.flaggenrahmen")
         age = cell("age")
         out.append({

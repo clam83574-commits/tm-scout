@@ -34,8 +34,25 @@ const NOTE_LABEL = Object.fromEntries(NOTES.map((n) => [n.key, n.label]));
 // Строка фильтра: три разряда под категории + четвёртый «показывать
 // отмеченных». Старые трёхсимвольные строки из ранее отправленных
 // сообщений продолжают работать — недостающий разряд считается «1».
-const ALLON = "1".repeat(CATS.length) + "1";
+// Пятый разряд фильтра - положение с контрактом. «Свободный» для агента
+// бывает двух видов, и оба важны: уже без клуба (брать хоть завтра, никому
+// не платя) и контракт на исходе (за полгода до конца игрок вправе сам
+// договариваться с кем угодно). Второй вид как раз и есть окно, в котором
+// агента ищут.
+const CONTRACT = {
+  a: { label: "любой", sql: "" },
+  x: {
+    label: "кончается ≤6 мес",
+    sql: " AND (comp='FREE' OR (contract_days IS NOT NULL AND contract_days BETWEEN 0 AND 183))",
+  },
+  f: { label: "уже без клуба", sql: " AND comp='FREE'" },
+};
+const CONTRACT_ORDER = ["a", "x", "f"];
+
+const ALLON = "1".repeat(CATS.length) + "1" + "a";
 const showMarked = (flt) => flt[CATS.length] !== "0";
+const contractMode = (flt) => (CONTRACT[flt[CATS.length + 1]] ? flt[CATS.length + 1] : "a");
+const contractSql = (flt) => CONTRACT[contractMode(flt)].sql;
 const BADGE = Object.fromEntries(CATS.map((c) => [c.status, c.badge]));
 // Кружок без подписи ничего не говорит тому, кто бота не настраивал,
 // поэтому в списке статус дублируется словами.
@@ -60,9 +77,12 @@ const fltLabel = (flt) => {
   const on = CATS.filter((_, i) => flt[i] === "1");
   const list = on.length ? on : CATS;
   const badges = list.map((c) => c.badge).join("");
-  return list.length === CATS.length
-    ? `${badges} все категории`
-    : `${badges} ${list.map((c) => c.label).join(" + ")}`;
+  const cats =
+    list.length === CATS.length
+      ? `${badges} все категории`
+      : `${badges} ${list.map((c) => c.label).join(" + ")}`;
+  const cm = contractMode(flt);
+  return cm === "a" ? cats : `${cats} · ⏳ ${CONTRACT[cm].label}`;
 };
 
 const esc = (s) =>
@@ -72,6 +92,22 @@ const esc = (s) =>
     .replace(/>/g, "&gt;");
 
 const marks = (n) => new Array(n).fill("?").join(",");
+
+/** Русское склонение после числа: 1 стране, 2 странах, 5 странах. */
+const plural = (n, one, few, many) => {
+  const mod100 = n % 100;
+  const mod10 = n % 10;
+  if (mod100 >= 11 && mod100 <= 14) return many;
+  if (mod10 === 1) return one;
+  if (mod10 >= 2 && mod10 <= 4) return few;
+  return many;
+};
+
+/** У игрока без клуба дата в поле «контракт» - это день, С которого он свободен. */
+const contractLine = (r) =>
+  r.comp === "FREE"
+    ? `свободен с ${r.contract_until || "—"}`
+    : `контракт до ${r.contract_until || "—"}`;
 
 // ------------------------------------------------------------------ Telegram
 async function tg(env, method, payload) {
@@ -129,6 +165,7 @@ async function screenCountries(env, flt, page = 0) {
   if (!showMarked(flt)) {
     where += " AND player_id NOT IN (SELECT player_id FROM notes)";
   }
+  where += contractSql(flt);
   const { results } = await env.DB.prepare(
     `SELECT country, MAX(country_ru) country_ru, MAX(flag) flag, COUNT(*) n
      FROM players WHERE ${where} GROUP BY country ORDER BY n DESC, country`
@@ -146,7 +183,8 @@ async function screenCountries(env, flt, page = 0) {
   const slice = results.slice(page * COUNTRIES_PAGE, (page + 1) * COUNTRIES_PAGE);
   const txt =
     `<b>Игроки без агента</b>\n${fltLabel(flt)} — всего <b>${total}</b> ` +
-    `в ${results.length} странах\n\nВыбери страну` +
+    `в ${results.length} ${plural(results.length, "стране", "странах", "странах")}` +
+    `\n\nВыбери страну` +
     (pages > 1 ? ` (стр. ${page + 1} из ${pages})` : "") + ":";
   const kb = rowsKb(
     slice.map((r) => [
@@ -170,6 +208,7 @@ async function screenLeagues(env, country, flt) {
   if (!showMarked(flt)) {
     where += " AND player_id NOT IN (SELECT player_id FROM notes)";
   }
+  where += contractSql(flt);
   const { results } = await env.DB.prepare(
     `SELECT comp, MAX(comp_name) comp_name, MAX(comp_ru) comp_ru, MAX(flag) flag,
             MAX(country_ru) country_ru, MIN(tier) tier, COUNT(*) n
@@ -200,7 +239,7 @@ async function screenClubs(env, comp, flt) {
   const st = statuses(flt);
   const { results } = await env.DB.prepare(
     `SELECT club_id, club, COUNT(*) n FROM players
-     WHERE comp=? AND agent_status IN (${marks(st.length)})
+     WHERE comp=? AND agent_status IN (${marks(st.length)})${contractSql(flt)}
      GROUP BY club_id ORDER BY club`
   )
     .bind(comp, ...st)
@@ -250,6 +289,7 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
   if (!showMarked(flt)) {
     where += " AND player_id NOT IN (SELECT player_id FROM notes)";
   }
+  where += contractSql(flt);
   const cnt = await env.DB.prepare(`SELECT COUNT(*) n FROM players WHERE ${where}`)
     .bind(...args)
     .first();
@@ -298,7 +338,7 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
     lines.push(
       `${BADGE[r.agent_status] || "·"} <a href="${r.url}"><b>${esc(r.name)}</b></a>` +
         ` · ${LABEL[r.agent_status] || "?"}\n    ${mark}` +
-        `<i>${esc(r.club)}</i>\n    ${esc(bits)} · контракт до ${r.contract_until || "—"}`
+        `<i>${esc(r.club)}</i>\n    ${esc(bits)} · ${contractLine(r)}`
     );
   }
 
@@ -333,6 +373,7 @@ async function screenMark(env, comp, clubId, page, flt, srt) {
   if (!showMarked(flt)) {
     where += " AND player_id NOT IN (SELECT player_id FROM notes)";
   }
+  where += contractSql(flt);
   const { results } = await env.DB.prepare(
     `SELECT player_id, name, club FROM players WHERE ${where} ORDER BY ${ORDERS[srt][0]} LIMIT ? OFFSET ?`
   )
@@ -369,8 +410,8 @@ async function screenNote(env, pid, comp, clubId, page, flt, srt) {
   let txt =
     `${BADGE[p.agent_status] || "·"} <a href="${p.url}"><b>${esc(p.name)}</b></a> · ` +
     `${LABEL[p.agent_status] || "?"}\n<i>${esc(p.club)}</i>\n${esc(bits)}\n` +
-    `контракт до ${p.contract_until || "—"}` +
-    (p.contract_days != null ? ` (${p.contract_days} дн.)` : "");
+    contractLine(p) +
+    (p.contract_days != null && p.contract_days > 0 ? ` (${p.contract_days} дн.)` : "");
   if (p.citizenship) txt += `\nгражданство: ${esc(p.citizenship)}`;
   if (p.height || p.foot) txt += `\n${esc([p.height, p.foot].filter(Boolean).join(" · "))}`;
   if (p.socials) {
@@ -408,7 +449,12 @@ async function screenFilter(env, comp, clubId, flt) {
     "🟡 <b>семья</b> — ведёт родня либо агент вписан текстом без ссылки на агентство.\n" +
     "⚪ <b>поле пустое</b> — строки про агента на странице нет вовсе.\n\n" +
     "Включай любой комбинацией. По умолчанию все три — это ровно те страницы, " +
-    "которые иначе пришлось бы открывать руками.";
+    "которые иначе пришлось бы открывать руками.\n\n" +
+    "<b>Контракт</b> — отдельный срез:\n" +
+    "• <b>кончается ≤6 мес</b> — игрок уже вправе сам договариваться о новом " +
+    "клубе, это и есть окно, когда ищут агента;\n" +
+    "• <b>уже без клуба</b> — контракт закончился, брать можно хоть завтра и " +
+    "никому не платя.";
   const kb = CATS.map((c, i) => {
     const on = flt[i] === "1";
     const next = flt.slice(0, i) + (on ? "0" : "1") + flt.slice(i + 1);
@@ -421,11 +467,20 @@ async function screenFilter(env, comp, clubId, flt) {
   });
   // Четвёртый разряд фильтра - показывать ли уже отмеченных
   const marked = showMarked(flt);
-  const flipped = flt.slice(0, CATS.length) + (marked ? "0" : "1");
+  const flipped = flt.slice(0, CATS.length) + (marked ? "0" : "1") + contractMode(flt);
   kb.push([
     {
       text: `${marked ? "☑️" : "⬜"} показывать отмеченных`,
       callback_data: `f|${comp}|${clubId}|${flipped}`,
+    },
+  ]);
+  // Пятый разряд - положение с контрактом, кнопка перебирает значения
+  const cm = contractMode(flt);
+  const next = CONTRACT_ORDER[(CONTRACT_ORDER.indexOf(cm) + 1) % CONTRACT_ORDER.length];
+  kb.push([
+    {
+      text: `⏳ Контракт: ${CONTRACT[cm].label}`,
+      callback_data: `f|${comp}|${clubId}|${flt.slice(0, CATS.length + 1)}${next}`,
     },
   ]);
   let back = comp !== "-" ? `cl|${comp}|${flt}` : `cs|0|${flt}`;
