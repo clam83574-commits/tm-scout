@@ -34,6 +34,8 @@ check("экран лиг: три лиги + фильтр", lgKb.length === 4, `�
 const [lg2] = await bot.screenLeagues(env, "110");
 check("фильтр 🟢🟡 сужает до 41", lg2.includes("<b>41</b>"));
 
+check("лиги по-русски с флагом", lgTxt.includes("Германия") && JSON.stringify(lgKb).includes("3-я лига"), lgKb[2][0].text);
+
 const [clTxt, clKb] = await bot.screenClubs(env, "L3", "111");
 check("экран клубов L3: 48 кандидатов", clTxt.includes("<b>48</b>"));
 check("экран клубов: есть «Вся лига»", JSON.stringify(clKb).includes("Вся лига"));

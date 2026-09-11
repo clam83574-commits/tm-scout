@@ -123,10 +123,19 @@ def rows_kb(items, per_row=2):
 
 
 # ---------------------------------------------------------------- экраны
+def comp_name(r):
+    """Русское название лиги, если оно есть в данных, иначе исходное с TM."""
+    return r["comp_ru"] or r["comp_name"] or r["comp"]
+
+
+def with_flag(r):
+    return ((r["flag"] + " ") if r["flag"] else "") + comp_name(r)
+
+
 def screen_leagues(flt):
     c = db()
     st = statuses(flt)
-    q = ("SELECT comp, comp_name, COUNT(*) n FROM players "
+    q = ("SELECT comp, comp_name, comp_ru, country_ru, flag, COUNT(*) n FROM players "
          "WHERE agent_status IN (%s) GROUP BY comp "
          "ORDER BY tier" % ",".join("?" * len(st)))
     rows = c.execute(q, st).fetchall()
@@ -134,9 +143,12 @@ def screen_leagues(flt):
         return "Под этот фильтр никто не подходит.", [
             [{"text": "⚙️ Фильтр", "callback_data": "f|-|-|%s" % flt}]]
     total = sum(r["n"] for r in rows)
-    txt = ("<b>Игроки без агента</b>\n%s — всего <b>%d</b>\n\nВыбери лигу:"
-           % (flt_label(flt), total))
-    kb = rows_kb([("%s — %d" % (r["comp_name"], r["n"]), "cl|%s|%s" % (r["comp"], flt))
+    countries = list(dict.fromkeys(r["country_ru"] for r in rows if r["country_ru"]))
+    where = ("%s %s" % (rows[0]["flag"] or "", countries[0])).strip() \
+        if len(countries) == 1 else "%d стран" % len(countries)
+    txt = ("<b>Игроки без агента</b>\n%s · %s — всего <b>%d</b>\n\nВыбери лигу:"
+           % (where, flt_label(flt), total))
+    kb = rows_kb([("%s — %d" % (with_flag(r), r["n"]), "cl|%s|%s" % (r["comp"], flt))
                   for r in rows], per_row=1)
     kb.append([{"text": "⚙️ Фильтр: " + flt_label(flt),
                 "callback_data": "f|-|-|%s" % flt}])
@@ -150,10 +162,12 @@ def screen_clubs(comp, flt):
          "WHERE comp=? AND agent_status IN (%s) "
          "GROUP BY club_id ORDER BY club" % ",".join("?" * len(st)))
     rows = c.execute(q, (comp,) + st).fetchall()
-    name = c.execute("SELECT comp_name FROM players WHERE comp=?", (comp,)).fetchone()
+    name = c.execute("SELECT comp, comp_name, comp_ru, country_ru, flag FROM players "
+                     "WHERE comp=?", (comp,)).fetchone()
     total = sum(r["n"] for r in rows)
-    txt = ("<b>%s</b>\n%s — кандидатов <b>%d</b>\n\nВыбери клуб или смотри всю лигу:"
-           % (name["comp_name"] if name else comp, flt_label(flt), total))
+    country = ("%s · " % name["country_ru"]) if name and name["country_ru"] else ""
+    txt = ("<b>%s</b>\n%s%s — кандидатов <b>%d</b>\n\nВыбери клуб или смотри всю лигу:"
+           % (with_flag(name) if name else comp, country, flt_label(flt), total))
     kb = [[{"text": "📋 Вся лига (%d)" % total,
             "callback_data": "p|%s|ALL|0|%s|s" % (comp, flt)}]]
     kb += rows_kb([("%s (%d)" % (r["club"][:22], r["n"]),
@@ -180,7 +194,7 @@ def screen_players(comp, club_id, page, flt, srt="s"):
     rows = c.execute("SELECT * FROM players WHERE %s ORDER BY %s LIMIT ? OFFSET ?"
                      % (where, ORDERS[srt][0]),
                      args + [PAGE, page * PAGE]).fetchall()
-    head = rows[0]["club"] if club_id != "ALL" else rows[0]["comp_name"]
+    head = rows[0]["club"] if club_id != "ALL" else with_flag(rows[0])
     lines = ["<b>%s</b> — %d кандидатов\n%s · %s · стр. %d из %d\n"
              % (html.escape(head), total, flt_label(flt), ORDERS[srt][1],
                 page + 1, (total - 1) // PAGE + 1)]

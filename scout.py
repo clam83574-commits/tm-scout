@@ -45,6 +45,16 @@ COMPETITIONS = {
     "L3": ("3. Liga", "Germany", 3),
 }
 
+# Как лига называется по-русски. «3. Liga» в списке ничего не говорит тому,
+# кто не в теме немецкого футбола: не видно ни страны, ни уровня. Держим мапу
+# ЗДЕСЬ и пишем результат в данные, чтобы у бота не заводилась своя копия,
+# которая разойдётся при добавлении стран.
+DISPLAY = {
+    "L1": ("Бундеслига", "Германия", "🇩🇪"),
+    "L2": ("2-я Бундеслига", "Германия", "🇩🇪"),
+    "L3": ("3-я лига", "Германия", "🇩🇪"),
+}
+
 DELAY = (1.0, 1.9)   # вежливая пауза между запросами, сек
 
 
@@ -367,16 +377,24 @@ def normalize(c=None):
     own = c is None
     c = c or db_init()
     have = {r[1] for r in c.execute("PRAGMA table_info(players)")}
-    for col, typ in (("mv_eur", "INTEGER"), ("contract_iso", "TEXT")):
+    for col, typ in (("mv_eur", "INTEGER"), ("contract_iso", "TEXT"),
+                     ("comp_ru", "TEXT"), ("country_ru", "TEXT"), ("flag", "TEXT")):
         if col not in have:
             c.execute("ALTER TABLE players ADD COLUMN %s %s" % (col, typ))
     n = 0
-    for pid, mv, ct in c.execute(
-            "SELECT player_id, market_value, contract_until FROM players").fetchall():
-        c.execute("UPDATE players SET mv_eur=?, contract_iso=? WHERE player_id=?",
-                  (mv_to_eur(mv), date_to_iso(ct), pid))
+    for pid, mv, ct, comp in c.execute(
+            "SELECT player_id, market_value, contract_until, comp FROM players").fetchall():
+        ru, country_ru, flag = DISPLAY.get(comp, (None, None, ""))
+        c.execute("UPDATE players SET mv_eur=?, contract_iso=?, comp_ru=?, "
+                  "country_ru=?, flag=? WHERE player_id=?",
+                  (mv_to_eur(mv), date_to_iso(ct), ru, country_ru, flag, pid))
         n += 1
     c.commit()
+    missing = [r[0] for r in c.execute(
+        "SELECT DISTINCT comp FROM players WHERE comp_ru IS NULL")]
+    if missing:
+        print("ВНИМАНИЕ: нет русского названия для лиг: %s — добавь в DISPLAY"
+              % ", ".join(missing))
     print("нормализовано строк: %d" % n)
     if own:
         c.close()
@@ -408,7 +426,7 @@ def export(path=None, statuses=("NO_AGENT", "RELATIVES", "UNKNOWN")):
 
 JSON_COLS = ("player_id name url club_id club country comp comp_name tier position "
              "nationality age contract_until contract_iso market_value mv_eur "
-             "agent_status agent_text").split()
+             "agent_status agent_text comp_ru country_ru flag").split()
 
 
 def export_json(c, statuses, path):
@@ -430,8 +448,12 @@ def export_d1(c, statuses, path):
                      % (",".join(JSON_COLS), marks), statuses).fetchall()
     decl = ", ".join("%s %s" % (k, "INTEGER" if k in ("tier", "age", "mv_eur")
                                 else "TEXT") for k in JSON_COLS)
-    out = ["CREATE TABLE IF NOT EXISTS players (%s, PRIMARY KEY (player_id));" % decl,
-           "DELETE FROM players;"]
+    # DROP, а не CREATE IF NOT EXISTS: при добавлении столбца (например
+    # comp_ru) старая таблица в D1 осталась бы со старой схемой, и вставка
+    # упала бы на несовпадении числа колонок. Таблица и так переписывается
+    # целиком каждый прогон, терять нечего.
+    out = ["DROP TABLE IF EXISTS players;",
+           "CREATE TABLE players (%s, PRIMARY KEY (player_id));" % decl]
     def lit(v):
         if v is None:
             return "NULL"

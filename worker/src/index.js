@@ -94,10 +94,16 @@ function rowsKb(items, perRow = 2) {
 }
 
 // -------------------------------------------------------------------- экраны
+// Название лиги для показа: русское, если оно есть в данных, иначе исходное
+// с Transfermarkt. Фолбэк нужен на случай новой лиги, которую ещё не внесли
+// в DISPLAY в scout.py — лучше английское имя, чем пустая кнопка.
+const compName = (r) => r.comp_ru || r.comp_name || r.comp;
+const withFlag = (r) => (r.flag ? `${r.flag} ` : "") + compName(r);
+
 async function screenLeagues(env, flt) {
   const st = statuses(flt);
   const { results } = await env.DB.prepare(
-    `SELECT comp, comp_name, COUNT(*) n FROM players
+    `SELECT comp, comp_name, comp_ru, country_ru, flag, COUNT(*) n FROM players
      WHERE agent_status IN (${marks(st.length)}) GROUP BY comp ORDER BY tier`
   )
     .bind(...st)
@@ -109,9 +115,16 @@ async function screenLeagues(env, flt) {
     ];
   }
   const total = results.reduce((a, r) => a + r.n, 0);
-  const txt = `<b>Игроки без агента</b>\n${fltLabel(flt)} — всего <b>${total}</b>\n\nВыбери лигу:`;
+  const countries = [...new Set(results.map((r) => r.country_ru).filter(Boolean))];
+  const where =
+    countries.length === 1
+      ? `${results[0].flag || ""} ${countries[0]}`.trim()
+      : `${countries.length} стран`;
+  const txt =
+    `<b>Игроки без агента</b>\n${where} · ${fltLabel(flt)} — ` +
+    `всего <b>${total}</b>\n\nВыбери лигу:`;
   const kb = rowsKb(
-    results.map((r) => [`${r.comp_name} — ${r.n}`, `cl|${r.comp}|${flt}`]),
+    results.map((r) => [`${withFlag(r)} — ${r.n}`, `cl|${r.comp}|${flt}`]),
     1
   );
   kb.push([{ text: "⚙️ Фильтр: " + fltLabel(flt), callback_data: `f|-|-|${flt}` }]);
@@ -127,12 +140,16 @@ async function screenClubs(env, comp, flt) {
   )
     .bind(comp, ...st)
     .all();
-  const name = await env.DB.prepare("SELECT comp_name FROM players WHERE comp=? LIMIT 1")
+  const name = await env.DB.prepare(
+    "SELECT comp_name, comp_ru, country_ru, flag FROM players WHERE comp=? LIMIT 1"
+  )
     .bind(comp)
     .first();
   const total = results.reduce((a, r) => a + r.n, 0);
+  const head = name ? withFlag(name) : comp;
+  const country = name && name.country_ru ? `${name.country_ru} · ` : "";
   const txt =
-    `<b>${esc(name ? name.comp_name : comp)}</b>\n${fltLabel(flt)} — кандидатов ` +
+    `<b>${esc(head)}</b>\n${country}${fltLabel(flt)} — кандидатов ` +
     `<b>${total}</b>\n\nВыбери клуб или смотри всю лигу:`;
   const kb = [
     [{ text: `📋 Вся лига (${total})`, callback_data: `p|${comp}|ALL|0|${flt}|s` }],
@@ -181,7 +198,7 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
     .bind(...args, PAGE, page * PAGE)
     .all();
 
-  const head = clubId !== "ALL" ? results[0].club : results[0].comp_name;
+  const head = clubId !== "ALL" ? results[0].club : withFlag(results[0]);
   const lines = [
     `<b>${esc(head)}</b> — ${total} кандидатов\n${fltLabel(flt)} · ` +
       `${ORDERS[srt][1]} · стр. ${page + 1} из ${Math.ceil(total / PAGE)}\n`,
