@@ -247,6 +247,58 @@ def parse_squad(soup, club_id):
     return out
 
 
+FREE_URL = BASE + "/statistik/vertragslosespieler"
+FREE_COMP = "FREE"     # псевдо-лига для игроков без клуба
+
+
+def parse_free_agents(soup):
+    """Список игроков без клуба.
+
+    Transfermarkt держит их отдельной таблицей: там есть дата, с которой
+    игрок вне контракта. Без клуба и без агента - самое горячее сочетание,
+    какое вообще бывает: ему не нужно ни отступных, ни согласия клуба.
+    """
+    out = []
+    heads = [t.get_text(" ", strip=True).lower()
+             for t in soup.select("table.items thead th")]
+    idx = {h: i for i, h in enumerate(heads)}
+    for tr in soup.select("table.items > tbody > tr"):
+        a = tr.select_one('a[href*="/profil/spieler/"]')
+        if not a:
+            continue
+        m = re.search(r"/profil/spieler/(\d+)", a["href"])
+        if not m:
+            continue
+        tds = [td.get_text(" ", strip=True)
+               for td in tr.find_all("td", recursive=False)]
+
+        def cell(name):
+            i = idx.get(name)
+            return tds[i] if i is not None and i < len(tds) else ""
+
+        pos = ""
+        posrela = tr.select_one("td.posrela table tr:nth-of-type(2) td")
+        if posrela:
+            pos = posrela.get_text(" ", strip=True)
+        nat = tr.select_one("td img.flaggenrahmen")
+        age = cell("age")
+        out.append({
+            "player_id": m.group(1),
+            "name": re.sub(r"\s+", " ", a.get_text(" ", strip=True)),
+            "url": BASE + a["href"].split("?")[0],
+            "club_id": "515",
+            "club": "Без клуба",
+            "position": pos,
+            "nationality": nat.get("title", "") if nat else "",
+            "birth": "",
+            "age": int(age) if age.isdigit() else None,
+            # для свободного агента «контракт до» - это дата, с которой он свободен
+            "contract_until": cell("out-of-contract since"),
+            "market_value": cell("market value"),
+        })
+    return out
+
+
 AGENT_LABEL = re.compile(r"^(Player[- ]?agent|Spielerberater|Agent)\b", re.I)
 
 # Что ещё забрать со страницы игрока. Мы её всё равно открываем ради агента,
@@ -533,6 +585,53 @@ def normalize(c=None):
         c.close()
 
 
+def crawl_free_agents(headless=True, max_pages=12):
+    """Игроки без клуба - отдельным проходом, ~250 человек и 5 страниц."""
+    ses = Session(headless)
+    c = db_init()
+    # Признак конца - страница без НОВЫХ игроков, а не пустая: после
+    # последней Transfermarkt отдаёт ту же выдачу снова, и цикл по
+    # «пока не пусто» молотил бы вхолостую до упора в max_pages.
+    uniq, seen, page = [], set(), 1
+    while page <= max_pages:
+        nap()
+        soup = ses.get("%s?page=%d" % (FREE_URL, page))
+        if not soup:
+            break
+        fresh = [r for r in parse_free_agents(soup) if r["player_id"] not in seen]
+        if not fresh:
+            break
+        seen.update(r["player_id"] for r in fresh)
+        uniq += fresh
+        print("  страница %d: +%d игроков" % (page, len(fresh)), flush=True)
+        page += 1
+    print("  всего без клуба: %d - проверяю агентов" % len(uniq), flush=True)
+
+    def check(row):
+        nap()
+        s = ses.get(row["url"])
+        if s is None:
+            row["agent_status"], row["agent_text"] = "ERROR", ""
+            return row
+        row["agent_status"], row["agent_text"] = parse_agent(s)
+        row.update(parse_profile(s))
+        return row
+
+    tally = {}
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        for i, row in enumerate(pool.map(check, uniq), 1):
+            row.update(country=row.get("nationality", ""), comp=FREE_COMP,
+                       comp_name="Free agents", tier=0)
+            tally[row["agent_status"]] = tally.get(row["agent_status"], 0) + 1
+            upsert(c, row)
+            if i % 50 == 0:
+                c.commit()
+    c.commit()
+    c.close()
+    print("  ИТОГ без клуба: %s" % tally, flush=True)
+    return {FREE_COMP: tally}
+
+
 def export(path=None, statuses=("NO_AGENT", "RELATIVES", "UNKNOWN")):
     import csv
     c = db_init()
@@ -658,7 +757,11 @@ if __name__ == "__main__":
     ap.add_argument("--shard", default="", metavar="I/N",
                     help="взять только часть I из N (части равны по трудоёмкости)")
     ap.add_argument("--max-tier", type=int, default=7,
-                    help="глубже какого дивизиона не спускаться (90 = молодёжные)")
+                    help="глубже какого дивизиона не спускаться")
+    ap.add_argument("--youth", action="store_true",
+                    help="добавить молодёжные лиги (80 лиг, ~28 000 игроков)")
+    ap.add_argument("--free-agents", action="store_true",
+                    help="собрать игроков без клуба (~250 человек)")
     ap.add_argument("--export", action="store_true", help="только выгрузить CSV")
     ap.add_argument("--normalize", action="store_true",
                     help="только досчитать поля сортировки")
@@ -674,13 +777,23 @@ if __name__ == "__main__":
     if a.export:
         export()          # export сам нормализует
         sys.exit(0)
+    if a.free_agents:
+        t0 = time.time()
+        st = crawl_free_agents(headless=not a.headed)
+        print("\nготово за %d сек: %s" % (int(time.time() - t0),
+                                          json.dumps(st, ensure_ascii=False)))
+        export()
+        sys.exit(0)
     if a.world:
         import discover
         rows = discover.load()
         if not rows:
             sys.exit("нет переписи лиг - сначала: python discover.py")
+        # молодёжные лиги помечены уровнем 90: там агента нет по-настоящему,
+        # а не из-за пробела в базе, поэтому сегмент ценный - но объёмный
+        levels = set(range(1, a.max_tier + 1)) | ({90} if a.youth else set())
         leagues = [r for r in rows
-                   if r.get("is_league") and 1 <= r.get("tier", 0) <= a.max_tier]
+                   if r.get("is_league") and r.get("tier", 0) in levels]
         if a.shard:
             i, total = (int(x) for x in a.shard.split("/"))
             leagues = discover.shard(leagues, i - 1, total)

@@ -6,7 +6,9 @@ import * as bot from "./src/index.js";
 
 const dir = ".wrangler/state/v3/d1/miniflare-D1DatabaseObject";
 const file = readdirSync(dir).find((f) => f.endsWith(".sqlite") && f.length > 30);
-const sqlite = new DatabaseSync(`${dir}/${file}`, { readOnly: true });
+// не readOnly: тест пометок пишет в notes
+const sqlite = new DatabaseSync(`${dir}/${file}`);
+sqlite.exec("CREATE TABLE IF NOT EXISTS notes (player_id TEXT PRIMARY KEY, status TEXT NOT NULL, by_name TEXT, updated_at TEXT)");
 
 const DB = {
   prepare(sql) {
@@ -53,7 +55,12 @@ const [emptyTxt] = await bot.screenPlayers(env, "L2", "ALL", 0, "100", "s");
 check("пустая выборка не падает", emptyTxt.includes("никого нет"));
 
 const [fTxt, fKb] = await bot.screenFilter(env, "L1", "ALL", "110");
-check("фильтр: две галочки из трёх", JSON.stringify(fKb).match(/☑️/g).length === 2);
+// считаем галочки только среди трёх категорий: ниже есть ещё
+// переключатель «показывать отмеченных», он тоже с галочкой
+const catRows = JSON.stringify(fKb.slice(0, 3));
+check("фильтр: две галочки из трёх", (catRows.match(/☑️/g) || []).length === 2);
+check("фильтр: есть переключатель отмеченных",
+      JSON.stringify(fKb).includes("показывать отмеченных"));
 check("фильтр: третья снята", JSON.stringify(fKb).includes("⬜"));
 check("фильтр: счётчики на месте", fTxt.length > 100 && JSON.stringify(fKb).includes("— 61"));
 
@@ -65,6 +72,26 @@ check("заголовок при подвыборке перечисляет с�
 console.log("\n--- как выглядит карточка ---");
 console.log(plTxt.split("\n\n")[1].replace(/<[^>]+>/g, ""));
 console.log("---\n");
+
+// --- пометки ---
+const pid = (await bot.screenPlayers(env, "L1", "ALL", 0, "1111", "s"))[0]
+  .match(/spieler\/(\d+)/)[1];
+sqlite.exec("DELETE FROM notes");
+const [markTxt, markKb] = await bot.screenMark(env, "L1", "ALL", 0, "1111", "s");
+check("экран «кого отметить» показывает 8", markKb.length === 9, `кнопок ${markKb.length}`);
+const [noteTxt, noteKb] = await bot.screenNote(env, pid, "L1", "ALL", 0, "1111", "s");
+check("карточка игрока: пометки нет", noteTxt.includes("Пометки нет"));
+check("карточка: три кнопки пометок", noteKb[0].length === 3);
+sqlite.exec(`INSERT INTO notes VALUES ('${pid}','called','Тест','2026-09-11')`);
+const [noteTxt2, noteKb2] = await bot.screenNote(env, pid, "L1", "ALL", 0, "1111", "s");
+check("карточка показывает пометку", noteTxt2.includes("позвонил") && noteTxt2.includes("Тест"));
+check("появилась кнопка снятия", JSON.stringify(noteKb2).includes("Снять"));
+const [listTxt] = await bot.screenPlayers(env, "L1", "ALL", 0, "1111", "s");
+check("пометка видна в списке", listTxt.includes("📞"));
+const before = (await bot.screenPlayers(env, "L1", "ALL", 0, "1111", "s"))[0].match(/— (\d+) кандидат/)[1];
+const after = (await bot.screenPlayers(env, "L1", "ALL", 0, "1110", "s"))[0].match(/— (\d+) кандидат/)[1];
+check("скрытие отмеченных уменьшает выборку", Number(after) === Number(before) - 1, `${before} -> ${after}`);
+sqlite.exec("DELETE FROM notes");
 
 const s1 = await bot.search(env, "Bellingham");
 check("поиск находит Беллингема", s1.includes("Jobe Bellingham"));

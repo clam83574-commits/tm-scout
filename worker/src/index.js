@@ -20,7 +20,22 @@ const CATS = [
   { status: "RELATIVES", badge: "🟡", label: "семья" },
   { status: "UNKNOWN", badge: "⚪", label: "поле пустое" },
 ];
-const ALLON = "1".repeat(CATS.length);
+// Пометки общие на всех, кто пользуется ботом, а не личные: агенту и
+// владельцу важно видеть, что этому игроку уже звонили — иначе двое будут
+// набирать одного и того же.
+const NOTES = [
+  { key: "called", icon: "📞", label: "позвонил" },
+  { key: "noreply", icon: "🔇", label: "не отвечает" },
+  { key: "refused", icon: "❌", label: "отказ" },
+];
+const NOTE_ICON = Object.fromEntries(NOTES.map((n) => [n.key, n.icon]));
+const NOTE_LABEL = Object.fromEntries(NOTES.map((n) => [n.key, n.label]));
+
+// Строка фильтра: три разряда под категории + четвёртый «показывать
+// отмеченных». Старые трёхсимвольные строки из ранее отправленных
+// сообщений продолжают работать — недостающий разряд считается «1».
+const ALLON = "1".repeat(CATS.length) + "1";
+const showMarked = (flt) => flt[CATS.length] !== "0";
 const BADGE = Object.fromEntries(CATS.map((c) => [c.status, c.badge]));
 // Кружок без подписи ничего не говорит тому, кто бота не настраивал,
 // поэтому в списке статус дублируется словами.
@@ -177,6 +192,11 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
     where += " AND club_id=?";
     args.push(clubId);
   }
+  // Скрыть уже отработанных: агент не хочет каждую неделю смотреть на тех,
+  // кому уже звонил. Подзапрос, а не JOIN, чтобы не задваивать строки.
+  if (!showMarked(flt)) {
+    where += " AND player_id NOT IN (SELECT player_id FROM notes)";
+  }
   const cnt = await env.DB.prepare(`SELECT COUNT(*) n FROM players WHERE ${where}`)
     .bind(...args)
     .first();
@@ -198,6 +218,18 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
     .bind(...args, PAGE, page * PAGE)
     .all();
 
+  // Пометки только для показанных восьми - одним запросом, а не восемью
+  const ids = results.map((r) => r.player_id);
+  const noted = {};
+  if (ids.length) {
+    const { results: ns } = await env.DB.prepare(
+      `SELECT player_id, status, by_name FROM notes WHERE player_id IN (${marks(ids.length)})`
+    )
+      .bind(...ids)
+      .all();
+    for (const n of ns) noted[n.player_id] = n;
+  }
+
   const head = clubId !== "ALL" ? results[0].club : withFlag(results[0]);
   const lines = [
     `<b>${esc(head)}</b> — ${total} кандидатов\n${fltLabel(flt)} · ` +
@@ -207,10 +239,13 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
     const bits = [r.position, r.age ? `${r.age} г.` : "", r.market_value]
       .filter(Boolean)
       .join(" · ");
+    const n = noted[r.player_id];
+    const mark = n ? `${NOTE_ICON[n.status] || "•"} <b>${NOTE_LABEL[n.status] || n.status}</b>` +
+      (n.by_name ? ` · ${esc(n.by_name)}` : "") + "\n    " : "";
     lines.push(
       `${BADGE[r.agent_status] || "·"} <a href="${r.url}"><b>${esc(r.name)}</b></a>` +
-        ` · ${LABEL[r.agent_status] || "?"}\n` +
-        `    <i>${esc(r.club)}</i>\n    ${esc(bits)} · контракт до ${r.contract_until || "—"}`
+        ` · ${LABEL[r.agent_status] || "?"}\n    ${mark}` +
+        `<i>${esc(r.club)}</i>\n    ${esc(bits)} · контракт до ${r.contract_until || "—"}`
     );
   }
 
@@ -226,10 +261,87 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
     }))
   );
   kb.push([
-    { text: "⚙️ Фильтр: " + fltLabel(flt), callback_data: `f|${comp}|${clubId}|${flt}` },
+    { text: "📝 Отметить", callback_data: `m|${comp}|${clubId}|${page}|${flt}|${srt}` },
+    { text: "⚙️ Фильтр", callback_data: `f|${comp}|${clubId}|${flt}` },
     { text: "◀️ К клубам", callback_data: `cl|${comp}|${flt}` },
   ]);
   return [lines.join("\n\n"), kb];
+}
+
+/** Выбор игрока со страницы, чтобы поставить ему пометку. */
+async function screenMark(env, comp, clubId, page, flt, srt) {
+  const st = statuses(flt);
+  let where = `comp=? AND agent_status IN (${marks(st.length)})`;
+  const args = [comp, ...st];
+  if (clubId !== "ALL") {
+    where += " AND club_id=?";
+    args.push(clubId);
+  }
+  if (!showMarked(flt)) {
+    where += " AND player_id NOT IN (SELECT player_id FROM notes)";
+  }
+  const { results } = await env.DB.prepare(
+    `SELECT player_id, name, club FROM players WHERE ${where} ORDER BY ${ORDERS[srt][0]} LIMIT ? OFFSET ?`
+  )
+    .bind(...args, PAGE, page * PAGE)
+    .all();
+  const back = `p|${comp}|${clubId}|${page}|${flt}|${srt}`;
+  if (!results.length) {
+    return ["Некого отмечать.", [[{ text: "◀️ Назад", callback_data: back }]]];
+  }
+  const kb = results.map((r) => [
+    {
+      text: `${r.name.slice(0, 28)} — ${r.club.slice(0, 16)}`,
+      callback_data: `nt|${r.player_id}|${comp}|${clubId}|${page}|${flt}|${srt}`,
+    },
+  ]);
+  kb.push([{ text: "◀️ Назад", callback_data: back }]);
+  return ["<b>Кого отметить?</b>\nВыбери игрока с этой страницы:", kb];
+}
+
+/** Карточка одного игрока и кнопки пометок. */
+async function screenNote(env, pid, comp, clubId, page, flt, srt) {
+  const p = await env.DB.prepare("SELECT * FROM players WHERE player_id=?")
+    .bind(pid)
+    .first();
+  const n = await env.DB.prepare("SELECT * FROM notes WHERE player_id=?")
+    .bind(pid)
+    .first();
+  const back = `p|${comp}|${clubId}|${page}|${flt}|${srt}`;
+  if (!p) return ["Игрок не найден.", [[{ text: "◀️ Назад", callback_data: back }]]];
+
+  const bits = [p.position, p.age ? `${p.age} г.` : "", p.market_value]
+    .filter(Boolean)
+    .join(" · ");
+  let txt =
+    `${BADGE[p.agent_status] || "·"} <a href="${p.url}"><b>${esc(p.name)}</b></a> · ` +
+    `${LABEL[p.agent_status] || "?"}\n<i>${esc(p.club)}</i>\n${esc(bits)}\n` +
+    `контракт до ${p.contract_until || "—"}` +
+    (p.contract_days != null ? ` (${p.contract_days} дн.)` : "");
+  if (p.citizenship) txt += `\nгражданство: ${esc(p.citizenship)}`;
+  if (p.height || p.foot) txt += `\n${esc([p.height, p.foot].filter(Boolean).join(" · "))}`;
+  if (p.socials) {
+    const links = p.socials
+      .split(" ")
+      .filter(Boolean)
+      .map((u) => {
+        const host = (u.match(/https?:\/\/(?:www\.)?([^./]+)/) || [])[1] || "ссылка";
+        return `<a href="${u}">${host}</a>`;
+      });
+    txt += `\nсвязь: ${links.join(" · ")}`;
+  }
+  txt += n
+    ? `\n\nСейчас: ${NOTE_ICON[n.status] || "•"} <b>${NOTE_LABEL[n.status] || n.status}</b>` +
+      (n.by_name ? ` (${esc(n.by_name)})` : "")
+    : "\n\nПометки нет.";
+
+  const tail = `${pid}|${comp}|${clubId}|${page}|${flt}|${srt}`;
+  const kb = [
+    NOTES.map((x) => ({ text: `${x.icon} ${x.label}`, callback_data: `ns|${x.key}|${tail}` })),
+  ];
+  if (n) kb.push([{ text: "🧹 Снять пометку", callback_data: `ns|clear|${tail}` }]);
+  kb.push([{ text: "◀️ К списку", callback_data: back }]);
+  return [txt, kb];
 }
 
 async function screenFilter(env, comp, clubId, flt) {
@@ -254,6 +366,15 @@ async function screenFilter(env, comp, clubId, flt) {
       },
     ];
   });
+  // Четвёртый разряд фильтра - показывать ли уже отмеченных
+  const marked = showMarked(flt);
+  const flipped = flt.slice(0, CATS.length) + (marked ? "0" : "1");
+  kb.push([
+    {
+      text: `${marked ? "☑️" : "⬜"} показывать отмеченных`,
+      callback_data: `f|${comp}|${clubId}|${flipped}`,
+    },
+  ]);
   let back = comp !== "-" ? `cl|${comp}|${flt}` : `lg|${flt}`;
   if (comp !== "-" && clubId !== "-") back = `p|${comp}|${clubId}|0|${flt}|s`;
   kb.push([{ text: "✅ Применить", callback_data: back }]);
@@ -308,7 +429,33 @@ async function handleCallback(env, cb) {
   else if (p[0] === "f") screen = await screenFilter(env, p[1], p[2], p[3]);
   else if (p[0] === "p")
     screen = await screenPlayers(env, p[1], p[2], parseInt(p[3], 10), p[4], p[5] || "s");
-  else return;
+  else if (p[0] === "m")
+    screen = await screenMark(env, p[1], p[2], parseInt(p[3], 10), p[4], p[5] || "s");
+  else if (p[0] === "nt")
+    screen = await screenNote(env, p[1], p[2], p[3], parseInt(p[4], 10), p[5], p[6] || "s");
+  else if (p[0] === "ns") {
+    // ns|<статус или clear>|<pid>|<comp>|<club>|<page>|<flt>|<srt>
+    const [, status, pid, comp, clubId, page, flt, srt] = p;
+    const who = [cb.from.first_name, cb.from.last_name].filter(Boolean).join(" ") ||
+      cb.from.username || String(cb.from.id);
+    if (status === "clear") {
+      await env.DB.prepare("DELETE FROM notes WHERE player_id=?").bind(pid).run();
+    } else {
+      await env.DB.prepare(
+        "INSERT INTO notes (player_id, status, by_name, updated_at) VALUES (?,?,?,?) " +
+          "ON CONFLICT(player_id) DO UPDATE SET status=excluded.status, " +
+          "by_name=excluded.by_name, updated_at=excluded.updated_at"
+      )
+        .bind(pid, status, who, new Date().toISOString())
+        .run();
+    }
+    await tg(env, "answerCallbackQuery", {
+      callback_query_id: cb.id,
+      text: status === "clear" ? "Пометка снята" : `Отмечено: ${NOTE_LABEL[status] || status}`,
+    });
+    const [t, kb] = await screenNote(env, pid, comp, clubId, parseInt(page, 10), flt, srt);
+    return send(env, cb.message.chat.id, t, kb, cb.message.message_id);
+  } else return;
   await tg(env, "answerCallbackQuery", { callback_query_id: cb.id });
   await send(env, chat, screen[0], screen[1], mid);
 }
@@ -352,7 +499,7 @@ async function handleMessage(env, msg) {
 }
 
 // Экраны экспортируются ради теста test.mjs — он гоняет их на настоящей базе.
-export { screenLeagues, screenClubs, screenPlayers, screenFilter, search };
+export { screenLeagues, screenClubs, screenPlayers, screenFilter, search, screenMark, screenNote };
 
 export default {
   async fetch(request, env) {

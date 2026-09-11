@@ -1,2 +1,884 @@
 ﻿Лига;Клуб;Игрок;Позиция;Возраст;Контракт до;Стоимость;Статус;Поле agent;Ссылка
+Free agents;Без клуба;Aleksandr Vasyutin;;31;01/07/2026;€600k;NO_AGENT;no agent;https://www.transfermarkt.com/aleksandr-vasyutin/profil/spieler/215213
+Free agents;Без клуба;Duckens Nazon;;32;20/07/2026;€800k;NO_AGENT;no agent;https://www.transfermarkt.com/duckens-nazon/profil/spieler/345763
+Free agents;Без клуба;Florin Ștefan;;30;06/09/2026;€700k;NO_AGENT;no agent;https://www.transfermarkt.com/florin-stefan/profil/spieler/320637
+Free agents;Без клуба;François Kamano;;30;01/07/2026;€1.20m;NO_AGENT;no agent;https://www.transfermarkt.com/francois-kamano/profil/spieler/333802
+Free agents;Без клуба;Henry Onyekuru;;29;12/07/2026;€1.00m;NO_AGENT;no agent;https://www.transfermarkt.com/henry-onyekuru/profil/spieler/380415
+Free agents;Без клуба;Lucas Cavallini;;33;01/01/2026;€700k;NO_AGENT;no agent;https://www.transfermarkt.com/lucas-cavallini/profil/spieler/221038
+Free agents;Без клуба;Mehmed Cosic;;29;01/07/2026;€500k;NO_AGENT;no agent;https://www.transfermarkt.com/mehmed-cosic/profil/spieler/435325
+Free agents;Без клуба;Rifat Zhemaletdinov;;29;01/07/2026;€1.20m;NO_AGENT;no agent;https://www.transfermarkt.com/rifat-zhemaletdinov/profil/spieler/267383
+Free agents;Без клуба;Sasa Zdjelar;;31;01/07/2026;€2.50m;NO_AGENT;no agent;https://www.transfermarkt.com/sasa-zdjelar/profil/spieler/171072
+Free agents;Без клуба;Sofiane Hanni;;35;01/07/2026;€700k;NO_AGENT;no agent;https://www.transfermarkt.com/sofiane-hanni/profil/spieler/113358
+Free agents;Без клуба;Abdoulaye Touré;;32;01/07/2026;€2.50m;RELATIVES;Relatives;https://www.transfermarkt.com/abdoulaye-toure/profil/spieler/181382
+Free agents;Без клуба;Ali Loune;;24;01/07/2026;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/ali-loune/profil/spieler/519868
+Free agents;Без клуба;Artem Dzyuba;;38;01/07/2026;€1.00m;RELATIVES;not clarified;https://www.transfermarkt.com/artem-dzyuba/profil/spieler/48067
+Free agents;Без клуба;Daler Kuzyaev;;33;01/07/2026;€3.00m;RELATIVES;Relatives;https://www.transfermarkt.com/daler-kuzyaev/profil/spieler/279570
+Free agents;Без клуба;David Alaba;;34;01/07/2026;€3.00m;RELATIVES;Relatives;https://www.transfermarkt.com/david-alaba/profil/spieler/59016
+Free agents;Без клуба;Faitout Maouassa;;28;01/07/2026;€700k;RELATIVES;Relatives;https://www.transfermarkt.com/faitout-maouassa/profil/spieler/357072
+Free agents;Без клуба;Guillermo May;;28;01/07/2026;€650k;RELATIVES;Relatives;https://www.transfermarkt.com/guillermo-may/profil/spieler/479718
+Free agents;Без клуба;Ihlas Bebou;;32;01/07/2026;€600k;RELATIVES;Relatives;https://www.transfermarkt.com/ihlas-bebou/profil/spieler/237164
+Free agents;Без клуба;Jean Onana;;26;25/08/2026;€1.00m;RELATIVES;Relatives;https://www.transfermarkt.com/jean-onana/profil/spieler/656441
+Free agents;Без клуба;Otabek Shukurov;;30;01/07/2026;€1.50m;RELATIVES;Relatives;https://www.transfermarkt.com/otabek-shukurov/profil/spieler/294525
+Free agents;Без клуба;Paul Pogba;;33;19/08/2026;€2.50m;RELATIVES;Relatives;https://www.transfermarkt.com/paul-pogba/profil/spieler/122153
+Free agents;Без клуба;Ryan Kent;;29;01/01/2026;€1.80m;RELATIVES;Relatives;https://www.transfermarkt.com/ryan-kent/profil/spieler/279457
+Free agents;Без клуба;Wajdi Sahli;;29;01/07/2026;€600k;RELATIVES;Relatives;https://www.transfermarkt.com/wajdi-sahli/profil/spieler/562825
+Free agents;Без клуба;Adam Webster;;31;01/07/2026;€3.00m;UNKNOWN;;https://www.transfermarkt.com/adam-webster/profil/spieler/212847
+Free agents;Без клуба;Adnan Januzaj;;31;01/07/2026;€1.00m;UNKNOWN;;https://www.transfermarkt.com/adnan-januzaj/profil/spieler/177847
+Free agents;Без клуба;Akil Watts;;26;01/01/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/akil-watts/profil/spieler/532098
+Free agents;Без клуба;Bernardo Folha;;24;01/07/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/bernardo-folha/profil/spieler/723733
+Free agents;Без клуба;Bogdan Lednev;;28;01/07/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/bogdan-lednev/profil/spieler/423606
+Free agents;Без клуба;Brandon Williams;;26;03/02/2026;€800k;UNKNOWN;;https://www.transfermarkt.com/brandon-williams/profil/spieler/507700
+Free agents;Без клуба;Daniel Bessa;;33;01/07/2026;€1.50m;UNKNOWN;;https://www.transfermarkt.com/daniel-bessa/profil/spieler/140757
+Free agents;Без клуба;Diego Campos;;30;01/07/2026;€550k;UNKNOWN;;https://www.transfermarkt.com/diego-campos/profil/spieler/379892
+Free agents;Без клуба;Eddie Salcedo;;24;01/07/2026;€1.50m;UNKNOWN;;https://www.transfermarkt.com/eddie-salcedo/profil/spieler/459661
+Free agents;Без клуба;Eli Dasa;;33;01/07/2026;€700k;UNKNOWN;;https://www.transfermarkt.com/eli-dasa/profil/spieler/163847
+Free agents;Без клуба;Erik De Los Santos;;27;26/08/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/erik-de-los-santos/profil/spieler/577261
+Free agents;Без клуба;Frederico Namora;;28;01/07/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/frederico-namora/profil/spieler/517704
+Free agents;Без клуба;Greg Docherty;;30;02/09/2026;€800k;UNKNOWN;;https://www.transfermarkt.com/greg-docherty/profil/spieler/227618
+Free agents;Без клуба;Isaac Success;;30;01/05/2026;€700k;UNKNOWN;;https://www.transfermarkt.com/isaac-success/profil/spieler/295331
+Free agents;Без клуба;Jailson;;31;01/01/2026;€700k;UNKNOWN;;https://www.transfermarkt.com/jailson/profil/spieler/366948
+Free agents;Без клуба;Jamaal Lascelles;;32;01/07/2026;€800k;UNKNOWN;;https://www.transfermarkt.com/jamaal-lascelles/profil/spieler/183318
+Free agents;Без клуба;José Peralta;;29;01/07/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/jose-peralta/profil/spieler/416084
+Free agents;Без клуба;Karim Benzema;;38;31/08/2026;€5.00m;UNKNOWN;;https://www.transfermarkt.com/karim-benzema/profil/spieler/18922
+Free agents;Без клуба;Kévin N'Doram;;30;01/07/2026;€1.00m;UNKNOWN;;https://www.transfermarkt.com/kevin-ndoram/profil/spieler/342209
+Free agents;Без клуба;Lesiba Nku;;30;01/07/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/lesiba-nku/profil/spieler/691081
+Free agents;Без клуба;Luciano Vietto;;32;01/07/2026;€1.20m;UNKNOWN;;https://www.transfermarkt.com/luciano-vietto/profil/spieler/214316
+Free agents;Без клуба;Luka Milivojevic;;35;01/07/2026;€600k;UNKNOWN;;https://www.transfermarkt.com/luka-milivojevic/profil/spieler/74300
+Free agents;Без клуба;Marcus Forss;;27;01/07/2026;€1.50m;UNKNOWN;;https://www.transfermarkt.com/marcus-forss/profil/spieler/404584
+Free agents;Без клуба;Marko Dugandzic;;32;01/07/2026;€700k;UNKNOWN;;https://www.transfermarkt.com/marko-dugandzic/profil/spieler/225961
+Free agents;Без клуба;Marouan Azarkan;;24;01/07/2026;€900k;UNKNOWN;;https://www.transfermarkt.com/marouan-azarkan/profil/spieler/412959
+Free agents;Без клуба;Owen Maës;;27;01/07/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/owen-maes/profil/spieler/593286
+Free agents;Без клуба;Paolo Medina;;27;01/07/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/paolo-medina/profil/spieler/370863
+Free agents;Без клуба;Percy Tau;;32;01/07/2026;€600k;UNKNOWN;;https://www.transfermarkt.com/percy-tau/profil/spieler/312239
+Free agents;Без клуба;Pione Sisto;;31;01/07/2026;€600k;UNKNOWN;;https://www.transfermarkt.com/pione-sisto/profil/spieler/252641
+Free agents;Без клуба;Renzo Saravia;;33;01/07/2026;€1.40m;UNKNOWN;;https://www.transfermarkt.com/renzo-saravia/profil/spieler/268642
+Free agents;Без клуба;Romain Saïss;;36;01/07/2026;€1.20m;UNKNOWN;;https://www.transfermarkt.com/romain-saiss/profil/spieler/204198
+Free agents;Без клуба;Ronaldo Rodrigues;;28;04/08/2026;€600k;UNKNOWN;;https://www.transfermarkt.com/ronaldo-rodrigues/profil/spieler/323938
+Free agents;Без клуба;Sam Rak-Sakyi;;21;01/07/2026;€600k;UNKNOWN;;https://www.transfermarkt.com/sam-rak-sakyi/profil/spieler/906214
+Free agents;Без клуба;Shaune Mogaila;;31;01/07/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/shaune-mogaila/profil/spieler/468686
+Free agents;Без клуба;Stefano Vecchia;;31;06/08/2026;€900k;UNKNOWN;;https://www.transfermarkt.com/stefano-vecchia/profil/spieler/295572
+Free agents;Без клуба;Sérgio Oliveira;;34;23/01/2026;€800k;UNKNOWN;;https://www.transfermarkt.com/sergio-oliveira/profil/spieler/112465
+Free agents;Без клуба;Thibaut Vargas;;26;01/07/2026;€800k;UNKNOWN;;https://www.transfermarkt.com/thibaut-vargas/profil/spieler/627463
+Free agents;Без клуба;Tiago Silva;;26;01/07/2026;€850k;UNKNOWN;;https://www.transfermarkt.com/tiago-silva/profil/spieler/375369
+Free agents;Без клуба;Tozé;;33;01/07/2026;€2.00m;UNKNOWN;;https://www.transfermarkt.com/toze/profil/spieler/203654
+Free agents;Без клуба;Wanderson;;32;01/07/2026;€500k;UNKNOWN;;https://www.transfermarkt.com/wanderson/profil/spieler/528632
+Free agents;Без клуба;Wilfried Zaha;;33;01/07/2026;€3.50m;UNKNOWN;;https://www.transfermarkt.com/wilfried-zaha/profil/spieler/145988
+Free agents;Без клуба;Yazan Al-Naimat;;27;01/07/2026;€1.30m;UNKNOWN;;https://www.transfermarkt.com/yazan-al-naimat/profil/spieler/734749
+Liga AUF Intermedio;CA Peñarol;Sebastián Britos;Goalkeeper;38;31/12/2026;€50k;NO_AGENT;no agent;https://www.transfermarkt.com/sebastian-britos/profil/spieler/159772
+Bundesliga;FC Schalke 04;Moussa Sylla;Centre-Forward;26;30/06/2028;€5.00m;NO_AGENT;no agent;https://www.transfermarkt.com/moussa-sylla/profil/spieler/460655
+Jupiler Pro League;Oud-Heverlee Leuven;Emmanuel Addai;Left Winger;25;30/06/2029;€1.20m;NO_AGENT;no agent;https://www.transfermarkt.com/emmanuel-addai/profil/spieler/944367
+Virsliga;Riga FC;Krisjanis Zviedris;Goalkeeper;29;-;€450k;NO_AGENT;no agent;https://www.transfermarkt.com/krisjanis-zviedris/profil/spieler/444605
+Bundesliga;SV Werder Bremen;Niclas Füllkrug;Centre-Forward;33;30/06/2027;€3.50m;NO_AGENT;no agent;https://www.transfermarkt.com/niclas-fullkrug/profil/spieler/75489
+Bundesliga;1.FC Köln;Jan Thielmann;Right Winger;24;30/06/2028;€5.00m;RELATIVES;Relatives;https://www.transfermarkt.com/jan-thielmann/profil/spieler/472249
+Bundesliga;1.FC Köln;Malek El Mala;Centre-Forward;21;30/06/2031;€250k;RELATIVES;Relatives;https://www.transfermarkt.com/malek-el-mala/profil/spieler/1168222
+Bundesliga;1.FC Köln;Said El Mala;Left Winger;20;30/06/2031;€45.00m;RELATIVES;Relatives;https://www.transfermarkt.com/said-el-mala/profil/spieler/1168219
+Bundesliga;1.FSV Mainz 05;Eric Martel;Defensive Midfield;24;-;€8.00m;RELATIVES;Relatives;https://www.transfermarkt.com/eric-martel/profil/spieler/597000
+Bundesliga;Bayern Munich;Sacha Boey;Right-Back;25;30/06/2028;€10.00m;RELATIVES;Relatives;https://www.transfermarkt.com/sacha-boey/profil/spieler/475413
+Bundesliga;Borussia Dortmund;Jobe Bellingham;Central Midfield;20;30/06/2030;€40.00m;RELATIVES;Relatives;https://www.transfermarkt.com/jobe-bellingham/profil/spieler/796297
+Bundesliga;Borussia Mönchengladbach;Iaia Manco Danfa;Centre-Forward;19;30/06/2028;€250k;RELATIVES;Relatives;https://www.transfermarkt.com/iaia-manco-danfa/profil/spieler/1211929
+Jupiler Pro League;Club Brugge KV;Yann Sommer;Goalkeeper;37;30/06/2029;€2.00m;RELATIVES;Relatives;https://www.transfermarkt.com/yann-sommer/profil/spieler/42205
+Bundesliga;Eintracht Frankfurt;Nnamdi Collins;Centre-Back;22;30/06/2030;€20.00m;RELATIVES;Relatives;https://www.transfermarkt.com/nnamdi-collins/profil/spieler/684315
+Bundesliga;FC Schalke 04;Adil Aouchiche;Attacking Midfield;24;30/06/2030;€3.50m;RELATIVES;Relatives;https://www.transfermarkt.com/adil-aouchiche/profil/spieler/569385
+Bundesliga;FC Schalke 04;Loris Karius;Goalkeeper;33;30/06/2028;€800k;RELATIVES;Relatives;https://www.transfermarkt.com/loris-karius/profil/spieler/85864
+Jupiler Pro League;KV Kortrijk;Rok Storman;Attacking Midfield;22;30/06/2027;€1.00m;RELATIVES;Relatives;https://www.transfermarkt.com/rok-storman/profil/spieler/1050404
+Jupiler Pro League;KV Kortrijk;Rudy Kohon;Centre-Back;22;30/06/2029;€700k;RELATIVES;Relatives;https://www.transfermarkt.com/rudy-kohon/profil/spieler/917101
+Jupiler Pro League;KV Mechelen;Massimo Decoene;Defensive Midfield;22;30/06/2027;€400k;RELATIVES;Relatives;https://www.transfermarkt.com/massimo-decoene/profil/spieler/931712
+Jupiler Pro League;KVC Westerlo;Naoufal Bohamdi-Kamoni;Left Winger;19;30/06/2029;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/naoufal-bohamdi-kamoni/profil/spieler/1318194
+Bundesliga;RB Leipzig;Ridle Baku;Right-Back;28;30/06/2027;€12.00m;RELATIVES;Relatives;https://www.transfermarkt.com/ridle-baku/profil/spieler/327251
+Jupiler Pro League;RSC Anderlecht;Ali Maamar;Right-Back;21;30/06/2028;€2.50m;RELATIVES;Relatives;https://www.transfermarkt.com/ali-maamar/profil/spieler/920585
+Jupiler Pro League;RSC Anderlecht;Mario Stroeykens;Attacking Midfield;21;30/06/2028;€4.50m;RELATIVES;Relatives;https://www.transfermarkt.com/mario-stroeykens/profil/spieler/588866
+Jupiler Pro League;Royal Charleroi SC;Mardochée Nzita;Left-Back;26;30/06/2028;€1.50m;RELATIVES;Relatives;https://www.transfermarkt.com/mardochee-nzita/profil/spieler/463738
+Jupiler Pro League;SK Beveren;Chris Lokesa;Left Winger;21;30/06/2028;€400k;RELATIVES;Relatives;https://www.transfermarkt.com/chris-lokesa/profil/spieler/671675
+Jupiler Pro League;SK Beveren;Dominic Thompson;Left-Back;26;30/06/2028;€400k;RELATIVES;Relatives;https://www.transfermarkt.com/dominic-thompson/profil/spieler/503688
+Jupiler Pro League;SK Beveren;Jearl Margaritha;Left Winger;26;30/06/2028;€1.00m;RELATIVES;Relatives;https://www.transfermarkt.com/jearl-margaritha/profil/spieler/538958
+Jupiler Pro League;Sint-Truidense VV;Illyès Benachour;Attacking Midfield;19;30/06/2029;€100k;RELATIVES;Relatives;https://www.transfermarkt.com/illyes-benachour/profil/spieler/1182625
+Jupiler Pro League;Sint-Truidense VV;Samed Bazdar;Centre-Forward;22;-;€1.50m;RELATIVES;Relatives;https://www.transfermarkt.com/samed-bazdar/profil/spieler/710969
+Jupiler Pro League;Standard Liège;Belmin Dizdarevic;Goalkeeper;25;30/06/2027;€100k;RELATIVES;Relatives;https://www.transfermarkt.com/belmin-dizdarevic/profil/spieler/483007
+Jupiler Pro League;Standard Liège;Lucas Pirard;Goalkeeper;31;30/06/2028;€350k;RELATIVES;Relatives;https://www.transfermarkt.com/lucas-pirard/profil/spieler/168166
+Jupiler Pro League;Union Saint-Gilloise;Louis Patris;Right-Back;25;30/06/2029;€2.50m;RELATIVES;Relatives;https://www.transfermarkt.com/louis-patris/profil/spieler/502247
+Jupiler Pro League;Union Saint-Gilloise;Rob Schoofs;Central Midfield;32;30/06/2028;€2.00m;RELATIVES;Relatives;https://www.transfermarkt.com/rob-schoofs/profil/spieler/157396
+Bundesliga;VfB Stuttgart;Dzenan Pejcinovic;Centre-Forward;21;30/06/2031;€15.00m;RELATIVES;Relatives;https://www.transfermarkt.com/dzenan-pejcinovic/profil/spieler/819636
+Bundesliga;VfB Stuttgart;Justin Diehl;Left Winger;21;30/06/2029;€1.20m;RELATIVES;Relatives;https://www.transfermarkt.com/justin-diehl/profil/spieler/720162
+Jupiler Pro League;Zulte Waregem;Malick Mbaye;Right Winger;22;30/06/2029;€400k;RELATIVES;Relatives;https://www.transfermarkt.com/malick-mbaye/profil/spieler/707063
+Jupiler Pro League;Zulte Waregem;Niko Horvat;Attacking Midfield;18;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/niko-horvat/profil/spieler/1070973
+Bundesliga;1.FC Union Berlin;Linus Güther;Left Winger;16;30/06/2028;€1.00m;UNKNOWN;;https://www.transfermarkt.com/linus-guther/profil/spieler/1378338
+Bundesliga;1.FSV Mainz 05;Alynho Haidara;Centre-Forward;18;-;-;UNKNOWN;;https://www.transfermarkt.com/alynho-haidara/profil/spieler/1392952
+Football Premier League;Athletic Club Taipei;Cheng-Chan Hsu;Goalkeeper;19;-;-;UNKNOWN;;https://www.transfermarkt.com/cheng-chan-hsu/profil/spieler/1180220
+Football Premier League;Athletic Club Taipei;Hsuan Tuan;Goalkeeper;28;-;€75k;UNKNOWN;;https://www.transfermarkt.com/hsuan-tuan/profil/spieler/680245
+Football Premier League;Athletic Club Taipei;Ya-Jung Tang;Goalkeeper;24;-;-;UNKNOWN;;https://www.transfermarkt.com/ya-jung-tang/profil/spieler/810720
+National League - North;Auckland City FC;Areya Prasad;Goalkeeper;19;31/12/2026;€10k;UNKNOWN;;https://www.transfermarkt.com/areya-prasad/profil/spieler/1097722
+National League - North;Auckland City FC;Sebastián Ciganda;Goalkeeper;33;31/12/2026;€10k;UNKNOWN;;https://www.transfermarkt.com/sebastian-ciganda/profil/spieler/1000911
+Bundesliga;Bayer 04 Leverkusen;Eliesse Ben Seghir;Left Winger;21;30/06/2030;€20.00m;UNKNOWN;;https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895
 Bundesliga;Bayern Munich;Dayot Upamecano;Centre-Back;27;30/06/2030;€75.00m;UNKNOWN;;https://www.transfermarkt.com/dayot-upamecano/profil/spieler/344695
+Bundesliga;Bayern Munich;Joshua Kimmich;Defensive Midfield;31;30/06/2029;€35.00m;UNKNOWN;;https://www.transfermarkt.com/joshua-kimmich/profil/spieler/161056
+Bundesliga;Bayern Munich;Michael Olise;Right Winger;24;30/06/2029;€170.00m;UNKNOWN;;https://www.transfermarkt.com/michael-olise/profil/spieler/566723
+Bundesliga;Borussia Dortmund;Carney Chukwuemeka;Central Midfield;22;30/06/2030;€20.00m;UNKNOWN;;https://www.transfermarkt.com/carney-chukwuemeka/profil/spieler/659459
+Bundesliga;Borussia Dortmund;Filippo Mane;Centre-Back;21;30/06/2028;€2.50m;UNKNOWN;;https://www.transfermarkt.com/filippo-mane/profil/spieler/883007
+Thai League;Buriram United;Chatchai Bootprom;Goalkeeper;39;30/06/2027;€50k;UNKNOWN;;https://www.transfermarkt.com/chatchai-bootprom/profil/spieler/113788
+Thai League;Buriram United;Korraphat Nareechan;Goalkeeper;28;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/korraphat-nareechan/profil/spieler/447089
+Liga MX Apertura;CF América;Rodolfo Cota;Goalkeeper;39;30/06/2027;€200k;UNKNOWN;;https://www.transfermarkt.com/rodolfo-cota/profil/spieler/71401
+Jupiler Pro League;Cercle Brugge;Emmanuel Kakou;Centre-Back;21;30/06/2027;€2.00m;UNKNOWN;;https://www.transfermarkt.com/emmanuel-kakou/profil/spieler/1233680
+Jupiler Pro League;Club Brugge KV;Félix Lemaréchal;Attacking Midfield;23;30/06/2029;€6.00m;UNKNOWN;;https://www.transfermarkt.com/felix-lemarechal/profil/spieler/659518
+Erovnuli Liga;Dinamo Batumi;Mate Turmanidze;Goalkeeper;20;31/12/2026;€50k;UNKNOWN;;https://www.transfermarkt.com/mate-turmanidze/profil/spieler/1038477
+Lao League 1;Ezra FC;Kop Lokphathip;Goalkeeper;20;-;€75k;UNKNOWN;;https://www.transfermarkt.com/kop-lokphathip/profil/spieler/1016283
+Lao League 1;Ezra FC;Soulisak Souvankham;Goalkeeper;19;-;€10k;UNKNOWN;;https://www.transfermarkt.com/soulisak-souvankham/profil/spieler/1427661
+Lao League 1;Ezra FC;Xayaphet Phoutthasy;Goalkeeper;;-;-;UNKNOWN;;https://www.transfermarkt.com/xayaphet-phoutthasy/profil/spieler/1483682
+BGL Ligue;FC UNA Strassen;Diogo Garrido;Goalkeeper;26;-;-;UNKNOWN;;https://www.transfermarkt.com/diogo-garrido/profil/spieler/461964
+BGL Ligue;FC UNA Strassen;Koray Özcan;Goalkeeper;31;30/06/2028;€175k;UNKNOWN;;https://www.transfermarkt.com/koray-ozcan/profil/spieler/419956
+Bundesliga;Hamburger SV;Bilal Nadir;Central Midfield;22;30/06/2029;€8.00m;UNKNOWN;;https://www.transfermarkt.com/bilal-nadir/profil/spieler/659520
+Super League;Johor Darul Ta'zim;Christian Abad;Goalkeeper;20;30/06/2027;€50k;UNKNOWN;;https://www.transfermarkt.com/christian-abad/profil/spieler/1288708
+Super League;Johor Darul Ta'zim;Syihan Hazmi;Goalkeeper;30;30/06/2027;€400k;UNKNOWN;;https://www.transfermarkt.com/syihan-hazmi/profil/spieler/484748
+Jupiler Pro League;KAA Gent;Abdelkahar Kadri;Attacking Midfield;26;30/06/2029;€2.50m;UNKNOWN;;https://www.transfermarkt.com/abdelkahar-kadri/profil/spieler/592400
+Jupiler Pro League;KAA Gent;Leonardo Lopes;Central Midfield;27;30/06/2028;€2.50m;UNKNOWN;;https://www.transfermarkt.com/leonardo-lopes/profil/spieler/348756
+Jupiler Pro League;KAA Gent;László Bénes;Central Midfield;29;30/06/2030;€2.50m;UNKNOWN;;https://www.transfermarkt.com/laszlo-benes/profil/spieler/243188
+Jupiler Pro League;KAA Gent;Mohammed El Âdfaoui;Central Midfield;18;30/06/2028;€2.00m;UNKNOWN;;https://www.transfermarkt.com/mohammed-el-adfaoui/profil/spieler/1105542
+Jupiler Pro League;KAA Gent;Victor De Coninck;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/victor-de-coninck/profil/spieler/1053009
+Jupiler Pro League;KRC Genk;Ken Nkuba;Right-Back;24;30/06/2028;€1.50m;UNKNOWN;;https://www.transfermarkt.com/ken-nkuba/profil/spieler/627939
+Jupiler Pro League;KRC Genk;Matte Smets;Centre-Back;22;30/06/2030;€10.00m;UNKNOWN;;https://www.transfermarkt.com/matte-smets/profil/spieler/1019174
+Jupiler Pro League;KRC Genk;Tobe Leysen;Goalkeeper;24;30/06/2031;€5.00m;UNKNOWN;;https://www.transfermarkt.com/tobe-leysen/profil/spieler/580434
+Jupiler Pro League;KV Kortrijk;Ebbe De Vlaeminck;Goalkeeper;20;30/06/2028;€200k;UNKNOWN;;https://www.transfermarkt.com/ebbe-de-vlaeminck/profil/spieler/989448
+Jupiler Pro League;KV Kortrijk;Guust Lamerand;Left-Back;18;30/06/2029;-;UNKNOWN;;https://www.transfermarkt.com/guust-lamerand/profil/spieler/1456177
+Jupiler Pro League;KV Kortrijk;Marko Ilic;Goalkeeper;28;30/06/2029;€800k;UNKNOWN;;https://www.transfermarkt.com/marko-ilic/profil/spieler/343953
+Jupiler Pro League;KV Mechelen;Bill Antonio;Right Winger;24;30/06/2027;€1.20m;UNKNOWN;;https://www.transfermarkt.com/bill-antonio/profil/spieler/956050
+Jupiler Pro League;KVC Westerlo;Pape Diong;Defensive Midfield;20;30/06/2030;€2.50m;UNKNOWN;;https://www.transfermarkt.com/pape-diong/profil/spieler/1183575
+Premiership;Larne FC;Jacob Carney;Goalkeeper;25;-;€50k;UNKNOWN;;https://www.transfermarkt.com/jacob-carney/profil/spieler/552984
+Premiership;Larne FC;Rohan Ferguson;Goalkeeper;28;31/05/2030;€300k;UNKNOWN;;https://www.transfermarkt.com/rohan-ferguson/profil/spieler/342531
+Jupiler Pro League;Lommel SK;Melvin Ramundo;Goalkeeper;19;-;-;UNKNOWN;;https://www.transfermarkt.com/melvin-ramundo/profil/spieler/1451840
+Jupiler Pro League;Lommel SK;Nikola Ivezic;Goalkeeper;23;30/06/2027;€200k;UNKNOWN;;https://www.transfermarkt.com/nikola-ivezic/profil/spieler/624342
+Jupiler Pro League;Lommel SK;Stredair Appuah;Right Winger;22;30/06/2027;€500k;UNKNOWN;;https://www.transfermarkt.com/stredair-appuah/profil/spieler/1004618
+Jupiler Pro League;Lommel SK;Tristan Gooijer;Right-Back;22;30/06/2028;€1.50m;UNKNOWN;;https://www.transfermarkt.com/tristan-gooijer/profil/spieler/656800
+efbet Liga;Ludogorets Razgrad;Edvin Kurtulus;Centre-Back;26;30/06/2027;€2.20m;UNKNOWN;;https://www.transfermarkt.com/edvin-kurtulus/profil/spieler/555058
+PFL;Manila Digger FC;Dini Ouattara;Goalkeeper;31;-;€75k;UNKNOWN;;https://www.transfermarkt.com/dini-ouattara/profil/spieler/830351
+PFL;Manila Digger FC;Michael Asong;Goalkeeper;27;-;€75k;UNKNOWN;;https://www.transfermarkt.com/michael-asong/profil/spieler/1008463
+PFL;Manila Digger FC;Omar Njie;Goalkeeper;21;01/05/2027;€125k;UNKNOWN;;https://www.transfermarkt.com/omar-njie/profil/spieler/1433796
+BFL;Mohammedan SC (Dhaka);Ahsan Habib;Goalkeeper;35;-;€10k;UNKNOWN;;https://www.transfermarkt.com/ahsan-habib/profil/spieler/581215
+BFL;Mohammedan SC (Dhaka);Sujon Hossain;Goalkeeper;30;-;€150k;UNKNOWN;;https://www.transfermarkt.com/sujon-hossain/profil/spieler/581589
+Indian Super League;Mohun Bagan Super Giant;Syed Zahid;Goalkeeper;23;31/05/2027;€50k;UNKNOWN;;https://www.transfermarkt.com/syed-zahid/profil/spieler/842549
+Liga FUTVE Apertura;Monagas SC;Eduardo Lima;Goalkeeper;33;-;€100k;UNKNOWN;;https://www.transfermarkt.com/eduardo-lima/profil/spieler/143517
+Ligue 1;Paris Saint-Germain;Lucas Chevalier;Goalkeeper;24;30/06/2030;€25.00m;UNKNOWN;;https://www.transfermarkt.com/lucas-chevalier/profil/spieler/463600
+Persian Gulf League;Persepolis FC;Mohammad Gandomi;Goalkeeper;21;-;-;UNKNOWN;;https://www.transfermarkt.com/mohammad-gandomi/profil/spieler/1138525
+Jupiler Pro League;RSC Anderlecht;Joshua Nga Kana;Left Winger;17;30/06/2029;€1.20m;UNKNOWN;;https://www.transfermarkt.com/joshua-nga-kana/profil/spieler/1232103
+Jupiler Pro League;RSC Anderlecht;Killian Sardella;Right-Back;24;30/06/2028;€2.50m;UNKNOWN;;https://www.transfermarkt.com/killian-sardella/profil/spieler/454336
+Jupiler Pro League;RSC Anderlecht;Noah Kalonji;Defensive Midfield;17;30/06/2028;€500k;UNKNOWN;;https://www.transfermarkt.com/noah-kalonji/profil/spieler/1397296
+Jupiler Pro League;RSC Anderlecht;Tawfik Bentayeb;Centre-Forward;24;30/06/2030;€8.00m;UNKNOWN;;https://www.transfermarkt.com/tawfik-bentayeb/profil/spieler/667995
+Jupiler Pro League;Royal Antwerp FC;Aaron Ibrahim;Left-Back;18;-;-;UNKNOWN;;https://www.transfermarkt.com/aaron-ibrahim/profil/spieler/1135426
+Jupiler Pro League;Royal Antwerp FC;Lowie Piselé;Goalkeeper;16;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lowie-pisele/profil/spieler/1191562
+Jupiler Pro League;Royal Antwerp FC;Luis Narh;Centre-Forward;18;30/06/2030;€1.00m;UNKNOWN;;https://www.transfermarkt.com/luis-narh/profil/spieler/1555142
+Jupiler Pro League;Royal Antwerp FC;Youssef Hamdaoui;Central Midfield;18;30/06/2027;€1.50m;UNKNOWN;;https://www.transfermarkt.com/youssef-hamdaoui/profil/spieler/1112904
+Jupiler Pro League;Royal Charleroi SC;Arthur Cremer;Goalkeeper;26;-;-;UNKNOWN;;https://www.transfermarkt.com/arthur-cremer/profil/spieler/548619
+Jupiler Pro League;Royal Charleroi SC;Martin Delavallée;Goalkeeper;22;30/06/2027;€1.50m;UNKNOWN;;https://www.transfermarkt.com/martin-delavallee/profil/spieler/903223
+Jupiler Pro League;Royal Charleroi SC;Rafaël Teugels;Left-Back;20;-;-;UNKNOWN;;https://www.transfermarkt.com/rafael-teugels/profil/spieler/1084207
+Bundesliga;SC Freiburg;Cyriaque Irié;Right Winger;21;-;€8.00m;UNKNOWN;;https://www.transfermarkt.com/cyriaque-irie/profil/spieler/1145064
+Bundesliga;SC Paderborn 07;Jonah Sticker;Centre-Back;22;-;€750k;UNKNOWN;;https://www.transfermarkt.com/jonah-sticker/profil/spieler/698843
+Bundesliga;SC Paderborn 07;Lasse Eickel;Centre-Forward;18;30/06/2031;€150k;UNKNOWN;;https://www.transfermarkt.com/lasse-eickel/profil/spieler/1299403
+Jupiler Pro League;SK Beveren;Josua Lusamba;Goalkeeper;21;30/06/2027;€50k;UNKNOWN;;https://www.transfermarkt.com/josua-lusamba/profil/spieler/1087102
+Jupiler Pro League;SK Beveren;Junior Diouf;Centre-Forward;19;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/junior-diouf/profil/spieler/1492856
+Jupiler Pro League;SK Beveren;Maxim Deman;Goalkeeper;24;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/maxim-deman/profil/spieler/688246
+Chance Liga;SK Slavia Prague;Ondrej Kolar;Goalkeeper;31;30/06/2027;€50k;UNKNOWN;;https://www.transfermarkt.com/ondrej-kolar/profil/spieler/189630
+Bundesliga;SV 07 Elversberg;Tim Boss;Goalkeeper;33;30/06/2027;€200k;UNKNOWN;;https://www.transfermarkt.com/tim-boss/profil/spieler/85534
+Premier Division;Shamrock Rovers;Lee Steacy;Goalkeeper;33;-;€50k;UNKNOWN;;https://www.transfermarkt.com/lee-steacy/profil/spieler/217752
+Premier Division;Shamrock Rovers;Todd Bazunu;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/todd-bazunu/profil/spieler/1366903
+Prva liga;Shkendija Tetovo;Astrit Amzai;Goalkeeper;24;-;€100k;UNKNOWN;;https://www.transfermarkt.com/astrit-amzai/profil/spieler/720498
+Premier League;Sidama Bunna FC;Cheikh Ndoye;Goalkeeper;33;-;€50k;UNKNOWN;;https://www.transfermarkt.com/cheikh-ndoye/profil/spieler/639043
+Premier League;Sidama Bunna FC;Emmanuel Kalyowa;Goalkeeper;29;-;€100k;UNKNOWN;;https://www.transfermarkt.com/emmanuel-kalyowa/profil/spieler/1059310
+Premier League;Sidama Bunna FC;Mesfin Muze;Goalkeeper;26;-;€75k;UNKNOWN;;https://www.transfermarkt.com/mesfin-muze/profil/spieler/1296511
+Jupiler Pro League;Sint-Truidense VV;Ahmad Abu Rasen;Goalkeeper;22;-;€25k;UNKNOWN;;https://www.transfermarkt.com/ahmad-abu-rasen/profil/spieler/1159156
+Jupiler Pro League;Sint-Truidense VV;Alouis Diriken;Defensive Midfield;22;30/06/2029;€300k;UNKNOWN;;https://www.transfermarkt.com/alouis-diriken/profil/spieler/751989
+Jupiler Pro League;Sint-Truidense VV;Nathanaël Mbuku;Left Winger;24;30/06/2027;€2.00m;UNKNOWN;;https://www.transfermarkt.com/nathanael-mbuku/profil/spieler/557614
+Premier League Opening Round;Sliema Wanderers;Bradley Scalpello;Goalkeeper;24;-;€10k;UNKNOWN;;https://www.transfermarkt.com/bradley-scalpello/profil/spieler/988786
+Bundesliga;TSG 1899 Hoffenheim;Andrej Kramaric;Second Striker;35;30/06/2028;€2.50m;UNKNOWN;;https://www.transfermarkt.com/andrej-kramaric/profil/spieler/46580
+Jupiler Pro League;Union Saint-Gilloise;Adem Zorgane;Central Midfield;26;30/06/2029;€12.00m;UNKNOWN;;https://www.transfermarkt.com/adem-zorgane/profil/spieler/592403
+Jupiler Pro League;Union Saint-Gilloise;Anouar Ait El Hadj;Attacking Midfield;24;30/06/2028;€5.00m;UNKNOWN;;https://www.transfermarkt.com/anouar-ait-el-hadj/profil/spieler/486039
+Jupiler Pro League;Union Saint-Gilloise;Nohim Chibani;Centre-Back;22;30/06/2030;€400k;UNKNOWN;;https://www.transfermarkt.com/nohim-chibani/profil/spieler/1035533
+Jupiler Pro League;Union Saint-Gilloise;Raul Florucz;Centre-Forward;25;30/06/2029;€4.00m;UNKNOWN;;https://www.transfermarkt.com/raul-florucz/profil/spieler/449444
+Liga de Belice Apertura;Verdes FC;Dejion Mcfadzean;Goalkeeper;22;-;-;UNKNOWN;;https://www.transfermarkt.com/dejion-mcfadzean/profil/spieler/1432256
+Liga de Belice Apertura;Verdes FC;Jonathan Funes;Goalkeeper;32;30/06/2027;€75k;UNKNOWN;;https://www.transfermarkt.com/jonathan-funes/profil/spieler/1162670
+Liga de Belice Apertura;Verdes FC;Woodrow West;Goalkeeper;40;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/woodrow-west/profil/spieler/175474
+Bundesliga;VfB Stuttgart;Dan-Axel Zagadou;Centre-Back;27;30/06/2027;€2.00m;UNKNOWN;;https://www.transfermarkt.com/dan-axel-zagadou/profil/spieler/344598
+Besta deild;Víkingur Reykjavík;Aron Snaer Fridriksson;Goalkeeper;29;16/11/2027;€50k;UNKNOWN;;https://www.transfermarkt.com/aron-snaer-fridriksson/profil/spieler/305706
+Besta deild;Víkingur Reykjavík;Ingvar Jónsson;Goalkeeper;36;31/12/2026;€50k;UNKNOWN;;https://www.transfermarkt.com/ingvar-jonsson/profil/spieler/110581
+National League - Central;Wellington Olympic AFC;Benjamin Mata;Centre-Back;28;31/12/2026;€150k;UNKNOWN;;https://www.transfermarkt.com/benjamin-mata/profil/spieler/350350
+National League - Central;Wellington Olympic AFC;Joshua Ingham;Goalkeeper;19;31/12/2026;-;UNKNOWN;;https://www.transfermarkt.com/joshua-ingham/profil/spieler/1136770
+National League - Central;Wellington Olympic AFC;Scott Basalaj;Goalkeeper;32;31/12/2026;€150k;UNKNOWN;;https://www.transfermarkt.com/scott-basalaj/profil/spieler/166038
+M League;Yangon United;Kyaw Thura;Goalkeeper;27;-;€10k;UNKNOWN;;https://www.transfermarkt.com/kyaw-thura/profil/spieler/815273
+M League;Yangon United;San Sat Naing;Goalkeeper;28;-;€100k;UNKNOWN;;https://www.transfermarkt.com/san-sat-naing/profil/spieler/477947
+M League;Yangon United;Zin Nyi Nyi Aung;Goalkeeper;26;-;€150k;UNKNOWN;;https://www.transfermarkt.com/zin-nyi-nyi-aung/profil/spieler/735953
+Jupiler Pro League;Zulte Waregem;Nikola Mituljikic;Right Winger;23;30/06/2028;€400k;UNKNOWN;;https://www.transfermarkt.com/nikola-mituljikic/profil/spieler/706554
+Challenger Pro League;Beerschot VA;Xavier Gies;Goalkeeper;29;30/06/2027;€200k;NO_AGENT;no agent;https://www.transfermarkt.com/xavier-gies/profil/spieler/289553
+1.Division;FC Nizhniy Novgorod;Nikita Medvedev;Goalkeeper;31;30/06/2027;€750k;NO_AGENT;no agent;https://www.transfermarkt.com/nikita-medvedev/profil/spieler/296513
+Challenger Pro League;FCV Dender EH;Julien Devriendt;Goalkeeper;27;30/06/2028;€400k;NO_AGENT;no agent;https://www.transfermarkt.com/julien-devriendt/profil/spieler/452896
+Challenger Pro League;Royal Excelsior Virton;Teddy Mezague;Centre-Back;36;30/06/2027;-;NO_AGENT;no agent;https://www.transfermarkt.com/teddy-mezague/profil/spieler/127143
+2. Bundesliga;1.FC Kaiserslautern;Enis Kamga;Goalkeeper;19;-;€300k;RELATIVES;Relatives;https://www.transfermarkt.com/enis-kamga/profil/spieler/1144518
+2. Bundesliga;1.FC Kaiserslautern;Semih Sahin;Central Midfield;26;-;€1.50m;RELATIVES;Relatives;https://www.transfermarkt.com/semih-sahin/profil/spieler/566857
+2. Bundesliga;1.FC Magdeburg;Lubambo Musonda;Left-Back;31;30/06/2027;€600k;RELATIVES;Relatives;https://www.transfermarkt.com/lubambo-musonda/profil/spieler/333859
+2. Bundesliga;Eintracht Braunschweig;Aaron Opoku;Right Winger;27;30/06/2028;€700k;RELATIVES;Relatives;https://www.transfermarkt.com/aaron-opoku/profil/spieler/344063
+2. Bundesliga;Eintracht Braunschweig;Sidi Sané;Left Winger;23;30/06/2027;€600k;RELATIVES;Relatives;https://www.transfermarkt.com/sidi-sane/profil/spieler/410561
+Challenger Pro League;FCV Dender EH;Nathan Rôdes;Defensive Midfield;28;30/06/2027;€600k;RELATIVES;Relatives;https://www.transfermarkt.com/nathan-rodes/profil/spieler/481171
+Challenger Pro League;Francs Borains;Aboubacar Ali;Centre-Forward;20;30/06/2027;€250k;RELATIVES;Relatives;https://www.transfermarkt.com/aboubacar-ali/profil/spieler/1010855
+Vtora Liga;Fratria;Mario Mladenov;Goalkeeper;20;-;€50k;RELATIVES;Relatives;https://www.transfermarkt.com/mario-mladenov/profil/spieler/719453
+Challenger Pro League;Jong KAA Gent;Trey Kongolo;Centre-Back;19;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/trey-kongolo/profil/spieler/1197435
+Challenger Pro League;K Lierse SK;Jayden Braaf;Left Winger;24;30/06/2027;€400k;RELATIVES;Relatives;https://www.transfermarkt.com/jayden-braaf/profil/spieler/470391
+2. Bundesliga;Karlsruher SC;Danyal Zor;Defensive Midfield;19;30/06/2028;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/danyal-zor/profil/spieler/1163673
+Challenger Pro League;Patro Eisden Maasmechelen;Sami Lahssaini;Central Midfield;27;-;€700k;RELATIVES;Relatives;https://www.transfermarkt.com/sami-lahssaini/profil/spieler/535706
+Challenger Pro League;RFC Lüttich;Almamy Kanitao;Centre-Forward;19;-;€50k;RELATIVES;Relatives;https://www.transfermarkt.com/almamy-kanitao/profil/spieler/1463628
+Challenger Pro League;RFC Lüttich;Eric N'Jo;Centre-Back;22;30/06/2028;€300k;RELATIVES;Relatives;https://www.transfermarkt.com/eric-njo/profil/spieler/991649
+Challenger Pro League;RFC Seraing;Emmanuel Da Costa;Right-Back;22;30/06/2027;€250k;RELATIVES;Relatives;https://www.transfermarkt.com/emmanuel-da-costa/profil/spieler/1280353
+Challenger Pro League;RFC Seraing;Mahi Gnemagnon;Centre-Forward;19;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/mahi-gnemagnon/profil/spieler/1188465
+Challenger Pro League;RFC Seraing;Matthieu Muland;Right Winger;22;30/06/2027;€300k;RELATIVES;Relatives;https://www.transfermarkt.com/matthieu-muland/profil/spieler/1071906
+Challenger Pro League;RSCA Futures;Alexis Flips;Attacking Midfield;26;30/06/2028;€300k;RELATIVES;Relatives;https://www.transfermarkt.com/alexis-flips/profil/spieler/395242
+Challenger Pro League;RSCA Futures;Gassimou Sylla;Centre-Forward;18;30/06/2028;€200k;RELATIVES;Relatives;https://www.transfermarkt.com/gassimou-sylla/profil/spieler/1105537
+Challenger Pro League;RSCA Futures;Nunzio Engwanda;Centre-Back;18;30/06/2027;€900k;RELATIVES;Relatives;https://www.transfermarkt.com/nunzio-engwanda/profil/spieler/981537
+2. Bundesliga;SG Dynamo Dresden;Brooklyn Ezeh;Left-Back;25;-;€200k;RELATIVES;Relatives;https://www.transfermarkt.com/brooklyn-ezeh/profil/spieler/521474
+2. Bundesliga;SV Darmstadt 98;Ho-jae Lee;Centre-Forward;25;-;€900k;RELATIVES;Relatives;https://www.transfermarkt.com/ho-jae-lee/profil/spieler/545501
+2. Bundesliga;SV Darmstadt 98;Raoul Petretta;Left-Back;29;-;€600k;RELATIVES;Relatives;https://www.transfermarkt.com/raoul-petretta/profil/spieler/243878
+2. Bundesliga;SpVgg Greuther Fürth;Silas Prüfrock;Goalkeeper;21;-;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/silas-prufrock/profil/spieler/913422
+Challenger Pro League;Sporting Hasselt;Nicolas Gerits;Defensive Midfield;31;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/nicolas-gerits/profil/spieler/402884
+2. Bundesliga;VfL Bochum;Berkan Taz;Attacking Midfield;27;30/06/2028;€700k;RELATIVES;Relatives;https://www.transfermarkt.com/berkan-taz/profil/spieler/451380
+2. Bundesliga;VfL Bochum;Lasse Isbruch;Defensive Midfield;18;30/06/2028;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/lasse-isbruch/profil/spieler/1253286
+2. Bundesliga;VfL Wolfsburg;Aster Vranckx;Central Midfield;23;30/06/2029;€5.00m;RELATIVES;Relatives;https://www.transfermarkt.com/aster-vranckx/profil/spieler/503881
+2. Bundesliga;1.FC Magdeburg;Baris Atik;Left Winger;31;-;€800k;UNKNOWN;;https://www.transfermarkt.com/baris-atik/profil/spieler/161072
+2. Bundesliga;1.FC Nuremberg;Christian Mathenia;Goalkeeper;34;30/06/2028;€300k;UNKNOWN;;https://www.transfermarkt.com/christian-mathenia/profil/spieler/82361
+Ligue 2;AS Cambérène;Mamadou Gueye;Goalkeeper;;-;€75k;UNKNOWN;;https://www.transfermarkt.com/mamadou-gueye/profil/spieler/1496195
+Ligue 2;AS Cambérène;Pape Dame Sèye;Goalkeeper;;-;-;UNKNOWN;;https://www.transfermarkt.com/pape-dame-seye/profil/spieler/1478802
+Ligue 2;AS Cambérène;Pape Wade;Goalkeeper;24;-;€10k;UNKNOWN;;https://www.transfermarkt.com/pape-wade/profil/spieler/1506997
+Challenger Pro League;Beerschot VA;Milan Govaers;Centre-Back;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/milan-govaers/profil/spieler/612809
+Challenger Pro League;Club NXT;Al-Hassan Kamara;Right Winger;17;30/06/2029;-;UNKNOWN;;https://www.transfermarkt.com/al-hassan-kamara/profil/spieler/1232112
+Challenger Pro League;Club NXT;Denis Odoi;Centre-Back;38;30/06/2027;€150k;UNKNOWN;;https://www.transfermarkt.com/denis-odoi/profil/spieler/59641
+Challenger Pro League;Club NXT;Kevin Angulo;Centre-Forward;18;30/06/2027;€250k;UNKNOWN;;https://www.transfermarkt.com/kevin-angulo/profil/spieler/1319360
+Challenger Pro League;Club NXT;Utku Kurtal;Defensive Midfield;17;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/utku-kurtal/profil/spieler/1201296
+Liga 2;Concordia Chiajna;Filip Munteanu;Goalkeeper;19;-;€25k;UNKNOWN;;https://www.transfermarkt.com/filip-munteanu/profil/spieler/1342699
+Liga 2;Concordia Chiajna;Rareș Andrei;Goalkeeper;16;-;-;UNKNOWN;;https://www.transfermarkt.com/rares-andrei/profil/spieler/1345647
+2. Bundesliga;FC Energie Cottbus;Aaron Reschke;Central Midfield;18;-;-;UNKNOWN;;https://www.transfermarkt.com/aaron-reschke/profil/spieler/1157080
+2. Bundesliga;FC Energie Cottbus;Malte Wilke;Goalkeeper;19;-;-;UNKNOWN;;https://www.transfermarkt.com/malte-wilke/profil/spieler/1157068
+Ehrenpromotion;FC Jeunesse Canach;Eric Beckius;Goalkeeper;25;-;-;UNKNOWN;;https://www.transfermarkt.com/eric-beckius/profil/spieler/604841
+Ehrenpromotion;FC Jeunesse Canach;Raphael;Goalkeeper;36;-;-;UNKNOWN;;https://www.transfermarkt.com/raphael/profil/spieler/441117
+1.Division;FC Nizhniy Novgorod;Islam Imamov;Goalkeeper;25;30/06/2027;€450k;UNKNOWN;;https://www.transfermarkt.com/islam-imamov/profil/spieler/746440
+II. Liga;FC Petrzalka;Michal Hudec;Goalkeeper;21;-;€10k;UNKNOWN;;https://www.transfermarkt.com/michal-hudec/profil/spieler/1145890
+2. Bundesliga;FC St. Pauli;Joel Chima Fujita;Central Midfield;24;-;€10.00m;UNKNOWN;;https://www.transfermarkt.com/joel-chima-fujita/profil/spieler/697277
+2. Bundesliga;FC St. Pauli;Scott Banks;Right Winger;24;-;€400k;UNKNOWN;;https://www.transfermarkt.com/scott-banks/profil/spieler/596821
+Challenger Pro League;FCV Dender EH;Kembo Diliwidi;Left Winger;20;-;€250k;UNKNOWN;;https://www.transfermarkt.com/kembo-diliwidi/profil/spieler/1160813
+Challenger Pro League;FCV Dender EH;Martin Expérience;Left-Back;27;-;€350k;UNKNOWN;;https://www.transfermarkt.com/martin-experience/profil/spieler/804885
+Challenger Pro League;FCV Dender EH;Mattéo Nkurunziza;Goalkeeper;22;-;€50k;UNKNOWN;;https://www.transfermarkt.com/matteo-nkurunziza/profil/spieler/936565
+Challenger Pro League;FCV Dender EH;Pjotr Kestens;Left Winger;24;-;€300k;UNKNOWN;;https://www.transfermarkt.com/pjotr-kestens/profil/spieler/578402
+Pershaya Liga;FK Slutsk;Artem Tolkin;Centre-Back;26;31/12/2026;€125k;UNKNOWN;;https://www.transfermarkt.com/artem-tolkin/profil/spieler/920504
+Pershaya Liga;FK Slutsk;Ilya Branovets;Goalkeeper;36;31/12/2026;€50k;UNKNOWN;;https://www.transfermarkt.com/ilya-branovets/profil/spieler/435760
+Pershaya Liga;FK Slutsk;Nikita Robak;Goalkeeper;19;31/12/2026;€50k;UNKNOWN;;https://www.transfermarkt.com/nikita-robak/profil/spieler/1021350
+I Lyga;FK Zalgiris Vilnius B;Domantas Jakubovskis;Goalkeeper;19;-;-;UNKNOWN;;https://www.transfermarkt.com/domantas-jakubovskis/profil/spieler/1319511
+I Lyga;FK Zalgiris Vilnius B;Dominykas Čekavičius;Goalkeeper;18;-;€50k;UNKNOWN;;https://www.transfermarkt.com/dominykas-cekavicius/profil/spieler/1319510
+I Lyga;FK Zalgiris Vilnius B;Nedas Blaškevičius;Goalkeeper;17;-;-;UNKNOWN;;https://www.transfermarkt.com/nedas-blaskevicius/profil/spieler/1421270
+Challenger Pro League;Francs Borains;Jovan Mituljikic;Attacking Midfield;23;30/06/2027;€250k;UNKNOWN;;https://www.transfermarkt.com/jovan-mituljikic/profil/spieler/706512
+Challenger Pro League;Francs Borains;Rafael Celsi;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/rafael-celsi/profil/spieler/1162380
+2. Bundesliga;Hannover 96;Emir Sahiti;Right Winger;27;30/06/2028;€1.70m;UNKNOWN;;https://www.transfermarkt.com/emir-sahiti/profil/spieler/403177
+2. Bundesliga;Hannover 96;Mwisho Mhango;Central Midfield;18;30/06/2030;-;UNKNOWN;;https://www.transfermarkt.com/mwisho-mhango/profil/spieler/1465501
+Challenger Pro League;Jong Genk;Jens De Groof;Central Midfield;17;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jens-de-groof/profil/spieler/1264665
+Challenger Pro League;Jong Genk;Mustapha Koma;Centre-Forward;19;30/06/2031;€200k;UNKNOWN;;https://www.transfermarkt.com/mustapha-koma/profil/spieler/1483665
+Challenger Pro League;Jong KAA Gent;Alexandre Chaidron;Left Midfield;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/alexandre-chaidron/profil/spieler/1138330
+Challenger Pro League;Jong KAA Gent;Alseny Soumah;Defensive Midfield;18;30/06/2031;-;UNKNOWN;;https://www.transfermarkt.com/alseny-soumah/profil/spieler/1576527
+Challenger Pro League;Jong KAA Gent;Daniel Wisdom;Left Winger;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/daniel-wisdom/profil/spieler/1459389
+Challenger Pro League;Jong KAA Gent;Loris Pirotte;Midfielder;17;30/06/2029;-;UNKNOWN;;https://www.transfermarkt.com/loris-pirotte/profil/spieler/1456637
+Challenger Pro League;Jong KAA Gent;Simon Buggea;Centre-Forward;19;30/06/2030;€250k;UNKNOWN;;https://www.transfermarkt.com/simon-buggea/profil/spieler/1280520
+Challenger Pro League;K Lierse SK;Pierre Dwomoh;Central Midfield;22;30/06/2028;€1.50m;UNKNOWN;;https://www.transfermarkt.com/pierre-dwomoh/profil/spieler/652803
+Challenger Pro League;K Lierse SK;Samih El Touile;Left Winger;22;30/06/2029;€200k;UNKNOWN;;https://www.transfermarkt.com/samih-el-touile/profil/spieler/1104492
+Challenger Pro League;K Lierse SK;Yassin Aouriaghel;Defensive Midfield;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/yassin-aouriaghel/profil/spieler/1315751
+Challenger Pro League;KAS Eupen;Louis Van Aubel;Goalkeeper;17;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/louis-van-aubel/profil/spieler/1379432
+Challenger Pro League;KAS Eupen;Malam Malu;Centre-Back;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/malam-malu/profil/spieler/1137956
+Challenger Pro League;KAS Eupen;Michael Precious;Centre-Back;18;-;-;UNKNOWN;;https://www.transfermarkt.com/michael-precious/profil/spieler/1580571
+Challenger Pro League;KSC Lokeren;Aboubacar Dindane;Centre-Forward;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/aboubacar-dindane/profil/spieler/1003395
+Challenger Pro League;KSC Lokeren;Céryl De Schrijver;Goalkeeper;17;-;-;UNKNOWN;;https://www.transfermarkt.com/ceryl-de-schrijver/profil/spieler/1512336
+Challenger Pro League;KSC Lokeren;Ilyas Zerioh;Striker;19;-;-;UNKNOWN;;https://www.transfermarkt.com/ilyas-zerioh/profil/spieler/1581904
+Challenger Pro League;KSC Lokeren;Matias Lloci;Right-Back;26;30/06/2027;€300k;UNKNOWN;;https://www.transfermarkt.com/matias-lloci/profil/spieler/465271
+Challenger Pro League;KSC Lokeren;Paeneach Mavinga;Right Winger;19;-;-;UNKNOWN;;https://www.transfermarkt.com/paeneach-mavinga/profil/spieler/981698
+Challenger Pro League;KSC Lokeren;Salim Ben Seghir;Left Winger;23;30/06/2028;€250k;UNKNOWN;;https://www.transfermarkt.com/salim-ben-seghir/profil/spieler/708681
+Challenger Pro League;KSC Lokeren;Viktor Van Israel;Goalkeeper;16;-;-;UNKNOWN;;https://www.transfermarkt.com/viktor-van-israel/profil/spieler/1577499
+NPL Victoria;Melbourne City FC U23 (VPL1);James Nieuwenhuizen;Goalkeeper;22;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/james-nieuwenhuizen/profil/spieler/1064381
+NPL Victoria;Melbourne City FC U23 (VPL1);Sam Robson;Goalkeeper;17;-;-;UNKNOWN;;https://www.transfermarkt.com/sam-robson/profil/spieler/1518324
+Thai League 2;Muangthong United;Khanaphod Kadee;Goalkeeper;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/khanaphod-kadee/profil/spieler/1015630
+Thai League 2;Muangthong United;Khomsan Sanphiphan;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/khomsan-sanphiphan/profil/spieler/1370788
+Thai League 2;Muangthong United;Korrakot Pipatnadda;Goalkeeper;27;30/06/2027;€200k;UNKNOWN;;https://www.transfermarkt.com/korrakot-pipatnadda/profil/spieler/747824
+Druga Liga;NK Triglav Kranj;Ajdin Mulalic;Goalkeeper;31;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/ajdin-mulalic/profil/spieler/264688
+Druga Liga;NK Triglav Kranj;David Brkljac;Defender;19;-;-;UNKNOWN;;https://www.transfermarkt.com/david-brkljac/profil/spieler/1536553
+Druga Liga;NK Triglav Kranj;Timon Popelar;Goalkeeper;22;-;-;UNKNOWN;;https://www.transfermarkt.com/timon-popelar/profil/spieler/1578047
+Challenge League;Naxxar Lions FC;Andriy Vella;Goalkeeper;21;-;€10k;UNKNOWN;;https://www.transfermarkt.com/andriy-vella/profil/spieler/1132836
+Challenge League;Naxxar Lions FC;Jamie Azzopardi;Goalkeeper;29;30/06/2026;€50k;UNKNOWN;;https://www.transfermarkt.com/jamie-azzopardi/profil/spieler/273865
+Challenge League;Naxxar Lions FC;Ryan Caruana;Goalkeeper;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ryan-caruana/profil/spieler/379713
+Challenger Pro League;Patro Eisden Maasmechelen;Burak Sayın;Attacking Midfield;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/burak-sayin/profil/spieler/1397259
+Challenger Pro League;Patro Eisden Maasmechelen;Jan Dahlke;Centre-Forward;29;30/06/2028;€100k;UNKNOWN;;https://www.transfermarkt.com/jan-dahlke/profil/spieler/454228
+Challenger Pro League;Patro Eisden Maasmechelen;Kjetil Borry;Centre-Back;32;30/06/2027;€250k;UNKNOWN;;https://www.transfermarkt.com/kjetil-borry/profil/spieler/277272
+Challenger Pro League;Patro Eisden Maasmechelen;Radja Nainggolan;Central Midfield;38;30/06/2027;€200k;UNKNOWN;;https://www.transfermarkt.com/radja-nainggolan/profil/spieler/41982
+Challenger Pro League;Patro Eisden Maasmechelen;Raoul Kenne;Right-Back;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/raoul-kenne/profil/spieler/233082
+Challenger Pro League;RFC Lüttich;Adham Refai;Left Winger;18;30/06/2027;€150k;UNKNOWN;;https://www.transfermarkt.com/adham-refai/profil/spieler/1358410
+Challenger Pro League;RFC Lüttich;Afonso N'Salambi;Defensive Midfield;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/afonso-nsalambi/profil/spieler/937114
+Challenger Pro League;RFC Lüttich;Jonathan D'Ostilio;Left-Back;32;30/06/2027;€250k;UNKNOWN;;https://www.transfermarkt.com/jonathan-dostilio/profil/spieler/181677
+Challenger Pro League;RFC Lüttich;Kylian Hazard;Left Winger;31;30/06/2027;€250k;UNKNOWN;;https://www.transfermarkt.com/kylian-hazard/profil/spieler/275457
+Challenger Pro League;RFC Lüttich;Naël Lawson;Striker;18;-;-;UNKNOWN;;https://www.transfermarkt.com/nael-lawson/profil/spieler/1580749
+Challenger Pro League;RFC Lüttich;Oregan Ravet;Goalkeeper;25;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/oregan-ravet/profil/spieler/547889
+Challenger Pro League;RFC Lüttich;Ousmane Camara;Right Winger;20;30/06/2028;€175k;UNKNOWN;;https://www.transfermarkt.com/ousmane-camara/profil/spieler/1133790
+Challenger Pro League;RFC Lüttich;Stephen Reynaerts;Left-Back;21;30/06/2027;€150k;UNKNOWN;;https://www.transfermarkt.com/stephen-reynaerts/profil/spieler/1309330
+Challenger Pro League;RFC Lüttich;Thomas Wauters;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/thomas-wauters/profil/spieler/1318703
+Challenger Pro League;RFC Seraing;Matteo Bisarre;Striker;20;-;-;UNKNOWN;;https://www.transfermarkt.com/matteo-bisarre/profil/spieler/1351456
+Challenger Pro League;RSCA Futures;Alexander De Ridder;Central Midfield;18;30/06/2029;€900k;UNKNOWN;;https://www.transfermarkt.com/alexander-de-ridder/profil/spieler/1318191
+Challenger Pro League;RSCA Futures;Daan Gilis;Goalkeeper;17;-;-;UNKNOWN;;https://www.transfermarkt.com/daan-gilis/profil/spieler/1376521
+Challenger Pro League;RSCA Futures;Joël Putu Matadi;Right-Back;19;30/06/2028;€150k;UNKNOWN;;https://www.transfermarkt.com/joel-putu-matadi/profil/spieler/1321932
+Challenger Pro League;RSCA Futures;Lander Gijsbers;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lander-gijsbers/profil/spieler/952417
+Challenger Pro League;RSCA Futures;Thomas Vervloet;Defensive Midfield;17;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/thomas-vervloet/profil/spieler/1231963
+Challenger Pro League;Royal Excelsior Virton;Aliou Dembélé;Central Midfield;38;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/aliou-dembele/profil/spieler/282877
+Challenger Pro League;Royal Excelsior Virton;Allan Tchaptchet;Centre-Back;24;30/06/2028;€300k;UNKNOWN;;https://www.transfermarkt.com/allan-tchaptchet/profil/spieler/465294
+Challenger Pro League;Royal Excelsior Virton;Jean-Claude Ntenda;Left-Back;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jean-claude-ntenda/profil/spieler/585956
+Challenger Pro League;Royal Excelsior Virton;Nathan Fernandes;Centre-Forward;21;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/nathan-fernandes/profil/spieler/1173024
+Challenger Pro League;Royal Excelsior Virton;Yanis Lentini;Attacking Midfield;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/yanis-lentini/profil/spieler/1451164
+2. Bundesliga;SG Dynamo Dresden;Elias Bethke;Goalkeeper;23;30/06/2028;€600k;UNKNOWN;;https://www.transfermarkt.com/elias-bethke/profil/spieler/601918
+USLC;Sacramento Republic FC;Brooks Doolittle;Goalkeeper;18;30/11/2026;-;UNKNOWN;;https://www.transfermarkt.com/brooks-doolittle/profil/spieler/1202854
+USLC;Sacramento Republic FC;Jacob Randolph;Goalkeeper;25;30/11/2026;€75k;UNKNOWN;;https://www.transfermarkt.com/jacob-randolph/profil/spieler/1226967
+Football League Div.2;San Hai Tun NTUS;Hsuan-Ting Chen;Goalkeeper;20;-;€10k;UNKNOWN;;https://www.transfermarkt.com/hsuan-ting-chen/profil/spieler/1298304
+Football League Div.2;San Hai Tun NTUS;Huai-Hsien Huang;Goalkeeper;21;-;€10k;UNKNOWN;;https://www.transfermarkt.com/huai-hsien-huang/profil/spieler/1180326
+Football League Div.2;San Hai Tun NTUS;Kuan-Chih Chen;Goalkeeper;20;-;-;UNKNOWN;;https://www.transfermarkt.com/kuan-chih-chen/profil/spieler/1340146
+Hong Kong First Division;Sham Shui Po;Pak-Hei Yiu;Goalkeeper;23;-;-;UNKNOWN;;https://www.transfermarkt.com/pak-hei-yiu/profil/spieler/1195291
+Hong Kong First Division;Sham Shui Po;Tsz-Him Wong;Goalkeeper;36;-;-;UNKNOWN;;https://www.transfermarkt.com/tsz-him-wong/profil/spieler/215039
+Hong Kong First Division;Sham Shui Po;Wai-Chung Wong;Goalkeeper;31;-;-;UNKNOWN;;https://www.transfermarkt.com/wai-chung-wong/profil/spieler/1031230
+Challenger Pro League;Sporting Hasselt;Alain Matoka;Attacking Midfield;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/alain-matoka/profil/spieler/724065
+Challenger Pro League;Sporting Hasselt;Japhet Muanza;Centre-Back;25;-;€350k;UNKNOWN;;https://www.transfermarkt.com/japhet-muanza/profil/spieler/643247
+Challenger Pro League;Sporting Hasselt;Jarno Jourquin;Centre-Back;25;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/jarno-jourquin/profil/spieler/790239
+Challenger Pro League;Sporting Hasselt;Lars Geluykens;Goalkeeper;;-;-;UNKNOWN;;https://www.transfermarkt.com/lars-geluykens/profil/spieler/1597950
+Challenger Pro League;Sporting Hasselt;Lino Decresson;Centre-Forward;19;30/06/2029;€150k;UNKNOWN;;https://www.transfermarkt.com/lino-decresson/profil/spieler/981530
+Challenger Pro League;Sporting Hasselt;Mehdi Bounou;Right Winger;28;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/mehdi-bounou/profil/spieler/460072
+Challenger Pro League;Sporting Hasselt;Milo Roekaerts;Goalkeeper;21;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/milo-roekaerts/profil/spieler/1116338
+Challenger Pro League;Sporting Hasselt;Niels Verburgh;Central Midfield;28;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/niels-verburgh/profil/spieler/340178
+Challenger Pro League;Sporting Hasselt;Robbe Haven;Midfielder;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/robbe-haven/profil/spieler/1510237
+Challenger Pro League;Sporting Hasselt;Ryan Sanusi;Defensive Midfield;34;30/06/2027;€200k;UNKNOWN;;https://www.transfermarkt.com/ryan-sanusi/profil/spieler/202380
+NPL New South Wales;Sydney FC II;Jacob Creman-Cowan;Goalkeeper;20;-;-;UNKNOWN;;https://www.transfermarkt.com/jacob-creman-cowan/profil/spieler/1109930
+NPL New South Wales;Sydney FC II;Jared Williams;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/jared-williams/profil/spieler/1376132
+Liga Expansión MX Ap.;Tlaxcala FC;Abraham Nuño;Goalkeeper;23;-;€25k;UNKNOWN;;https://www.transfermarkt.com/abraham-nuno/profil/spieler/1041454
+Liga Expansión MX Ap.;Tlaxcala FC;Paolo Bedolla;Goalkeeper;20;-;-;UNKNOWN;;https://www.transfermarkt.com/paolo-bedolla/profil/spieler/955206
+2. Bundesliga;VfL Osnabrück;Patrick Kammerbauer;Right Midfield;29;30/06/2027;€350k;UNKNOWN;;https://www.transfermarkt.com/patrick-kammerbauer/profil/spieler/227087
+2. Bundesliga;VfL Wolfsburg;Pavao Pervan;Goalkeeper;38;30/06/2027;€300k;UNKNOWN;;https://www.transfermarkt.com/pavao-pervan/profil/spieler/51977
+1ste Nationale VV;KSK Heist;Nikola Pejcic;Defensive Midfield;25;30/06/2027;-;NO_AGENT;no agent;https://www.transfermarkt.com/nikola-pejcic/profil/spieler/840907
+1ste Nationale VV;KVK Tienen;Ilias Bouhlal;Attacking Midfield;27;-;-;NO_AGENT;no agent;https://www.transfermarkt.com/ilias-bouhlal/profil/spieler/734570
+1ste Nationale FFA;Olympic Charleroi;Gaël Kakudji;Centre-Back;27;30/06/2027;-;NO_AGENT;no agent;https://www.transfermarkt.com/gael-kakudji/profil/spieler/601555
+1ste Nationale FFA;Olympic Charleroi;Noah Stassin;Centre-Back;22;30/06/2027;-;NO_AGENT;no agent;https://www.transfermarkt.com/noah-stassin/profil/spieler/667426
+1ste Nationale FFA;RCS Onhaye;Jérémy De Vriendt;Goalkeeper;40;30/06/2027;-;NO_AGENT;no agent;https://www.transfermarkt.com/jeremy-de-vriendt/profil/spieler/32442
+1ste Nationale VV;Racing Club Harelbeke;Maxime Thiel;Centre-Back;25;30/06/2027;-;NO_AGENT;no agent;https://www.transfermarkt.com/maxime-thiel/profil/spieler/464068
+3. Liga;SG Sonnenhof Großaspach;Marius Kunde;Central Midfield;31;30/06/2028;€125k;NO_AGENT;no agent;https://www.transfermarkt.com/marius-kunde/profil/spieler/196062
+1ste Nationale FFA;Union Rochefortoise;Guillaume Robail;Attacking Midfield;29;30/06/2027;-;NO_AGENT;no agent;https://www.transfermarkt.com/guillaume-robail/profil/spieler/878216
+2. Division A (Phase 1);Volgar Astrakhan;Vladislav Yampolskiy;Goalkeeper;26;30/06/2027;€300k;NO_AGENT;no agent;https://www.transfermarkt.com/vladislav-yampolskiy/profil/spieler/516031
+2. Division A (Phase 1);Volgar Astrakhan;Yaroslav Solovyov;Goalkeeper;20;30/06/2027;-;NO_AGENT;no agent;https://www.transfermarkt.com/yaroslav-solovyov/profil/spieler/924002
+1ste Nationale VV;KFC Dessel Sport;Jamal Ali Colo;Left-Back;23;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/jamal-ali-colo/profil/spieler/1056377
+1ste Nationale VV;KFC Dessel Sport;Vangelis Costoulas;Left-Back;19;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/vangelis-costoulas/profil/spieler/1309874
+1ste Nationale VV;KVK Tienen;Abdoul Salam Boulhassane;Striker;25;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/abdoul-salam-boulhassane/profil/spieler/957868
+1ste Nationale VV;KVV Thes Sport;Mateo Delph Rivera;Left Midfield;21;-;-;RELATIVES;Relatives;https://www.transfermarkt.com/mateo-delph-rivera/profil/spieler/1074891
+1ste Nationale VV;KVV Zelzate;Visar Shala;Attacking Midfield;26;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/visar-shala/profil/spieler/393023
+1ste Nationale FFA;Olympic Charleroi;Sam Sylla;Centre-Forward;23;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/sam-sylla/profil/spieler/964252
+1ste Nationale VV;R Knokke FC;Théo Mununga;Attacking Midfield;19;30/06/2027;€100k;RELATIVES;Relatives;https://www.transfermarkt.com/theo-mununga/profil/spieler/1192402
+1ste Nationale FFA;RCS Onhaye;Gaëtan Gall;Centre-Back;27;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/gaetan-gall/profil/spieler/744691
+1ste Nationale FFA;RWDM Brussels;Ridwane M'Barki;Left Midfield;32;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/ridwane-mbarki/profil/spieler/441120
+1ste Nationale FFA;RWDM Brussels;Zakaria El Kababri;Left Winger;19;-;-;RELATIVES;Relatives;https://www.transfermarkt.com/zakaria-el-kababri/profil/spieler/1447450
+1ste Nationale FFA;Royal Union Tubize-Braine;Nathan Okumu Monkoy;Right Winger;23;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/nathan-okumu-monkoy/profil/spieler/1099278
+1ste Nationale FFA;Royal Union Tubize-Braine;Shakil Badibanga;Centre-Forward;20;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/shakil-badibanga/profil/spieler/1587557
+3. Liga;SC Fortuna Köln;Neo Telle;Centre-Back;21;30/06/2027;€250k;RELATIVES;Relatives;https://www.transfermarkt.com/neo-telle/profil/spieler/917792
+3. Liga;SG Sonnenhof Großaspach;Leon Maier;Right-Back;27;30/06/2027;€100k;RELATIVES;Relatives;https://www.transfermarkt.com/leon-maier/profil/spieler/546030
+3. Liga;SV Waldhof Mannheim;Julian Ulbricht;Centre-Forward;27;30/06/2029;€300k;RELATIVES;Relatives;https://www.transfermarkt.com/julian-ulbricht/profil/spieler/349404
+3. Liga;SV Waldhof Mannheim;Lucien Hawryluk;Goalkeeper;25;30/06/2027;€100k;RELATIVES;Relatives;https://www.transfermarkt.com/lucien-hawryluk/profil/spieler/384740
+3. Liga;TSG 1899 Hoffenheim II;Klaus Gjasula;Defensive Midfield;36;30/06/2028;€200k;RELATIVES;Relatives;https://www.transfermarkt.com/klaus-gjasula/profil/spieler/57598
+3. Liga;TSG 1899 Hoffenheim II;Yasin Zor;Left Winger;20;-;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/yasin-zor/profil/spieler/924089
+3. Liga;TSV Havelse;Jesse Tugbenyo;Central Midfield;25;30/06/2027;€225k;RELATIVES;Relatives;https://www.transfermarkt.com/jesse-tugbenyo/profil/spieler/565118
+3. Liga;TSV Havelse;Torben Engelking;Centre-Forward;30;30/06/2028;€25k;RELATIVES;Relatives;https://www.transfermarkt.com/torben-engelking/profil/spieler/383699
+3. Liga;TSV Havelse;Yusuf Wardak;Attacking Midfield;20;30/06/2027;€125k;RELATIVES;Relatives;https://www.transfermarkt.com/yusuf-wardak/profil/spieler/1274553
+1ste Nationale FFA;Union Rochefortoise;Nathan Gosselain;Right Winger;23;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/nathan-gosselain/profil/spieler/757265
+1ste Nationale FFA;Union Rochefortoise;Nelson Azevedo-Janelas;Left Winger;28;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/nelson-azevedo-janelas/profil/spieler/344066
+1ste Nationale FFA;Union Rochefortoise;Sullyan Amisso;Right-Back;23;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/sullyan-amisso/profil/spieler/634825
+1ste Nationale FFA;Union Saint-Gilloise U23;Youssef Hamoutahar;Attacking Midfield;20;30/06/2026;-;RELATIVES;Relatives;https://www.transfermarkt.com/youssef-hamoutahar/profil/spieler/1261464
+3. Liga;VfB Stuttgart II;Dominik Draband;Goalkeeper;30;30/06/2028;€100k;RELATIVES;Relatives;https://www.transfermarkt.com/dominik-draband/profil/spieler/197969
+3. Liga;Würzburger Kickers;Burak Karakaya;Centre-Back;21;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/burak-karakaya/profil/spieler/902973
+3. Liga;Würzburger Kickers;Liam Omore;Right-Back;23;30/06/2027;€150k;RELATIVES;Relatives;https://www.transfermarkt.com/liam-omore/profil/spieler/1133684
+3. Liga;1.FC Saarbrücken;Benjamin Lade;Goalkeeper;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/benjamin-lade/profil/spieler/896350
+3. Liga;1.FC Saarbrücken;Zac Shuaib;Central Midfield;19;30/06/2028;€150k;UNKNOWN;;https://www.transfermarkt.com/zac-shuaib/profil/spieler/1150262
+3. Liga;Alemannia Aachen;Dylan Leonard;Centre-Back;19;30/06/2027;€400k;UNKNOWN;;https://www.transfermarkt.com/dylan-leonard/profil/spieler/1188989
+3. Liga;Alemannia Aachen;Manuel Riemann;Goalkeeper;38;30/06/2027;€175k;UNKNOWN;;https://www.transfermarkt.com/manuel-riemann/profil/spieler/40792
+1ste Nationale VV;Belisia Bilzen;Alessandro Bongiorno;Striker;28;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/alessandro-bongiorno/profil/spieler/416725
+1ste Nationale VV;Belisia Bilzen;Ayoub Eddahouz;Midfielder;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ayoub-eddahouz/profil/spieler/1331532
+1ste Nationale VV;Belisia Bilzen;Ayoub Saba;Centre-Back;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ayoub-saba/profil/spieler/1450915
+1ste Nationale VV;Belisia Bilzen;Drin Sula;Attacking Midfield;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/drin-sula/profil/spieler/719642
+1ste Nationale VV;Belisia Bilzen;Falke Vandecaetsbeek;Central Midfield;27;30/06/2030;-;UNKNOWN;;https://www.transfermarkt.com/falke-vandecaetsbeek/profil/spieler/583515
+1ste Nationale VV;Belisia Bilzen;Jasper Coolen;Defender;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jasper-coolen/profil/spieler/1243665
+1ste Nationale VV;Belisia Bilzen;Jeff Gielen;Centre-Forward;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jeff-gielen/profil/spieler/1486350
+1ste Nationale VV;Belisia Bilzen;Jerôme Kroonen;Left-Back;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jerome-kroonen/profil/spieler/349529
+1ste Nationale VV;Belisia Bilzen;Jordi Maus;Defensive Midfield;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jordi-maus/profil/spieler/448369
+1ste Nationale VV;Belisia Bilzen;Lukas da Cruz;Centre-Forward;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lukas-da-cruz/profil/spieler/1101788
+1ste Nationale VV;Belisia Bilzen;Milo Lucas;Midfielder;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/milo-lucas/profil/spieler/1450922
+1ste Nationale VV;Belisia Bilzen;Tom Ghislain;Right-Back;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/tom-ghislain/profil/spieler/460058
+Federal A - Fase Campeonato;Centro Juventud Antoniana;Facundo Abraham;Goalkeeper;30;31/12/2026;-;UNKNOWN;;https://www.transfermarkt.com/facundo-abraham/profil/spieler/997453
+Federal A - Fase Campeonato;Centro Juventud Antoniana;Juan Cruz Nadal;Goalkeeper;28;31/12/2026;-;UNKNOWN;;https://www.transfermarkt.com/juan-cruz-nadal/profil/spieler/882087
+Federal A - Fase Campeonato;Centro Juventud Antoniana;Said Dipp Lizondo;Goalkeeper;21;31/12/2026;-;UNKNOWN;;https://www.transfermarkt.com/said-dipp-lizondo/profil/spieler/1418633
+Segunda División;Concón National;Marcelo Salcedo;Goalkeeper;22;-;-;UNKNOWN;;https://www.transfermarkt.com/marcelo-salcedo/profil/spieler/1345535
+Segunda División;Concón National;Pedro Pizarro;Goalkeeper;24;31/12/2026;-;UNKNOWN;;https://www.transfermarkt.com/pedro-pizarro/profil/spieler/1008925
+Liga Nusantara;Donggala United;Andri Prabowo;Goalkeeper;32;-;€10k;UNKNOWN;;https://www.transfermarkt.com/andri-prabowo/profil/spieler/722677
+Liga Nusantara;Donggala United;Moh Yudha;Goalkeeper;22;-;€50k;UNKNOWN;;https://www.transfermarkt.com/moh-yudha/profil/spieler/1352988
+Liga Nusantara;Donggala United;Rexy;Goalkeeper;22;-;€25k;UNKNOWN;;https://www.transfermarkt.com/rexy/profil/spieler/1456618
+Ettan Norra;FBK Karlstad;Nils Rolandsson;Goalkeeper;23;-;-;UNKNOWN;;https://www.transfermarkt.com/nils-rolandsson/profil/spieler/706680
+Ettan Norra;FBK Karlstad;Vincent Johansson;Goalkeeper;21;31/12/2027;-;UNKNOWN;;https://www.transfermarkt.com/vincent-johansson/profil/spieler/1496090
+1ste Nationale FFA;FC Flénu;Adam Zaânan;Central Midfield;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/adam-zaanan/profil/spieler/905831
+1ste Nationale FFA;FC Flénu;Alessio Petta;Midfielder;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/alessio-petta/profil/spieler/861080
+1ste Nationale FFA;FC Flénu;Alex Soares;Striker;30;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/alex-soares/profil/spieler/1398202
+1ste Nationale FFA;FC Flénu;Arno Ouzrouhene;Defender;29;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/arno-ouzrouhene/profil/spieler/1428749
+1ste Nationale FFA;FC Flénu;Ayoub Belasfar;Striker;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ayoub-belasfar/profil/spieler/1470856
+1ste Nationale FFA;FC Flénu;Benjamin Lupant;Striker;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/benjamin-lupant/profil/spieler/1473693
+1ste Nationale FFA;FC Flénu;Cyril Soupart;Defender;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/cyril-soupart/profil/spieler/794813
+1ste Nationale FFA;FC Flénu;Felipe De Oliveira;Left Winger;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/felipe-de-oliveira/profil/spieler/939922
+1ste Nationale FFA;FC Flénu;Jamal Njieme;Striker;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jamal-njieme/profil/spieler/1550936
+1ste Nationale FFA;FC Flénu;Kylian Dubois;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/kylian-dubois/profil/spieler/1205339
+1ste Nationale FFA;FC Flénu;Mahdi Chebaïki;Centre-Back;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mahdi-chebaiki/profil/spieler/613021
+1ste Nationale FFA;FC Flénu;Mateo Scohy;Midfielder;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mateo-scohy/profil/spieler/1267627
+1ste Nationale FFA;FC Flénu;Mathéo Vroman;Centre-Forward;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/matheo-vroman/profil/spieler/593939
+1ste Nationale FFA;FC Flénu;Mohamed Amallah;Defender;33;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mohamed-amallah/profil/spieler/1428754
+1ste Nationale FFA;FC Flénu;Mohan Lagneaux;Right-Back;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mohan-lagneaux/profil/spieler/1411849
+1ste Nationale FFA;FC Flénu;Mégan Laurent;Attacking Midfield;34;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/megan-laurent/profil/spieler/127198
+1ste Nationale FFA;FC Flénu;Nathan Durieux;Attacking Midfield;28;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/nathan-durieux/profil/spieler/455199
+1ste Nationale FFA;FC Flénu;Olivier Mukwakani;Midfielder;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/olivier-mukwakani/profil/spieler/1428748
+1ste Nationale FFA;FC Flénu;Oscar Payen;Striker;21;-;-;UNKNOWN;;https://www.transfermarkt.com/oscar-payen/profil/spieler/1346229
+1ste Nationale FFA;FC Flénu;Samir Belasfar;Attacking Midfield;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/samir-belasfar/profil/spieler/356575
+1ste Nationale FFA;FC Flénu;Sofiane Ben Madhkour;Left Winger;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/sofiane-ben-madhkour/profil/spieler/1441376
+1ste Nationale FFA;FC Flénu;Théo Wuillot;Centre-Back;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/theo-wuillot/profil/spieler/1417121
+1ste Nationale FFA;FC Flénu;Tom Scohy;Striker;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/tom-scohy/profil/spieler/859587
+3. Liga;FC Hansa Rostock;Felikss Sprogis;Attacking Midfield;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/felikss-sprogis/profil/spieler/1280672
+3. Liga;FC Hansa Rostock;Philipp Klewin;Goalkeeper;32;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/philipp-klewin/profil/spieler/94120
+3. Liga;FC Hansa Rostock;Robin Falk;Defensive Midfield;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/robin-falk/profil/spieler/1069971
+3. Liga;FC Ingolstadt 04;Joseph Ganda;Left Winger;29;30/06/2027;€75k;UNKNOWN;;https://www.transfermarkt.com/joseph-ganda/profil/spieler/456929
+3. Liga;Fortuna Düsseldorf;Elias Arden;Defensive Midfield;17;30/06/2027;€200k;UNKNOWN;;https://www.transfermarkt.com/elias-arden/profil/spieler/1282876
+1ste Nationale VV;Hoogstraten VV;Arsenii Korkodym;Goalkeeper;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/arsenii-korkodym/profil/spieler/841149
+1ste Nationale VV;Hoogstraten VV;Axel Asumu;Midfielder;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/axel-asumu/profil/spieler/1448826
+1ste Nationale VV;Hoogstraten VV;Denzel Kuijpers;Centre-Forward;22;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/denzel-kuijpers/profil/spieler/1056828
+1ste Nationale VV;Hoogstraten VV;Gilles Smits;Goalkeeper;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/gilles-smits/profil/spieler/1418729
+1ste Nationale VV;Hoogstraten VV;Giuliany Ben-David dos Santos;Left Winger;23;-;-;UNKNOWN;;https://www.transfermarkt.com/giuliany-ben-david-dos-santos/profil/spieler/559329
+1ste Nationale VV;Hoogstraten VV;Jeroen Meeuwis;Centre-Back;30;30/06/2029;-;UNKNOWN;;https://www.transfermarkt.com/jeroen-meeuwis/profil/spieler/614777
+1ste Nationale VV;Hoogstraten VV;Jonathan Mendes Rodrigues;Central Midfield;24;-;-;UNKNOWN;;https://www.transfermarkt.com/jonathan-mendes-rodrigues/profil/spieler/618049
+1ste Nationale VV;Hoogstraten VV;Jouk Vermeeren;Left-Back;26;30/06/2029;-;UNKNOWN;;https://www.transfermarkt.com/jouk-vermeeren/profil/spieler/737062
+1ste Nationale VV;Hoogstraten VV;Lenn Van Gestel;Defender;19;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/lenn-van-gestel/profil/spieler/1508347
+1ste Nationale VV;Hoogstraten VV;Lex Predhomme;Left Winger;19;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/lex-predhomme/profil/spieler/1184724
+1ste Nationale VV;Hoogstraten VV;Martijn Brandt;Central Midfield;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/martijn-brandt/profil/spieler/671834
+1ste Nationale VV;Hoogstraten VV;Nadir El Majdoub;Midfielder;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/nadir-el-majdoub/profil/spieler/1464444
+1ste Nationale VV;Hoogstraten VV;Niels Van De Vel;Central Midfield;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/niels-van-de-vel/profil/spieler/460704
+1ste Nationale VV;Hoogstraten VV;Ruben Verheyen;Right-Back;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ruben-verheyen/profil/spieler/473660
+1ste Nationale VV;Hoogstraten VV;Sem Morales;Centre-Back;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/sem-morales/profil/spieler/928410
+1ste Nationale VV;Hoogstraten VV;Simon Boogmans;Central Midfield;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/simon-boogmans/profil/spieler/1336555
+1ste Nationale VV;Hoogstraten VV;Stan Bellens;Defender;19;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/stan-bellens/profil/spieler/1505110
+1ste Nationale VV;Hoogstraten VV;Stef de Wijs;Right-Back;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/stef-de-wijs/profil/spieler/823995
+1ste Nationale VV;Hoogstraten VV;Vic D'Haeyer;Midfielder;20;30/07/2027;-;UNKNOWN;;https://www.transfermarkt.com/vic-dhaeyer/profil/spieler/1310675
+1ste Nationale VV;Hoogstraten VV;Yannis Augustijnen;Defensive Midfield;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/yannis-augustijnen/profil/spieler/326558
+1ste Nationale VV;Jong Cercle;Chernor Falidu Barrie;Midfielder;18;-;-;UNKNOWN;;https://www.transfermarkt.com/chernor-falidu-barrie/profil/spieler/1597462
+1ste Nationale VV;Jong Cercle;Emiel Vanden Borre;Defender;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/emiel-vanden-borre/profil/spieler/1451915
+1ste Nationale VV;Jong Cercle;Gilles Van Steenland;Defensive Midfield;18;-;-;UNKNOWN;;https://www.transfermarkt.com/gilles-van-steenland/profil/spieler/1318187
+1ste Nationale VV;Jong Cercle;Lukas Campe;Midfielder;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lukas-campe/profil/spieler/1137814
+1ste Nationale VV;Jong Cercle;Lukas Rocha Torres;Attacking Midfield;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lukas-rocha-torres/profil/spieler/1105918
+1ste Nationale VV;Jong Cercle;Matei Bărbat;Attacking Midfield;16;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/matei-barbat/profil/spieler/1345752
+1ste Nationale VV;Jong Cercle;Mathias De Leyn;Midfielder;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mathias-de-leyn/profil/spieler/1451914
+1ste Nationale VV;Jong Cercle;Milan Vandeweghe;Midfielder;19;30/07/2026;-;UNKNOWN;;https://www.transfermarkt.com/milan-vandeweghe/profil/spieler/1451913
+1ste Nationale VV;K. Lyra-Lierse;Ben Van Lommel;Goalkeeper;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ben-van-lommel/profil/spieler/671676
+1ste Nationale VV;K. Lyra-Lierse;Bent Reijniers;Defensive Midfield;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/bent-reijniers/profil/spieler/1082425
+1ste Nationale VV;K. Lyra-Lierse;Cel Teunen;Defensive Midfield;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/cel-teunen/profil/spieler/548251
+1ste Nationale VV;K. Lyra-Lierse;Gilles Berghmans;Midfielder;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/gilles-berghmans/profil/spieler/1392801
+1ste Nationale VV;K. Lyra-Lierse;Koen Weuts;Centre-Back;35;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/koen-weuts/profil/spieler/59646
+1ste Nationale VV;K. Lyra-Lierse;Lennert Versmissen;Central Midfield;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lennert-versmissen/profil/spieler/460702
+1ste Nationale VV;K. Lyra-Lierse;Mathias Schils;Central Midfield;33;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mathias-schils/profil/spieler/237829
+1ste Nationale VV;K. Lyra-Lierse;Mats Sterkens;Goalkeeper;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mats-sterkens/profil/spieler/820118
+1ste Nationale VV;K. Lyra-Lierse;Maxim Nys;Left-Back;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/maxim-nys/profil/spieler/436419
+1ste Nationale VV;K. Lyra-Lierse;Maxim Volant;Centre-Back;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/maxim-volant/profil/spieler/463970
+1ste Nationale VV;K. Lyra-Lierse;Quinten Van Goylen;Attacking Midfield;25;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/quinten-van-goylen/profil/spieler/820116
+1ste Nationale VV;K. Lyra-Lierse;Robbe Kil;Central Midfield;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/robbe-kil/profil/spieler/230489
+1ste Nationale VV;K. Lyra-Lierse;Seppe Kil;Left Winger;33;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/seppe-kil/profil/spieler/224079
+1ste Nationale VV;K. Lyra-Lierse;Tomas Muyldermans;Right-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/tomas-muyldermans/profil/spieler/1063382
+1ste Nationale VV;KFC Dessel Sport;Arno Van Keilegom;Right Winger;27;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/arno-van-keilegom/profil/spieler/381974
+1ste Nationale VV;KFC Dessel Sport;Fabio Sposito;Central Midfield;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/fabio-sposito/profil/spieler/730816
+1ste Nationale VV;KFC Dessel Sport;Mats Van Ballaer;Striker;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mats-van-ballaer/profil/spieler/1353079
+1ste Nationale VV;KFC Dessel Sport;Robbe Claes;Midfielder;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/robbe-claes/profil/spieler/1369129
+1ste Nationale VV;KFC Dessel Sport;Seppe Geukens;Midfielder;23;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/seppe-geukens/profil/spieler/938337
+1ste Nationale VV;KFC Dessel Sport;Viktor Cuypers;Striker;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/viktor-cuypers/profil/spieler/1350888
+1ste Nationale VV;KFC Dessel Sport;Yannick Vandersmissen;Left-Back;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/yannick-vandersmissen/profil/spieler/501530
+1ste Nationale VV;KFC Houtvenne;Andreas Mele;Right-Back;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/andreas-mele/profil/spieler/1129195
+1ste Nationale VV;KFC Houtvenne;Andy Lokando;Defensive Midfield;27;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/andy-lokando/profil/spieler/450544
+1ste Nationale VV;KFC Houtvenne;Ayoub Aoragh;Right Winger;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ayoub-aoragh/profil/spieler/1224237
+1ste Nationale VV;KFC Houtvenne;Joeri Poelmans;Left-Back;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/joeri-poelmans/profil/spieler/337448
+1ste Nationale VV;KFC Houtvenne;Mats Van de Velde;Defensive Midfield;19;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/mats-van-de-velde/profil/spieler/1397785
+1ste Nationale VV;KFC Houtvenne;Robbe Van Diest;Striker;20;-;-;UNKNOWN;;https://www.transfermarkt.com/robbe-van-diest/profil/spieler/1348833
+1ste Nationale VV;KFC Houtvenne;Sander Rau;Centre-Back;26;-;-;UNKNOWN;;https://www.transfermarkt.com/sander-rau/profil/spieler/521433
+1ste Nationale VV;KFC Merelbeke;Allan Verlinden;Centre-Forward;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/allan-verlinden/profil/spieler/1318268
+1ste Nationale VV;KFC Merelbeke;Arno De Smeth;Goalkeeper;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/arno-de-smeth/profil/spieler/1198167
+1ste Nationale VV;KFC Merelbeke;Beau Ponnet;Central Midfield;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/beau-ponnet/profil/spieler/585149
+1ste Nationale VV;KFC Merelbeke;Christian Bello Rivero;Defensive Midfield;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/christian-bello-rivero/profil/spieler/830735
+1ste Nationale VV;KFC Merelbeke;Daryl Lopes Ribeiro;Centre-Back;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/daryl-lopes-ribeiro/profil/spieler/975930
+1ste Nationale VV;KFC Merelbeke;Gus Pappaert;Midfielder;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/gus-pappaert/profil/spieler/1567118
+1ste Nationale VV;KFC Merelbeke;Jasper Otte;Goalkeeper;33;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/jasper-otte/profil/spieler/157889
+1ste Nationale VV;KFC Merelbeke;Max De Ruyver;Centre-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/max-de-ruyver/profil/spieler/547891
+1ste Nationale VV;KFC Merelbeke;Merijn Rogiers;Left-Back;23;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/merijn-rogiers/profil/spieler/817617
+1ste Nationale VV;KFC Merelbeke;Nicolas Thienpont;Centre-Back;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/nicolas-thienpont/profil/spieler/1176865
+1ste Nationale VV;KFC Merelbeke;Per Gordts;Right-Back;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/per-gordts/profil/spieler/1065312
+1ste Nationale VV;KFC Merelbeke;Samir Ouzraoui Diki;Attacking Midfield;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/samir-ouzraoui-diki/profil/spieler/1439013
+1ste Nationale VV;KFC Merelbeke;Tarik El Boutaibe;Right Winger;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/tarik-el-boutaibe/profil/spieler/583909
+1ste Nationale VV;KFC Merelbeke;Vic Seurynck;Left-Back;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/vic-seurynck/profil/spieler/823133
+1ste Nationale VV;KFC Merelbeke;Wannes Carnewal;Goalkeeper;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/wannes-carnewal/profil/spieler/1099016
+1ste Nationale VV;KFC Merelbeke;Xander Balcaen;Right Winger;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/xander-balcaen/profil/spieler/1175569
+1ste Nationale VV;KFC Merelbeke;Yamine Zahiri;Right Winger;18;-;-;UNKNOWN;;https://www.transfermarkt.com/yamine-zahiri/profil/spieler/1321965
+1ste Nationale VV;KSK Heist;Aaron Osei Bonsu;Right Winger;21;-;-;UNKNOWN;;https://www.transfermarkt.com/aaron-osei-bonsu/profil/spieler/1090331
+1ste Nationale VV;KSK Heist;Emre Gürler;Centre-Back;20;-;-;UNKNOWN;;https://www.transfermarkt.com/emre-gurler/profil/spieler/1497741
+1ste Nationale VV;KSK Heist;Fré Van Aerschot;Goalkeeper;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/fre-van-aerschot/profil/spieler/425343
+1ste Nationale VV;KSK Heist;Gilles Schodts;Left-Back;22;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/gilles-schodts/profil/spieler/939162
+1ste Nationale VV;KSK Heist;Mathis Heyselberghs;Centre-Back;21;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/mathis-heyselberghs/profil/spieler/1159627
+1ste Nationale VV;KSK Heist;Matt Jannes;Right Winger;24;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/matt-jannes/profil/spieler/1065553
+1ste Nationale VV;KSK Heist;Mbey Epolo;Centre-Forward;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mbey-epolo/profil/spieler/651670
+1ste Nationale VV;KSK Heist;Mon De Preter;Goalkeeper;19;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/mon-de-preter/profil/spieler/1238255
+1ste Nationale VV;KSK Heist;Noah Ferrera;Central Midfield;17;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/noah-ferrera/profil/spieler/1447452
+1ste Nationale VV;KSK Heist;Soufiane El Banouhi;Right-Back;34;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/soufiane-el-banouhi/profil/spieler/211089
+1ste Nationale VV;KSK Heist;Teun Goethaert;Striker;22;-;-;UNKNOWN;;https://www.transfermarkt.com/teun-goethaert/profil/spieler/1333774
+1ste Nationale VV;KSK Heist;Yannick Reuten;Central Midfield;31;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/yannick-reuten/profil/spieler/120788
+1ste Nationale VV;KVK Tienen;Adrien Marchal;Central Midfield;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/adrien-marchal/profil/spieler/1065570
+1ste Nationale VV;KVK Tienen;Ayoub El Harrak;Defensive Midfield;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ayoub-el-harrak/profil/spieler/559006
+1ste Nationale VV;KVK Tienen;Diego Barreiro Arca;Defensive Midfield;25;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/diego-barreiro-arca/profil/spieler/883259
+1ste Nationale VV;KVK Tienen;Elaïjah Stalmans;Left Winger;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/elaijah-stalmans/profil/spieler/1139268
+1ste Nationale VV;KVK Tienen;Ilias Moutha-Sebtaoui;Goalkeeper;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ilias-moutha-sebtaoui/profil/spieler/365450
+1ste Nationale VV;KVK Tienen;Joppe Verdonck;Left Winger;21;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/joppe-verdonck/profil/spieler/1311849
+1ste Nationale VV;KVK Tienen;Lars Hinnisdaels;Central Midfield;18;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/lars-hinnisdaels/profil/spieler/1471025
+1ste Nationale VV;KVK Tienen;Loïc Bronckart;Goalkeeper;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/loic-bronckart/profil/spieler/650602
+1ste Nationale VV;KVK Tienen;Lucas Curto;Centre-Back;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lucas-curto/profil/spieler/1309325
+1ste Nationale VV;KVK Tienen;Lucas Delph Rivera;Midfielder;21;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/lucas-delph-rivera/profil/spieler/1138675
+1ste Nationale VV;KVK Tienen;Mehdi El Ghraichi;Left-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mehdi-el-ghraichi/profil/spieler/894969
+1ste Nationale VV;KVK Tienen;Noé Rottiers;Right-Back;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/noe-rottiers/profil/spieler/1063261
+1ste Nationale VV;KVK Tienen;Paul-Césaire Boroto;Attacking Midfield;18;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/paul-cesaire-boroto/profil/spieler/1402562
+1ste Nationale VV;KVK Tienen;Robby Wakaka;Defensive Midfield;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/robby-wakaka/profil/spieler/1019172
+1ste Nationale VV;KVK Tienen;Sander Vandeborne;Centre-Back;19;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/sander-vandeborne/profil/spieler/1318349
+1ste Nationale VV;KVK Tienen;Thomas Depotbecker;Second Striker;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/thomas-depotbecker/profil/spieler/666502
+1ste Nationale VV;KVK Tienen;Tom Panepinto;Centre-Forward;23;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/tom-panepinto/profil/spieler/565407
+1ste Nationale VV;KVV Thes Sport;Amar Boussada;Midfielder;20;-;-;UNKNOWN;;https://www.transfermarkt.com/amar-boussada/profil/spieler/1587013
+1ste Nationale VV;KVV Thes Sport;Andries Claes;Right Winger;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/andries-claes/profil/spieler/535619
+1ste Nationale VV;KVV Thes Sport;Arwen Vanhaeren;Goalkeeper;17;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/arwen-vanhaeren/profil/spieler/1410583
+1ste Nationale VV;KVV Thes Sport;Christiaan Vaes;Striker;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/christiaan-vaes/profil/spieler/1351461
+1ste Nationale VV;KVV Thes Sport;Cédric Mateso-Liongola;Left Winger;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/cedric-mateso-liongola/profil/spieler/450548
+1ste Nationale VV;KVV Thes Sport;Dean Michiels;Goalkeeper;35;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/dean-michiels/profil/spieler/193980
+1ste Nationale VV;KVV Thes Sport;Devin Veraghtert;Midfielder;22;-;-;UNKNOWN;;https://www.transfermarkt.com/devin-veraghtert/profil/spieler/1116339
+1ste Nationale VV;KVV Thes Sport;Fallou Fall;Centre-Forward;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/fallou-fall/profil/spieler/456788
+1ste Nationale VV;KVV Thes Sport;Jamil Takidine;Left-Back;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jamil-takidine/profil/spieler/502461
+1ste Nationale VV;KVV Thes Sport;Kenneth Kerckhofs;Defensive Midfield;33;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/kenneth-kerckhofs/profil/spieler/277286
+1ste Nationale VV;KVV Thes Sport;Kobe Lemmens;Centre-Back;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/kobe-lemmens/profil/spieler/1004091
+1ste Nationale VV;KVV Thes Sport;Lusandu Madimba Kaleki;Centre-Back;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lusandu-madimba-kaleki/profil/spieler/1196684
+1ste Nationale VV;KVV Thes Sport;Mats Van Genechten;Central Midfield;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mats-van-genechten/profil/spieler/999449
+1ste Nationale VV;KVV Thes Sport;Mitchel Keulen;Left-Back;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mitchel-keulen/profil/spieler/418545
+1ste Nationale VV;KVV Thes Sport;Nick Hulsmans;Right-Back;33;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/nick-hulsmans/profil/spieler/214898
+1ste Nationale VV;KVV Thes Sport;Rens Pauwels;Midfielder;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/rens-pauwels/profil/spieler/1246676
+1ste Nationale VV;KVV Thes Sport;Roel Jacquemyn;Centre-Back;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/roel-jacquemyn/profil/spieler/725050
+1ste Nationale VV;KVV Thes Sport;Siebe Schurmans;Right Winger;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/siebe-schurmans/profil/spieler/1460171
+1ste Nationale VV;KVV Zelzate;Ilias Mjahed;Attacking Midfield;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ilias-mjahed/profil/spieler/693301
+1ste Nationale VV;KVV Zelzate;Imraan El Omari;Striker;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/imraan-el-omari/profil/spieler/1518388
+1ste Nationale VV;KVV Zelzate;Jasper Baeyens;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jasper-baeyens/profil/spieler/1309810
+1ste Nationale VV;KVV Zelzate;Jasper Buyl;Attacking Midfield;30;-;-;UNKNOWN;;https://www.transfermarkt.com/jasper-buyl/profil/spieler/1307984
+1ste Nationale VV;KVV Zelzate;Joshua De Rycke;Left Winger;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/joshua-de-rycke/profil/spieler/1200247
+1ste Nationale VV;KVV Zelzate;Lennert Hallaert;Centre-Forward;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lennert-hallaert/profil/spieler/579055
+1ste Nationale VV;KVV Zelzate;Maxim Meert;Right-Back;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/maxim-meert/profil/spieler/790505
+1ste Nationale VV;KVV Zelzate;Maxime De Smet;Centre-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/maxime-de-smet/profil/spieler/859142
+1ste Nationale VV;KVV Zelzate;Quinten Boudry;Left-Back;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/quinten-boudry/profil/spieler/456334
+1ste Nationale VV;KVV Zelzate;Remco Horbach;Goalkeeper;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/remco-horbach/profil/spieler/1200255
+1ste Nationale VV;KVV Zelzate;Rune Pergoot;Goalkeeper;17;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/rune-pergoot/profil/spieler/1348717
+1ste Nationale VV;KVV Zelzate;Shawn Golike;Centre-Forward;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/shawn-golike/profil/spieler/1450424
+1ste Nationale VV;KVV Zelzate;Stéphane Chirishungu;Defensive Midfield;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/stephane-chirishungu/profil/spieler/1173712
+1ste Nationale VV;KVV Zelzate;Søren Coens;Defender;23;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/soren-coens/profil/spieler/1064966
+1ste Nationale VV;KVV Zelzate;Zenz Raaymakers;Striker;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/zenz-raaymakers/profil/spieler/1453583
+Betclic 2 Liga;Legia Warsaw II;Jakub Trojanowski;Goalkeeper;25;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/jakub-trojanowski/profil/spieler/592532
+Betclic 2 Liga;Legia Warsaw II;Nikodem Gimiński;Goalkeeper;17;-;-;UNKNOWN;;https://www.transfermarkt.com/nikodem-giminski/profil/spieler/1438833
+3. Liga;MSV Duisburg;Aljaz Casar;Defensive Midfield;25;30/06/2027;€450k;UNKNOWN;;https://www.transfermarkt.com/aljaz-casar/profil/spieler/682519
+1ste Nationale FFA;Olympic Charleroi;Alexandro Calut;Left-Back;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/alexandro-calut/profil/spieler/565428
+1ste Nationale FFA;Olympic Charleroi;Andrea Latragna;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/andrea-latragna/profil/spieler/1005085
+1ste Nationale FFA;Olympic Charleroi;Clément Deschryver;Right-Back;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/clement-deschryver/profil/spieler/819552
+1ste Nationale FFA;Olympic Charleroi;Kerem Asil;Attacking Midfield;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/kerem-asil/profil/spieler/1140252
+1ste Nationale FFA;Olympic Charleroi;Matthias Van Hecke;Goalkeeper;23;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/matthias-van-hecke/profil/spieler/930958
+1ste Nationale FFA;Olympic Charleroi;Rayan Berberi;Attacking Midfield;22;30/06/2027;€250k;UNKNOWN;;https://www.transfermarkt.com/rayan-berberi/profil/spieler/650015
+1ste Nationale FFA;Olympic Charleroi;Salif Kere;Centre-Back;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/salif-kere/profil/spieler/1452960
+1ste Nationale FFA;Olympic Charleroi;Thomas Ephestion;Defensive Midfield;31;30/06/2028;€100k;UNKNOWN;;https://www.transfermarkt.com/thomas-ephestion/profil/spieler/288235
+1ste Nationale FFA;Olympic Charleroi;Tyron Crame;Centre-Forward;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/tyron-crame/profil/spieler/785057
+1ste Nationale VV;Oud-Heverlee Leuven U23;Iliano Remans;Centre-Forward;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/iliano-remans/profil/spieler/1340674
+1ste Nationale VV;Oud-Heverlee Leuven U23;Keano Dekeyser;Goalkeeper;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/keano-dekeyser/profil/spieler/1344227
+1ste Nationale VV;Oud-Heverlee Leuven U23;Lucca Darcon;Left-Back;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lucca-darcon/profil/spieler/1105540
+1ste Nationale VV;Oud-Heverlee Leuven U23;Luwe Van Looy;Goalkeeper;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/luwe-van-looy/profil/spieler/1321947
+1ste Nationale VV;Oud-Heverlee Leuven U23;Marcel Van Dijck;Goalkeeper;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/marcel-van-dijck/profil/spieler/1318286
+1ste Nationale VV;Oud-Heverlee Leuven U23;Milan Gigot;Defender;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/milan-gigot/profil/spieler/1223993
+1ste Nationale VV;Oud-Heverlee Leuven U23;Orin Reinat;Defensive Midfield;18;30/06/2029;-;UNKNOWN;;https://www.transfermarkt.com/orin-reinat/profil/spieler/1318356
+1ste Nationale VV;Oud-Heverlee Leuven U23;Ryane Redouane;Attacking Midfield;17;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/ryane-redouane/profil/spieler/1391292
+1ste Nationale VV;R Knokke FC;Benoit Olivier;Left-Back;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/benoit-olivier/profil/spieler/1364527
+1ste Nationale VV;R Knokke FC;Jef Colman;Striker;27;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/jef-colman/profil/spieler/914409
+1ste Nationale VV;R Knokke FC;Justin Pieters;Central Midfield;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/justin-pieters/profil/spieler/396839
+1ste Nationale VV;R Knokke FC;Lars Knipping;Goalkeeper;34;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lars-knipping/profil/spieler/228547
+1ste Nationale VV;R Knokke FC;Ruben Vanraefelghem;Centre-Back;33;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/ruben-vanraefelghem/profil/spieler/501305
+1ste Nationale VV;R Knokke FC;Yorbe Bortier;Goalkeeper;17;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/yorbe-bortier/profil/spieler/1548127
+1ste Nationale VV;R Knokke FC;Zef Damman;Centre-Back;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/zef-damman/profil/spieler/1456183
+1ste Nationale FFA;RCS Onhaye;Alessandro Guerri;Centre-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/alessandro-guerri/profil/spieler/900087
+1ste Nationale FFA;RCS Onhaye;Aurélien Lambert;Centre-Forward;38;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/aurelien-lambert/profil/spieler/690706
+1ste Nationale FFA;RCS Onhaye;Clement Choisez;Midfielder;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/clement-choisez/profil/spieler/652856
+1ste Nationale FFA;RCS Onhaye;Dylan Suray;Left Winger;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/dylan-suray/profil/spieler/315109
+1ste Nationale FFA;RCS Onhaye;François Maistriaux;Striker;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/francois-maistriaux/profil/spieler/1306384
+1ste Nationale FFA;RCS Onhaye;François-Guillaume Gilain;Central Midfield;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/francois-guillaume-gilain/profil/spieler/690702
+1ste Nationale FFA;RCS Onhaye;Grégoire Guiot;Centre-Forward;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/gregoire-guiot/profil/spieler/690704
+1ste Nationale FFA;RCS Onhaye;Joey-Kwan Detienne;Defender;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/joey-kwan-detienne/profil/spieler/548207
+1ste Nationale FFA;RCS Onhaye;Kylian Gérardot;Centre-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/kylian-gerardot/profil/spieler/741157
+1ste Nationale FFA;RCS Onhaye;Leopold Granville;Defender;30;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/leopold-granville/profil/spieler/690415
+1ste Nationale FFA;RCS Onhaye;Luis Defresne;Centre-Back;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/luis-defresne/profil/spieler/420889
+1ste Nationale FFA;RCS Onhaye;Maxime Afflisio;Left-Back;37;-;-;UNKNOWN;;https://www.transfermarkt.com/maxime-afflisio/profil/spieler/510040
+1ste Nationale FFA;RCS Onhaye;Mikaele Falzone;Left Winger;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mikaele-falzone/profil/spieler/597587
+1ste Nationale FFA;RCS Onhaye;Nelson Cabaraux;Centre-Back;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/nelson-cabaraux/profil/spieler/1275501
+1ste Nationale FFA;RCS Onhaye;Noa Chintinne;Goalkeeper;16;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/noa-chintinne/profil/spieler/1513416
+1ste Nationale FFA;RCS Onhaye;Noah Ferauge;Midfielder;21;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/noah-ferauge/profil/spieler/1331494
+1ste Nationale FFA;RCS Onhaye;Thomas Leclef;Centre-Back;28;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/thomas-leclef/profil/spieler/690412
+1ste Nationale FFA;RCS Onhaye;Tristan Gillis;Midfielder;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/tristan-gillis/profil/spieler/646532
+1ste Nationale FFA;RCS Onhaye;Tristan Hermans;Defensive Midfield;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/tristan-hermans/profil/spieler/1321933
+1ste Nationale VV;RFC Mandel United;Aaron Dhondt;Second Striker;30;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/aaron-dhondt/profil/spieler/351390
+1ste Nationale VV;RFC Mandel United;Alessio Staelens;Attacking Midfield;32;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/alessio-staelens/profil/spieler/276428
+1ste Nationale VV;RFC Mandel United;Brice Verkerken;Centre-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/brice-verkerken/profil/spieler/698246
+1ste Nationale VV;RFC Mandel United;Dennis Van Vaerenbergh;Centre-Forward;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/dennis-van-vaerenbergh/profil/spieler/292816
+1ste Nationale VV;RFC Mandel United;Donovan Habbas;Centre-Forward;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/donovan-habbas/profil/spieler/613444
+1ste Nationale VV;RFC Mandel United;Elias Vanglabeke;Defender;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/elias-vanglabeke/profil/spieler/1456184
+1ste Nationale VV;RFC Mandel United;Gauthier Libbrecht;Left-Back;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/gauthier-libbrecht/profil/spieler/370276
+1ste Nationale VV;RFC Mandel United;Gillis Verhelst;Left-Back;26;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/gillis-verhelst/profil/spieler/794878
+1ste Nationale VV;RFC Mandel United;Jarric Buysse;Left-Back;35;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jarric-buysse/profil/spieler/213723
+1ste Nationale VV;RFC Mandel United;Jef Vandemaele;Centre-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jef-vandemaele/profil/spieler/1064965
+1ste Nationale VV;RFC Mandel United;Jorn Braekeveld;Midfielder;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jorn-braekeveld/profil/spieler/823082
+1ste Nationale VV;RFC Mandel United;Liam Prez;Attacking Midfield;26;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/liam-prez/profil/spieler/584247
+1ste Nationale VV;RFC Mandel United;Lukas Rommens;Left-Back;21;-;-;UNKNOWN;;https://www.transfermarkt.com/lukas-rommens/profil/spieler/1198299
+1ste Nationale VV;RFC Mandel United;Martijn Beernaert;Goalkeeper;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/martijn-beernaert/profil/spieler/678491
+1ste Nationale VV;RFC Mandel United;Mathias Desmet;Centre-Back;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mathias-desmet/profil/spieler/1141134
+1ste Nationale VV;RFC Mandel United;Xander Vandermeirsch;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/xander-vandermeirsch/profil/spieler/1191603
+1ste Nationale FFA;RFC Meux;Amaury Lotte;Centre-Forward;26;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/amaury-lotte/profil/spieler/1253711
+1ste Nationale FFA;RFC Meux;Axel Rouffignon;Right-Back;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/axel-rouffignon/profil/spieler/688749
+1ste Nationale FFA;RFC Meux;Brandon Dhyne;Right Midfield;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/brandon-dhyne/profil/spieler/1135421
+1ste Nationale FFA;RFC Meux;Bryan Sleeuwaert;Left-Back;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/bryan-sleeuwaert/profil/spieler/860190
+1ste Nationale FFA;RFC Meux;Clément Libertiaux;Goalkeeper;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/clement-libertiaux/profil/spieler/516948
+1ste Nationale FFA;RFC Meux;Corentin Marion;Striker;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/corentin-marion/profil/spieler/823294
+1ste Nationale FFA;RFC Meux;Cyril Van Hyfte;Centre-Back;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/cyril-van-hyfte/profil/spieler/460959
+1ste Nationale FFA;RFC Meux;Ethan Adam;Centre-Back;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ethan-adam/profil/spieler/1168713
+1ste Nationale FFA;RFC Meux;Gauthier Smal;Attacking Midfield;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/gauthier-smal/profil/spieler/650765
+1ste Nationale FFA;RFC Meux;Jean Mathieu;Defensive Midfield;30;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jean-mathieu/profil/spieler/274113
+1ste Nationale FFA;RFC Meux;Justin Gaux;Centre-Back;30;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/justin-gaux/profil/spieler/650762
+1ste Nationale FFA;RFC Meux;Kenny Paulus;Goalkeeper;39;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/kenny-paulus/profil/spieler/460954
+1ste Nationale FFA;RFC Meux;Kim Detienne;Right Winger;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/kim-detienne/profil/spieler/860280
+1ste Nationale FFA;RFC Meux;Loïc Vander Cammen;Centre-Back;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/loic-vander-cammen/profil/spieler/510042
+1ste Nationale FFA;RFC Meux;Lucien Gauchet;Right Winger;25;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/lucien-gauchet/profil/spieler/654398
+1ste Nationale FFA;RFC Meux;Matteo Debourg;Midfielder;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/matteo-debourg/profil/spieler/1437134
+1ste Nationale FFA;RFC Meux;Nathan Duchêne;Striker;17;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/nathan-duchene/profil/spieler/1437225
+1ste Nationale FFA;RFC Meux;Nathan Hanneuse;Defensive Midfield;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/nathan-hanneuse/profil/spieler/1285797
+1ste Nationale FFA;RSC Habay-La-Neuve;Adel Sbaa;Left-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/adel-sbaa/profil/spieler/650403
+1ste Nationale FFA;RSC Habay-La-Neuve;Diego Debue;Striker;23;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/diego-debue/profil/spieler/1396431
+1ste Nationale FFA;RSC Habay-La-Neuve;Eduardo Gasparoto;Defensive Midfield;23;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/eduardo-gasparoto/profil/spieler/1141210
+1ste Nationale FFA;RSC Habay-La-Neuve;François Reyter;Defender;34;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/francois-reyter/profil/spieler/861676
+1ste Nationale FFA;RSC Habay-La-Neuve;Lucas Lamotte;Left Midfield;28;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/lucas-lamotte/profil/spieler/535753
+1ste Nationale FFA;RSC Habay-La-Neuve;Matheo Vandaele;Right Winger;26;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/matheo-vandaele/profil/spieler/1284430
+1ste Nationale FFA;RSC Habay-La-Neuve;Maxime Lonreiro;Defensive Midfield;21;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/maxime-lonreiro/profil/spieler/1186460
+1ste Nationale FFA;RSC Habay-La-Neuve;Nathan Lalbertier;Left-Back;28;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/nathan-lalbertier/profil/spieler/870726
+1ste Nationale FFA;RSC Habay-La-Neuve;Simon Poncelet;Defender;33;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/simon-poncelet/profil/spieler/755398
+1ste Nationale FFA;RSC Habay-La-Neuve;Sullivan Coulibaly;Striker;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/sullivan-coulibaly/profil/spieler/1407029
+1ste Nationale FFA;RSC Habay-La-Neuve;Thiebault Bartholomé;Goalkeeper;26;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/thiebault-bartholome/profil/spieler/690719
+1ste Nationale FFA;RSC Habay-La-Neuve;Valentin Thomas;Striker;25;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/valentin-thomas/profil/spieler/823288
+1ste Nationale FFA;RWDM Brussels;Adam Delplace;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/adam-delplace/profil/spieler/1177163
+1ste Nationale FFA;RWDM Brussels;Kevin Bukusu;Centre-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/kevin-bukusu/profil/spieler/453796
+1ste Nationale FFA;RWDM Brussels;Nathan De Raes;Centre-Back;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/nathan-de-raes/profil/spieler/984252
+1ste Nationale FFA;RWDM Brussels;Nils Nieki;Defensive Midfield;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/nils-nieki/profil/spieler/1136677
+1ste Nationale FFA;RWDM Brussels;Noa Wyns;Centre-Back;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/noa-wyns/profil/spieler/818104
+1ste Nationale FFA;RWDM Brussels;Noah Dodeigne;Left-Back;23;30/06/2027;€250k;UNKNOWN;;https://www.transfermarkt.com/noah-dodeigne/profil/spieler/583906
+1ste Nationale FFA;RWDM Brussels;Pedro Pinto;Defensive Midfield;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/pedro-pinto/profil/spieler/1138674
+1ste Nationale FFA;RWDM Brussels;Redouan Belkaious;Right Winger;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/redouan-belkaious/profil/spieler/923336
+1ste Nationale FFA;RWDM Brussels;Sacha Marloye;Right-Back;18;30/06/2027;€250k;UNKNOWN;;https://www.transfermarkt.com/sacha-marloye/profil/spieler/1245605
+1ste Nationale FFA;RWDM Brussels;Théo Defourny;Goalkeeper;34;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/theo-defourny/profil/spieler/104543
+1ste Nationale VV;Racing Club Harelbeke;Aboubacar Keita;Left Winger;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/aboubacar-keita/profil/spieler/1312172
+1ste Nationale VV;Racing Club Harelbeke;Arthur Wulleman;Defensive Midfield;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/arthur-wulleman/profil/spieler/490431
+1ste Nationale VV;Racing Club Harelbeke;Arwen Decaluwe;Goalkeeper;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/arwen-decaluwe/profil/spieler/1504633
+1ste Nationale VV;Racing Club Harelbeke;Augustin Otté;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/augustin-otte/profil/spieler/1593329
+1ste Nationale VV;Racing Club Harelbeke;Bakir Grabic;Defender;20;-;-;UNKNOWN;;https://www.transfermarkt.com/bakir-grabic/profil/spieler/1238254
+1ste Nationale VV;Racing Club Harelbeke;Daniel Almeida;Midfielder;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/daniel-almeida/profil/spieler/1199806
+1ste Nationale VV;Racing Club Harelbeke;Darren Degryse;Striker;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/darren-degryse/profil/spieler/1177039
+1ste Nationale VV;Racing Club Harelbeke;Dirk-Jan Dewaegemaeker;Centre-Forward;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/dirk-jan-dewaegemaeker/profil/spieler/705442
+1ste Nationale VV;Racing Club Harelbeke;Emeric Herreweghe;Defender;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/emeric-herreweghe/profil/spieler/1481125
+1ste Nationale VV;Racing Club Harelbeke;Gilles Degryse;Left-Back;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/gilles-degryse/profil/spieler/670874
+1ste Nationale VV;Racing Club Harelbeke;Ilias El Hamdaoui;Right-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ilias-el-hamdaoui/profil/spieler/905971
+1ste Nationale VV;Racing Club Harelbeke;Jan Verhaest;Centre-Back;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jan-verhaest/profil/spieler/831747
+1ste Nationale VV;Racing Club Harelbeke;Joshua Veeckman;Right-Back;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/joshua-veeckman/profil/spieler/570457
+1ste Nationale VV;Racing Club Harelbeke;Lukas Dewaele;Midfielder;23;-;-;UNKNOWN;;https://www.transfermarkt.com/lukas-dewaele/profil/spieler/1064961
+1ste Nationale VV;Racing Club Harelbeke;Mamadou Baïlo Beavogui;Midfielder;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mamadou-bailo-beavogui/profil/spieler/1489622
+1ste Nationale VV;Racing Club Harelbeke;Mathias De Wolf;Central Midfield;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mathias-de-wolf/profil/spieler/490383
+1ste Nationale VV;Racing Club Harelbeke;Mykhaylo Dubrovnyi;Centre-Forward;20;-;-;UNKNOWN;;https://www.transfermarkt.com/mykhaylo-dubrovnyi/profil/spieler/935038
+1ste Nationale VV;Racing Club Harelbeke;Niels Hoste;Defender;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/niels-hoste/profil/spieler/1484886
+1ste Nationale VV;Racing Club Harelbeke;Oscar Van Mol;Centre-Back;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/oscar-van-mol/profil/spieler/940267
+1ste Nationale VV;Racing Club Harelbeke;Rayan Daoudi;Striker;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/rayan-daoudi/profil/spieler/1522467
+1ste Nationale VV;Racing Club Harelbeke;Tristan Vanden Berghe;Left-Back;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/tristan-vanden-berghe/profil/spieler/1364963
+1ste Nationale VV;Racing Club Harelbeke;Tuur Daenens;Midfielder;19;-;-;UNKNOWN;;https://www.transfermarkt.com/tuur-daenens/profil/spieler/1567121
+1ste Nationale VV;Racing Club Harelbeke;Warre Coopman;Right-Back;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/warre-coopman/profil/spieler/870705
+1ste Nationale VV;Racing Club Harelbeke;Yarneh Deman;Midfielder;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/yarneh-deman/profil/spieler/1509976
+1ste Nationale VV;Racing Club Harelbeke;Ziyad Sadik;Striker;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ziyad-sadik/profil/spieler/1507231
+1ste Nationale FFA;Renaissance AEC Mons;Allan Tshimanga;Defensive Midfield;25;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/allan-tshimanga/profil/spieler/781809
+1ste Nationale FFA;Renaissance AEC Mons;Antoine De Bodt;Central Midfield;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/antoine-de-bodt/profil/spieler/569500
+1ste Nationale FFA;Renaissance AEC Mons;Henri Maton;Goalkeeper;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/henri-maton/profil/spieler/810062
+1ste Nationale FFA;Renaissance AEC Mons;Jordan Dauchy;Centre-Back;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jordan-dauchy/profil/spieler/651245
+1ste Nationale FFA;Renaissance AEC Mons;Jérémy Vachoux;Goalkeeper;32;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/jeremy-vachoux/profil/spieler/203770
+1ste Nationale FFA;Renaissance AEC Mons;Lars Montegnies;Central Midfield;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lars-montegnies/profil/spieler/1159792
+1ste Nationale FFA;Renaissance AEC Mons;Leslie Bamona Lubelu;Right Winger;33;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/leslie-bamona-lubelu/profil/spieler/215128
+1ste Nationale FFA;Renaissance AEC Mons;Sue-Lae McCalla;Centre-Back;33;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/sue-lae-mccalla/profil/spieler/525937
+3. Liga;Rot-Weiss Essen;Jaka Cuber Potocnik;Centre-Forward;21;30/06/2027;€300k;UNKNOWN;;https://www.transfermarkt.com/jaka-cuber-potocnik/profil/spieler/940198
+3. Liga;Rot-Weiss Essen;Romero Gerres;Goalkeeper;18;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/romero-gerres/profil/spieler/982127
+1ste Nationale FFA;Royal Union Tubize-Braine;Franck Vaast;Centre-Forward;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/franck-vaast/profil/spieler/814551
+1ste Nationale FFA;Royal Union Tubize-Braine;Joël Ngoya;Central Midfield;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/joel-ngoya/profil/spieler/707227
+1ste Nationale FFA;Royal Union Tubize-Braine;Loick Wola-Wetshay;Centre-Back;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/loick-wola-wetshay/profil/spieler/1171186
+1ste Nationale FFA;Royal Union Tubize-Braine;Lorenzo Butera;Central Midfield;23;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/lorenzo-butera/profil/spieler/1000987
+1ste Nationale FFA;Royal Union Tubize-Braine;Maxime Migliore;Attacking Midfield;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/maxime-migliore/profil/spieler/702628
+1ste Nationale FFA;Royal Union Tubize-Braine;Nicolas Rajsel;Left Winger;33;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/nicolas-rajsel/profil/spieler/164939
+1ste Nationale FFA;Royal Union Tubize-Braine;Ognjen Obradovic;Left Winger;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ognjen-obradovic/profil/spieler/1227103
+1ste Nationale FFA;Royal Union Tubize-Braine;Oleg Kuchinska;Defensive Midfield;26;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/oleg-kuchinska/profil/spieler/858239
+1ste Nationale FFA;Royal Union Tubize-Braine;Othman El Ouamari;Right Winger;22;-;-;UNKNOWN;;https://www.transfermarkt.com/othman-el-ouamari/profil/spieler/964125
+1ste Nationale FFA;Royal Union Tubize-Braine;Richard Makutungu;Right Winger;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/richard-makutungu/profil/spieler/612660
+1ste Nationale FFA;Royal Union Tubize-Braine;Shean Garlito;Central Midfield;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/shean-garlito/profil/spieler/250979
+1ste Nationale FFA;Royal Union Tubize-Braine;Yoni Atamena;Left Winger;23;-;-;UNKNOWN;;https://www.transfermarkt.com/yoni-atamena/profil/spieler/924173
+3. Liga;SC Fortuna Köln;Florian Heister;Right-Back;29;30/06/2028;€150k;UNKNOWN;;https://www.transfermarkt.com/florian-heister/profil/spieler/333661
+3. Liga;SC Verl;André Leipold;Right Winger;24;30/06/2027;€225k;UNKNOWN;;https://www.transfermarkt.com/andre-leipold/profil/spieler/828356
+3. Liga;SC Verl;Emmanuel Bamba;Left-Back;18;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/emmanuel-bamba/profil/spieler/1412872
+3. Liga;SC Verl;Janne Berner;Right-Back;21;30/06/2027;€300k;UNKNOWN;;https://www.transfermarkt.com/janne-berner/profil/spieler/907468
+3. Liga;SC Verl;Julian Fuest;Goalkeeper;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/julian-fuest/profil/spieler/934668
+3. Liga;SG Sonnenhof Großaspach;Lorenz Ender;Right Winger;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lorenz-ender/profil/spieler/528222
+3. Liga;SG Sonnenhof Großaspach;Marius Uhl;Centre-Back;26;30/06/2028;€125k;UNKNOWN;;https://www.transfermarkt.com/marius-uhl/profil/spieler/578879
+3. Liga;SG Sonnenhof Großaspach;Mark Gashi;Left-Back;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mark-gashi/profil/spieler/1045914
+3. Liga;SG Sonnenhof Großaspach;Niklas Pollex;Attacking Midfield;29;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/niklas-pollex/profil/spieler/408573
+3. Liga;SG Sonnenhof Großaspach;Tim Schulz;Goalkeeper;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/tim-schulz/profil/spieler/1031765
+1ste Nationale VV;SK Roeselare;Arne De Schepper;Right-Back;25;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/arne-de-schepper/profil/spieler/705992
+1ste Nationale VV;SK Roeselare;Bas Merci;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/bas-merci/profil/spieler/1098805
+1ste Nationale VV;SK Roeselare;Daan Debouver;Attacking Midfield;33;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/daan-debouver/profil/spieler/325375
+1ste Nationale VV;SK Roeselare;Guess Depuydt;Midfielder;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/guess-depuydt/profil/spieler/1567122
+1ste Nationale VV;SK Roeselare;Guillaume Cnudde;Central Midfield;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/guillaume-cnudde/profil/spieler/1080911
+1ste Nationale VV;SK Roeselare;Henri Van Marcke;Centre-Back;27;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/henri-van-marcke/profil/spieler/615109
+1ste Nationale VV;SK Roeselare;Jari Van Cauwenberghe;Central Midfield;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jari-van-cauwenberghe/profil/spieler/1467501
+1ste Nationale VV;SK Roeselare;Jelco Schamp;Central Midfield;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jelco-schamp/profil/spieler/905839
+1ste Nationale VV;SK Roeselare;João Correia;Left-Back;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/joao-correia/profil/spieler/1524528
+1ste Nationale VV;SK Roeselare;Justin Hallaert;Attacking Midfield;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/justin-hallaert/profil/spieler/1317707
+1ste Nationale VV;SK Roeselare;Leandro Depaepe;Goalkeeper;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/leandro-depaepe/profil/spieler/536751
+1ste Nationale VV;SK Roeselare;Mathijs Maerten;Centre-Back;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mathijs-maerten/profil/spieler/1480635
+1ste Nationale VV;SK Roeselare;Michiel Clyncke;Right Winger;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/michiel-clyncke/profil/spieler/374014
+1ste Nationale VV;SK Roeselare;Rens Verhooghe;Left-Back;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/rens-verhooghe/profil/spieler/321567
+1ste Nationale VV;SK Roeselare;Sam Valcke;Centre-Forward;33;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/sam-valcke/profil/spieler/323963
+1ste Nationale VV;SK Roeselare;Stan Braem;Centre-Forward;27;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/stan-braem/profil/spieler/880610
+1ste Nationale VV;SK Roeselare;Stephan Rekhov;Right-Back;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/stephan-rekhov/profil/spieler/1512714
+3. Liga;SSV Jahn Regensburg;Alexander Weidinger;Goalkeeper;29;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/alexander-weidinger/profil/spieler/255633
+3. Liga;SSV Jahn Regensburg;Arian Dizdarevic;Left Midfield;17;30/06/2029;€100k;UNKNOWN;;https://www.transfermarkt.com/arian-dizdarevic/profil/spieler/1302747
+3. Liga;SSV Jahn Regensburg;Zeteny Jano;Left Midfield;21;30/06/2028;€400k;UNKNOWN;;https://www.transfermarkt.com/zeteny-jano/profil/spieler/692474
+3. Liga;SV Waldhof Mannheim;Jascha Brandt;Left Winger;23;30/06/2027;€150k;UNKNOWN;;https://www.transfermarkt.com/jascha-brandt/profil/spieler/603734
+League Two A;Shandong Taishan B;Bowei Niu;Goalkeeper;20;-;-;UNKNOWN;;https://www.transfermarkt.com/bowei-niu/profil/spieler/1244202
+League Two A;Shandong Taishan B;Qiwei Liu;Goalkeeper;20;31/12/2026;€125k;UNKNOWN;;https://www.transfermarkt.com/qiwei-liu/profil/spieler/1242741
+League Two A;Shandong Taishan B;Zhenhao Fu;Goalkeeper;20;-;-;UNKNOWN;;https://www.transfermarkt.com/zhenhao-fu/profil/spieler/1244207
+1ste Nationale FFA;Standard de Liège 16 FC;Farès Boujlifa;Striker;19;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/fares-boujlifa/profil/spieler/1205641
+1ste Nationale FFA;Standard de Liège 16 FC;Rayan Akheddiou;Attacking Midfield;19;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/rayan-akheddiou/profil/spieler/1201579
+3. Liga;TSG 1899 Hoffenheim II;Maxime Ndong-Penda;Centre-Back;19;30/06/2027;€75k;UNKNOWN;;https://www.transfermarkt.com/maxime-ndong-penda/profil/spieler/1058036
+3. Liga;TSV Havelse;Fynn Wolter;Goalkeeper;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/fynn-wolter/profil/spieler/1407160
+3. Liga;TSV Havelse;Jannik Oltrogge;Defensive Midfield;31;30/06/2028;€100k;UNKNOWN;;https://www.transfermarkt.com/jannik-oltrogge/profil/spieler/325155
+3. Liga;TSV Havelse;Joel Darko Ampem;Central Midfield;19;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/joel-darko-ampem/profil/spieler/1490222
+1ste Nationale FFA;Union Rochefortoise;Andel Pascal Sarr;Central Midfield;36;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/andel-pascal-sarr/profil/spieler/441985
+1ste Nationale FFA;Union Rochefortoise;Axel Bonemme;Left-Back;33;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/axel-bonemme/profil/spieler/92161
+1ste Nationale FFA;Union Rochefortoise;Axel Lauwrensens;Attacking Midfield;26;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/axel-lauwrensens/profil/spieler/831304
+1ste Nationale FFA;Union Rochefortoise;Grégory Lazitch;Centre-Back;34;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/gregory-lazitch/profil/spieler/96193
+1ste Nationale FFA;Union Rochefortoise;Jarno Libert;Right-Back;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jarno-libert/profil/spieler/526737
+1ste Nationale FFA;Union Rochefortoise;Lucas Baudot;Centre-Back;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lucas-baudot/profil/spieler/650394
+1ste Nationale FFA;Union Rochefortoise;Lucca Ferrera;Central Midfield;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lucca-ferrera/profil/spieler/1228955
+1ste Nationale FFA;Union Rochefortoise;Noah El Biache;Right Midfield;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/noah-el-biache/profil/spieler/893198
+1ste Nationale FFA;Union Rochefortoise;Samuel Ndecky;Left Winger;26;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/samuel-ndecky/profil/spieler/592987
+1ste Nationale FFA;Union Rochefortoise;Thomas Vanhecke;Central Midfield;29;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/thomas-vanhecke/profil/spieler/478638
+1ste Nationale FFA;Union Rochefortoise;Tom Roufosse;Goalkeeper;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/tom-roufosse/profil/spieler/583218
+1ste Nationale FFA;Union Saint-Gilloise U23;Adam Adou;Striker;20;-;-;UNKNOWN;;https://www.transfermarkt.com/adam-adou/profil/spieler/1453239
+1ste Nationale FFA;Union Saint-Gilloise U23;Ayoub Moussaoui;Right Winger;19;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/ayoub-moussaoui/profil/spieler/1450866
+1ste Nationale FFA;Union Saint-Gilloise U23;Francisco Rosado;Striker;20;-;-;UNKNOWN;;https://www.transfermarkt.com/francisco-rosado/profil/spieler/1460699
+1ste Nationale FFA;Union Saint-Gilloise U23;Hamza Tabich;Striker;19;-;-;UNKNOWN;;https://www.transfermarkt.com/hamza-tabich/profil/spieler/1381543
+1ste Nationale FFA;Union Saint-Gilloise U23;Jordan Botaka;Right Winger;33;-;-;UNKNOWN;;https://www.transfermarkt.com/jordan-botaka/profil/spieler/196860
+1ste Nationale FFA;Union Saint-Gilloise U23;Mohamed Asri;Midfielder;22;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mohamed-asri/profil/spieler/1052800
+1ste Nationale FFA;Union Saint-Gilloise U23;Naji Chifor;Defender;17;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/naji-chifor/profil/spieler/1590298
+1ste Nationale FFA;Union Saint-Gilloise U23;Tom Steenhaut;Centre-Back;18;-;-;UNKNOWN;;https://www.transfermarkt.com/tom-steenhaut/profil/spieler/1318196
+1ste Nationale FFA;Union Saint-Gilloise U23;Walid Jaouhari;Defender;20;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/walid-jaouhari/profil/spieler/1408205
+1ste Nationale FFA;Union Saint-Gilloise U23;Yanis Di Franco;Striker;17;-;-;UNKNOWN;;https://www.transfermarkt.com/yanis-di-franco/profil/spieler/1460573
+3. Liga;VfB Stuttgart II;Joyeux Masanka Bungi;Left-Back;19;30/06/2027;€400k;UNKNOWN;;https://www.transfermarkt.com/joyeux-masanka-bungi/profil/spieler/990146
+2. Division A (Phase 1);Volgar Astrakhan;Aleksey Mamin;Goalkeeper;27;30/06/2027;€250k;UNKNOWN;;https://www.transfermarkt.com/aleksey-mamin/profil/spieler/598828
+RL Süd;Wolfsberger AC II;Elias Müller;Goalkeeper;21;-;-;UNKNOWN;;https://www.transfermarkt.com/elias-muller/profil/spieler/725006
+RL Süd;Wolfsberger AC II;Julian Vogt;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/julian-vogt/profil/spieler/1174721
+3. Liga;Würzburger Kickers;Batuhan Gögce;Central Midfield;21;30/06/2027;€75k;UNKNOWN;;https://www.transfermarkt.com/batuhan-gogce/profil/spieler/814981
+3. Liga;Würzburger Kickers;Dorian Deppner;Midfielder;17;30/06/2027;€25k;UNKNOWN;;https://www.transfermarkt.com/dorian-deppner/profil/spieler/1434339
+3. Liga;Würzburger Kickers;Nathan de Medina;Centre-Back;28;30/06/2027;€150k;UNKNOWN;;https://www.transfermarkt.com/nathan-de-medina/profil/spieler/285951
+3. Liga;Würzburger Kickers;Tiago De Moura;Centre-Forward;19;30/06/2027;€10k;UNKNOWN;;https://www.transfermarkt.com/tiago-de-moura/profil/spieler/1267598
+1ste Nationale FFA;Zébra Élites;Leandro Diaz Rodriguez;Centre-Forward;16;-;-;UNKNOWN;;https://www.transfermarkt.com/leandro-diaz-rodriguez/profil/spieler/1367608
+1ste Nationale FFA;Zébra Élites;Léandre Kayinamura;Striker;17;-;-;UNKNOWN;;https://www.transfermarkt.com/leandre-kayinamura/profil/spieler/1380949
+1ste Nationale FFA;Zébra Élites;Oscar Latteur;Right Winger;17;-;-;UNKNOWN;;https://www.transfermarkt.com/oscar-latteur/profil/spieler/1334517
+1ste Nationale FFA;Zébra Élites;Rafael Incognito;Central Midfield;18;-;-;UNKNOWN;;https://www.transfermarkt.com/rafael-incognito/profil/spieler/1318688
+1ste Nationale FFA;Zébra Élites;Ryan George;Centre-Back;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ryan-george/profil/spieler/1160815
+1ste Nationale FFA;Zébra Élites;Sami Kolgjini;Right Winger;18;-;-;UNKNOWN;;https://www.transfermarkt.com/sami-kolgjini/profil/spieler/1321936
+1. Liga gr. 2;Grasshopper Club Zürich U21;Lionel Thüring;Goalkeeper;19;-;-;NO_AGENT;no agent;https://www.transfermarkt.com/lionel-thuring/profil/spieler/1223489
+Regionalliga Südwest;SV Sandhausen;Luis Idjakovic;Goalkeeper;24;30/06/2027;€25k;RELATIVES;Relatives;https://www.transfermarkt.com/luis-idjakovic/profil/spieler/521166
+1. Liga gr. 1;FC Sion U21;Bruno Magalhães Martins;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/bruno-magalhaes-martins/profil/spieler/1272103
+1. Liga gr. 1;FC Sion U21;Gabriel Santos;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/gabriel-santos/profil/spieler/1264838
+Norsk Tipping-Ligaen avd. 4;Odds BK II;Eirik Dahl Krugerud;Defender;17;-;-;UNKNOWN;;https://www.transfermarkt.com/eirik-dahl-krugerud/profil/spieler/1536546
+Norsk Tipping-Ligaen avd. 4;Odds BK II;Sebastian Semb;Goalkeeper;19;-;-;UNKNOWN;;https://www.transfermarkt.com/sebastian-semb/profil/spieler/1263069
+Norsk Tipping-Ligaen avd. 4;Odds BK II;Storm Leander Øines;Goalkeeper;19;-;-;UNKNOWN;;https://www.transfermarkt.com/storm-leander-oines/profil/spieler/1257985
+Derde Divisie A;SC Genemuiden;Hidde Streutker;Goalkeeper;31;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/hidde-streutker/profil/spieler/509705
+Derde Divisie A;SC Genemuiden;Kris Lindeboom;Goalkeeper;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/kris-lindeboom/profil/spieler/1303829
+Derde Divisie A;SC Genemuiden;Xavier van Dijk;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/xavier-van-dijk/profil/spieler/1171818
+Burgenlandliga;SC Neusiedl/See;Alexander Mödlhammer;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/alexander-modlhammer/profil/spieler/888327
+Burgenlandliga;SC Neusiedl/See;Maximilian Rupp;Goalkeeper;25;-;-;UNKNOWN;;https://www.transfermarkt.com/maximilian-rupp/profil/spieler/1462553
+Burgenlandliga;SC Neusiedl/See;Sebastian Praster;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/sebastian-praster/profil/spieler/1581146
+Norsk Tipping-Ligaen avd. 6;Sarpsborg 08 FF II;August Fasting Risbråthe;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/august-fasting-risbrathe/profil/spieler/1219512
+Norsk Tipping-Ligaen avd. 6;Sarpsborg 08 FF II;Jesper Holter Skjøren;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/jesper-holter-skjoren/profil/spieler/1393159
+Norsk Tipping-Ligaen avd. 6;Sarpsborg 08 FF II;John Rune Alvbåge;Goalkeeper;44;-;-;UNKNOWN;;https://www.transfermarkt.com/john-rune-alvbage/profil/spieler/22012
+National 1 - Grp. B;Stade Briochin;Abdoul Diaby Malick;Centre-Back;21;30/06/2026;€200k;UNKNOWN;;https://www.transfermarkt.com/abdoul-diaby-malick/profil/spieler/1155308
+National 1 - Grp. B;Stade Briochin;Franck L'Hostis;Goalkeeper;36;-;€75k;UNKNOWN;;https://www.transfermarkt.com/franck-lhostis/profil/spieler/122881
+National 1 - Grp. A;US Créteil Football;Hugo Cointard;Goalkeeper;30;-;-;UNKNOWN;;https://www.transfermarkt.com/hugo-cointard/profil/spieler/400852
+Norsk Tipping-Ligaen avd. 1;Vålerenga Fotball II;Alexander Ordal;Goalkeeper;18;31/12/2030;-;UNKNOWN;;https://www.transfermarkt.com/alexander-ordal/profil/spieler/1325991
+Norsk Tipping-Ligaen avd. 1;Vålerenga Fotball II;Sidner Aspenes Flataukan;Goalkeeper;19;-;-;UNKNOWN;;https://www.transfermarkt.com/sidner-aspenes-flataukan/profil/spieler/1538308
+Norsk Tipping-Ligaen avd. 1;Vålerenga Fotball II;Thomas Stavnem;Goalkeeper;26;-;-;UNKNOWN;;https://www.transfermarkt.com/thomas-stavnem/profil/spieler/921078
+3.Lig Grup 1;Zonguldak Spor FK;Bilal Karataş;Goalkeeper;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/bilal-karatas/profil/spieler/715756
+3.Lig Grup 1;Zonguldak Spor FK;Osman Yağız Topçu;Goalkeeper;19;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/osman-yagiz-topcu/profil/spieler/1303287
+Japan Football League;azul claro Numazu;Hiroto Maeda;Goalkeeper;23;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/hiroto-maeda/profil/spieler/1350342
+Japan Football League;azul claro Numazu;Koji Yamada;Goalkeeper;27;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/koji-yamada/profil/spieler/492724
+Hokkaido Soccer League;BTOP Hokkaido;Kaito Konishi;Defender;19;-;-;UNKNOWN;;https://www.transfermarkt.com/kaito-konishi/profil/spieler/1550294
+Hokkaido Soccer League;BTOP Hokkaido;Keisuke Sugai;Goalkeeper;45;-;-;UNKNOWN;;https://www.transfermarkt.com/keisuke-sugai/profil/spieler/804232
+Hokkaido Soccer League;BTOP Hokkaido;Kosuke Tsushima;Goalkeeper;19;-;-;UNKNOWN;;https://www.transfermarkt.com/kosuke-tsushima/profil/spieler/1381526
+Oberliga Baden-Württemberg;Bahlinger SC;Dennis Klose;Goalkeeper;31;30/06/2027;€25k;UNKNOWN;;https://www.transfermarkt.com/dennis-klose/profil/spieler/155941
+Oberliga Baden-Württemberg;Bahlinger SC;Luca Volk;Goalkeeper;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/luca-volk/profil/spieler/1460089
+Oberliga Baden-Württemberg;Bahlinger SC;Simon Heering;Goalkeeper;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/simon-heering/profil/spieler/875974
+3de Nationale VV A;Berchem Sport;Esper Michielsen;Goalkeeper;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/esper-michielsen/profil/spieler/1386797
+3de Nationale VV A;Berchem Sport;Jitse Vandermotten;Goalkeeper;23;-;-;UNKNOWN;;https://www.transfermarkt.com/jitse-vandermotten/profil/spieler/1022279
+Lowland League;Celtic FC B;Hayden Borland;Centre-Back;18;30/04/2029;-;UNKNOWN;;https://www.transfermarkt.com/hayden-borland/profil/spieler/1186473
+Mittelrheinliga;Eintracht Hohkeppel;Darlington Ticha;Goalkeeper;;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/darlington-ticha/profil/spieler/907759
+Mittelrheinliga;Eintracht Hohkeppel;Justin Strauch;Goalkeeper;;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/justin-strauch/profil/spieler/593982
+Mittelrheinliga;Eintracht Hohkeppel;Rocco Zinnato;Goalkeeper;;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/rocco-zinnato/profil/spieler/1383173
+2. Liga Inter - Gr. 2;FC Farvagny/Ogoz;Elio Chenaux;Defender;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/elio-chenaux/profil/spieler/1585331
+2. Liga Inter - Gr. 2;FC Farvagny/Ogoz;Jan Baumann;Goalkeeper;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jan-baumann/profil/spieler/1091200
+2. Liga Inter - Gr. 2;FC Farvagny/Ogoz;Maxime Peiry;Goalkeeper;24;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/maxime-peiry/profil/spieler/901661
+National 2 - Grp. B;FC Nantes B;Yanel Zézé;Goalkeeper;18;30/06/2029;-;UNKNOWN;;https://www.transfermarkt.com/yanel-zeze/profil/spieler/1227109
+2. Liga Inter - Gr. 4;FC Rotkreuz;Jan Studerus;Goalkeeper;28;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/jan-studerus/profil/spieler/345877
+2. Liga Inter - Gr. 4;FC Rotkreuz;João Ngongo;Goalkeeper;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/joao-ngongo/profil/spieler/198483
+2. Liga Inter - Gr. 4;FC Rotkreuz;Mauro Vinzens;Goalkeeper;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mauro-vinzens/profil/spieler/892208
+National 2 - Grp. G;Olympique de Marseille B;Cheick Diarra;Goalkeeper;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/cheick-diarra/profil/spieler/1329050
+Bayernliga Nord;SV Viktoria Aschaffenburg;Elias Derwein;Goalkeeper;24;30/06/2027;€10k;UNKNOWN;;https://www.transfermarkt.com/elias-derwein/profil/spieler/815067
+Bayernliga Nord;SV Viktoria Aschaffenburg;Justin Berg;Defender;20;30/06/2027;€25k;UNKNOWN;;https://www.transfermarkt.com/justin-berg/profil/spieler/1430367
+Bayernliga Nord;SV Viktoria Aschaffenburg;Ricardo Döbert;Goalkeeper;35;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/ricardo-dobert/profil/spieler/148741
+OL RP/Saar;TSV Schott Mainz;Robin Balters;Goalkeeper;25;30/06/2026;€50k;UNKNOWN;;https://www.transfermarkt.com/robin-balters/profil/spieler/613265
+Hokushin'etsu Football League (Div.1);Toyama Shinjo Club;Asahi Ohara;Goalkeeper;27;-;-;UNKNOWN;;https://www.transfermarkt.com/asahi-ohara/profil/spieler/1002546
+Hokushin'etsu Football League (Div.1);Toyama Shinjo Club;Naoki Tamura;Goalkeeper;26;-;-;UNKNOWN;;https://www.transfermarkt.com/naoki-tamura/profil/spieler/1126853
+Hokushin'etsu Football League (Div.1);Toyama Shinjo Club;Tsubasa Imamura;Goalkeeper;23;-;-;UNKNOWN;;https://www.transfermarkt.com/tsubasa-imamura/profil/spieler/1394582
+2. Liga Inter - Gr. 3;Zürich City SC;Christian Leite;Goalkeeper;40;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/christian-leite/profil/spieler/45023
+2. Liga Inter - Gr. 3;Zürich City SC;Labinot Bytyci;Goalkeeper;32;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/labinot-bytyci/profil/spieler/510981
+VL Sachsen-Anhalt;SV Dessau 05;Moritz Singbeil;Centre-Back;24;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/moritz-singbeil/profil/spieler/706768
+VL Südwest;Arminia Ludwigshafen;Jhon Mosquera;Centre-Back;30;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/jhon-mosquera/profil/spieler/626676
+VL Südwest;Arminia Ludwigshafen;Kevin Urban;Goalkeeper;30;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/kevin-urban/profil/spieler/237270
+VL Südwest;Arminia Ludwigshafen;Peter Klug;Goalkeeper;;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/peter-klug/profil/spieler/93717
+VL Südbaden;FC Denzlingen;Dustin Jund;Goalkeeper;;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/dustin-jund/profil/spieler/1145636
+VL Südbaden;FC Denzlingen;Marvin Mettenberger;Goalkeeper;;-;-;UNKNOWN;;https://www.transfermarkt.com/marvin-mettenberger/profil/spieler/527267
+LL Bayern-S/W;FC Memmingen II;Felix Unger;Goalkeeper;22;30/06/2027;€10k;UNKNOWN;;https://www.transfermarkt.com/felix-unger/profil/spieler/991115
+LL Bayern-S/W;FC Memmingen II;Luis Stanzel;Goalkeeper;18;-;-;UNKNOWN;;https://www.transfermarkt.com/luis-stanzel/profil/spieler/1147226
+LL Bayern-S/W;FC Memmingen II;Paul Schmid;Goalkeeper;20;-;-;UNKNOWN;;https://www.transfermarkt.com/paul-schmid/profil/spieler/1116280
+LL Mittelrhein 1;FV Bonn-Endenich 08;Malte Eisberg;Goalkeeper;;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/malte-eisberg/profil/spieler/762895
+LL Mittelrhein 1;FV Bonn-Endenich 08;Mats Kersting;Goalkeeper;;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mats-kersting/profil/spieler/1593182
+LL Mittelrhein 1;FV Bonn-Endenich 08;Max Priebe;Goalkeeper;;-;-;UNKNOWN;;https://www.transfermarkt.com/max-priebe/profil/spieler/1531458
+Hokushin'etsu Football League (Div.2);SR Komatsu;Norito Otsuka;Goalkeeper;27;-;-;UNKNOWN;;https://www.transfermarkt.com/norito-otsuka/profil/spieler/1251762
+Hokushin'etsu Football League (Div.2);SR Komatsu;Ryoji Takata;Goalkeeper;32;-;-;UNKNOWN;;https://www.transfermarkt.com/ryoji-takata/profil/spieler/874491
+Hokushin'etsu Football League (Div.2);SR Komatsu;Toshiki Hira;Goalkeeper;28;-;-;UNKNOWN;;https://www.transfermarkt.com/toshiki-hira/profil/spieler/874490
+VL Sachsen-Anhalt;SV Dessau 05;Linus Rosner;Goalkeeper;;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/linus-rosner/profil/spieler/1568682
+VL Sachsen-Anhalt;SV Dessau 05;Nico Becker;Goalkeeper;;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/nico-becker/profil/spieler/357702
+Landesliga Hammonia;SV Halstenbek-Rellingen;Alessio Höcker;Goalkeeper;;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/alessio-hocker/profil/spieler/806667
+Landesliga Hammonia;SV Halstenbek-Rellingen;Dario Ivanko;Defender;;-;-;UNKNOWN;;https://www.transfermarkt.com/dario-ivanko/profil/spieler/385673
+Landesliga Hammonia;SV Halstenbek-Rellingen;Yves-Anthony Weitze;Goalkeeper;;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/yves-anthony-weitze/profil/spieler/1079228
+LL Bayern-N/O;TSC Neuendettelsau;Luca Glanz;Defender;20;30/06/2027;€10k;UNKNOWN;;https://www.transfermarkt.com/luca-glanz/profil/spieler/1396407
+LL Bayern-N/O;TSC Neuendettelsau;Luis Weißmann;Goalkeeper;;-;-;UNKNOWN;;https://www.transfermarkt.com/luis-weissmann/profil/spieler/1568329
+LL Bayern-N/O;TSC Neuendettelsau;Simon Einzinger;Goalkeeper;;30/06/2026;-;UNKNOWN;;https://www.transfermarkt.com/simon-einzinger/profil/spieler/1417683
+VL Württemberg;TSV Berg;André Port;Goalkeeper;;-;-;UNKNOWN;;https://www.transfermarkt.com/andre-port/profil/spieler/1072920
+VL Württemberg;TSV Berg;Julian Klein;Defender;;-;-;UNKNOWN;;https://www.transfermarkt.com/julian-klein/profil/spieler/1177498
