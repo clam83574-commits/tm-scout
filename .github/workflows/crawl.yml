@@ -76,6 +76,13 @@ jobs:
           echo "запускаю: scout.py $ARGS"
           python scout.py $ARGS
 
+      # Отдельным проходом, потому что это не лига: Transfermarkt держит их
+      # псевдоклубом 515. Дёшево (~255 запросов) и меняется быстрее лиг,
+      # поэтому собираем каждую неделю. Без этого шага заливка в D1 делает
+      # DROP TABLE, и игроки без клуба тихо пропадают из бота.
+      - name: Игроки без клуба
+        run: python scout.py --free-agents --workers 10 --delay 0.5,1.0
+
       - name: Что изменилось за неделю
         run: python diff.py --since 8 --out out/weekly-diff.md
 
@@ -88,6 +95,7 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add out/candidates.csv out/candidates.json out/weekly-diff.md
           git diff --staged --quiet || git commit -m "сбор $(date -u +%Y-%m-%d): обновление кандидатов"
+          git pull --rebase origin main
           git push
 
       - name: Сложить базу в артефакты

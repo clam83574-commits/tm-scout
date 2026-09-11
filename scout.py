@@ -696,6 +696,39 @@ def export_json(c, statuses, path):
     print("JSON -> %s" % path)
 
 
+def export_d1_append(comp, path=None):
+    """SQL для ДОЗАЛИВКИ одной группы в D1, без DROP TABLE.
+
+    Обычная выгрузка заменяет таблицу целиком - это верно, когда база
+    содержит всё. Но если в базе на стороне CI какой-то группы нет (например,
+    прогон стартовал со старым файлом workflow), полная замена её сотрёт.
+    Тогда нужен именно дописывающий файл.
+    """
+    c = db_init()
+    marks = ",".join("?" * 3)
+    rows = c.execute("SELECT %s FROM players WHERE comp=? AND agent_status IN (%s)"
+                     % (",".join(JSON_COLS), marks),
+                     (comp, "NO_AGENT", "RELATIVES", "UNKNOWN")).fetchall()
+
+    def lit(v):
+        if v is None:
+            return "NULL"
+        if isinstance(v, int):
+            return str(v)
+        return "'" + str(v).replace("'", "''") + "'"
+
+    out = ["DELETE FROM players WHERE comp = '%s';" % comp.replace("'", "''")]
+    for r in rows:
+        out.append("INSERT OR REPLACE INTO players (%s) VALUES (%s);"
+                   % (",".join(JSON_COLS), ", ".join(lit(v) for v in r)))
+    path = Path(path or ROOT / "out" / ("d1-append-%s.sql" % comp.lower()))
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(out), encoding="utf-8")
+    c.close()
+    print("дозаливка %s: %d строк -> %s" % (comp, len(rows), path))
+    return path
+
+
 def export_d1(c, statuses, path):
     """SQL для заливки в Cloudflare D1: wrangler d1 execute --file=..."""
     marks = ",".join("?" * len(statuses))
@@ -779,6 +812,8 @@ if __name__ == "__main__":
                     help="добавить молодёжные лиги (80 лиг, ~28 000 игроков)")
     ap.add_argument("--free-agents", action="store_true",
                     help="собрать игроков без клуба (~250 человек)")
+    ap.add_argument("--d1-append", metavar="COMP", default="",
+                    help="сделать SQL дозаливки одной группы (без DROP TABLE)")
     ap.add_argument("--export", action="store_true", help="только выгрузить CSV")
     ap.add_argument("--normalize", action="store_true",
                     help="только досчитать поля сортировки")
@@ -793,6 +828,9 @@ if __name__ == "__main__":
         sys.exit(0)
     if a.export:
         export()          # export сам нормализует
+        sys.exit(0)
+    if a.d1_append:
+        export_d1_append(a.d1_append)
         sys.exit(0)
     if a.free_agents:
         t0 = time.time()

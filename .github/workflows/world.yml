@@ -27,6 +27,9 @@ on:
       max_tier:
         description: "До какого дивизиона (7 = все лиги, 3 = только профи)"
         default: "7"
+      youth:
+        description: "Брать молодёжные лиги (80 лиг, ~28 000 игроков)"
+        default: "true"
 
 permissions:
   contents: write
@@ -35,6 +38,7 @@ env:
   WORKERS: ${{ github.event.inputs.workers || '10' }}
   DELAY: ${{ github.event.inputs.delay || '0.5,1.0' }}
   MAX_TIER: ${{ github.event.inputs.max_tier || '7' }}
+  YOUTH: ${{ github.event.inputs.youth || 'true' }}
   CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
   CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
@@ -47,16 +51,24 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12", cache: pip }
       - run: pip install -r requirements.txt && playwright install --with-deps chromium
+      # ОДИН кэш на оба прогона, недельный и месячный. Раньше у каждого был
+      # свой, но в базу бота оба заливают ПОЛНУЮ замену - и первый же
+      # недельный прогон после месячного стирал бы весь мир, оставив две
+      # страны. Общая база: недельный освежает приоритетные лиги, месячный
+      # обходит всё, заливается всегда целиком.
       - name: Забрать базу прошлого прогона
         uses: actions/cache@v4
         with:
           path: data
-          key: world-db-${{ github.run_id }}
-          restore-keys: world-db-
+          key: scout-db-${{ github.run_id }}
+          restore-keys: scout-db-
       - name: Перепись лиг
         run: python discover.py --workers "$WORKERS" --delay "$DELAY"
       - name: Часть 1 из 4
-        run: python scout.py --world --shard 1/4 --max-tier "$MAX_TIER" --workers "$WORKERS" --delay "$DELAY"
+        run: |
+          YARG=""
+          if [ "$YOUTH" = "true" ]; then YARG="--youth"; fi
+          python scout.py --world --shard 1/4 --max-tier "$MAX_TIER" $YARG --workers "$WORKERS" --delay "$DELAY"
       - uses: actions/upload-artifact@v4
         with: { name: db-1, path: data/scout.sqlite, retention-days: 3 }
       - uses: actions/upload-artifact@v4
@@ -76,7 +88,10 @@ jobs:
       - uses: actions/download-artifact@v4
         with: { name: comps, path: . }
       - name: Часть 2 из 4
-        run: python scout.py --world --shard 2/4 --max-tier "$MAX_TIER" --workers "$WORKERS" --delay "$DELAY"
+        run: |
+          YARG=""
+          if [ "$YOUTH" = "true" ]; then YARG="--youth"; fi
+          python scout.py --world --shard 2/4 --max-tier "$MAX_TIER" $YARG --workers "$WORKERS" --delay "$DELAY"
       - uses: actions/upload-artifact@v4
         with: { name: db-2, path: data/scout.sqlite, retention-days: 3 }
 
@@ -94,7 +109,10 @@ jobs:
       - uses: actions/download-artifact@v4
         with: { name: comps, path: . }
       - name: Часть 3 из 4
-        run: python scout.py --world --shard 3/4 --max-tier "$MAX_TIER" --workers "$WORKERS" --delay "$DELAY"
+        run: |
+          YARG=""
+          if [ "$YOUTH" = "true" ]; then YARG="--youth"; fi
+          python scout.py --world --shard 3/4 --max-tier "$MAX_TIER" $YARG --workers "$WORKERS" --delay "$DELAY"
       - uses: actions/upload-artifact@v4
         with: { name: db-3, path: data/scout.sqlite, retention-days: 3 }
 
@@ -112,7 +130,15 @@ jobs:
       - uses: actions/download-artifact@v4
         with: { name: comps, path: . }
       - name: Часть 4 из 4
-        run: python scout.py --world --shard 4/4 --max-tier "$MAX_TIER" --workers "$WORKERS" --delay "$DELAY"
+        run: |
+          YARG=""
+          if [ "$YOUTH" = "true" ]; then YARG="--youth"; fi
+          python scout.py --world --shard 4/4 --max-tier "$MAX_TIER" $YARG --workers "$WORKERS" --delay "$DELAY"
+
+      # См. тот же шаг в crawl.yml: без него заливка в D1 делает DROP TABLE
+      # и стирает игроков без клуба, которых мировой обход не собирает.
+      - name: Игроки без клуба
+        run: python scout.py --free-agents --workers "$WORKERS" --delay "$DELAY"
 
       - name: Что изменилось за месяц
         run: python diff.py --since 32 --out out/world-diff.md
@@ -143,7 +169,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: data
-          key: world-db-${{ github.run_id }}
+          key: scout-db-${{ github.run_id }}
 
       - uses: actions/upload-artifact@v4
         with: { name: world-sqlite, path: data/scout.sqlite, retention-days: 30 }
