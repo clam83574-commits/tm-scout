@@ -1,0 +1,16 @@
+{
+  "name": "tm-scout-bot",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "seed": "wrangler d1 execute tm-scout --remote --file=../out/d1-import.sql",
+    "setup": "node setup.mjs",
+    "test": "node test.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4.100.0"
+  },
+  "type": "module"
+}

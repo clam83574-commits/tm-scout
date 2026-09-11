@@ -1,0 +1,103 @@
+﻿Лига;Клуб;Игрок;Позиция;Возраст;Контракт до;Стоимость;Статус;Поле agent;Ссылка
+Bundesliga;FC Schalke 04;Moussa Sylla;Centre-Forward;26;30/06/2028;€5.00m;NO_AGENT;no agent;https://www.transfermarkt.com/moussa-sylla/profil/spieler/460655
+Bundesliga;SV Werder Bremen;Niclas Füllkrug;Centre-Forward;33;30/06/2027;€3.50m;NO_AGENT;no agent;https://www.transfermarkt.com/niclas-fullkrug/profil/spieler/75489
+Bundesliga;1.FC Köln;Jan Thielmann;Right Winger;24;30/06/2028;€5.00m;RELATIVES;Relatives;https://www.transfermarkt.com/jan-thielmann/profil/spieler/472249
+Bundesliga;1.FC Köln;Malek El Mala;Centre-Forward;21;30/06/2031;€250k;RELATIVES;Relatives;https://www.transfermarkt.com/malek-el-mala/profil/spieler/1168222
+Bundesliga;1.FC Köln;Said El Mala;Left Winger;20;30/06/2031;€45.00m;RELATIVES;Relatives;https://www.transfermarkt.com/said-el-mala/profil/spieler/1168219
+Bundesliga;1.FSV Mainz 05;Eric Martel;Defensive Midfield;24;-;€8.00m;RELATIVES;Relatives;https://www.transfermarkt.com/eric-martel/profil/spieler/597000
+Bundesliga;Bayern Munich;Sacha Boey;Right-Back;25;30/06/2028;€10.00m;RELATIVES;Relatives;https://www.transfermarkt.com/sacha-boey/profil/spieler/475413
+Bundesliga;Borussia Dortmund;Jobe Bellingham;Central Midfield;20;30/06/2030;€40.00m;RELATIVES;Relatives;https://www.transfermarkt.com/jobe-bellingham/profil/spieler/796297
+Bundesliga;Borussia Mönchengladbach;Iaia Manco Danfa;Centre-Forward;19;30/06/2028;€250k;RELATIVES;Relatives;https://www.transfermarkt.com/iaia-manco-danfa/profil/spieler/1211929
+Bundesliga;Eintracht Frankfurt;Nnamdi Collins;Centre-Back;22;30/06/2030;€20.00m;RELATIVES;Relatives;https://www.transfermarkt.com/nnamdi-collins/profil/spieler/684315
+Bundesliga;FC Schalke 04;Adil Aouchiche;Attacking Midfield;24;30/06/2030;€3.50m;RELATIVES;Relatives;https://www.transfermarkt.com/adil-aouchiche/profil/spieler/569385
+Bundesliga;FC Schalke 04;Loris Karius;Goalkeeper;33;30/06/2028;€800k;RELATIVES;Relatives;https://www.transfermarkt.com/loris-karius/profil/spieler/85864
+Bundesliga;RB Leipzig;Ridle Baku;Right-Back;28;30/06/2027;€12.00m;RELATIVES;Relatives;https://www.transfermarkt.com/ridle-baku/profil/spieler/327251
+Bundesliga;VfB Stuttgart;Dzenan Pejcinovic;Centre-Forward;21;30/06/2031;€15.00m;RELATIVES;Relatives;https://www.transfermarkt.com/dzenan-pejcinovic/profil/spieler/819636
+Bundesliga;VfB Stuttgart;Justin Diehl;Left Winger;21;30/06/2029;€1.20m;RELATIVES;Relatives;https://www.transfermarkt.com/justin-diehl/profil/spieler/720162
+Bundesliga;1.FC Union Berlin;Linus Güther;Left Winger;16;30/06/2028;€1.00m;UNKNOWN;;https://www.transfermarkt.com/linus-guther/profil/spieler/1378338
+Bundesliga;1.FSV Mainz 05;Alynho Haidara;Centre-Forward;18;-;-;UNKNOWN;;https://www.transfermarkt.com/alynho-haidara/profil/spieler/1392952
+Bundesliga;Bayer 04 Leverkusen;Eliesse Ben Seghir;Left Winger;21;30/06/2030;€20.00m;UNKNOWN;;https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895
+Bundesliga;Bayern Munich;Dayot Upamecano;Centre-Back;27;30/06/2030;€75.00m;UNKNOWN;;https://www.transfermarkt.com/dayot-upamecano/profil/spieler/344695
+Bundesliga;Bayern Munich;Joshua Kimmich;Defensive Midfield;31;30/06/2029;€35.00m;UNKNOWN;;https://www.transfermarkt.com/joshua-kimmich/profil/spieler/161056
+Bundesliga;Bayern Munich;Michael Olise;Right Winger;24;30/06/2029;€170.00m;UNKNOWN;;https://www.transfermarkt.com/michael-olise/profil/spieler/566723
+Bundesliga;Borussia Dortmund;Carney Chukwuemeka;Central Midfield;22;30/06/2030;€20.00m;UNKNOWN;;https://www.transfermarkt.com/carney-chukwuemeka/profil/spieler/659459
+Bundesliga;Borussia Dortmund;Filippo Mane;Centre-Back;21;30/06/2028;€2.50m;UNKNOWN;;https://www.transfermarkt.com/filippo-mane/profil/spieler/883007
+Bundesliga;Hamburger SV;Bilal Nadir;Central Midfield;22;30/06/2029;€8.00m;UNKNOWN;;https://www.transfermarkt.com/bilal-nadir/profil/spieler/659520
+Bundesliga;SC Freiburg;Cyriaque Irié;Right Winger;21;-;€8.00m;UNKNOWN;;https://www.transfermarkt.com/cyriaque-irie/profil/spieler/1145064
+Bundesliga;SC Paderborn 07;Jonah Sticker;Centre-Back;22;-;€750k;UNKNOWN;;https://www.transfermarkt.com/jonah-sticker/profil/spieler/698843
+Bundesliga;SC Paderborn 07;Lasse Eickel;Centre-Forward;18;30/06/2031;€150k;UNKNOWN;;https://www.transfermarkt.com/lasse-eickel/profil/spieler/1299403
+Bundesliga;SV 07 Elversberg;Tim Boss;Goalkeeper;33;30/06/2027;€200k;UNKNOWN;;https://www.transfermarkt.com/tim-boss/profil/spieler/85534
+Bundesliga;TSG 1899 Hoffenheim;Andrej Kramaric;Second Striker;35;30/06/2028;€2.50m;UNKNOWN;;https://www.transfermarkt.com/andrej-kramaric/profil/spieler/46580
+Bundesliga;VfB Stuttgart;Dan-Axel Zagadou;Centre-Back;27;30/06/2027;€2.00m;UNKNOWN;;https://www.transfermarkt.com/dan-axel-zagadou/profil/spieler/344598
+2. Bundesliga;1.FC Kaiserslautern;Enis Kamga;Goalkeeper;19;-;€300k;RELATIVES;Relatives;https://www.transfermarkt.com/enis-kamga/profil/spieler/1144518
+2. Bundesliga;1.FC Kaiserslautern;Semih Sahin;Central Midfield;26;-;€1.50m;RELATIVES;Relatives;https://www.transfermarkt.com/semih-sahin/profil/spieler/566857
+2. Bundesliga;1.FC Magdeburg;Lubambo Musonda;Left-Back;31;30/06/2027;€600k;RELATIVES;Relatives;https://www.transfermarkt.com/lubambo-musonda/profil/spieler/333859
+2. Bundesliga;Eintracht Braunschweig;Aaron Opoku;Right Winger;27;30/06/2028;€700k;RELATIVES;Relatives;https://www.transfermarkt.com/aaron-opoku/profil/spieler/344063
+2. Bundesliga;Eintracht Braunschweig;Sidi Sané;Left Winger;23;30/06/2027;€600k;RELATIVES;Relatives;https://www.transfermarkt.com/sidi-sane/profil/spieler/410561
+2. Bundesliga;Karlsruher SC;Danyal Zor;Defensive Midfield;19;30/06/2028;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/danyal-zor/profil/spieler/1163673
+2. Bundesliga;SG Dynamo Dresden;Brooklyn Ezeh;Left-Back;25;-;€200k;RELATIVES;Relatives;https://www.transfermarkt.com/brooklyn-ezeh/profil/spieler/521474
+2. Bundesliga;SV Darmstadt 98;Ho-jae Lee;Centre-Forward;25;-;€900k;RELATIVES;Relatives;https://www.transfermarkt.com/ho-jae-lee/profil/spieler/545501
+2. Bundesliga;SV Darmstadt 98;Raoul Petretta;Left-Back;29;-;€600k;RELATIVES;Relatives;https://www.transfermarkt.com/raoul-petretta/profil/spieler/243878
+2. Bundesliga;SpVgg Greuther Fürth;Silas Prüfrock;Goalkeeper;21;-;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/silas-prufrock/profil/spieler/913422
+2. Bundesliga;VfL Bochum;Berkan Taz;Attacking Midfield;27;30/06/2028;€700k;RELATIVES;Relatives;https://www.transfermarkt.com/berkan-taz/profil/spieler/451380
+2. Bundesliga;VfL Bochum;Lasse Isbruch;Defensive Midfield;18;30/06/2028;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/lasse-isbruch/profil/spieler/1253286
+2. Bundesliga;VfL Wolfsburg;Aster Vranckx;Central Midfield;23;30/06/2029;€5.00m;RELATIVES;Relatives;https://www.transfermarkt.com/aster-vranckx/profil/spieler/503881
+2. Bundesliga;1.FC Magdeburg;Baris Atik;Left Winger;31;-;€800k;UNKNOWN;;https://www.transfermarkt.com/baris-atik/profil/spieler/161072
+2. Bundesliga;1.FC Nuremberg;Christian Mathenia;Goalkeeper;34;30/06/2028;€300k;UNKNOWN;;https://www.transfermarkt.com/christian-mathenia/profil/spieler/82361
+2. Bundesliga;FC Energie Cottbus;Aaron Reschke;Central Midfield;18;-;-;UNKNOWN;;https://www.transfermarkt.com/aaron-reschke/profil/spieler/1157080
+2. Bundesliga;FC Energie Cottbus;Malte Wilke;Goalkeeper;19;-;-;UNKNOWN;;https://www.transfermarkt.com/malte-wilke/profil/spieler/1157068
+2. Bundesliga;FC St. Pauli;Joel Chima Fujita;Central Midfield;24;-;€10.00m;UNKNOWN;;https://www.transfermarkt.com/joel-chima-fujita/profil/spieler/697277
+2. Bundesliga;FC St. Pauli;Scott Banks;Right Winger;24;-;€400k;UNKNOWN;;https://www.transfermarkt.com/scott-banks/profil/spieler/596821
+2. Bundesliga;Hannover 96;Emir Sahiti;Right Winger;27;30/06/2028;€1.70m;UNKNOWN;;https://www.transfermarkt.com/emir-sahiti/profil/spieler/403177
+2. Bundesliga;Hannover 96;Mwisho Mhango;Central Midfield;18;30/06/2030;-;UNKNOWN;;https://www.transfermarkt.com/mwisho-mhango/profil/spieler/1465501
+2. Bundesliga;SG Dynamo Dresden;Elias Bethke;Goalkeeper;23;30/06/2028;€600k;UNKNOWN;;https://www.transfermarkt.com/elias-bethke/profil/spieler/601918
+2. Bundesliga;VfL Osnabrück;Patrick Kammerbauer;Right Midfield;29;30/06/2027;€350k;UNKNOWN;;https://www.transfermarkt.com/patrick-kammerbauer/profil/spieler/227087
+2. Bundesliga;VfL Wolfsburg;Pavao Pervan;Goalkeeper;38;30/06/2027;€300k;UNKNOWN;;https://www.transfermarkt.com/pavao-pervan/profil/spieler/51977
+3. Liga;SG Sonnenhof Großaspach;Marius Kunde;Central Midfield;31;30/06/2028;€125k;NO_AGENT;no agent;https://www.transfermarkt.com/marius-kunde/profil/spieler/196062
+3. Liga;SC Fortuna Köln;Neo Telle;Centre-Back;21;30/06/2027;€250k;RELATIVES;Relatives;https://www.transfermarkt.com/neo-telle/profil/spieler/917792
+3. Liga;SG Sonnenhof Großaspach;Leon Maier;Right-Back;27;30/06/2027;€100k;RELATIVES;Relatives;https://www.transfermarkt.com/leon-maier/profil/spieler/546030
+3. Liga;SV Waldhof Mannheim;Julian Ulbricht;Centre-Forward;27;30/06/2029;€300k;RELATIVES;Relatives;https://www.transfermarkt.com/julian-ulbricht/profil/spieler/349404
+3. Liga;SV Waldhof Mannheim;Lucien Hawryluk;Goalkeeper;25;30/06/2027;€100k;RELATIVES;Relatives;https://www.transfermarkt.com/lucien-hawryluk/profil/spieler/384740
+3. Liga;TSG 1899 Hoffenheim II;Klaus Gjasula;Defensive Midfield;36;30/06/2028;€200k;RELATIVES;Relatives;https://www.transfermarkt.com/klaus-gjasula/profil/spieler/57598
+3. Liga;TSG 1899 Hoffenheim II;Yasin Zor;Left Winger;20;-;€500k;RELATIVES;Relatives;https://www.transfermarkt.com/yasin-zor/profil/spieler/924089
+3. Liga;TSV Havelse;Jesse Tugbenyo;Central Midfield;25;30/06/2027;€225k;RELATIVES;Relatives;https://www.transfermarkt.com/jesse-tugbenyo/profil/spieler/565118
+3. Liga;TSV Havelse;Torben Engelking;Centre-Forward;30;30/06/2028;€25k;RELATIVES;Relatives;https://www.transfermarkt.com/torben-engelking/profil/spieler/383699
+3. Liga;TSV Havelse;Yusuf Wardak;Attacking Midfield;20;30/06/2027;€125k;RELATIVES;Relatives;https://www.transfermarkt.com/yusuf-wardak/profil/spieler/1274553
+3. Liga;VfB Stuttgart II;Dominik Draband;Goalkeeper;30;30/06/2028;€100k;RELATIVES;Relatives;https://www.transfermarkt.com/dominik-draband/profil/spieler/197969
+3. Liga;Würzburger Kickers;Burak Karakaya;Centre-Back;21;30/06/2027;-;RELATIVES;Relatives;https://www.transfermarkt.com/burak-karakaya/profil/spieler/902973
+3. Liga;Würzburger Kickers;Liam Omore;Right-Back;23;30/06/2027;€150k;RELATIVES;Relatives;https://www.transfermarkt.com/liam-omore/profil/spieler/1133684
+3. Liga;1.FC Saarbrücken;Benjamin Lade;Goalkeeper;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/benjamin-lade/profil/spieler/896350
+3. Liga;1.FC Saarbrücken;Zac Shuaib;Central Midfield;19;30/06/2028;€150k;UNKNOWN;;https://www.transfermarkt.com/zac-shuaib/profil/spieler/1150262
+3. Liga;Alemannia Aachen;Dylan Leonard;Centre-Back;19;30/06/2027;€400k;UNKNOWN;;https://www.transfermarkt.com/dylan-leonard/profil/spieler/1188989
+3. Liga;Alemannia Aachen;Manuel Riemann;Goalkeeper;38;30/06/2027;€175k;UNKNOWN;;https://www.transfermarkt.com/manuel-riemann/profil/spieler/40792
+3. Liga;FC Hansa Rostock;Felikss Sprogis;Attacking Midfield;18;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/felikss-sprogis/profil/spieler/1280672
+3. Liga;FC Hansa Rostock;Philipp Klewin;Goalkeeper;32;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/philipp-klewin/profil/spieler/94120
+3. Liga;FC Hansa Rostock;Robin Falk;Defensive Midfield;19;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/robin-falk/profil/spieler/1069971
+3. Liga;FC Ingolstadt 04;Joseph Ganda;Left Winger;29;30/06/2027;€75k;UNKNOWN;;https://www.transfermarkt.com/joseph-ganda/profil/spieler/456929
+3. Liga;Fortuna Düsseldorf;Elias Arden;Defensive Midfield;17;30/06/2027;€200k;UNKNOWN;;https://www.transfermarkt.com/elias-arden/profil/spieler/1282876
+3. Liga;MSV Duisburg;Aljaz Casar;Defensive Midfield;25;30/06/2027;€450k;UNKNOWN;;https://www.transfermarkt.com/aljaz-casar/profil/spieler/682519
+3. Liga;Rot-Weiss Essen;Jaka Cuber Potocnik;Centre-Forward;21;30/06/2027;€300k;UNKNOWN;;https://www.transfermarkt.com/jaka-cuber-potocnik/profil/spieler/940198
+3. Liga;Rot-Weiss Essen;Romero Gerres;Goalkeeper;18;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/romero-gerres/profil/spieler/982127
+3. Liga;SC Fortuna Köln;Florian Heister;Right-Back;29;30/06/2028;€150k;UNKNOWN;;https://www.transfermarkt.com/florian-heister/profil/spieler/333661
+3. Liga;SC Verl;André Leipold;Right Winger;24;30/06/2027;€225k;UNKNOWN;;https://www.transfermarkt.com/andre-leipold/profil/spieler/828356
+3. Liga;SC Verl;Emmanuel Bamba;Left-Back;18;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/emmanuel-bamba/profil/spieler/1412872
+3. Liga;SC Verl;Janne Berner;Right-Back;21;30/06/2027;€300k;UNKNOWN;;https://www.transfermarkt.com/janne-berner/profil/spieler/907468
+3. Liga;SC Verl;Julian Fuest;Goalkeeper;21;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/julian-fuest/profil/spieler/934668
+3. Liga;SG Sonnenhof Großaspach;Lorenz Ender;Right Winger;25;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/lorenz-ender/profil/spieler/528222
+3. Liga;SG Sonnenhof Großaspach;Marius Uhl;Centre-Back;26;30/06/2028;€125k;UNKNOWN;;https://www.transfermarkt.com/marius-uhl/profil/spieler/578879
+3. Liga;SG Sonnenhof Großaspach;Mark Gashi;Left-Back;20;30/06/2027;-;UNKNOWN;;https://www.transfermarkt.com/mark-gashi/profil/spieler/1045914
+3. Liga;SG Sonnenhof Großaspach;Niklas Pollex;Attacking Midfield;29;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/niklas-pollex/profil/spieler/408573
+3. Liga;SG Sonnenhof Großaspach;Tim Schulz;Goalkeeper;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/tim-schulz/profil/spieler/1031765
+3. Liga;SSV Jahn Regensburg;Alexander Weidinger;Goalkeeper;29;30/06/2027;€100k;UNKNOWN;;https://www.transfermarkt.com/alexander-weidinger/profil/spieler/255633
+3. Liga;SSV Jahn Regensburg;Arian Dizdarevic;Left Midfield;17;30/06/2029;€100k;UNKNOWN;;https://www.transfermarkt.com/arian-dizdarevic/profil/spieler/1302747
+3. Liga;SSV Jahn Regensburg;Zeteny Jano;Left Midfield;21;30/06/2028;€400k;UNKNOWN;;https://www.transfermarkt.com/zeteny-jano/profil/spieler/692474
+3. Liga;SV Waldhof Mannheim;Jascha Brandt;Left Winger;23;30/06/2027;€150k;UNKNOWN;;https://www.transfermarkt.com/jascha-brandt/profil/spieler/603734
+3. Liga;TSG 1899 Hoffenheim II;Maxime Ndong-Penda;Centre-Back;19;30/06/2027;€75k;UNKNOWN;;https://www.transfermarkt.com/maxime-ndong-penda/profil/spieler/1058036
+3. Liga;TSV Havelse;Fynn Wolter;Goalkeeper;20;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/fynn-wolter/profil/spieler/1407160
+3. Liga;TSV Havelse;Jannik Oltrogge;Defensive Midfield;31;30/06/2028;€100k;UNKNOWN;;https://www.transfermarkt.com/jannik-oltrogge/profil/spieler/325155
+3. Liga;TSV Havelse;Joel Darko Ampem;Central Midfield;19;30/06/2028;-;UNKNOWN;;https://www.transfermarkt.com/joel-darko-ampem/profil/spieler/1490222
+3. Liga;VfB Stuttgart II;Joyeux Masanka Bungi;Left-Back;19;30/06/2027;€400k;UNKNOWN;;https://www.transfermarkt.com/joyeux-masanka-bungi/profil/spieler/990146
+3. Liga;Würzburger Kickers;Batuhan Gögce;Central Midfield;21;30/06/2027;€75k;UNKNOWN;;https://www.transfermarkt.com/batuhan-gogce/profil/spieler/814981
+3. Liga;Würzburger Kickers;Dorian Deppner;Midfielder;17;30/06/2027;€25k;UNKNOWN;;https://www.transfermarkt.com/dorian-deppner/profil/spieler/1434339
+3. Liga;Würzburger Kickers;Nathan de Medina;Centre-Back;28;30/06/2027;€150k;UNKNOWN;;https://www.transfermarkt.com/nathan-de-medina/profil/spieler/285951
+3. Liga;Würzburger Kickers;Tiago De Moura;Centre-Forward;19;30/06/2027;€10k;UNKNOWN;;https://www.transfermarkt.com/tiago-de-moura/profil/spieler/1267598

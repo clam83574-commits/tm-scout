@@ -1,0 +1,18 @@
+name = "tm-scout-bot"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+# База кандидатов. id подставляется после `wrangler d1 create tm-scout`.
+[[d1_databases]]
+binding = "DB"
+database_name = "tm-scout"
+database_id = "761e9738-963b-4e34-9ea5-46d9a6c46338"  # заменяется выводом wrangler d1 create
+
+[vars]
+# Кому отвечать: Telegram id через запятую. Пусто = отвечает всем подряд.
+TM_BOT_ALLOW = ""
+
+# Секреты (НЕ здесь, ставятся командой wrangler secret put):
+#   TM_BOT_TOKEN      - токен от @BotFather
+#   TM_WEBHOOK_SECRET - произвольная строка, ею Telegram подписывает каждый
+#                       запрос; без неё в Worker может постучаться кто угодно

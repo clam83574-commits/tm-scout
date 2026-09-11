@@ -1,0 +1,9 @@
+data/
+out/*.log
+__pycache__/
+.env
+worker/node_modules/
+worker/.wrangler/
+worker/dev.log
+worker/.webhook-secret
+worker/.tg-payload.json
