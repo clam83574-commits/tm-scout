@@ -18,7 +18,9 @@ import random
 import re
 import sqlite3
 import sys
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -66,7 +68,8 @@ DISPLAY = {
     "BE3V": ("1-я Национальная, фламанд.", "Бельгия", "🇧🇪"),
 }
 
-DELAY = (1.0, 1.9)   # вежливая пауза между запросами, сек
+DELAY = [1.0, 1.9]   # пауза между запросами, сек (меняется ключом --delay)
+WORKERS = 1          # сколько страниц тянуть параллельно (--workers)
 
 
 # ---------------------------------------------------------------- WAF / сессия
@@ -97,25 +100,43 @@ def harvest_token(headless=True):
 
 
 class Session:
-    """requests + автоперевыпуск WAF-куки, когда она протухла."""
+    """requests + автоперевыпуск WAF-куки, когда она протухла.
+
+    Потокобезопасна: страницы тянутся из нескольких потоков, но браузер для
+    перевыпуска куки запускается строго один за раз. Счётчик поколений нужен,
+    чтобы десять потоков, одновременно поймавшие блокировку, не устроили
+    десять перезапусков браузера подряд — перевыпускает первый, остальные
+    видят, что поколение сменилось, и просто повторяют запрос.
+    """
 
     def __init__(self, headless=True):
         self.headless = headless
+        self.lock = threading.Lock()
+        self.generation = 0
+        self.blocked_hits = 0        # сколько раз нарывались на защиту
         self.s = requests.Session()
         self.s.headers.update({
             "User-Agent": UA,
             "Accept-Language": "en-US,en;q=0.9",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         })
-        self.refresh()
+        adapter = requests.adapters.HTTPAdapter(pool_connections=32,
+                                                pool_maxsize=32)
+        self.s.mount("https://", adapter)
+        self.refresh(0)
 
-    def refresh(self):
-        print("  [waf] выпускаю новую куку через браузер...", flush=True)
-        for k, v in harvest_token(self.headless).items():
-            self.s.cookies.set(k, v, domain=".transfermarkt.com")
+    def refresh(self, seen_generation):
+        with self.lock:
+            if seen_generation != self.generation:
+                return                       # кто-то уже обновил, повторяем
+            print("  [waf] выпускаю новую куку через браузер...", flush=True)
+            for k, v in harvest_token(self.headless).items():
+                self.s.cookies.set(k, v, domain=".transfermarkt.com")
+            self.generation += 1
 
     def get(self, url, tries=4):
         for i in range(tries):
+            gen = self.generation
             try:
                 r = self.s.get(url, timeout=30)
             except requests.RequestException:
@@ -127,8 +148,10 @@ class Session:
                        or "awsWafCookieDomainList" in r.text)
             if not blocked and r.status_code == 200:
                 return BeautifulSoup(r.text, "lxml")
+            with self.lock:
+                self.blocked_hits += 1
             if i:
-                self.refresh()
+                self.refresh(gen)
             else:
                 time.sleep(5)
         return None
@@ -345,19 +368,24 @@ def crawl(comps, limit_clubs=None, limit_players=None, headless=True):
             squad = squad[:limit_players]
         print("  всего игроков: %d - проверяю агентов" % len(squad), flush=True)
         tally = {}
-        for i, row in enumerate(squad, 1):
+
+        def check(row):
+            """Тянем страницу игрока. Пишем в базу НЕ здесь: sqlite и потоки
+            не дружат, поэтому запись остаётся на главном потоке."""
             nap()
             s = ses.get(row["url"])
-            if not s:
-                row["agent_status"], row["agent_text"] = "ERROR", ""
-            else:
-                row["agent_status"], row["agent_text"] = parse_agent(s)
-            row.update(country=country, comp=code, comp_name=name, tier=tier)
-            tally[row["agent_status"]] = tally.get(row["agent_status"], 0) + 1
-            upsert(c, row)
-            if i % 25 == 0:
-                c.commit()
-                print("    %d/%d %s" % (i, len(squad), tally), flush=True)
+            row["agent_status"], row["agent_text"] = (
+                parse_agent(s) if s else ("ERROR", ""))
+            return row
+
+        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+            for i, row in enumerate(pool.map(check, squad), 1):
+                row.update(country=country, comp=code, comp_name=name, tier=tier)
+                tally[row["agent_status"]] = tally.get(row["agent_status"], 0) + 1
+                upsert(c, row)
+                if i % 25 == 0:
+                    c.commit()
+                    print("    %d/%d %s" % (i, len(squad), tally), flush=True)
         c.commit()
         stats[code] = tally
         print("  ИТОГ %s: %s" % (name, tally), flush=True)
@@ -486,16 +514,63 @@ def export_d1(c, statuses, path):
     print("D1 SQL -> %s (%d строк)" % (path, len(rows)))
 
 
+def bench(n, headless=True):
+    """Замер: сколько страниц в минуту и какой процент отказов на текущих
+    настройках скорости. Берём реальные адреса игроков из собранной базы,
+    чтобы мерить ровно то, что делает прогон."""
+    c = db_init()
+    urls = [r[0] for r in c.execute(
+        "SELECT url FROM players ORDER BY RANDOM() LIMIT ?", (n,)).fetchall()]
+    c.close()
+    if len(urls) < n:
+        print("в базе только %d адресов — меряю на них" % len(urls))
+    ses = Session(headless)
+    ok = fail = 0
+    t0 = time.time()
+
+    def one(u):
+        nap()
+        return ses.get(u) is not None
+
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        for good in pool.map(one, urls):
+            if good:
+                ok += 1
+            else:
+                fail += 1
+    el = time.time() - t0
+    rate = len(urls) / el if el else 0
+    print("\n--- ЗАМЕР ---")
+    print("потоков: %d, пауза: %.1f-%.1f с" % (WORKERS, DELAY[0], DELAY[1]))
+    print("страниц: %d, успешно: %d, не отдалось: %d" % (len(urls), ok, fail))
+    print("нарывались на защиту: %d раз" % ses.blocked_hits)
+    print("время: %.1f с -> %.2f стр/с (%.0f стр/час)" % (el, rate, rate * 3600))
+    if rate:
+        print("весь мир (281 000 страниц) в таком темпе: %.1f ч" % (281000 / rate / 3600))
+    return {"ok": ok, "fail": fail, "blocked": ses.blocked_hits, "rate": rate}
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--comps", default="L1", help="через запятую: L1,L2,L3")
     ap.add_argument("--clubs", type=int, default=None, help="лимит клубов (проба)")
     ap.add_argument("--players", type=int, default=None, help="лимит игроков (проба)")
     ap.add_argument("--headed", action="store_true", help="браузер с окном")
+    ap.add_argument("--workers", type=int, default=1,
+                    help="сколько страниц тянуть параллельно (по умолчанию 1)")
+    ap.add_argument("--delay", default="1.0,1.9",
+                    help="пауза между запросами: мин,макс в секундах")
+    ap.add_argument("--bench", type=int, default=0, metavar="N",
+                    help="замер: прогнать N страниц и показать скорость и отказы")
     ap.add_argument("--export", action="store_true", help="только выгрузить CSV")
     ap.add_argument("--normalize", action="store_true",
                     help="только досчитать поля сортировки")
     a = ap.parse_args()
+    WORKERS = max(1, a.workers)
+    DELAY[:] = [float(x) for x in a.delay.split(",")]
+    if a.bench:
+        bench(a.bench, headless=not a.headed)
+        sys.exit(0)
     if a.normalize:
         normalize()
         sys.exit(0)
