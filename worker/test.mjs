@@ -55,6 +55,15 @@ check("фильтр: две галочки из трёх", JSON.stringify(fKb).m
 check("фильтр: третья снята", JSON.stringify(fKb).includes("⬜"));
 check("фильтр: счётчики на месте", fTxt.length > 100 && JSON.stringify(fKb).includes("— 61"));
 
+check("статус подписан словами", plTxt.includes("поле пустое") || plTxt.includes("семья"));
+check("заголовок: все три = «все категории»", plTxt.includes("все категории"));
+const [subTxt] = await bot.screenPlayers(env, "L1", "ALL", 0, "010", "s");
+check("заголовок при подвыборке перечисляет словами", subTxt.includes("семья"));
+
+console.log("\n--- как выглядит карточка ---");
+console.log(plTxt.split("\n\n")[1].replace(/<[^>]+>/g, ""));
+console.log("---\n");
+
 const s1 = await bot.search(env, "Bellingham");
 check("поиск находит Беллингема", s1.includes("Jobe Bellingham"));
 const s2 = await bot.search(env, "цйукенг");

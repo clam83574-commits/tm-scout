@@ -16,12 +16,15 @@ const PAGE = 8;
 // Все три показываются по умолчанию: агент сам решает, кого звать,
 // наша работа — убрать из его поля зрения тех, у кого агент уже есть.
 const CATS = [
-  { status: "NO_AGENT", badge: "🟢", label: "нет агента" },
+  { status: "NO_AGENT", badge: "🟢", label: "агента нет" },
   { status: "RELATIVES", badge: "🟡", label: "семья" },
-  { status: "UNKNOWN", badge: "⚪", label: "пробел" },
+  { status: "UNKNOWN", badge: "⚪", label: "поле пустое" },
 ];
 const ALLON = "1".repeat(CATS.length);
 const BADGE = Object.fromEntries(CATS.map((c) => [c.status, c.badge]));
+// Кружок без подписи ничего не говорит тому, кто бота не настраивал,
+// поэтому в списке статус дублируется словами.
+const LABEL = Object.fromEntries(CATS.map((c) => [c.status, c.label]));
 
 const ORDERS = {
   s: [
@@ -39,8 +42,12 @@ const statuses = (flt) => {
 };
 
 const fltLabel = (flt) => {
-  const on = CATS.filter((_, i) => flt[i] === "1").map((c) => c.badge);
-  return (on.length ? on : CATS.map((c) => c.badge)).join("");
+  const on = CATS.filter((_, i) => flt[i] === "1");
+  const list = on.length ? on : CATS;
+  const badges = list.map((c) => c.badge).join("");
+  return list.length === CATS.length
+    ? `${badges} все категории`
+    : `${badges} ${list.map((c) => c.label).join(" + ")}`;
 };
 
 const esc = (s) =>
@@ -184,7 +191,8 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
       .filter(Boolean)
       .join(" · ");
     lines.push(
-      `${BADGE[r.agent_status] || "·"} <a href="${r.url}"><b>${esc(r.name)}</b></a>\n` +
+      `${BADGE[r.agent_status] || "·"} <a href="${r.url}"><b>${esc(r.name)}</b></a>` +
+        ` · ${LABEL[r.agent_status] || "?"}\n` +
         `    <i>${esc(r.club)}</i>\n    ${esc(bits)} · контракт до ${r.contract_until || "—"}`
     );
   }
@@ -214,9 +222,9 @@ async function screenFilter(env, comp, clubId, flt) {
   const counts = Object.fromEntries(results.map((r) => [r.agent_status, r.n]));
   const txt =
     "<b>Кого показывать</b>\n\n" +
-    "🟢 <b>нет агента</b> — на Transfermarkt прямо проставлено «no agent».\n" +
+    "🟢 <b>агента нет</b> — на Transfermarkt прямо проставлено «no agent».\n" +
     "🟡 <b>семья</b> — ведёт родня либо агент вписан текстом без ссылки на агентство.\n" +
-    "⚪ <b>пробел</b> — строки про агента на странице нет вовсе.\n\n" +
+    "⚪ <b>поле пустое</b> — строки про агента на странице нет вовсе.\n\n" +
     "Включай любой комбинацией. По умолчанию все три — это ровно те страницы, " +
     "которые иначе пришлось бы открывать руками.";
   const kb = CATS.map((c, i) => {
@@ -251,8 +259,8 @@ async function search(env, query) {
     "<b>Найдено:</b>",
     ...results.map(
       (r) =>
-        `${BADGE[r.agent_status] || "·"} <a href="${r.url}">${esc(r.name)}</a> — ` +
-        `${esc(r.club)}, ${r.position || "—"}`
+        `${BADGE[r.agent_status] || "·"} <a href="${r.url}">${esc(r.name)}</a> · ` +
+        `${LABEL[r.agent_status] || "?"}\n    ${esc(r.club)}, ${r.position || "—"}`
     ),
   ].join("\n");
 }
@@ -316,7 +324,9 @@ async function handleMessage(env, msg) {
       chat,
       "/start — выбор лиги\n/whoami — узнать свой ID\n\n" +
         "Пришли фамилию текстом — найду игрока.\n\n" +
-        "🟢 нет агента · 🟡 семья · ⚪ пробел в базе"
+        "🟢 <b>агента нет</b> — так и записано на Transfermarkt\n" +
+        "🟡 <b>семья</b> — ведёт родня или агент вписан без ссылки\n" +
+        "⚪ <b>поле пустое</b> — строки про агента нет вовсе"
     );
   }
   if (text && !text.startsWith("/")) {

@@ -50,11 +50,14 @@ ALLOW = {x.strip() for x in os.environ.get("TM_BOT_ALLOW", "").split(",") if x.s
 # Три категории кандидатов. Порядок = порядок бит в строке фильтра ("111").
 # Агент просил показывать все три - он сам решает, кого звать.
 CATS = [
-    ("NO_AGENT", "🟢", "нет агента"),
+    ("NO_AGENT", "🟢", "агента нет"),
     ("RELATIVES", "🟡", "семья"),
-    ("UNKNOWN", "⚪", "пробел"),
+    ("UNKNOWN", "⚪", "поле пустое"),
 ]
 BADGE = {c[0]: c[1] for c in CATS}
+# Кружок без подписи ничего не говорит тому, кто бота не настраивал,
+# поэтому в списке статус дублируется словами.
+LABEL = {c[0]: c[2] for c in CATS}
 ALLON = "1" * len(CATS)
 
 # ключ -> (ORDER BY, подпись кнопки)
@@ -74,8 +77,11 @@ def statuses(flt):
 
 
 def flt_label(flt):
-    on = [c[1] for c, bit in zip(CATS, flt) if bit == "1"]
-    return "".join(on) if on else "".join(c[1] for c in CATS)
+    picked = [c for c, bit in zip(CATS, flt) if bit == "1"] or CATS
+    badges = "".join(c[1] for c in picked)
+    if len(picked) == len(CATS):
+        return badges + " все категории"
+    return badges + " " + " + ".join(c[2] for c in picked)
 
 
 def db():
@@ -182,9 +188,10 @@ def screen_players(comp, club_id, page, flt, srt="s"):
         bits = [b for b in (r["position"], "%s г." % r["age"] if r["age"] else "",
                             r["market_value"]) if b]
         lines.append(
-            '%s <a href="%s"><b>%s</b></a>\n    <i>%s</i>\n    %s · контракт до %s'
+            '%s <a href="%s"><b>%s</b></a> · %s\n    <i>%s</i>\n    %s · контракт до %s'
             % (BADGE.get(r["agent_status"], "·"), r["url"],
-               html.escape(r["name"]), html.escape(r["club"]),
+               html.escape(r["name"]), LABEL.get(r["agent_status"], "?"),
+               html.escape(r["club"]),
                html.escape(" · ".join(bits)), r["contract_until"] or "—"))
     nav = []
     if page:
@@ -209,10 +216,10 @@ def screen_filter(comp, club_id, flt):
     counts = dict(c.execute("SELECT agent_status, COUNT(*) FROM players "
                             "GROUP BY agent_status").fetchall())
     txt = ("<b>Кого показывать</b>\n\n"
-           "🟢 <b>нет агента</b> — на Transfermarkt прямо проставлено «no agent».\n"
+           "🟢 <b>агента нет</b> — на Transfermarkt прямо проставлено «no agent».\n"
            "🟡 <b>семья</b> — ведёт родня либо агент вписан текстом без ссылки "
            "на агентство.\n"
-           "⚪ <b>пробел</b> — строки про агента на странице нет вовсе.\n\n"
+           "⚪ <b>поле пустое</b> — строки про агента на странице нет вовсе.\n\n"
            "Включай любой комбинацией. По умолчанию все три — это ровно те "
            "страницы, которые иначе пришлось бы открывать руками.")
     kb = []
@@ -238,10 +245,10 @@ def search(query):
                 "агент, либо его нет в собранных лигах." % html.escape(query))
     out = ["<b>Найдено:</b>"]
     for r in rows:
-        out.append('%s <a href="%s">%s</a> — %s, %s'
+        out.append('%s <a href="%s">%s</a> · %s\n    %s, %s'
                    % (BADGE.get(r["agent_status"], "·"), r["url"],
-                      html.escape(r["name"]), html.escape(r["club"]),
-                      r["position"] or "—"))
+                      html.escape(r["name"]), LABEL.get(r["agent_status"], "?"),
+                      html.escape(r["club"]), r["position"] or "—"))
     return "\n".join(out)
 
 
@@ -288,7 +295,9 @@ def handle_message(msg):
     elif text.startswith("/help"):
         send(chat, "/start — выбор лиги\n/whoami — узнать свой ID\n\n"
                    "Пришли фамилию текстом — найду игрока.\n\n"
-                   "🟢 нет агента · 🟡 семья · ⚪ пробел в базе")
+                   "🟢 <b>агента нет</b> — так и записано на Transfermarkt\n"
+                   "🟡 <b>семья</b> — ведёт родня или агент вписан без ссылки\n"
+                   "⚪ <b>поле пустое</b> — строки про агента нет вовсе")
     elif text and not text.startswith("/"):
         send(chat, search(text))
 
