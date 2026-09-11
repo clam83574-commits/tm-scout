@@ -418,6 +418,11 @@ def normalize(c=None):
 def export(path=None, statuses=("NO_AGENT", "RELATIVES", "UNKNOWN")):
     import csv
     c = db_init()
+    # normalize() ВНУТРИ export, а не на стороне вызывающего: выгрузка читает
+    # досчитанные столбцы (contract_iso, mv_eur, comp_ru), и стоит забыть
+    # вызов в одной из веток main — на свежей базе всё падает с
+    # «no such column». Пусть функция сама обеспечивает то, что ей нужно.
+    normalize(c)
     marks = ",".join("?" * len(statuses))
     q = ("SELECT comp_name, club, name, position, age, contract_until, "
          "market_value, agent_status, agent_text, url FROM players "
@@ -495,8 +500,7 @@ if __name__ == "__main__":
         normalize()
         sys.exit(0)
     if a.export:
-        normalize()
-        export()
+        export()          # export сам нормализует
         sys.exit(0)
     t0 = time.time()
     st = crawl(a.comps.split(","), a.clubs, a.players, headless=not a.headed)
