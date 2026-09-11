@@ -73,6 +73,9 @@ jobs:
         run: python diff.py --since 8 --out out/weekly-diff.md
 
       - name: Коммит результата
+        # Прогон с лимитами - дымовой: он собирает несколько игроков и не должен
+        # затирать настоящую выгрузку в репозитории. Коммитим только полный сбор.
+        if: ${{ !github.event.inputs.clubs && !github.event.inputs.players }}
         run: |
           git config user.name "tm-scout bot"
           git config user.email "bot@users.noreply.github.com"
