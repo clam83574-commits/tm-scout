@@ -60,9 +60,12 @@ jobs:
           CLUBS: ${{ github.event.inputs.clubs }}
           PLAYERS: ${{ github.event.inputs.players }}
         run: |
+          # if, а не `[ -n "$X" ] && ...`: GitHub гоняет bash с set -e, и при
+          # пустом значении такая строка возвращает ненулевой код, роняя шаг.
+          # По расписанию эти поля ВСЕГДА пусты, так что падало бы каждый раз.
           ARGS="--comps $COMPS"
-          [ -n "$CLUBS" ] && ARGS="$ARGS --clubs $CLUBS"
-          [ -n "$PLAYERS" ] && ARGS="$ARGS --players $PLAYERS"
+          if [ -n "$CLUBS" ]; then ARGS="$ARGS --clubs $CLUBS"; fi
+          if [ -n "$PLAYERS" ]; then ARGS="$ARGS --players $PLAYERS"; fi
           echo "запускаю: scout.py $ARGS"
           python scout.py $ARGS
 
