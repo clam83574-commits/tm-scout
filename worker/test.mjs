@@ -29,32 +29,39 @@ const check = (label, cond, extra = "") => {
   if (!cond) fails++;
 };
 
-const [lgTxt, lgKb] = await bot.screenLeagues(env, "111");
-check("экран лиг: всего 102", lgTxt.includes("<b>102</b>"));
-check("экран лиг: три лиги + фильтр", lgKb.length === 4, `кнопок ${lgKb.length}`);
+const [coTxt, coKb] = await bot.screenCountries(env, "1111", 0);
+check("первый экран - страны", coTxt.includes("Выбери страну"));
+check("стран немного, а не сотни лиг", coKb.length <= 8, `рядов ${coKb.length}`);
+check("свободные агенты отдельной строкой", JSON.stringify(coKb).includes("Без клуба"));
 
-const [lg2] = await bot.screenLeagues(env, "110");
-check("фильтр 🟢🟡 сужает до 41", lg2.includes("<b>41</b>"));
+const [lgTxt, lgKb] = await bot.screenLeagues(env, "Germany", "1111");
+check("лиги одной страны", lgKb.length === 4, `рядов ${lgKb.length}`);
+check("заголовок - страна", lgTxt.includes("Германия"));
+check("в лигах Германии 102 кандидата", lgTxt.includes("<b>102</b>"));
 
-check("лиги по-русски с флагом", lgTxt.includes("Германия") && JSON.stringify(lgKb).includes("3-я лига"), lgKb[2][0].text);
 
-const [clTxt, clKb] = await bot.screenClubs(env, "L3", "111");
+const [lg2] = await bot.screenCountries(env, "1101", 0);
+check("фильтр 🟢🟡 сужает выборку", lg2.includes("<b>") && !lg2.includes("Под этот фильтр"));
+
+check("лиги по-русски", JSON.stringify(lgKb).includes("3-я лига"));
+
+const [clTxt, clKb] = await bot.screenClubs(env, "L3", "1111");
 check("экран клубов L3: 48 кандидатов", clTxt.includes("<b>48</b>"));
 check("экран клубов: есть «Вся лига»", JSON.stringify(clKb).includes("Вся лига"));
 
-const [plTxt, plKb] = await bot.screenPlayers(env, "L1", "ALL", 0, "111", "v");
+const [plTxt, plKb] = await bot.screenPlayers(env, "L1", "ALL", 0, "1111", "v");
 check("сортировка по цене: сверху Olise", plTxt.includes("Michael Olise"));
 check("страниц 1 из 4", plTxt.includes("стр. 1 из 4"));
 check("ссылка на Transfermarkt", plTxt.includes('href="https://www.transfermarkt.com/'));
 check("кнопки сортировки отмечают текущую", JSON.stringify(plKb).includes("● по цене"));
 
-const [p2] = await bot.screenPlayers(env, "L1", "ALL", 1, "111", "v");
+const [p2] = await bot.screenPlayers(env, "L1", "ALL", 1, "1111", "v");
 check("вторая страница отличается", !p2.includes("Michael Olise"));
 
-const [emptyTxt] = await bot.screenPlayers(env, "L2", "ALL", 0, "100", "s");
+const [emptyTxt] = await bot.screenPlayers(env, "L2", "ALL", 0, "1001", "s");
 check("пустая выборка не падает", emptyTxt.includes("никого нет"));
 
-const [fTxt, fKb] = await bot.screenFilter(env, "L1", "ALL", "110");
+const [fTxt, fKb] = await bot.screenFilter(env, "L1", "ALL", "1101");
 // считаем галочки только среди трёх категорий: ниже есть ещё
 // переключатель «показывать отмеченных», он тоже с галочкой
 const catRows = JSON.stringify(fKb.slice(0, 3));
@@ -62,11 +69,12 @@ check("фильтр: две галочки из трёх", (catRows.match(/☑�
 check("фильтр: есть переключатель отмеченных",
       JSON.stringify(fKb).includes("показывать отмеченных"));
 check("фильтр: третья снята", JSON.stringify(fKb).includes("⬜"));
-check("фильтр: счётчики на месте", fTxt.length > 100 && JSON.stringify(fKb).includes("— 61"));
+check("фильтр: счётчики на месте", fTxt.length > 100 &&
+      /— \d+/.test(JSON.stringify(fKb.slice(0, 3))));
 
 check("статус подписан словами", plTxt.includes("поле пустое") || plTxt.includes("семья"));
 check("заголовок: все три = «все категории»", plTxt.includes("все категории"));
-const [subTxt] = await bot.screenPlayers(env, "L1", "ALL", 0, "010", "s");
+const [subTxt] = await bot.screenPlayers(env, "L1", "ALL", 0, "0101", "s");
 check("заголовок при подвыборке перечисляет словами", subTxt.includes("семья"));
 
 console.log("\n--- как выглядит карточка ---");

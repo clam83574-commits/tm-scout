@@ -115,11 +115,23 @@ function rowsKb(items, perRow = 2) {
 const compName = (r) => r.comp_ru || r.comp_name || r.comp;
 const withFlag = (r) => (r.flag ? `${r.flag} ` : "") + compName(r);
 
-async function screenLeagues(env, flt) {
+const COUNTRIES_PAGE = 12;
+
+/**
+ * Первый экран: страны. Раньше здесь сразу вываливался плоский список всех
+ * лиг - с одной страной это ещё читалось, а на мировых данных превращается
+ * в ленту из сотен строк, по которой невозможно ничего найти.
+ * Страны идут по убыванию числа кандидатов: нужные окажутся сверху.
+ */
+async function screenCountries(env, flt, page = 0) {
   const st = statuses(flt);
+  let where = `agent_status IN (${marks(st.length)})`;
+  if (!showMarked(flt)) {
+    where += " AND player_id NOT IN (SELECT player_id FROM notes)";
+  }
   const { results } = await env.DB.prepare(
-    `SELECT comp, comp_name, comp_ru, country_ru, flag, COUNT(*) n FROM players
-     WHERE agent_status IN (${marks(st.length)}) GROUP BY comp ORDER BY tier`
+    `SELECT country, MAX(country_ru) country_ru, MAX(flag) flag, COUNT(*) n
+     FROM players WHERE ${where} GROUP BY country ORDER BY n DESC, country`
   )
     .bind(...st)
     .all();
@@ -130,19 +142,57 @@ async function screenLeagues(env, flt) {
     ];
   }
   const total = results.reduce((a, r) => a + r.n, 0);
-  const countries = [...new Set(results.map((r) => r.country_ru).filter(Boolean))];
-  const where =
-    countries.length === 1
-      ? `${results[0].flag || ""} ${countries[0]}`.trim()
-      : `${countries.length} стран`;
+  const pages = Math.ceil(results.length / COUNTRIES_PAGE);
+  const slice = results.slice(page * COUNTRIES_PAGE, (page + 1) * COUNTRIES_PAGE);
   const txt =
-    `<b>Игроки без агента</b>\n${where} · ${fltLabel(flt)} — ` +
-    `всего <b>${total}</b>\n\nВыбери лигу:`;
+    `<b>Игроки без агента</b>\n${fltLabel(flt)} — всего <b>${total}</b> ` +
+    `в ${results.length} странах\n\nВыбери страну` +
+    (pages > 1 ? ` (стр. ${page + 1} из ${pages})` : "") + ":";
   const kb = rowsKb(
-    results.map((r) => [`${withFlag(r)} — ${r.n}`, `cl|${r.comp}|${flt}`]),
+    slice.map((r) => [
+      `${r.flag ? r.flag + " " : ""}${r.country_ru || r.country} — ${r.n}`,
+      `lg|${r.country}|${flt}`,
+    ]),
+    2
+  );
+  const nav = [];
+  if (page) nav.push({ text: "◀️", callback_data: `cs|${page - 1}|${flt}` });
+  if (page + 1 < pages) nav.push({ text: "▶️", callback_data: `cs|${page + 1}|${flt}` });
+  if (nav.length) kb.push(nav);
+  kb.push([{ text: "⚙️ Фильтр: " + fltLabel(flt), callback_data: `f|-|-|${flt}` }]);
+  return [txt, kb];
+}
+
+/** Лиги одной страны. */
+async function screenLeagues(env, country, flt) {
+  const st = statuses(flt);
+  let where = `country=? AND agent_status IN (${marks(st.length)})`;
+  if (!showMarked(flt)) {
+    where += " AND player_id NOT IN (SELECT player_id FROM notes)";
+  }
+  const { results } = await env.DB.prepare(
+    `SELECT comp, MAX(comp_name) comp_name, MAX(comp_ru) comp_ru, MAX(flag) flag,
+            MAX(country_ru) country_ru, MIN(tier) tier, COUNT(*) n
+     FROM players WHERE ${where} GROUP BY comp ORDER BY tier, n DESC`
+  )
+    .bind(country, ...st)
+    .all();
+  if (!results.length) {
+    return ["В этой стране под фильтр никто не подходит.",
+            [[{ text: "◀️ К странам", callback_data: `cs|0|${flt}` }]]];
+  }
+  const total = results.reduce((a, r) => a + r.n, 0);
+  const head = `${results[0].flag ? results[0].flag + " " : ""}${results[0].country_ru || country}`;
+  const txt =
+    `<b>${esc(head)}</b>\n${fltLabel(flt)} — кандидатов <b>${total}</b>\n\nВыбери лигу:`;
+  const kb = rowsKb(
+    results.map((r) => [
+      `${compName(r)} — ${r.n}`,
+      `cl|${r.comp}|${flt}`,
+    ]),
     1
   );
-  kb.push([{ text: "⚙️ Фильтр: " + fltLabel(flt), callback_data: `f|-|-|${flt}` }]);
+  kb.push([{ text: "◀️ К странам", callback_data: `cs|0|${flt}` }]);
   return [txt, kb];
 }
 
@@ -156,7 +206,7 @@ async function screenClubs(env, comp, flt) {
     .bind(comp, ...st)
     .all();
   const name = await env.DB.prepare(
-    "SELECT comp_name, comp_ru, country_ru, flag FROM players WHERE comp=? LIMIT 1"
+    "SELECT comp_name, comp_ru, country, country_ru, flag FROM players WHERE comp=? LIMIT 1"
   )
     .bind(comp)
     .first();
@@ -179,7 +229,10 @@ async function screenClubs(env, comp, flt) {
   );
   kb.push([
     { text: "⚙️ Фильтр: " + fltLabel(flt), callback_data: `f|${comp}|-|${flt}` },
-    { text: "◀️ К лигам", callback_data: `lg|${flt}` },
+    {
+      text: "◀️ К лигам",
+      callback_data: name && name.country ? `lg|${name.country}|${flt}` : `cs|0|${flt}`,
+    },
   ]);
   return [txt, kb];
 }
@@ -375,7 +428,7 @@ async function screenFilter(env, comp, clubId, flt) {
       callback_data: `f|${comp}|${clubId}|${flipped}`,
     },
   ]);
-  let back = comp !== "-" ? `cl|${comp}|${flt}` : `lg|${flt}`;
+  let back = comp !== "-" ? `cl|${comp}|${flt}` : `cs|0|${flt}`;
   if (comp !== "-" && clubId !== "-") back = `p|${comp}|${clubId}|0|${flt}|s`;
   kb.push([{ text: "✅ Применить", callback_data: back }]);
   return [txt, kb];
@@ -424,7 +477,8 @@ async function handleCallback(env, cb) {
   const mid = cb.message.message_id;
   const p = cb.data.split("|");
   let screen;
-  if (p[0] === "lg") screen = await screenLeagues(env, p[1]);
+  if (p[0] === "cs") screen = await screenCountries(env, p[2], parseInt(p[1], 10));
+  else if (p[0] === "lg") screen = await screenLeagues(env, p[1], p[2]);
   else if (p[0] === "cl") screen = await screenClubs(env, p[1], p[2]);
   else if (p[0] === "f") screen = await screenFilter(env, p[1], p[2], p[3]);
   else if (p[0] === "p")
@@ -479,14 +533,14 @@ async function handleMessage(env, msg) {
     );
   }
   if (text.startsWith("/start")) {
-    const [t, kb] = await screenLeagues(env, ALLON);
+    const [t, kb] = await screenCountries(env, ALLON, 0);
     return send(env, chat, t, kb);
   }
   if (text.startsWith("/help")) {
     return send(
       env,
       chat,
-      "/start — выбор лиги\n/whoami — узнать свой ID\n\n" +
+      "/start — страна → лига → клуб → игроки\n/whoami — узнать свой ID\n\n" +
         "Пришли фамилию текстом — найду игрока.\n\n" +
         "🟢 <b>агента нет</b> — так и записано на Transfermarkt\n" +
         "🟡 <b>семья</b> — ведёт родня или агент вписан без ссылки\n" +
@@ -499,7 +553,8 @@ async function handleMessage(env, msg) {
 }
 
 // Экраны экспортируются ради теста test.mjs — он гоняет их на настоящей базе.
-export { screenLeagues, screenClubs, screenPlayers, screenFilter, search, screenMark, screenNote };
+export { screenCountries, screenLeagues, screenClubs, screenPlayers, screenFilter,
+         search, screenMark, screenNote };
 
 export default {
   async fetch(request, env) {

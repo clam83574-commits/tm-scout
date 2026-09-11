@@ -66,6 +66,8 @@ DISPLAY = {
     "BE2": ("Челленджер Про Лига", "Бельгия", "🇧🇪"),
     "BE3A": ("1-я Национальная, франкоф.", "Бельгия", "🇧🇪"),
     "BE3V": ("1-я Национальная, фламанд.", "Бельгия", "🇧🇪"),
+    # "FREE" литералом, а не FREE_COMP: та константа объявлена ниже по файлу
+    "FREE": ("Свободные агенты", "Без клуба", "🆓"),
 }
 
 DELAY = [1.0, 1.9]   # пауза между запросами, сек (меняется ключом --delay)
@@ -620,7 +622,10 @@ def crawl_free_agents(headless=True, max_pages=12):
     tally = {}
     with ThreadPoolExecutor(max_workers=WORKERS) as pool:
         for i, row in enumerate(pool.map(check, uniq), 1):
-            row.update(country=row.get("nationality", ""), comp=FREE_COMP,
+            # Страна = «без клуба», а НЕ гражданство: иначе 250 свободных
+            # агентов размазываются по 74 странам и засоряют выбор страны,
+            # хотя это одна понятная группа. Гражданство остаётся в своём поле.
+            row.update(country="Free agents", comp=FREE_COMP,
                        comp_name="Free agents", tier=0)
             tally[row["agent_status"]] = tally.get(row["agent_status"], 0) + 1
             upsert(c, row)
