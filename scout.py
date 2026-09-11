@@ -120,8 +120,11 @@ class Session:
             "Accept-Language": "en-US,en;q=0.9",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         })
-        adapter = requests.adapters.HTTPAdapter(pool_connections=32,
-                                                pool_maxsize=32)
+        # Пул должен быть не меньше числа потоков, иначе на высокой скорости
+        # мы упрёмся в собственный пул и намеряем свой лимит, а не чужой.
+        pool = max(16, WORKERS * 2)
+        adapter = requests.adapters.HTTPAdapter(pool_connections=pool,
+                                                pool_maxsize=pool)
         self.s.mount("https://", adapter)
         self.refresh(0)
 
@@ -246,6 +249,54 @@ def parse_squad(soup, club_id):
 
 AGENT_LABEL = re.compile(r"^(Player[- ]?agent|Spielerberater|Agent)\b", re.I)
 
+# Что ещё забрать со страницы игрока. Мы её всё равно открываем ради агента,
+# так что эти поля достаются бесплатно - ни одного лишнего запроса.
+# Ключ - начало подписи в таблице, значение - имя нашего поля.
+PROFILE_FIELDS = {
+    "place of birth": "birth_place",
+    "citizenship": "citizenship",
+    "height": "height",
+    "foot": "foot",
+    "current club": "club_profile",
+    "last contract extension": "contract_extended",
+    "name in home country": "name_local",
+}
+
+
+def parse_profile(soup):
+    """Всё полезное со страницы игрока за один разбор.
+
+    Соцсети - самое ценное здесь: игроку без агента больше некуда написать,
+    клубную почту он не читает. Второе гражданство важно для лимитов на
+    легионеров, нога и рост - базовая селекция.
+    """
+    out = {}
+    items = soup.select(".info-table__content")
+    for i, node in enumerate(items):
+        label = node.get_text(" ", strip=True).rstrip(":").strip().lower()
+        cell = items[i + 1] if i + 1 < len(items) else None
+        if cell is None:
+            continue
+        for prefix, field in PROFILE_FIELDS.items():
+            if label.startswith(prefix) and field not in out:
+                if field == "citizenship":
+                    flags = [f.get("title", "") for f in cell.select("img.flaggenrahmen")]
+                    out[field] = ", ".join(x for x in flags if x)
+                else:
+                    out[field] = re.sub(r"\s+", " ", cell.get_text(" ", strip=True))
+                break
+    socials = []
+    for a in soup.select('.info-table__content a[href*="instagram"], '
+                         '.info-table__content a[href*="twitter"], '
+                         '.info-table__content a[href*="x.com"], '
+                         '.info-table__content a[href*="facebook"], '
+                         '.info-table__content a[href*="tiktok"]'):
+        href = a.get("href", "")
+        if href and href not in socials:
+            socials.append(href)
+    out["socials"] = " ".join(socials)
+    return out
+
 
 def parse_agent(soup):
     """(статус, текст) из блока 'Player agent' на странице игрока."""
@@ -277,6 +328,18 @@ def parse_agent(soup):
 
 
 # ---------------------------------------------------------------- база
+# Столбцы, добавленные после первой версии схемы. Живут ОДНИМ списком и
+# досоздаются в db_init, до любой записи: иначе прогон на старой базе падает
+# с «no such column», причём не там, где столбец добавляли.
+EXTRA_COLS = [
+    ("mv_eur", "INTEGER"), ("contract_iso", "TEXT"),
+    ("comp_ru", "TEXT"), ("country_ru", "TEXT"), ("flag", "TEXT"),
+    ("name_local", "TEXT"), ("birth_place", "TEXT"), ("citizenship", "TEXT"),
+    ("height", "TEXT"), ("foot", "TEXT"), ("contract_extended", "TEXT"),
+    ("socials", "TEXT"), ("contract_days", "INTEGER"),
+]
+
+
 def db_init():
     DB.parent.mkdir(parents=True, exist_ok=True)
     c = sqlite3.connect(DB)
@@ -293,13 +356,18 @@ def db_init():
     CREATE INDEX IF NOT EXISTS idx_comp ON players(comp);
     CREATE INDEX IF NOT EXISTS idx_status ON players(agent_status);
     """)
+    have = {r[1] for r in c.execute("PRAGMA table_info(players)")}
+    for col, typ in EXTRA_COLS:
+        if col not in have:
+            c.execute("ALTER TABLE players ADD COLUMN %s %s" % (col, typ))
     c.commit()
     return c
 
 
 COLS = ("player_id name url club_id club country comp comp_name tier position "
         "nationality birth age contract_until market_value agent_status "
-        "agent_text checked_at").split()
+        "agent_text checked_at name_local birth_place citizenship height foot "
+        "contract_extended socials").split()
 
 
 def upsert(c, row):
@@ -337,8 +405,15 @@ def crawl(comps, limit_clubs=None, limit_players=None, headless=True):
     # в недельной сводке. Побеждает первое вхождение: лиги идём по возрастанию
     # дивизиона, значит остаётся основная команда.
     seen = set()
-    for code in comps:
-        name, country, tier = COMPETITIONS[code]
+    for item in comps:
+        # Лига приходит либо кодом (тогда берём её из COMPETITIONS), либо
+        # готовой записью из переписи competitions.json — там их 431.
+        if isinstance(item, dict):
+            code, name = item["code"], item["name"]
+            country, tier = item.get("country", ""), item.get("tier", 0)
+        else:
+            code = item
+            name, country, tier = COMPETITIONS[code]
         print("\n=== %s (%s) ===" % (name, code), flush=True)
         soup = ses.get(BASE + "/x/startseite/wettbewerb/" + code)
         if not soup:
@@ -374,8 +449,11 @@ def crawl(comps, limit_clubs=None, limit_players=None, headless=True):
             не дружат, поэтому запись остаётся на главном потоке."""
             nap()
             s = ses.get(row["url"])
-            row["agent_status"], row["agent_text"] = (
-                parse_agent(s) if s else ("ERROR", ""))
+            if s is None:
+                row["agent_status"], row["agent_text"] = "ERROR", ""
+                return row
+            row["agent_status"], row["agent_text"] = parse_agent(s)
+            row.update(parse_profile(s))
             return row
 
         with ThreadPoolExecutor(max_workers=WORKERS) as pool:
@@ -419,18 +497,30 @@ def normalize(c=None):
     """Досчитывает поля для сортировки. Идемпотентно, гоняется по готовой базе."""
     own = c is None
     c = c or db_init()
-    have = {r[1] for r in c.execute("PRAGMA table_info(players)")}
-    for col, typ in (("mv_eur", "INTEGER"), ("contract_iso", "TEXT"),
-                     ("comp_ru", "TEXT"), ("country_ru", "TEXT"), ("flag", "TEXT")):
-        if col not in have:
-            c.execute("ALTER TABLE players ADD COLUMN %s %s" % (col, typ))
     n = 0
-    for pid, mv, ct, comp in c.execute(
-            "SELECT player_id, market_value, contract_until, comp FROM players").fetchall():
-        ru, country_ru, flag = DISPLAY.get(comp, (None, None, ""))
+    today = datetime.now(timezone.utc).date()
+    rows = c.execute("SELECT player_id, market_value, contract_until, comp, "
+                     "comp_name, country FROM players").fetchall()
+    for pid, mv, ct, comp, comp_name, country in rows:
+        # Для лиг, названных по-русски вручную, берём перевод; для остальных
+        # 400+ лиг мира - оригинальное название. Названия лиг это имена
+        # собственные («LaLiga», «Serie A»), так что читаемость не страдает,
+        # а перевод можно досыпать в DISPLAY когда угодно: он применяется
+        # одним прогоном normalize, без пересбора данных.
+        ru, country_ru, flag = DISPLAY.get(comp, (comp_name, country, ""))
+        iso = date_to_iso(ct)
+        # Дней до конца контракта: игрок без агента, у которого контракт
+        # заканчивается, - самый горячий повод для звонка. За полгода до
+        # конца он вправе подписать предварительный договор с кем угодно.
+        days = None
+        if iso:
+            try:
+                days = (datetime.strptime(iso, "%Y-%m-%d").date() - today).days
+            except ValueError:
+                days = None
         c.execute("UPDATE players SET mv_eur=?, contract_iso=?, comp_ru=?, "
-                  "country_ru=?, flag=? WHERE player_id=?",
-                  (mv_to_eur(mv), date_to_iso(ct), ru, country_ru, flag, pid))
+                  "country_ru=?, flag=?, contract_days=? WHERE player_id=?",
+                  (mv_to_eur(mv), iso, ru, country_ru, flag, days, pid))
         n += 1
     c.commit()
     missing = [r[0] for r in c.execute(
@@ -473,8 +563,9 @@ def export(path=None, statuses=("NO_AGENT", "RELATIVES", "UNKNOWN")):
 
 
 JSON_COLS = ("player_id name url club_id club country comp comp_name tier position "
-             "nationality age contract_until contract_iso market_value mv_eur "
-             "agent_status agent_text comp_ru country_ru flag").split()
+             "nationality age contract_until contract_iso contract_days "
+             "market_value mv_eur agent_status agent_text comp_ru country_ru flag "
+             "citizenship height foot socials birth_place").split()
 
 
 def export_json(c, statuses, path):
@@ -562,6 +653,12 @@ if __name__ == "__main__":
                     help="пауза между запросами: мин,макс в секундах")
     ap.add_argument("--bench", type=int, default=0, metavar="N",
                     help="замер: прогнать N страниц и показать скорость и отказы")
+    ap.add_argument("--world", action="store_true",
+                    help="все лиги из переписи competitions.json (кубки пропускаются)")
+    ap.add_argument("--shard", default="", metavar="I/N",
+                    help="взять только часть I из N (части равны по трудоёмкости)")
+    ap.add_argument("--max-tier", type=int, default=7,
+                    help="глубже какого дивизиона не спускаться (90 = молодёжные)")
     ap.add_argument("--export", action="store_true", help="только выгрузить CSV")
     ap.add_argument("--normalize", action="store_true",
                     help="только досчитать поля сортировки")
@@ -577,8 +674,23 @@ if __name__ == "__main__":
     if a.export:
         export()          # export сам нормализует
         sys.exit(0)
+    if a.world:
+        import discover
+        rows = discover.load()
+        if not rows:
+            sys.exit("нет переписи лиг - сначала: python discover.py")
+        leagues = [r for r in rows
+                   if r.get("is_league") and 1 <= r.get("tier", 0) <= a.max_tier]
+        if a.shard:
+            i, total = (int(x) for x in a.shard.split("/"))
+            leagues = discover.shard(leagues, i - 1, total)
+            print("часть %d из %d: лиг %d, игроков ~%d"
+                  % (i, total, len(leagues), sum(r["players"] for r in leagues)))
+        comps = leagues
+    else:
+        comps = a.comps.split(",")
     t0 = time.time()
-    st = crawl(a.comps.split(","), a.clubs, a.players, headless=not a.headed)
+    st = crawl(comps, a.clubs, a.players, headless=not a.headed)
     print("\nготово за %d сек: %s" % (int(time.time() - t0),
                                       json.dumps(st, ensure_ascii=False)))
     export()
