@@ -38,11 +38,18 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 ROOT = Path(__file__).resolve().parent
 DB = ROOT / "data" / "scout.sqlite"
 
-# пилот: Германия, три профессиональных дивизиона
+# Какие лиги обходим. Код = то, что стоит в адресе Transfermarkt после
+# /wettbewerb/. Добавление страны = дописать сюда строки и прогнать сборщик:
+# база дополняется, уже собранное не трогается.
 COMPETITIONS = {
     "L1": ("Bundesliga", "Germany", 1),
     "L2": ("2. Bundesliga", "Germany", 2),
     "L3": ("3. Liga", "Germany", 3),
+    "BE1": ("Jupiler Pro League", "Belgium", 1),
+    "BE2": ("Challenger Pro League", "Belgium", 2),
+    # третий уровень в Бельгии разделён по языковым сообществам
+    "BE3A": ("1ste Nationale FFA", "Belgium", 3),
+    "BE3V": ("1ste Nationale VV", "Belgium", 3),
 }
 
 # Как лига называется по-русски. «3. Liga» в списке ничего не говорит тому,
@@ -53,6 +60,10 @@ DISPLAY = {
     "L1": ("Бундеслига", "Германия", "🇩🇪"),
     "L2": ("2-я Бундеслига", "Германия", "🇩🇪"),
     "L3": ("3-я лига", "Германия", "🇩🇪"),
+    "BE1": ("Жюпилер Про Лига", "Бельгия", "🇧🇪"),
+    "BE2": ("Челленджер Про Лига", "Бельгия", "🇧🇪"),
+    "BE3A": ("1-я Национальная, франкоф.", "Бельгия", "🇧🇪"),
+    "BE3V": ("1-я Национальная, фламанд.", "Бельгия", "🇧🇪"),
 }
 
 DELAY = (1.0, 1.9)   # вежливая пауза между запросами, сек
@@ -283,9 +294,13 @@ def upsert(c, row):
                           (ts, row["player_id"], row["name"], row["club"],
                            row["comp"], field, prev, new))
     row["checked_at"] = ts
+    # Столбцы перечисляем ПОИМЕНОВАННО, а не через VALUES(...) по позиции:
+    # normalize() дописывает в таблицу служебные поля (mv_eur, comp_ru и др.),
+    # и позиционная вставка ломается, как только их станет больше.
+    # Дописанные поля обнулятся, но normalize() идёт сразу после прогона.
     marks = ",".join("?" * len(COLS))
-    c.execute("INSERT OR REPLACE INTO players VALUES (" + marks + ")",
-              [row.get(k) for k in COLS])
+    c.execute("INSERT OR REPLACE INTO players (%s) VALUES (%s)"
+              % (",".join(COLS), marks), [row.get(k) for k in COLS])
 
 
 # ---------------------------------------------------------------- прогон

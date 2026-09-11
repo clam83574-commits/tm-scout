@@ -16,7 +16,13 @@ on:
     inputs:
       comps:
         description: "Лиги через запятую"
-        default: "L1,L2,L3"
+        default: "L1,L2,L3,BE1,BE2,BE3A,BE3V"
+      clubs:
+        description: "Лимит клубов на лигу (для дымового прогона)"
+        default: ""
+      players:
+        description: "Лимит игроков на лигу (для дымового прогона)"
+        default: ""
 
 permissions:
   contents: write               # чтобы коммитить результат обратно
@@ -49,7 +55,16 @@ jobs:
           restore-keys: scout-db-
 
       - name: Прогон
-        run: python scout.py --comps "${{ github.event.inputs.comps || 'L1,L2,L3' }}"
+        env:
+          COMPS: ${{ github.event.inputs.comps || 'L1,L2,L3,BE1,BE2,BE3A,BE3V' }}
+          CLUBS: ${{ github.event.inputs.clubs }}
+          PLAYERS: ${{ github.event.inputs.players }}
+        run: |
+          ARGS="--comps $COMPS"
+          [ -n "$CLUBS" ] && ARGS="$ARGS --clubs $CLUBS"
+          [ -n "$PLAYERS" ] && ARGS="$ARGS --players $PLAYERS"
+          echo "запускаю: scout.py $ARGS"
+          python scout.py $ARGS
 
       - name: Что изменилось за неделю
         run: python diff.py --since 8 --out out/weekly-diff.md
