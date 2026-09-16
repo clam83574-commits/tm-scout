@@ -93,6 +93,23 @@ const esc = (s) =>
 
 const marks = (n) => new Array(n).fill("?").join(",");
 
+/**
+ * Приведение параметров из callback_data к безопасным значениям.
+ *
+ * Кнопки живут в истории переписки вечно, а данные под ними меняются каждую
+ * неделю. Нажатие на «вперёд» в прошлогоднем сообщении приходит с номером
+ * страницы, которой уже нет, и запрос возвращает пусто - а код брал
+ * results[0]. Ошибку глотал общий try/catch, и кнопка просто переставала
+ * работать без единого следа. То же с испорченным ключом сортировки.
+ */
+const safePage = (p, pages) => {
+  const n = parseInt(p, 10);
+  if (!Number.isFinite(n) || n < 0) return 0;
+  if (pages != null && n >= pages) return Math.max(0, pages - 1);
+  return n;
+};
+const safeSort = (s) => (ORDERS[s] ? s : "s");
+
 /** Русское склонение после числа: 1 стране, 2 странах, 5 странах. */
 const plural = (n, one, few, many) => {
   const mod100 = n % 100;
@@ -201,8 +218,16 @@ async function screenCountries(env, flt, page = 0) {
   return [txt, kb];
 }
 
-/** Лиги одной страны. */
-async function screenLeagues(env, country, flt) {
+/**
+ * Лиги одной страны, постранично.
+ *
+ * Постраничность здесь не про красоту: в Германии 74 лиги вместе со всеми
+ * региональными - без неё экран превращается в ленту кнопок, по которой
+ * ничего не найти. Порядок - по дивизиону, поэтому первый экран это всегда
+ * профессиональные лиги, а не какая-нибудь Landesliga Hammonia.
+ */
+async function screenLeagues(env, country, flt, page = 0) {
+  page = safePage(page);
   const st = statuses(flt);
   let where = `country=? AND agent_status IN (${marks(st.length)})`;
   if (!showMarked(flt)) {
@@ -221,16 +246,29 @@ async function screenLeagues(env, country, flt) {
             [[{ text: "◀️ К странам", callback_data: `cs|0|${flt}` }]]];
   }
   const total = results.reduce((a, r) => a + r.n, 0);
+  const pages = Math.ceil(results.length / COUNTRIES_PAGE);
+  page = safePage(page, pages);
+  const slice = results.slice(page * COUNTRIES_PAGE, (page + 1) * COUNTRIES_PAGE);
   const head = `${results[0].flag ? results[0].flag + " " : ""}${results[0].country_ru || country}`;
   const txt =
-    `<b>${esc(head)}</b>\n${fltLabel(flt)} — кандидатов <b>${total}</b>\n\nВыбери лигу:`;
+    `<b>${esc(head)}</b>\n${fltLabel(flt)} — кандидатов <b>${total}</b> ` +
+    `в ${results.length} ${plural(results.length, "лиге", "лигах", "лигах")}` +
+    (pages > 1 ? `\nстр. ${page + 1} из ${pages}` : "") +
+    `\n\nВыбери лигу:`;
   const kb = rowsKb(
-    results.map((r) => [
-      `${compName(r)} — ${r.n}`,
+    slice.map((r) => [
+      // номер дивизиона в подписи: когда лиг под сотню, «Оберлига» без
+      // указания уровня не говорит ничего
+      `${compName(r)}${r.tier && r.tier <= 7 ? ` · ${r.tier}` : r.tier === 90 ? " · мол." : ""} — ${r.n}`,
       `cl|${r.comp}|${flt}`,
     ]),
     1
   );
+  const nav = [];
+  if (page) nav.push({ text: "◀️", callback_data: `lg|${country}|${flt}|${page - 1}` });
+  if (page + 1 < pages)
+    nav.push({ text: "▶️", callback_data: `lg|${country}|${flt}|${page + 1}` });
+  if (nav.length) kb.push(nav);
   kb.push([{ text: "◀️ К странам", callback_data: `cs|0|${flt}` }]);
   return [txt, kb];
 }
@@ -277,6 +315,7 @@ async function screenClubs(env, comp, flt) {
 }
 
 async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
+  srt = safeSort(srt);
   const st = statuses(flt);
   let where = `comp=? AND agent_status IN (${marks(st.length)})`;
   const args = [comp, ...st];
@@ -305,11 +344,19 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
       ],
     ];
   }
+  const pages = Math.ceil(total / PAGE);
+  page = safePage(page, pages);
   const { results } = await env.DB.prepare(
     `SELECT * FROM players WHERE ${where} ORDER BY ${ORDERS[srt][0]} LIMIT ? OFFSET ?`
   )
     .bind(...args, PAGE, page * PAGE)
     .all();
+  if (!results.length) {
+    return [
+      "Список изменился, эта страница опустела.",
+      [[{ text: "◀️ К клубам", callback_data: `cl|${comp}|${flt}` }]],
+    ];
+  }
 
   // Пометки только для показанных восьми - одним запросом, а не восемью
   const ids = results.map((r) => r.player_id);
@@ -533,7 +580,7 @@ async function handleCallback(env, cb) {
   const p = cb.data.split("|");
   let screen;
   if (p[0] === "cs") screen = await screenCountries(env, p[2], parseInt(p[1], 10));
-  else if (p[0] === "lg") screen = await screenLeagues(env, p[1], p[2]);
+  else if (p[0] === "lg") screen = await screenLeagues(env, p[1], p[2], p[3] || 0);
   else if (p[0] === "cl") screen = await screenClubs(env, p[1], p[2]);
   else if (p[0] === "f") screen = await screenFilter(env, p[1], p[2], p[3]);
   else if (p[0] === "p")

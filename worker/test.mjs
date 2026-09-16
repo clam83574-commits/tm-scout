@@ -101,6 +101,26 @@ const after = (await bot.screenPlayers(env, "L1", "ALL", 0, "1110", "s"))[0].mat
 check("скрытие отмеченных уменьшает выборку", Number(after) === Number(before) - 1, `${before} -> ${after}`);
 sqlite.exec("DELETE FROM notes");
 
+// --- краевые случаи: кнопки в старых сообщениях живут вечно, а данные
+// под ними меняются каждую неделю. Раньше это роняло экран молча. ---
+const survives = async (label, fn) => {
+  try { const r = await fn(); check(label, Array.isArray(r) && typeof r[0] === "string"); }
+  catch (e) { check(label, false, e.message.slice(0, 50)); }
+};
+await survives("страница за пределами выборки", () => bot.screenPlayers(env, "L1", "ALL", 99, "1111", "s"));
+await survives("испорченный ключ сортировки", () => bot.screenPlayers(env, "L1", "ALL", 0, "1111", "ZZ"));
+await survives("номер страницы не число", () => bot.screenPlayers(env, "L1", "ALL", NaN, "1111", "s"));
+await survives("отрицательная страница", () => bot.screenPlayers(env, "L1", "ALL", -5, "1111", "s"));
+await survives("страны: страница за пределами", () => bot.screenCountries(env, "1111a", 99));
+await survives("лиги: страница за пределами", () => bot.screenLeagues(env, "Belgium", "1111a", 99));
+await survives("несуществующая страна", () => bot.screenLeagues(env, "Narnia", "1111a", 0));
+await survives("пометки за пределами", () => bot.screenMark(env, "L1", "ALL", 99, "1111", "s"));
+
+const [lgPg, lgPgKb] = await bot.screenLeagues(env, "Belgium", "1111a", 0);
+check("в подписи кнопки есть дивизион", /· [1-7] —/.test(JSON.stringify(lgPgKb)),
+      lgPgKb[0][0].text);
+check("лиги считаются со склонением", lgPg.includes("в 4 лигах"));
+
 const s1 = await bot.search(env, "Bellingham");
 check("поиск находит Беллингема", s1.includes("Jobe Bellingham"));
 const s2 = await bot.search(env, "цйукенг");
