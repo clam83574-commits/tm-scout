@@ -86,18 +86,10 @@ jobs:
       - name: Что изменилось за неделю
         run: python diff.py --since 8 --out out/weekly-diff.md
 
-      - name: Коммит результата
-        # Прогон с лимитами - дымовой: он собирает несколько игроков и не должен
-        # затирать настоящую выгрузку в репозитории. Коммитим только полный сбор.
-        if: ${{ !github.event.inputs.clubs && !github.event.inputs.players }}
-        run: |
-          git config user.name "tm-scout bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add out/candidates.csv out/candidates.json out/weekly-diff.md
-          git diff --staged --quiet || git commit -m "сбор $(date -u +%Y-%m-%d): обновление кандидатов"
-          git pull --rebase origin main
-          git push
-
+      # ПОРЯДОК ВАЖЕН. Сначала сохранить данные и доставить их боту, и только
+      # потом коммитить в репозиторий. Раньше коммит стоял первым - и когда он
+      # падал (конфликт rebase, незастейдженные файлы), все следующие шаги
+      # пропускались: прогон собирал данные, а бот их не получал. Дважды.
       - name: Сложить базу в артефакты
         uses: actions/upload-artifact@v4
         with:
@@ -105,14 +97,29 @@ jobs:
           path: data/scout.sqlite
           retention-days: 90
 
-      # Без этого шага плановый прогон обновлял бы репозиторий, но не бота.
-      # Пропускается, только пока в секретах репозитория нет токена Cloudflare.
       - name: Залить в базу бота (Cloudflare D1)
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' && !github.event.inputs.clubs && !github.event.inputs.players }}
         run: |
           npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-import.sql -y
           npx wrangler@4 d1 execute tm-scout --remote --json \
             --command "SELECT COUNT(*) n FROM players"
+
+      - name: Коммит результата
+        # Прогон с лимитами - дымовой: он собирает несколько игроков и не должен
+        # затирать настоящую выгрузку в репозитории. Коммитим только полный сбор.
+        # continue-on-error: это бухгалтерия, а не продукт. Данные уже у бота,
+        # и неудачный коммит не должен красить прогон в красное.
+        if: ${{ !github.event.inputs.clubs && !github.event.inputs.players }}
+        continue-on-error: true
+        run: |
+          git config user.name "tm-scout bot"
+          git config user.email "bot@users.noreply.github.com"
+          # add -A по папке, а не поимённо: прогон трогает и d1-import.sql,
+          # незастейдженный файл ронял rebase с «You have unstaged changes»
+          git add -A out/
+          git diff --staged --quiet || git commit -m "сбор $(date -u +%Y-%m-%d): обновление кандидатов"
+          git pull --rebase --autostash origin main
+          git push
 
       - name: Предупредить, если бот не обновляется
         if: ${{ env.CLOUDFLARE_API_TOKEN == '' }}

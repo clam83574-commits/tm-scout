@@ -70,9 +70,9 @@ jobs:
           if [ "$YOUTH" = "true" ]; then YARG="--youth"; fi
           python scout.py --world --shard 1/4 --max-tier "$MAX_TIER" $YARG --workers "$WORKERS" --delay "$DELAY"
       - uses: actions/upload-artifact@v4
-        with: { name: db-1, path: data/scout.sqlite, retention-days: 3 }
+        with: { name: db-1, path: data/scout.sqlite, retention-days: 14 }
       - uses: actions/upload-artifact@v4
-        with: { name: comps, path: competitions.json, retention-days: 3 }
+        with: { name: comps, path: competitions.json, retention-days: 14 }
 
   shard2:
     needs: shard1
@@ -93,7 +93,7 @@ jobs:
           if [ "$YOUTH" = "true" ]; then YARG="--youth"; fi
           python scout.py --world --shard 2/4 --max-tier "$MAX_TIER" $YARG --workers "$WORKERS" --delay "$DELAY"
       - uses: actions/upload-artifact@v4
-        with: { name: db-2, path: data/scout.sqlite, retention-days: 3 }
+        with: { name: db-2, path: data/scout.sqlite, retention-days: 14 }
 
   shard3:
     needs: shard2
@@ -114,7 +114,7 @@ jobs:
           if [ "$YOUTH" = "true" ]; then YARG="--youth"; fi
           python scout.py --world --shard 3/4 --max-tier "$MAX_TIER" $YARG --workers "$WORKERS" --delay "$DELAY"
       - uses: actions/upload-artifact@v4
-        with: { name: db-3, path: data/scout.sqlite, retention-days: 3 }
+        with: { name: db-3, path: data/scout.sqlite, retention-days: 14 }
 
   shard4:
     needs: shard3
@@ -156,15 +156,10 @@ jobs:
           print("лиг:", c.execute("SELECT COUNT(DISTINCT comp) FROM players").fetchone()[0])
           PY
 
-      - name: Коммит результата
-        run: |
-          git config user.name "tm-scout bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add out/ competitions.json
-          git diff --staged --quiet || git commit -m "мировой обход $(date -u +%Y-%m-%d)"
-          git pull --rebase origin main
-          git push
-
+      # ПОРЯДОК ВАЖЕН: сохранить, доставить боту, и только потом коммит.
+      # 11.09 этот прогон собрал все четыре части, упал на `git pull --rebase`
+      # из-за конфликта - и пропустил всё, что стояло ниже: кэш, артефакт,
+      # заливку в бота. Восемь часов работы ушли в никуда.
       - name: Сохранить базу на следующий раз
         uses: actions/cache/save@v4
         with:
@@ -176,7 +171,20 @@ jobs:
 
       - name: Залить в базу бота (Cloudflare D1)
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
-        run: npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-import.sql -y
+        run: |
+          npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-import.sql -y
+          npx wrangler@4 d1 execute tm-scout --remote --json \
+            --command "SELECT COUNT(*) n FROM players"
+
+      - name: Коммит результата
+        continue-on-error: true      # бухгалтерия, данные уже у бота
+        run: |
+          git config user.name "tm-scout bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A out/ competitions.json
+          git diff --staged --quiet || git commit -m "мировой обход $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash origin main
+          git push
 
       - name: Предупредить, если бот не обновляется
         if: ${{ env.CLOUDFLARE_API_TOKEN == '' }}
