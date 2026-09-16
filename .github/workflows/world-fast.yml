@@ -1,0 +1,152 @@
+# Быстрый мировой обход: четыре части ОДНОВРЕМЕННО.
+#
+# КУДА ПОЛОЖИТЬ: .github/workflows/world-fast.yml
+#
+# Отличие от world.yml ровно одно: части не ждут друг друга. Последовательный
+# обход занимает ~9 ч, параллельный ~1,5 ч при той же скорости на каждую часть.
+# Части идут на РАЗНЫХ раннерах с разными адресами, поэтому нагрузка на адрес
+# не растёт — растёт только суммарная на Transfermarkt.
+#
+# Цена параллельности: части не могут передавать базу друг другу, поэтому все
+# стартуют от одного снимка и в конце сливаются (merge.py). Побеждает свежая
+# запись; лиги у частей не пересекаются, так что спорных строк почти нет.
+#
+# world.yml остаётся как медленный и щадящий режим для планового обхода.
+name: world-fast
+
+on:
+  workflow_dispatch:
+    inputs:
+      workers:
+        description: "Потоков на КАЖДУЮ часть (16 - вчетверо больше суммарно)"
+        default: "16"
+      delay:
+        description: "Пауза между запросами, мин,макс сек"
+        default: "0.4,0.8"
+      max_tier:
+        description: "До какого дивизиона"
+        default: "7"
+      youth:
+        description: "Брать молодёжные лиги"
+        default: "true"
+
+permissions:
+  contents: write
+
+env:
+  WORKERS: ${{ github.event.inputs.workers || '16' }}
+  DELAY: ${{ github.event.inputs.delay || '0.4,0.8' }}
+  MAX_TIER: ${{ github.event.inputs.max_tier || '7' }}
+  YOUTH: ${{ github.event.inputs.youth || 'true' }}
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+jobs:
+  # Перепись лиг делается ОДИН раз: иначе четыре части сделали бы её
+  # одновременно и вчетверо нагрузили каталог ради одинакового результата.
+  prep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt && playwright install --with-deps chromium
+      - name: Забрать базу прошлого прогона
+        uses: actions/cache@v4
+        with:
+          path: data
+          key: scout-db-${{ github.run_id }}
+          restore-keys: scout-db-
+      - name: Перепись лиг
+        run: python discover.py --workers "$WORKERS" --delay "$DELAY"
+      - run: mkdir -p data && touch data/.keep
+      - uses: actions/upload-artifact@v4
+        with: { name: comps, path: competitions.json, retention-days: 14 }
+      - uses: actions/upload-artifact@v4
+        with: { name: base-db, path: data, retention-days: 14 }
+
+  crawl:
+    needs: prep
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false        # упавшая часть не должна убивать остальные три
+      matrix:
+        shard: [1, 2, 3, 4]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt && playwright install --with-deps chromium
+      - uses: actions/download-artifact@v4
+        with: { name: comps, path: . }
+      - uses: actions/download-artifact@v4
+        with: { name: base-db, path: data }
+      - name: Часть ${{ matrix.shard }} из 4
+        run: |
+          YARG=""
+          if [ "$YOUTH" = "true" ]; then YARG="--youth"; fi
+          python scout.py --world --shard ${{ matrix.shard }}/4 \
+            --max-tier "$MAX_TIER" $YARG --workers "$WORKERS" --delay "$DELAY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: db-${{ matrix.shard }}
+          path: data/scout.sqlite
+          retention-days: 14
+
+  finish:
+    needs: crawl
+    if: ${{ always() }}       # собираем то, что успело досчитаться
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt && playwright install --with-deps chromium
+      - uses: actions/download-artifact@v4
+        with: { pattern: db-*, path: parts }
+      - uses: actions/download-artifact@v4
+        with: { name: comps, path: . }
+
+      - name: Слить части
+        run: |
+          mkdir -p data
+          FILES=$(find parts -name "scout.sqlite" | sort)
+          echo "нашёл части:"; echo "$FILES"
+          test -n "$FILES" || { echo "::error::ни одна часть не досчиталась"; exit 1; }
+          python merge.py data/scout.sqlite $FILES
+
+      - name: Игроки без клуба
+        run: python scout.py --free-agents --workers "$WORKERS" --delay "$DELAY"
+
+      - name: Что изменилось
+        run: python diff.py --since 32 --out out/world-diff.md
+
+      # Сначала сохранить и доставить, потом учёт - см. lesson 2026-09-16
+      - name: Сохранить базу на следующий раз
+        uses: actions/cache/save@v4
+        with:
+          path: data
+          key: scout-db-${{ github.run_id }}
+
+      - uses: actions/upload-artifact@v4
+        with: { name: world-sqlite, path: data/scout.sqlite, retention-days: 30 }
+
+      - name: Залить в базу бота (Cloudflare D1)
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        run: |
+          npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-import.sql -y
+          npx wrangler@4 d1 execute tm-scout --remote --json \
+            --command "SELECT COUNT(*) n FROM players"
+
+      - name: Коммит результата
+        continue-on-error: true
+        run: |
+          git config user.name "tm-scout bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A out/ competitions.json
+          git diff --staged --quiet || git commit -m "быстрый мировой обход $(date -u +%Y-%m-%d)"
+          git pull --rebase --autostash origin main
+          git push
