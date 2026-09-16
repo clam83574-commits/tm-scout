@@ -86,30 +86,45 @@ def harvest_token(headless=True):
     from playwright.sync_api import sync_playwright
 
     seed = BASE + "/bundesliga/startseite/wettbewerb/L1"
-    ok = False
-    with sync_playwright() as p:
-        b = p.chromium.launch(headless=headless)
-        ctx = b.new_context(user_agent=UA, locale="en-US",
-                            viewport={"width": 1366, "height": 900})
-        pg = ctx.new_page()
-        pg.goto(seed, wait_until="domcontentloaded", timeout=60000)
-        for _ in range(40):                       # ждём, пока челлендж отработает
-            try:
-                html = pg.content()
-                if "awsWafCookieDomainList" not in html and len(html) > 50000:
-                    ok = True
-                    break
-            except Exception:
-                pass                              # страница перерисовывается
-            time.sleep(1)
-        pg.wait_for_timeout(1500)
-        cookies = {c["name"]: c["value"] for c in ctx.cookies()}
-        b.close()
-    if not ok:
-        raise RuntimeError("страница не открылась: челлендж AWS WAF не пройден")
-    if "aws-waf-token" not in cookies:
-        print("  [waf] челлендж не потребовался, иду без куки", flush=True)
-    return cookies
+    # Челлендж проходит НЕ ВСЕГДА с первой попытки: на раннерах GitHub он
+    # иногда зависает дольше минуты или срывается. Один заход давал падение
+    # всего прогона на ровном месте, поэтому пробуем несколько раз с новым
+    # браузером - перезапуск обходится в десяток секунд, потеря прогона в часы.
+    last = ""
+    for attempt in range(1, 4):
+        ok, cookies = False, {}
+        try:
+            with sync_playwright() as p:
+                b = p.chromium.launch(headless=headless)
+                ctx = b.new_context(user_agent=UA, locale="en-US",
+                                    viewport={"width": 1366, "height": 900})
+                pg = ctx.new_page()
+                pg.goto(seed, wait_until="domcontentloaded", timeout=90000)
+                for _ in range(90):
+                    try:
+                        html = pg.content()
+                        # признак настоящей страницы - ссылки на клубы,
+                        # а не длина: заглушка тоже может быть объёмной
+                        if ("awsWafCookieDomainList" not in html
+                                and "/startseite/verein/" in html):
+                            ok = True
+                            break
+                    except Exception:
+                        pass                      # страница перерисовывается
+                    time.sleep(1)
+                pg.wait_for_timeout(1500)
+                cookies = {c["name"]: c["value"] for c in ctx.cookies()}
+                b.close()
+        except Exception as e:
+            last = "%s: %s" % (type(e).__name__, str(e)[:120])
+        if ok:
+            if "aws-waf-token" not in cookies:
+                print("  [waf] челлендж не потребовался, иду без куки", flush=True)
+            return cookies
+        print("  [waf] попытка %d из 3 не удалась%s"
+              % (attempt, (" (%s)" % last) if last else ""), flush=True)
+        time.sleep(5 * attempt)
+    raise RuntimeError("страница не открылась за 3 попытки: челлендж AWS WAF")
 
 
 class Session:
