@@ -76,10 +76,17 @@ WORKERS = 1          # сколько страниц тянуть паралле
 
 # ---------------------------------------------------------------- WAF / сессия
 def harvest_token(headless=True):
-    """Один прогон браузера: решить челлендж AWS WAF, забрать куки."""
+    """Один прогон браузера: пройти челлендж AWS WAF, если он есть, забрать куки.
+
+    Признак успеха - ПОЛУЧЕННАЯ СТРАНИЦА, а не наличие куки aws-waf-token.
+    Transfermarkt выдаёт челлендж не всегда: с части адресов страница отдаётся
+    сразу, куки при этом нет вовсе. Раньше её отсутствие считалось провалом,
+    и сборщик падал там, где на самом деле всё работало.
+    """
     from playwright.sync_api import sync_playwright
 
     seed = BASE + "/bundesliga/startseite/wettbewerb/L1"
+    ok = False
     with sync_playwright() as p:
         b = p.chromium.launch(headless=headless)
         ctx = b.new_context(user_agent=UA, locale="en-US",
@@ -88,7 +95,9 @@ def harvest_token(headless=True):
         pg.goto(seed, wait_until="domcontentloaded", timeout=60000)
         for _ in range(40):                       # ждём, пока челлендж отработает
             try:
-                if "awsWafCookieDomainList" not in pg.content():
+                html = pg.content()
+                if "awsWafCookieDomainList" not in html and len(html) > 50000:
+                    ok = True
                     break
             except Exception:
                 pass                              # страница перерисовывается
@@ -96,8 +105,10 @@ def harvest_token(headless=True):
         pg.wait_for_timeout(1500)
         cookies = {c["name"]: c["value"] for c in ctx.cookies()}
         b.close()
+    if not ok:
+        raise RuntimeError("страница не открылась: челлендж AWS WAF не пройден")
     if "aws-waf-token" not in cookies:
-        raise RuntimeError("не удалось получить aws-waf-token")
+        print("  [waf] челлендж не потребовался, иду без куки", flush=True)
     return cookies
 
 
