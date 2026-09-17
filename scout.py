@@ -27,6 +27,8 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+import countries
+
 # консоль Windows по умолчанию cp1252 - русские логи её роняют
 for _stream in (sys.stdout, sys.stderr):
     try:
@@ -594,12 +596,12 @@ def normalize(c=None):
     rows = c.execute("SELECT player_id, market_value, contract_until, comp, "
                      "comp_name, country FROM players").fetchall()
     for pid, mv, ct, comp, comp_name, country in rows:
-        # Для лиг, названных по-русски вручную, берём перевод; для остальных
-        # 400+ лиг мира - оригинальное название. Названия лиг это имена
-        # собственные («LaLiga», «Serie A»), так что читаемость не страдает,
-        # а перевод можно досыпать в DISPLAY когда угодно: он применяется
-        # одним прогоном normalize, без пересбора данных.
-        ru, country_ru, flag = DISPLAY.get(comp, (comp_name, country, ""))
+        # Название лиги: ручной перевод, если он есть, иначе оригинал -
+        # имена собственные («LaLiga», «Serie A») читаются и так.
+        # Страна и флаг берутся из таблицы на все 126 стран: без неё мир
+        # показался в боте по-английски и вообще без флагов.
+        ru = DISPLAY.get(comp, (comp_name, None, None))[0] or comp_name
+        country_ru, flag = countries.lookup(country)
         iso = date_to_iso(ct)
         # Дней до конца контракта: игрок без агента, у которого контракт
         # заканчивается, - самый горячий повод для звонка. За полгода до
