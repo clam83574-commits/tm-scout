@@ -120,11 +120,26 @@ const plural = (n, one, few, many) => {
   return many;
 };
 
+/**
+ * Есть ли в поле настоящее значение.
+ *
+ * Transfermarkt ставит прочерк там, где данных нет, и таких полей много:
+ * стоимости нет у 79% игроков, даты контракта у 54% - в низших и молодёжных
+ * лигах их просто не заполняют. Прочерк, вставленный в строку как значение,
+ * давал «27 г. · - · контракт до -» и выглядел как сломанная вёрстка.
+ */
+const has = (v) => {
+  const s = String(v ?? "").trim();
+  return s !== "" && s !== "-" && s !== "—" && s !== "?";
+};
+
 /** У игрока без клуба дата в поле «контракт» - это день, С которого он свободен. */
-const contractLine = (r) =>
-  r.comp === "FREE"
-    ? `свободен с ${r.contract_until || "—"}`
-    : `контракт до ${r.contract_until || "—"}`;
+const contractLine = (r) => {
+  if (!has(r.contract_until)) return "";
+  return r.comp === "FREE"
+    ? `свободен с ${r.contract_until}`
+    : `контракт до ${r.contract_until}`;
+};
 
 // ------------------------------------------------------------------ Telegram
 async function tg(env, method, payload) {
@@ -403,7 +418,13 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
       `${ORDERS[srt][1]} · стр. ${page + 1} из ${Math.ceil(total / PAGE)}\n`,
   ];
   for (const r of results) {
-    const bits = [r.position, r.age ? `${r.age} г.` : "", r.market_value]
+    // всё, чего нет, просто не показываем: пустое место честнее прочерка
+    const bits = [
+      has(r.position) ? r.position : "",
+      r.age ? `${r.age} г.` : "",
+      has(r.market_value) ? r.market_value : "",
+      contractLine(r),
+    ]
       .filter(Boolean)
       .join(" · ");
     const n = noted[r.player_id];
@@ -412,7 +433,7 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
     lines.push(
       `${BADGE[r.agent_status] || "·"} <a href="${r.url}"><b>${esc(r.name)}</b></a>` +
         ` · ${LABEL[r.agent_status] || "?"}\n    ${mark}` +
-        `<i>${esc(r.club)}</i>\n    ${esc(bits)} · ${contractLine(r)}`
+        `<i>${esc(r.club)}</i>\n    ${esc(bits)}`
     );
   }
 
@@ -478,16 +499,27 @@ async function screenNote(env, pid, comp, clubId, page, flt, srt) {
   const back = `p|${comp}|${clubId}|${page}|${flt}|${srt}`;
   if (!p) return ["Игрок не найден.", [[{ text: "◀️ Назад", callback_data: back }]]];
 
-  const bits = [p.position, p.age ? `${p.age} г.` : "", p.market_value]
+  const bits = [
+    has(p.position) ? p.position : "",
+    p.age ? `${p.age} г.` : "",
+    has(p.market_value) ? p.market_value : "",
+  ]
     .filter(Boolean)
     .join(" · ");
+  // В карточке, в отличие от списка, отсутствие срока стоит назвать словами:
+  // «не указан» и «нет контракта» — разные вещи, и агенту важно не спутать.
+  const contract = contractLine(p)
+    ? contractLine(p) +
+      (p.contract_days != null && p.contract_days > 0 ? ` (${p.contract_days} дн.)` : "")
+    : "срок контракта не указан";
   let txt =
     `${BADGE[p.agent_status] || "·"} <a href="${p.url}"><b>${esc(p.name)}</b></a> · ` +
-    `${LABEL[p.agent_status] || "?"}\n<i>${esc(p.club)}</i>\n${esc(bits)}\n` +
-    contractLine(p) +
-    (p.contract_days != null && p.contract_days > 0 ? ` (${p.contract_days} дн.)` : "");
-  if (p.citizenship) txt += `\nгражданство: ${esc(p.citizenship)}`;
-  if (p.height || p.foot) txt += `\n${esc([p.height, p.foot].filter(Boolean).join(" · "))}`;
+    `${LABEL[p.agent_status] || "?"}\n<i>${esc(p.club)}</i>\n` +
+    (bits ? `${esc(bits)}\n` : "") +
+    contract;
+  if (has(p.citizenship)) txt += `\nгражданство: ${esc(p.citizenship)}`;
+  const body = [p.height, p.foot].filter(has).join(" · ");
+  if (body) txt += `\n${esc(body)}`;
   if (p.socials) {
     const links = p.socials
       .split(" ")

@@ -121,6 +121,18 @@ check("в подписи кнопки есть дивизион", /· [1-7] —/
       lgPgKb[0][0].text);
 check("лиги считаются со склонением", lgPg.includes("в 4 лигах"));
 
+// --- прочерки вместо данных ---
+// У 79% игроков нет стоимости, у 54% нет даты контракта: Transfermarkt
+// ставит там прочерк. Показанный как значение, он ломал вид строки.
+sqlite.exec("UPDATE players SET market_value='-', contract_until='-' WHERE player_id=(SELECT player_id FROM players LIMIT 1)");
+const [dashTxt] = await bot.screenPlayers(env, "L1", "ALL", 0, "1111a", "s");
+check("прочерк не попадает в строку", !/· *- *·/.test(dashTxt) && !/до -/.test(dashTxt));
+check("нет висящего разделителя в конце", !/· *$/m.test(dashTxt));
+const pidDash = sqlite.prepare("SELECT player_id FROM players WHERE market_value='-' AND contract_until='-' LIMIT 1").get().player_id;
+const [cardTxt] = await bot.screenNote(env, pidDash, "L1", "ALL", 0, "1111a", "s");
+check("в карточке сказано словами", cardTxt.includes("срок контракта не указан"));
+check("в карточке нет голого прочерка", !/· *- *·/.test(cardTxt));
+
 const s1 = await bot.search(env, "Bellingham");
 check("поиск находит Беллингема", s1.includes("Jobe Bellingham"));
 const s2 = await bot.search(env, "цйукенг");
