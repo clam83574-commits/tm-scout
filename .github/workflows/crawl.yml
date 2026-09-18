@@ -101,6 +101,9 @@ jobs:
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' && !github.event.inputs.clubs && !github.event.inputs.players }}
         run: |
           npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-import.sql -y
+          # сводка счётчиков идёт СРАЗУ ЗА данными: иначе экраны
+          # выбора показывали бы числа от прошлого прогона
+          npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-stats.sql -y
           npx wrangler@4 d1 execute tm-scout --remote --json \
             --command "SELECT COUNT(*) n FROM players"
 

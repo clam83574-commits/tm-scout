@@ -176,19 +176,41 @@ const COUNTRIES_PAGE = 12;
  * в ленту из сотен строк, по которой невозможно ничего найти.
  * Страны идут по убыванию числа кандидатов: нужные окажутся сверху.
  */
-async function screenCountries(env, flt, page = 0) {
-  const st = statuses(flt);
-  let where = `agent_status IN (${marks(st.length)})`;
-  if (!showMarked(flt)) {
-    where += " AND player_id NOT IN (SELECT player_id FROM notes)";
-  }
-  where += contractSql(flt);
+/**
+ * Сколько ОТМЕЧЕННЫХ игроков в каждой стране (или лиге).
+ *
+ * Сводка считается при заливке данных и о пометках ничего не знает - их
+ * ставят потом. Пометок мало, поэтому дешевле вычесть их из готовых чисел,
+ * чем пересчитывать всё по большой таблице.
+ */
+async function markedCounts(env, field) {
   const { results } = await env.DB.prepare(
-    `SELECT country, MAX(country_ru) country_ru, MAX(flag) flag, COUNT(*) n
-     FROM players WHERE ${where} GROUP BY country ORDER BY n DESC, country`
-  )
-    .bind(...st)
-    .all();
+    `SELECT p.${field} k, COUNT(*) n FROM notes t
+     JOIN players p ON p.player_id = t.player_id GROUP BY p.${field}`
+  ).all();
+  return Object.fromEntries(results.map((r) => [r.k, r.n]));
+}
+
+async function screenCountries(env, flt, page = 0) {
+  page = safePage(page);
+  const st = statuses(flt);
+  // Считаем по сводной таблице, а не по 134 тысячам строк: раньше одно
+  // нажатие вычитывало 269 тысяч строк, то есть меньше двадцати открытий
+  // в сутки на бесплатном тарифе D1. Теперь около двух с половиной тысяч.
+  const [countsRes, minus] = await Promise.all([
+    env.DB.prepare(
+      `SELECT country, MAX(country_ru) country_ru, MAX(flag) flag, SUM(n) n
+       FROM stats WHERE bucket=? AND agent_status IN (${marks(st.length)})
+       GROUP BY country`
+    )
+      .bind(contractMode(flt), ...st)
+      .all(),
+    showMarked(flt) ? Promise.resolve({}) : markedCounts(env, "country"),
+  ]);
+  const results = countsRes.results
+    .map((r) => ({ ...r, n: r.n - (minus[r.country] || 0) }))
+    .filter((r) => r.n > 0)
+    .sort((a, b) => b.n - a.n || String(a.country).localeCompare(b.country));
   if (!results.length) {
     return [
       "Под этот фильтр никто не подходит.",
@@ -229,18 +251,23 @@ async function screenCountries(env, flt, page = 0) {
 async function screenLeagues(env, country, flt, page = 0) {
   page = safePage(page);
   const st = statuses(flt);
-  let where = `country=? AND agent_status IN (${marks(st.length)})`;
-  if (!showMarked(flt)) {
-    where += " AND player_id NOT IN (SELECT player_id FROM notes)";
-  }
-  where += contractSql(flt);
-  const { results } = await env.DB.prepare(
-    `SELECT comp, MAX(comp_name) comp_name, MAX(comp_ru) comp_ru, MAX(flag) flag,
-            MAX(country_ru) country_ru, MIN(tier) tier, COUNT(*) n
-     FROM players WHERE ${where} GROUP BY comp ORDER BY tier, n DESC`
-  )
-    .bind(country, ...st)
-    .all();
+  // По сводке, как и экран стран: у Германии 23 тысячи кандидатов, считать
+  // их заново на каждое открытие списка лиг незачем.
+  const [compsRes, minus] = await Promise.all([
+    env.DB.prepare(
+      `SELECT comp, MAX(comp_name) comp_name, MAX(comp_ru) comp_ru, MAX(flag) flag,
+              MAX(country_ru) country_ru, MIN(tier) tier, SUM(n) n
+       FROM stats WHERE country=? AND bucket=? AND agent_status IN (${marks(st.length)})
+       GROUP BY comp`
+    )
+      .bind(country, contractMode(flt), ...st)
+      .all(),
+    showMarked(flt) ? Promise.resolve({}) : markedCounts(env, "comp"),
+  ]);
+  const results = compsRes.results
+    .map((r) => ({ ...r, n: r.n - (minus[r.comp] || 0) }))
+    .filter((r) => r.n > 0)
+    .sort((a, b) => (a.tier || 99) - (b.tier || 99) || b.n - a.n);
   if (!results.length) {
     return ["В этой стране под фильтр никто не подходит.",
             [[{ text: "◀️ К странам", callback_data: `cs|0|${flt}` }]]];
@@ -332,7 +359,7 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
   const cnt = await env.DB.prepare(`SELECT COUNT(*) n FROM players WHERE ${where}`)
     .bind(...args)
     .first();
-  const total = cnt.n;
+  const total = cnt.n;   // нужен до выборки: от него зависит номер страницы
   if (!total) {
     return [
       "Под этот фильтр здесь никого нет.",
@@ -486,9 +513,12 @@ async function screenNote(env, pid, comp, clubId, page, flt, srt) {
 }
 
 async function screenFilter(env, comp, clubId, flt) {
+  // тоже по сводке: счётчики у галочек не стоят полного прохода по базе
   const { results } = await env.DB.prepare(
-    "SELECT agent_status, COUNT(*) n FROM players GROUP BY agent_status"
-  ).all();
+    "SELECT agent_status, SUM(n) n FROM stats WHERE bucket=? GROUP BY agent_status"
+  )
+    .bind(contractMode(flt))
+    .all();
   const counts = Object.fromEntries(results.map((r) => [r.agent_status, r.n]));
   const txt =
     "<b>Кого показывать</b>\n\n" +
@@ -577,6 +607,10 @@ async function handleCallback(env, cb) {
   }
   const chat = cb.message.chat.id;
   const mid = cb.message.message_id;
+  // Гасим «часики» на кнопке СРАЗУ, не дожидаясь базы. Раньше это стояло
+  // после всех запросов, и кнопка полторы секунды выглядела зависшей, хотя
+  // работа шла. Промис не ждём здесь - дождёмся вместе с отправкой ответа.
+  const ack = tg(env, "answerCallbackQuery", { callback_query_id: cb.id });
   const p = cb.data.split("|");
   let screen;
   if (p[0] === "cs") screen = await screenCountries(env, p[2], parseInt(p[1], 10));
@@ -608,12 +642,11 @@ async function handleCallback(env, cb) {
     await tg(env, "answerCallbackQuery", {
       callback_query_id: cb.id,
       text: status === "clear" ? "Пометка снята" : `Отмечено: ${NOTE_LABEL[status] || status}`,
-    });
+    }).catch(() => {});   // ack уже ушёл выше, этот — только ради всплывашки
     const [t, kb] = await screenNote(env, pid, comp, clubId, parseInt(page, 10), flt, srt);
     return send(env, cb.message.chat.id, t, kb, cb.message.message_id);
   } else return;
-  await tg(env, "answerCallbackQuery", { callback_query_id: cb.id });
-  await send(env, chat, screen[0], screen[1], mid);
+  await Promise.all([ack, send(env, chat, screen[0], screen[1], mid)]);
 }
 
 async function handleMessage(env, msg) {

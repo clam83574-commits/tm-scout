@@ -702,6 +702,7 @@ def export(path=None, statuses=("NO_AGENT", "RELATIVES", "UNKNOWN")):
     print("выгружено %d строк -> %s" % (len(rows), path))
     export_json(c, statuses, path.parent / "candidates.json")
     export_d1(c, statuses, path.parent / "d1-import.sql")
+    export_stats(c, statuses, path.parent / "d1-stats.sql")
     c.close()
     return path
 
@@ -757,6 +758,62 @@ def export_d1_append(comp, path=None):
     return path
 
 
+def export_stats(c, statuses, path=None):
+    """Маленькая сводная таблица счётчиков для экранов выбора.
+
+    Экраны стран и лиг показывают только НАЗВАНИЯ и ЧИСЛА. Считать их
+    группировкой по таблице в 134 тысячи строк - это 269 тысяч прочитанных
+    строк на одно нажатие кнопки, то есть меньше двадцати открытий в сутки
+    на бесплатном тарифе D1. Здесь тех же чисел около четырёх тысяч строк,
+    и они не растут вместе с базой.
+
+    bucket: 'a' любой контракт, 'x' кончается <=6 мес, 'f' уже без клуба.
+    """
+    marks = ",".join("?" * len(statuses))
+    rows = c.execute(
+        "SELECT country, MAX(country_ru), MAX(flag), comp, MAX(comp_name), "
+        "MAX(comp_ru), MIN(tier), agent_status, "
+        "SUM(1), "
+        "SUM(CASE WHEN comp='FREE' OR (contract_days IS NOT NULL "
+        "         AND contract_days BETWEEN 0 AND 183) THEN 1 ELSE 0 END), "
+        "SUM(CASE WHEN comp='FREE' THEN 1 ELSE 0 END) "
+        "FROM players WHERE agent_status IN (%s) "
+        "GROUP BY country, comp, agent_status" % marks, statuses).fetchall()
+
+    out = ["DROP TABLE IF EXISTS stats;",
+           "CREATE TABLE stats (country TEXT, country_ru TEXT, flag TEXT, "
+           "comp TEXT, comp_name TEXT, comp_ru TEXT, tier INTEGER, "
+           "agent_status TEXT, bucket TEXT, n INTEGER);"]
+
+    def lit(v):
+        if v is None:
+            return "NULL"
+        if isinstance(v, int):
+            return str(v)
+        return "'" + str(v).replace("'", "''") + "'"
+
+    n_rows = 0
+    for (country, cru, flag, comp, cname, cru2, tier, st, n_a, n_x, n_f) in rows:
+        for bucket, n in (("a", n_a), ("x", n_x), ("f", n_f)):
+            if not n:
+                continue
+            out.append("INSERT INTO stats VALUES (%s);" % ", ".join(
+                lit(v) for v in (country, cru, flag, comp, cname, cru2,
+                                 tier, st, bucket, n)))
+            n_rows += 1
+    out.append("CREATE INDEX idx_stats_country ON stats(country);")
+    out.append("CREATE INDEX idx_stats_bucket ON stats(bucket, agent_status);")
+
+    path = Path(path or ROOT / "out" / "d1-stats.sql")
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(out), encoding="utf-8")
+    print("сводка -> %s (%d строк вместо %d)"
+          % (path, n_rows, c.execute("SELECT COUNT(*) FROM players WHERE "
+                                     "agent_status IN (%s)" % marks,
+                                     statuses).fetchone()[0]))
+    return path
+
+
 def export_d1(c, statuses, path):
     """SQL для заливки в Cloudflare D1: wrangler d1 execute --file=..."""
     marks = ",".join("?" * len(statuses))
@@ -778,8 +835,19 @@ def export_d1(c, statuses, path):
         return "'" + str(v).replace("'", "''") + "'"
     for r in rows:
         out.append("INSERT INTO players VALUES (%s);" % ", ".join(lit(v) for v in r))
+    # Индексы создаём ЗДЕСЬ ЖЕ. DROP TABLE выше сносит и таблицу, и её
+    # индексы, так что без этих строк каждая заливка тихо возвращала бы
+    # базу бота к полному перебору 134 тысяч строк на каждое нажатие.
+    out += [
+        "CREATE INDEX idx_status ON players(agent_status);",
+        "CREATE INDEX idx_country_status ON players(country, agent_status);",
+        "CREATE INDEX idx_comp_status ON players(comp, agent_status);",
+        "CREATE INDEX idx_club_status ON players(club_id, agent_status);",
+        "CREATE INDEX idx_comp_mv ON players(comp, agent_status, mv_eur);",
+        "CREATE INDEX idx_name ON players(name);",
+    ]
     path.write_text("\n".join(out), encoding="utf-8")
-    print("D1 SQL -> %s (%d строк)" % (path, len(rows)))
+    print("D1 SQL -> %s (%d строк + индексы)" % (path, len(rows)))
 
 
 def bench(n, headless=True):
