@@ -166,6 +166,19 @@ function send(env, chat, text, kb, edit) {
   return tg(env, "sendMessage", p);
 }
 
+/**
+ * Кнопка «на главную» последней строкой.
+ *
+ * Возврат по одному уровню сохранён - он нужен, когда листаешь клубы внутри
+ * лиги. Но из списка игроков до стран было три нажатия, и это раздражает
+ * больше всего при обычной работе: посмотрел одну лигу, пошёл в другую.
+ * Фильтр в ссылке сохраняется, иначе настройки сбрасывались бы каждый раз.
+ */
+const withHome = (kb, flt) => [
+  ...kb,
+  [{ text: "🏠 На главную", callback_data: `cs|0|${flt}` }],
+];
+
 function rowsKb(items, perRow = 2) {
   const kb = [];
   for (let i = 0; i < items.length; i += perRow) {
@@ -284,8 +297,7 @@ async function screenLeagues(env, country, flt, page = 0) {
     .filter((r) => r.n > 0)
     .sort((a, b) => (a.tier || 99) - (b.tier || 99) || b.n - a.n);
   if (!results.length) {
-    return ["В этой стране под фильтр никто не подходит.",
-            [[{ text: "◀️ К странам", callback_data: `cs|0|${flt}` }]]];
+    return ["В этой стране под фильтр никто не подходит.", withHome([], flt)];
   }
   const total = results.reduce((a, r) => a + r.n, 0);
   const pages = Math.ceil(results.length / COUNTRIES_PAGE);
@@ -311,8 +323,7 @@ async function screenLeagues(env, country, flt, page = 0) {
   if (page + 1 < pages)
     nav.push({ text: "▶️", callback_data: `lg|${country}|${flt}|${page + 1}` });
   if (nav.length) kb.push(nav);
-  kb.push([{ text: "◀️ К странам", callback_data: `cs|0|${flt}` }]);
-  return [txt, kb];
+  return [txt, withHome(kb, flt)];
 }
 
 async function screenClubs(env, comp, flt) {
@@ -353,7 +364,7 @@ async function screenClubs(env, comp, flt) {
       callback_data: name && name.country ? `lg|${name.country}|${flt}` : `cs|0|${flt}`,
     },
   ]);
-  return [txt, kb];
+  return [txt, withHome(kb, flt)];
 }
 
 async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
@@ -378,12 +389,15 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
   if (!total) {
     return [
       "Под этот фильтр здесь никого нет.",
-      [
+      withHome(
         [
-          { text: "⚙️ Фильтр", callback_data: `f|${comp}|${clubId}|${flt}` },
-          { text: "◀️ К клубам", callback_data: `cl|${comp}|${flt}` },
+          [
+            { text: "⚙️ Фильтр", callback_data: `f|${comp}|${clubId}|${flt}` },
+            { text: "◀️ К клубам", callback_data: `cl|${comp}|${flt}` },
+          ],
         ],
-      ],
+        flt
+      ),
     ];
   }
   const pages = Math.ceil(total / PAGE);
@@ -396,7 +410,7 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
   if (!results.length) {
     return [
       "Список изменился, эта страница опустела.",
-      [[{ text: "◀️ К клубам", callback_data: `cl|${comp}|${flt}` }]],
+      withHome([[{ text: "◀️ К клубам", callback_data: `cl|${comp}|${flt}` }]], flt),
     ];
   }
 
@@ -453,7 +467,7 @@ async function screenPlayers(env, comp, clubId, page, flt, srt = "s") {
     { text: "⚙️ Фильтр", callback_data: `f|${comp}|${clubId}|${flt}` },
     { text: "◀️ К клубам", callback_data: `cl|${comp}|${flt}` },
   ]);
-  return [lines.join("\n\n"), kb];
+  return [lines.join("\n\n"), withHome(kb, flt)];
 }
 
 /** Выбор игрока со страницы, чтобы поставить ему пометку. */
@@ -476,15 +490,17 @@ async function screenMark(env, comp, clubId, page, flt, srt) {
     .all();
   const back = `p|${comp}|${clubId}|${page}|${flt}|${srt}`;
   if (!results.length) {
-    return ["Некого отмечать.", [[{ text: "◀️ Назад", callback_data: back }]]];
+    return ["Некого отмечать.",
+            withHome([[{ text: "◀️ Назад", callback_data: back }]], flt)];
   }
-  const kb = results.map((r) => [
+  let kb = results.map((r) => [
     {
       text: `${r.name.slice(0, 28)} — ${r.club.slice(0, 16)}`,
       callback_data: `nt|${r.player_id}|${comp}|${clubId}|${page}|${flt}|${srt}`,
     },
   ]);
   kb.push([{ text: "◀️ Назад", callback_data: back }]);
+  kb = withHome(kb, flt);
   return ["<b>Кого отметить?</b>\nВыбери игрока с этой страницы:", kb];
 }
 
@@ -497,7 +513,8 @@ async function screenNote(env, pid, comp, clubId, page, flt, srt) {
     .bind(pid)
     .first();
   const back = `p|${comp}|${clubId}|${page}|${flt}|${srt}`;
-  if (!p) return ["Игрок не найден.", [[{ text: "◀️ Назад", callback_data: back }]]];
+  if (!p) return ["Игрок не найден.",
+                  withHome([[{ text: "◀️ Назад", callback_data: back }]], flt)];
 
   const bits = [
     has(p.position) ? p.position : "",
@@ -541,7 +558,7 @@ async function screenNote(env, pid, comp, clubId, page, flt, srt) {
   ];
   if (n) kb.push([{ text: "🧹 Снять пометку", callback_data: `ns|clear|${tail}` }]);
   kb.push([{ text: "◀️ К списку", callback_data: back }]);
-  return [txt, kb];
+  return [txt, withHome(kb, flt)];
 }
 
 async function screenFilter(env, comp, clubId, flt) {
@@ -595,7 +612,7 @@ async function screenFilter(env, comp, clubId, flt) {
   let back = comp !== "-" ? `cl|${comp}|${flt}` : `cs|0|${flt}`;
   if (comp !== "-" && clubId !== "-") back = `p|${comp}|${clubId}|0|${flt}|s`;
   kb.push([{ text: "✅ Применить", callback_data: back }]);
-  return [txt, kb];
+  return [txt, withHome(kb, flt)];
 }
 
 async function search(env, query) {

@@ -86,7 +86,7 @@ const pid = (await bot.screenPlayers(env, "L1", "ALL", 0, "1111", "s"))[0]
   .match(/spieler\/(\d+)/)[1];
 sqlite.exec("DELETE FROM notes");
 const [markTxt, markKb] = await bot.screenMark(env, "L1", "ALL", 0, "1111", "s");
-check("экран «кого отметить» показывает 8", markKb.length === 9, `кнопок ${markKb.length}`);
+check("экран «кого отметить» показывает 8", markKb.length === 10, `рядов ${markKb.length}`);
 const [noteTxt, noteKb] = await bot.screenNote(env, pid, "L1", "ALL", 0, "1111", "s");
 check("карточка игрока: пометки нет", noteTxt.includes("Пометки нет"));
 check("карточка: три кнопки пометок", noteKb[0].length === 3);
@@ -132,6 +132,28 @@ const pidDash = sqlite.prepare("SELECT player_id FROM players WHERE market_value
 const [cardTxt] = await bot.screenNote(env, pidDash, "L1", "ALL", 0, "1111a", "s");
 check("в карточке сказано словами", cardTxt.includes("срок контракта не указан"));
 check("в карточке нет голого прочерка", !/· *- *·/.test(cardTxt));
+
+// --- «на главную» на каждом экране ---
+// Из списка игроков до стран было три нажатия; кнопка должна быть в одном
+// и том же месте, последней строкой, и сохранять выбранный фильтр.
+const pidHome = sqlite.prepare("SELECT player_id FROM players LIMIT 1").get().player_id;
+const homeScreens = {
+  "лиги": await bot.screenLeagues(env, "Germany", "1101x", 0),
+  "клубы": await bot.screenClubs(env, "L1", "1101x"),
+  "игроки": await bot.screenPlayers(env, "L1", "ALL", 0, "1101x", "s"),
+  "фильтр": await bot.screenFilter(env, "L1", "ALL", "1101x"),
+  "кого отметить": await bot.screenMark(env, "L1", "ALL", 0, "1101x", "s"),
+  "карточка": await bot.screenNote(env, pidHome, "L1", "ALL", 0, "1101x", "s"),
+  "пусто": await bot.screenPlayers(env, "L2", "ALL", 0, "1001a", "s"),
+  "нет страны": await bot.screenLeagues(env, "Narnia", "1111a", 0),
+};
+for (const [name, [, kb]] of Object.entries(homeScreens)) {
+  const last = kb[kb.length - 1] || [];
+  check(`«на главную» последней строкой: ${name}`,
+        last.length === 1 && last[0].text.includes("На главную"));
+}
+check("«на главную» сохраняет фильтр",
+      homeScreens["игроки"][1].at(-1)[0].callback_data === "cs|0|1101x");
 
 const s1 = await bot.search(env, "Bellingham");
 check("поиск находит Беллингема", s1.includes("Jobe Bellingham"));
