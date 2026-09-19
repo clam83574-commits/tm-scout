@@ -431,6 +431,9 @@ EXTRA_COLS = [
     ("name_local", "TEXT"), ("birth_place", "TEXT"), ("citizenship", "TEXT"),
     ("height", "TEXT"), ("foot", "TEXT"), ("contract_extended", "TEXT"),
     ("socials", "TEXT"), ("contract_days", "INTEGER"),
+    # ключи поиска: LIKE с ведущим процентом индекс не использует и
+    # читает таблицу целиком, сравнение диапазоном по нижнему регистру - использует
+    ("name_key", "TEXT"), ("last_key", "TEXT"),
 ]
 
 
@@ -594,8 +597,9 @@ def normalize(c=None):
     n = 0
     today = datetime.now(timezone.utc).date()
     rows = c.execute("SELECT player_id, market_value, contract_until, comp, "
-                     "comp_name, country FROM players").fetchall()
-    for pid, mv, ct, comp, comp_name, country in rows:
+                     "comp_name, country, name FROM players").fetchall()
+    for pid, mv, ct, comp, comp_name, country, nm in rows:
+        nm = nm or ""
         # Название лиги: ручной перевод, если он есть, иначе оригинал -
         # имена собственные («LaLiga», «Serie A») читаются и так.
         # Страна и флаг берутся из таблицы на все 126 стран: без неё мир
@@ -613,8 +617,10 @@ def normalize(c=None):
             except ValueError:
                 days = None
         c.execute("UPDATE players SET mv_eur=?, contract_iso=?, comp_ru=?, "
-                  "country_ru=?, flag=?, contract_days=? WHERE player_id=?",
-                  (mv_to_eur(mv), iso, ru, country_ru, flag, days, pid))
+                  "country_ru=?, flag=?, contract_days=?, name_key=?, "
+                  "last_key=? WHERE player_id=?",
+                  (mv_to_eur(mv), iso, ru, country_ru, flag, days,
+                   nm.lower(), nm.lower().split()[-1] if nm.split() else "", pid))
         n += 1
     c.commit()
     missing = [r[0] for r in c.execute(
@@ -710,7 +716,7 @@ def export(path=None, statuses=("NO_AGENT", "RELATIVES", "UNKNOWN")):
 JSON_COLS = ("player_id name url club_id club country comp comp_name tier position "
              "nationality age contract_until contract_iso contract_days "
              "market_value mv_eur agent_status agent_text comp_ru country_ru flag "
-             "citizenship height foot socials birth_place").split()
+             "citizenship height foot socials birth_place name_key last_key").split()
 
 
 def export_json(c, statuses, path):
@@ -804,6 +810,25 @@ def export_stats(c, statuses, path=None):
     out.append("CREATE INDEX idx_stats_country ON stats(country);")
     out.append("CREATE INDEX idx_stats_bucket ON stats(bucket, agent_status);")
 
+    # Справочник клубов для поиска: 7 тысяч строк вместо 134 тысяч. По нему
+    # уже не жалко искать подстрокой, а это обязательно - в названии клуба
+    # нужное слово редко стоит первым («1.FC Köln», «SV Werder Bremen»).
+    clubs = c.execute(
+        "SELECT club_id, MAX(club), comp, MAX(comp_ru), MAX(comp_name), "
+        "MAX(country), MAX(country_ru), MAX(flag), COUNT(*) "
+        "FROM players WHERE agent_status IN (%s) GROUP BY club_id" % marks,
+        statuses).fetchall()
+    out += ["DROP TABLE IF EXISTS clubs;",
+            "CREATE TABLE clubs (club_id TEXT PRIMARY KEY, club TEXT, "
+            "club_key TEXT, comp TEXT, comp_ru TEXT, comp_name TEXT, "
+            "country TEXT, country_ru TEXT, flag TEXT, n INTEGER);"]
+    for (cid, club, comp, cru, cname, country, country_ru, flag, n) in clubs:
+        out.append("INSERT INTO clubs VALUES (%s);" % ", ".join(
+            lit(v) for v in (cid, club, (club or "").lower(), comp, cru,
+                             cname, country, country_ru, flag, n)))
+    out.append("CREATE INDEX idx_clubs_key ON clubs(club_key);")
+    print("клубов в справочнике: %d" % len(clubs))
+
     path = Path(path or ROOT / "out" / "d1-stats.sql")
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("\n".join(out), encoding="utf-8")
@@ -845,6 +870,8 @@ def export_d1(c, statuses, path):
         "CREATE INDEX idx_club_status ON players(club_id, agent_status);",
         "CREATE INDEX idx_comp_mv ON players(comp, agent_status, mv_eur);",
         "CREATE INDEX idx_name ON players(name);",
+        "CREATE INDEX idx_last_key ON players(last_key);",
+        "CREATE INDEX idx_name_key ON players(name_key);",
     ]
     path.write_text("\n".join(out), encoding="utf-8")
     print("D1 SQL -> %s (%d строк + индексы)" % (path, len(rows)))

@@ -251,6 +251,7 @@ async function screenCountries(env, flt, page = 0) {
   const txt =
     `<b>Игроки без агента</b>\n${fltLabel(flt)} — всего <b>${total}</b> ` +
     `в ${results.length} ${plural(results.length, "стране", "странах", "странах")}` +
+    `\n\n<i>Или просто пришлите фамилию игрока либо название клуба.</i>` +
     `\n\nВыбери страну` +
     (pages > 1 ? ` (стр. ${page + 1} из ${pages})` : "") + ":";
   const kb = rowsKb(
@@ -615,26 +616,94 @@ async function screenFilter(env, comp, clubId, flt) {
   return [txt, withHome(kb, flt)];
 }
 
-async function search(env, query) {
-  const { results } = await env.DB.prepare(
-    "SELECT * FROM players WHERE name LIKE ? LIMIT 10"
-  )
-    .bind(`%${query}%`)
-    .all();
-  if (!results.length) {
-    return (
-      `По запросу «${esc(query)}» кандидатов не нашёл.\n` +
-      "Значит, у него либо записан агент, либо его нет в собранных лигах."
-    );
+const SEARCH_CLUBS = 6;
+const SEARCH_PLAYERS = 8;
+
+/**
+ * Поиск одной строкой: и по игроку, и по клубу.
+ *
+ * Спрашивать «кого ищем, игрока или клуб?» - лишний шаг: человек и так знает,
+ * что набрал. Ищем в обоих справочниках и показываем что нашлось; клубы
+ * кнопками (нажал - открыл состав), игроки списком со ссылками.
+ *
+ * Игроки ищутся ПО НАЧАЛУ фамилии или имени сравнением диапазона: LIKE с
+ * ведущим процентом индекс использовать не умеет и читал бы все 134 тысячи
+ * строк - это 37 поисков в сутки на бесплатном лимите. Клубы ищутся
+ * подстрокой, но по отдельной таблице в 7 тысяч строк: там нужное слово
+ * редко стоит первым («1.FC Köln», «SV Werder Bremen»).
+ */
+async function search(env, query, flt = ALLON) {
+  const q = query.trim().toLowerCase();
+  if (q.length < 2) {
+    return ["Слишком короткий запрос — нужно хотя бы две буквы.", withHome([], flt)];
   }
-  return [
-    "<b>Найдено:</b>",
-    ...results.map(
-      (r) =>
+  const hi = q + "￿";
+
+  const [clubsRes, playersRes] = await Promise.all([
+    env.DB.prepare(
+      "SELECT club_id, club, comp, comp_ru, comp_name, flag, country_ru, n " +
+        "FROM clubs WHERE club_key LIKE ? ORDER BY n DESC LIMIT ?"
+    )
+      .bind(`%${q}%`, SEARCH_CLUBS)
+      .all(),
+    env.DB.prepare(
+      "SELECT * FROM players WHERE (last_key >= ?1 AND last_key < ?2) " +
+        "OR (name_key >= ?1 AND name_key < ?2) " +
+        "ORDER BY mv_eur DESC, name LIMIT ?3"
+    )
+      .bind(q, hi, SEARCH_PLAYERS)
+      .all(),
+  ]);
+
+  const clubs = clubsRes.results;
+  const players = playersRes.results;
+  if (!clubs.length && !players.length) {
+    return [
+      `По запросу «${esc(query)}» ничего не нашлось.\n\n` +
+        "Игроков ищу по началу фамилии или имени, клубы — по любой части " +
+        "названия. Если игрок не найден, значит у него записан агент " +
+        "или его лига пока не собрана.",
+      withHome([], flt),
+    ];
+  }
+
+  const out = [];
+  const kb = [];
+  if (clubs.length) {
+    out.push(`<b>Клубы</b> — нажмите, чтобы открыть состав:`);
+    for (const c of clubs) {
+      const where = [c.flag, c.comp_ru || c.comp_name].filter(Boolean).join(" ");
+      kb.push([
+        {
+          text: `${c.club} (${c.n}) · ${c.comp_ru || c.comp_name || c.comp}`.slice(0, 60),
+          callback_data: `p|${c.comp}|${c.club_id}|0|${flt}|s`,
+        },
+      ]);
+      out.push(`  ${esc(c.club)} — ${c.n} · ${esc(where)}`);
+    }
+    out.push("");
+  }
+  if (players.length) {
+    out.push("<b>Игроки</b>");
+    for (const r of players) {
+      const bits = [
+        has(r.position) ? r.position : "",
+        r.age ? `${r.age} г.` : "",
+        has(r.market_value) ? r.market_value : "",
+      ]
+        .filter(Boolean)
+        .join(" · ");
+      out.push(
         `${BADGE[r.agent_status] || "·"} <a href="${r.url}">${esc(r.name)}</a> · ` +
-        `${LABEL[r.agent_status] || "?"}\n    ${esc(r.club)}, ${r.position || "—"}`
-    ),
-  ].join("\n");
+          `${LABEL[r.agent_status] || "?"}\n    <i>${esc(r.club)}</i>` +
+          (bits ? `\n    ${esc(bits)}` : "")
+      );
+    }
+    if (players.length === SEARCH_PLAYERS) {
+      out.push("<i>Показаны первые " + SEARCH_PLAYERS + ". Уточните запрос.</i>");
+    }
+  }
+  return [out.join("\n"), withHome(kb, flt)];
 }
 
 // ------------------------------------------------------------- маршрутизация
@@ -821,7 +890,8 @@ async function handleMessage(env, msg) {
     );
   }
   if (text && !text.startsWith("/")) {
-    return send(env, chat, await search(env, text));
+    const [t, kb] = await search(env, text);
+    return send(env, chat, t, kb);
   }
 }
 

@@ -155,13 +155,22 @@ for (const [name, [, kb]] of Object.entries(homeScreens)) {
 check("«на главную» сохраняет фильтр",
       homeScreens["игроки"][1].at(-1)[0].callback_data === "cs|0|1101x");
 
-const s1 = await bot.search(env, "Bellingham");
-check("поиск находит Беллингема", s1.includes("Jobe Bellingham"));
-const s2 = await bot.search(env, "цйукенг");
-check("поиск без результата не падает", s2.includes("не нашёл"));
-
-const esc = await bot.search(env, "'");
-check("кавычка в запросе не ломает SQL", typeof esc === "string");
+// --- поиск: игроки по началу фамилии, клубы по части названия ---
+const [s1] = await bot.search(env, "Bellingham");
+check("поиск находит по фамилии", s1.includes("Jobe Bellingham"));
+const [s1b] = await bot.search(env, "bell");
+check("хватает начала фамилии", s1b.includes("Bellingham"));
+const [s2] = await bot.search(env, "цйукенг");
+check("пустой результат объясняет почему", s2.includes("ничего не нашлось"));
+const [sShort] = await bot.search(env, "я");
+check("слишком короткий запрос отсекается", sShort.includes("две буквы"));
+const [sClub, sClubKb] = await bot.search(env, "bayern");
+check("клуб находится по части названия", sClub.includes("Bayern"));
+check("клуб приходит кнопкой", JSON.stringify(sClubKb).includes('"p|'));
+const [sEsc] = await bot.search(env, "o'brien");
+check("апостроф не ломает SQL", typeof sEsc === "string");
+const [, escKb] = await bot.search(env, "цйукенг");
+check("даже из пустого поиска есть выход", JSON.stringify(escKb).includes("На главную"));
 
 console.log(fails ? `\nПРОВАЛОВ: ${fails}` : "\nвсе проверки прошли");
 process.exit(fails ? 1 : 0);
