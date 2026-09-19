@@ -41,6 +41,8 @@ env:
   YOUTH: ${{ github.event.inputs.youth || 'true' }}
   CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
   CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+  TM_WEBHOOK_SECRET: ${{ secrets.TM_WEBHOOK_SECRET }}
+  WORKER_URL: https://tm-scout-bot.clam83574.workers.dev
 
 jobs:
   shard1:
@@ -178,6 +180,19 @@ jobs:
           npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-stats.sql -y
           npx wrangler@4 d1 execute tm-scout --remote --json \
             --command "SELECT COUNT(*) n FROM players"
+
+
+      # Уведомление «агент пропал»: главный сигнал продукта. Порог по
+      # стоимости обязателен - без него сообщение утонет в игроках низших
+      # лиг, где поле меняется от того, что его наконец кто-то заполнил.
+      - name: Отобрать события «агент пропал»
+        run: python alerts.py --since 32 --min-value 200000 --out out/d1-alerts.sql
+
+      - name: Разослать уведомления
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.TM_WEBHOOK_SECRET != '' }}
+        run: |
+          npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-alerts.sql -y
+          curl -sS -X POST "$WORKER_URL/notify"             -H "x-telegram-bot-api-secret-token: $TM_WEBHOOK_SECRET" | tee /dev/stderr
 
       - name: Коммит результата
         continue-on-error: true      # бухгалтерия, данные уже у бота

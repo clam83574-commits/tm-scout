@@ -7,7 +7,7 @@
     "dev": "wrangler dev",
     "seed": "wrangler d1 execute tm-scout --remote --file=../out/d1-import.sql",
     "setup": "node setup.mjs",
-    "test": "node test.mjs && node access.test.mjs"
+    "test": "node test.mjs && node access.test.mjs && node alerts.test.mjs"
   },
   "devDependencies": {
     "wrangler": "^4.100.0"

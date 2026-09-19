@@ -896,15 +896,92 @@ async function handleMessage(env, msg) {
 }
 
 // Экраны экспортируются ради теста test.mjs — он гоняет их на настоящей базе.
-export { allowed, checkAttempts, noteAttempt };
+export { allowed, checkAttempts, noteAttempt, notify };
 export { screenCountries, screenLeagues, screenClubs, screenPlayers, screenFilter,
          search, screenMark, screenNote };
+
+/**
+ * Рассылка накопившихся уведомлений «агент пропал».
+ *
+ * Шлёт Worker, а не сборщик на GitHub: тогда токен бота остаётся только
+ * в секретах Cloudflare и не расползается по секретам репозитория. Сборщик
+ * лишь складывает события в очередь и дёргает этот адрес.
+ *
+ * Получатели - все, кто уже прошёл по коду. Отдельный список подписчиков
+ * заводить незачем: доступ к боту и есть подписка.
+ */
+async function notify(env) {
+  const { results: alerts } = await env.DB.prepare(
+    "SELECT * FROM alerts WHERE sent_at IS NULL ORDER BY mv_eur DESC"
+  ).all();
+  if (!alerts.length) return { sent: 0, users: 0 };
+
+  const { results: users } = await env.DB.prepare(
+    "SELECT user_id FROM access"
+  ).all();
+  const ids = new Set(users.map((u) => String(u.user_id)));
+  for (const o of (env.TM_BOT_ALLOW || "").split(",").map((x) => x.trim())) {
+    if (o) ids.add(o);
+  }
+  if (!ids.size) return { sent: 0, users: 0, note: "некому слать" };
+
+  const head =
+    `🔥 <b>Пропал агент</b> — ${alerts.length} ` +
+    `${plural(alerts.length, "игрок", "игрока", "игроков")}\n` +
+    `<i>у них был агент, теперь нет — значит, контракт с агентством ` +
+    `закончился и человек в поиске</i>\n`;
+
+  const blocks = alerts.map(
+    (a) =>
+      `${BADGE[a.new_status] || "·"} <a href="${a.url}"><b>${esc(a.name)}</b></a> · ` +
+      `${LABEL[a.new_status] || a.new_status}\n` +
+      `    <i>${esc(a.club)}</i>${has(a.mv) ? ` · ${esc(a.mv)}` : ""}` +
+      (a.where_ru ? `\n    ${esc(a.where_ru)}` : "")
+  );
+
+  // Telegram режет сообщение на 4096 символах - бьём на части по десять
+  const chunks = [];
+  for (let i = 0; i < blocks.length; i += 10) {
+    chunks.push((i === 0 ? head : "") + "\n" + blocks.slice(i, i + 10).join("\n\n"));
+  }
+
+  let sent = 0;
+  for (const uid of ids) {
+    for (const text of chunks) {
+      const r = await send(env, uid, text);
+      if (r && r.ok) sent++;
+    }
+  }
+  await env.DB.prepare("UPDATE alerts SET sent_at=? WHERE sent_at IS NULL")
+    .bind(new Date().toISOString())
+    .run();
+  return { sent, users: ids.size, alerts: alerts.length };
+}
 
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (request.method === "GET" && url.pathname === "/") {
       return new Response("tm-scout bot жив", { status: 200 });
+    }
+    // Рассылка уведомлений: дёргается сборщиком после заливки данных.
+    // Защищён тем же секретом, что и вебхук.
+    if (request.method === "POST" && url.pathname === "/notify") {
+      if (
+        env.TM_WEBHOOK_SECRET &&
+        request.headers.get("x-telegram-bot-api-secret-token") !== env.TM_WEBHOOK_SECRET
+      ) {
+        return new Response("forbidden", { status: 403 });
+      }
+      try {
+        const r = await notify(env);
+        return new Response(JSON.stringify(r), {
+          headers: { "content-type": "application/json" },
+        });
+      } catch (e) {
+        console.error("рассылка:", e && e.stack ? e.stack : e);
+        return new Response(JSON.stringify({ error: String(e) }), { status: 500 });
+      }
     }
     if (request.method !== "POST" || url.pathname !== "/tg") {
       return new Response("not found", { status: 404 });
