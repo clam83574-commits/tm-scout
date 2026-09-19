@@ -638,21 +638,76 @@ async function search(env, query) {
 }
 
 // ------------------------------------------------------------- маршрутизация
-const allowed = (env, uid) => {
-  const list = (env.TM_BOT_ALLOW || "")
+const MAX_TRIES = 5;          // попыток подряд
+const LOCK_MINUTES = 60;      // и на сколько блокируем после них
+
+/** Хозяева, вписанные в настройки: их доступ не зависит от базы и кода. */
+const isOwner = (env, uid) =>
+  (env.TM_BOT_ALLOW || "")
     .split(",")
     .map((s) => s.trim())
-    .filter(Boolean);
-  return !list.length || list.includes(String(uid));
-};
+    .filter(Boolean)
+    .includes(String(uid));
+
+/**
+ * Пускать ли пользователя.
+ *
+ * Доступ по коду, а не по списку id: список требует, чтобы каждый новый
+ * человек сначала прислал свой номер, а владелец его вписал и переопубликовал
+ * бота. Код выдаётся словами и работает сразу.
+ *
+ * Введённый код запоминается: заставлять набирать его каждый раз — верный
+ * способ, чтобы код записали в заметки и он утёк.
+ */
+async function allowed(env, uid) {
+  if (isOwner(env, uid)) return true;
+  if (!env.TM_ACCESS_CODE) return true;   // код не задан - бот открыт
+  const row = await env.DB.prepare("SELECT 1 FROM access WHERE user_id=?")
+    .bind(String(uid))
+    .first();
+  return !!row;
+}
+
+/** Сколько осталось попыток; null - заблокирован до истечения срока. */
+async function checkAttempts(env, uid) {
+  const r = await env.DB.prepare("SELECT n, last_ts FROM attempts WHERE user_id=?")
+    .bind(String(uid))
+    .first();
+  if (!r) return MAX_TRIES;
+  const age = (Date.now() - Date.parse(r.last_ts || 0)) / 60000;
+  if (age > LOCK_MINUTES) return MAX_TRIES;      // срок истёк, счётчик не в счёт
+  return r.n >= MAX_TRIES ? null : MAX_TRIES - r.n;
+}
+
+async function noteAttempt(env, uid, ok) {
+  if (ok) {
+    await env.DB.prepare("DELETE FROM attempts WHERE user_id=?").bind(String(uid)).run();
+    return;
+  }
+  await env.DB.prepare(
+    "INSERT INTO attempts (user_id, n, last_ts) VALUES (?,1,?) " +
+      "ON CONFLICT(user_id) DO UPDATE SET n = n + 1, last_ts = excluded.last_ts"
+  )
+    .bind(String(uid), new Date().toISOString())
+    .run();
+}
+
+const ASK_CODE =
+  "🔒 <b>Бот закрытый</b>\n\n" +
+  "Доступ выдают разработчики. Пришлите код доступа одним сообщением — " +
+  "он выглядит так: <code>SCOUT-XXXX-XXXX</code>.\n\n" +
+  "Если кода нет, запросите его у того, кто дал вам ссылку на бота.";
 
 async function handleCallback(env, cb) {
-  if (!allowed(env, cb.from.id)) {
-    return tg(env, "answerCallbackQuery", {
+  if (!(await allowed(env, cb.from.id))) {
+    // Кнопки из чужой пересланной переписки тоже должны отбиваться,
+    // иначе доступ обходится простой пересылкой сообщения с клавиатурой.
+    await tg(env, "answerCallbackQuery", {
       callback_query_id: cb.id,
-      text: "Нет доступа",
+      text: "Нужен код доступа",
       show_alert: true,
     });
+    return send(env, cb.message.chat.id, ASK_CODE);
   }
   const chat = cb.message.chat.id;
   const mid = cb.message.message_id;
@@ -703,19 +758,53 @@ async function handleMessage(env, msg) {
   const uid = msg.from.id;
   const text = (msg.text || "").trim();
   if (text.startsWith("/whoami")) {
-    return send(
-      env,
-      chat,
-      `Твой Telegram ID: <code>${uid}</code>\nЕго вписывают в TM_BOT_ALLOW, чтобы закрыть бота.`
-    );
+    return send(env, chat, `Ваш Telegram ID: <code>${uid}</code>`);
   }
-  if (!allowed(env, uid)) {
-    return send(
-      env,
-      chat,
-      `Бот закрытый. Твой ID: <code>${uid}</code> — передай владельцу, чтобы выдал доступ.`
-    );
+
+  if (!(await allowed(env, uid))) {
+    const left = await checkAttempts(env, uid);
+    if (left === null) {
+      return send(
+        env,
+        chat,
+        `⛔ Слишком много неверных попыток. Попробуйте через ${LOCK_MINUTES} минут.`
+      );
+    }
+    // Сверяем без учёта регистра и лишних пробелов: код диктуют голосом
+    // и пересылают в мессенджерах, где он легко приезжает с пробелом.
+    const given = text.replace(/\s+/g, "").toUpperCase();
+    const real = env.TM_ACCESS_CODE.replace(/\s+/g, "").toUpperCase();
+    if (given && given === real) {
+      await noteAttempt(env, uid, true);
+      await env.DB.prepare(
+        "INSERT OR REPLACE INTO access (user_id, name, granted_at) VALUES (?,?,?)"
+      )
+        .bind(
+          String(uid),
+          [msg.from.first_name, msg.from.last_name].filter(Boolean).join(" ") ||
+            msg.from.username ||
+            String(uid),
+          new Date().toISOString()
+        )
+        .run();
+      const [t, kb] = await screenCountries(env, ALLON, 0);
+      await send(env, chat, "✅ Код принят. Доступ открыт — больше вводить не нужно.");
+      return send(env, chat, t, kb);
+    }
+    if (text && !text.startsWith("/")) {
+      await noteAttempt(env, uid, false);
+      const rest = left - 1;
+      return send(
+        env,
+        chat,
+        rest > 0
+          ? `❌ Код неверный. Осталось попыток: ${rest}.`
+          : `⛔ Попытки исчерпаны. Следующая через ${LOCK_MINUTES} минут.`
+      );
+    }
+    return send(env, chat, ASK_CODE);
   }
+
   if (text.startsWith("/start")) {
     const [t, kb] = await screenCountries(env, ALLON, 0);
     return send(env, chat, t, kb);
@@ -737,6 +826,7 @@ async function handleMessage(env, msg) {
 }
 
 // Экраны экспортируются ради теста test.mjs — он гоняет их на настоящей базе.
+export { allowed, checkAttempts, noteAttempt };
 export { screenCountries, screenLeagues, screenClubs, screenPlayers, screenFilter,
          search, screenMark, screenNote };
 
