@@ -167,6 +167,22 @@ check("only шлёт ровно одному", d3.sent === 1 && d3.users === 1, 
 check("ушло именно ему", posted.length === 1 && String(posted[0].chat_id) === "111");
 check("остальные не получили", !posted.some((p) => String(p.chat_id) === "222"));
 
+// Отказ базы при записи номера НЕ должен обрывать рассылку: отправка уже
+// состоялась, и если бросить здесь, получатель увидит обрезанную сводку.
+// Именно так 23.09 оборвалась сводка на дневном лимите записи D1.
+const realPrepare = DB.prepare;
+DB.prepare = (sql) => {
+  if (sql.startsWith("INSERT INTO sent")) {
+    return { bind: () => ({ run() { throw new Error("D1_ERROR: daily write limit"); } }) };
+  }
+  return realPrepare(sql);
+};
+posted = [];
+const d4 = await bot.digest(env, Array.from({ length: 400 }, (_, i) => `строка ${i} подлиннее`).join(String.fromCharCode(10)), "111");
+DB.prepare = realPrepare;
+check("рассылка дошла целиком, несмотря на отказ базы", posted.length > 1, `частей ${posted.length}`);
+check("неотозываемые номера возвращены наружу", (d4.unrecorded || []).length === posted.length, `сообщено ${(d4.unrecorded || []).length} из ${posted.length}`);
+
 // и сводка отзывается ровно так же, как уведомление
 erased = [];
 const dr = await bot.recall(env, d1.batch);

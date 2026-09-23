@@ -936,11 +936,25 @@ async function sendTracked(env, uid, text, batch) {
   if (!r || !r.ok) return false;
   const mid = r.result && r.result.message_id;
   if (mid) {
-    await env.DB.prepare(
-      "INSERT INTO sent (alert_batch, user_id, message_id, sent_at) VALUES (?,?,?,?)"
-    )
-      .bind(batch, String(uid), mid, batch)
-      .run();
+    // Запись номера НЕ должна ронять рассылку. Отправка уже состоялась -
+    // сообщение у человека; если здесь бросить, остальные части не уйдут, и
+    // получатель увидит обрезанную сводку. Так и случилось 23.09, когда
+    // кончился дневной лимит записи D1 и сводка оборвалась на середине.
+    // Номер в этом случае печатаем в лог: это единственный след, по которому
+    // сообщение потом можно отозвать руками.
+    try {
+      await env.DB.prepare(
+        "INSERT INTO sent (alert_batch, user_id, message_id, sent_at) VALUES (?,?,?,?)"
+      )
+        .bind(batch, String(uid), mid, batch)
+        .run();
+    } catch (e) {
+      console.error(
+        `НЕ ЗАПИСАН номер сообщения: чат ${uid}, сообщение ${mid}, ` +
+          `рассылка ${batch} — отозвать можно только по этому номеру. ${e}`
+      );
+      return { ok: true, unrecorded: { chat: String(uid), message_id: mid } };
+    }
   }
   return true;
 }
@@ -979,12 +993,17 @@ async function digest(env, text, only) {
   const batch = "digest-" + new Date().toISOString();
   const chunks = splitLong(text.trim());
   let sent = 0;
+  const unrecorded = [];
   for (const uid of ids) {
     for (const chunk of chunks) {
-      if (await sendTracked(env, uid, chunk, batch)) sent++;
+      const r = await sendTracked(env, uid, chunk, batch);
+      if (r) sent++;
+      if (r && r.unrecorded) unrecorded.push(r.unrecorded);
     }
   }
-  return { sent, users: ids.size, batch };
+  const res = { sent, users: ids.size, batch };
+  if (unrecorded.length) res.unrecorded = unrecorded;
+  return res;
 }
 
 async function notify(env) {
@@ -1018,15 +1037,20 @@ async function notify(env) {
 
   const batch = new Date().toISOString();
   let sent = 0;
+  const unrecorded = [];
   for (const uid of ids) {
     for (const text of chunks) {
-      if (await sendTracked(env, uid, text, batch)) sent++;
+      const r = await sendTracked(env, uid, text, batch);
+      if (r) sent++;
+      if (r && r.unrecorded) unrecorded.push(r.unrecorded);
     }
   }
   await env.DB.prepare("UPDATE alerts SET sent_at=? WHERE sent_at IS NULL")
     .bind(batch)
     .run();
-  return { sent, users: ids.size, alerts: alerts.length, batch };
+  const res = { sent, users: ids.size, alerts: alerts.length, batch };
+  if (unrecorded.length) res.unrecorded = unrecorded;
+  return res;
 }
 
 /** Отозвать рассылку целиком: удалить у всех получателей. */
