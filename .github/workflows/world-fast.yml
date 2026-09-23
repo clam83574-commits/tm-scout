@@ -36,6 +36,9 @@ on:
 
 permissions:
   contents: write
+  # Заданный блок permissions обнуляет все не перечисленные права: без этой
+  # строки gh run download получил бы 403.
+  actions: read                 # чтобы скачать артефакт world-sqlite
 
 env:
   WORKERS: ${{ github.event.inputs.workers || '16' }}
@@ -104,6 +107,32 @@ jobs:
           path: data
           key: scout-db-${{ github.run_id }}
           restore-keys: scout-db-
+      # База прошлого раза нужна здесь не ради данных - мир собирается целиком
+      # при любом старте. Она нужна ради ДИФФА: без неё все игроки выглядят
+      # новыми, «пропал агент» не срабатывает ни разу и сводка приходит с
+      # пустым списком изменений. Поэтому при пустом кэше берём артефакт
+      # прошлого обхода. Не нашли - идём дальше: это потеря истории за один
+      # цикл, а не потеря данных (в отличие от crawl.yml, где старт без базы
+      # означает стирание мира и прогон обязан упасть).
+      - name: Нет базы в кэше - взять из артефакта прошлого обхода
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          have=0
+          if [ -f data/scout.sqlite ]; then
+            have=$(python -c "import sqlite3;print(sqlite3.connect('data/scout.sqlite').execute('SELECT COUNT(*) FROM players').fetchone()[0])" 2>/dev/null || echo 0)
+          fi
+          echo "в базе из кэша игроков: $have"
+          if [ "${have:-0}" -lt 50000 ]; then
+            echo "::warning::кэш не дал базу ($have), беру артефакт world-sqlite для диффа"
+            mkdir -p data
+            if gh run download -n world-sqlite -D data; then
+              python -c "import sqlite3;print('из артефакта игроков:', sqlite3.connect('data/scout.sqlite').execute('SELECT COUNT(*) FROM players').fetchone()[0])"
+            else
+              echo "::warning::артефакта тоже нет - обход пройдёт, но сводка будет без изменений: сравнивать не с чем"
+            fi
+          fi
+
       - name: Перепись лиг
         run: python discover.py --workers "$WORKERS" --delay "$DELAY"
       - run: mkdir -p data && touch data/.keep
