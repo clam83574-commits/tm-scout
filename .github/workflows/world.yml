@@ -58,8 +58,14 @@ jobs:
       # недельный прогон после месячного стирал бы весь мир, оставив две
       # страны. Общая база: недельный освежает приоритетные лиги, месячный
       # обходит всё, заливается всегда целиком.
+      # ТОЛЬКО restore. Обычный actions/cache в конце задачи САМ сохраняет
+      # кэш под своим ключом, а ключи в GitHub неизменяемы - поэтому shard1
+      # занимал ключ прогона базой ДО обхода, и шаг сохранения в shard4 под
+      # тем же ключом молча отказывал. Результат месячного обхода не попадал
+      # в кэш ни разу; 21.09 недельный прогон восстановил старый огрызок и
+      # стёр мир в боте.
       - name: Забрать базу прошлого прогона
-        uses: actions/cache@v4
+        uses: actions/cache/restore@v4
         with:
           path: data
           key: scout-db-${{ github.run_id }}
@@ -170,6 +176,18 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with: { name: world-sqlite, path: data/scout.sqlite, retention-days: 30 }
+
+      # ПРЕДОХРАНИТЕЛЬ. Заливка ниже начинается с DROP TABLE: она верна
+      # ровно тогда, когда собранная база содержит ВСЁ. Прогон, стартовавший
+      # без базы прошлого раза, соберёт только свои лиги и полной заменой
+      # сотрёт остальной мир - и останется зелёным. 21.09.2026 так пропали
+      # 134 610 игроков, в боте осталось 691. Сравниваем с тем, что уже живёт
+      # в боте, и при резкой усушке падаем красным, ничего не тронув.
+      - name: Проверить, что база не усохла
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        run: |
+          npx wrangler@4 d1 execute tm-scout --remote --json             --command "SELECT COUNT(*) players, COUNT(DISTINCT country) countries, COUNT(DISTINCT comp) comps FROM players"             > out/remote.json 2>&1 || true
+          python guard.py --remote-json out/remote.json
 
       - name: Залить в базу бота (Cloudflare D1)
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
