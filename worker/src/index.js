@@ -896,7 +896,7 @@ async function handleMessage(env, msg) {
 }
 
 // Экраны экспортируются ради теста test.mjs — он гоняет их на настоящей базе.
-export { allowed, checkAttempts, noteAttempt, notify };
+export { allowed, checkAttempts, noteAttempt, notify, recall };
 export { screenCountries, screenLeagues, screenClubs, screenPlayers, screenFilter,
          search, screenMark, screenNote };
 
@@ -945,17 +945,59 @@ async function notify(env) {
     chunks.push((i === 0 ? head : "") + "\n" + blocks.slice(i, i + 10).join("\n\n"));
   }
 
+  // Номер каждого отправленного сообщения сохраняем СРАЗУ. Telegram даёт
+  // удалить сообщение только по номеру и не умеет перечислять отправленное:
+  // не записал в момент отправки - отозвать уже нечем. Проверено на себе,
+  // когда тестовое уведомление ушло клиенту и убрать его было невозможно.
+  const batch = new Date().toISOString();
   let sent = 0;
   for (const uid of ids) {
     for (const text of chunks) {
       const r = await send(env, uid, text);
-      if (r && r.ok) sent++;
+      if (r && r.ok) {
+        sent++;
+        const mid = r.result && r.result.message_id;
+        if (mid) {
+          await env.DB.prepare(
+            "INSERT INTO sent (alert_batch, user_id, message_id, sent_at) VALUES (?,?,?,?)"
+          )
+            .bind(batch, String(uid), mid, batch)
+            .run();
+        }
+      }
     }
   }
   await env.DB.prepare("UPDATE alerts SET sent_at=? WHERE sent_at IS NULL")
-    .bind(new Date().toISOString())
+    .bind(batch)
     .run();
-  return { sent, users: ids.size, alerts: alerts.length };
+  return { sent, users: ids.size, alerts: alerts.length, batch };
+}
+
+/** Отозвать рассылку целиком: удалить у всех получателей. */
+async function recall(env, batch) {
+  const { results } = await env.DB.prepare(
+    "SELECT id, user_id, message_id FROM sent WHERE deleted_at IS NULL" +
+      (batch ? " AND alert_batch=?" : "")
+  )
+    .bind(...(batch ? [batch] : []))
+    .all();
+  let gone = 0;
+  const failed = [];
+  for (const m of results) {
+    const r = await tg(env, "deleteMessage", {
+      chat_id: m.user_id,
+      message_id: m.message_id,
+    });
+    if (r && r.ok) {
+      gone++;
+      await env.DB.prepare("UPDATE sent SET deleted_at=? WHERE id=?")
+        .bind(new Date().toISOString(), m.id)
+        .run();
+    } else {
+      failed.push({ user: m.user_id, why: (r && r.description) || "?" });
+    }
+  }
+  return { deleted: gone, failed };
 }
 
 export default {
@@ -974,7 +1016,9 @@ export default {
         return new Response("forbidden", { status: 403 });
       }
       try {
-        const r = await notify(env);
+        // ?recall=<метка> или ?recall=all - отозвать уже отправленное
+        const rc = url.searchParams.get("recall");
+        const r = rc ? await recall(env, rc === "all" ? null : rc) : await notify(env);
         return new Response(JSON.stringify(r), {
           headers: { "content-type": "application/json" },
         });
