@@ -896,7 +896,7 @@ async function handleMessage(env, msg) {
 }
 
 // Экраны экспортируются ради теста test.mjs — он гоняет их на настоящей базе.
-export { allowed, checkAttempts, noteAttempt, notify, recall };
+export { allowed, checkAttempts, noteAttempt, notify, recall, digest };
 export { screenCountries, screenLeagues, screenClubs, screenPlayers, screenFilter,
          search, screenMark, screenNote };
 
@@ -910,12 +910,8 @@ export { screenCountries, screenLeagues, screenClubs, screenPlayers, screenFilte
  * Получатели - все, кто уже прошёл по коду. Отдельный список подписчиков
  * заводить незачем: доступ к боту и есть подписка.
  */
-async function notify(env) {
-  const { results: alerts } = await env.DB.prepare(
-    "SELECT * FROM alerts WHERE sent_at IS NULL ORDER BY mv_eur DESC"
-  ).all();
-  if (!alerts.length) return { sent: 0, users: 0 };
-
+/** Кому шлём: все, кто прошёл по коду. Доступ к боту и есть подписка. */
+async function recipients(env) {
   const { results: users } = await env.DB.prepare(
     "SELECT user_id FROM access"
   ).all();
@@ -923,6 +919,81 @@ async function notify(env) {
   for (const o of (env.TM_BOT_ALLOW || "").split(",").map((x) => x.trim())) {
     if (o) ids.add(o);
   }
+  return ids;
+}
+
+/**
+ * Отправить и СРАЗУ записать номер сообщения.
+ *
+ * Отправка и запись номера живут в одной функции намеренно. Telegram даёт
+ * удалить сообщение только по номеру и не умеет перечислять отправленное:
+ * рассылка, забывшая записать номер, неотзываема навсегда. Так уже вышло с
+ * проверочным уведомлением, ушедшим клиенту. Пока это одна функция, новая
+ * рассылка не может завести себе отзыв «потом».
+ */
+async function sendTracked(env, uid, text, batch) {
+  const r = await send(env, uid, text);
+  if (!r || !r.ok) return false;
+  const mid = r.result && r.result.message_id;
+  if (mid) {
+    await env.DB.prepare(
+      "INSERT INTO sent (alert_batch, user_id, message_id, sent_at) VALUES (?,?,?,?)"
+    )
+      .bind(batch, String(uid), mid, batch)
+      .run();
+  }
+  return true;
+}
+
+/** Telegram режет сообщение на 4096 символах. */
+const NL = String.fromCharCode(10);
+function splitLong(text, limit = 3800) {
+  if (text.length <= limit) return [text];
+  const parts = [];
+  let buf = "";
+  for (const line of text.split(NL)) {
+    if ((buf + NL + line).length > limit && buf) {
+      parts.push(buf);
+      buf = line;
+    } else {
+      buf = buf ? buf + NL + line : line;
+    }
+  }
+  if (buf) parts.push(buf);
+  return parts;
+}
+
+/**
+ * Краткая сводка после прогона: текст собирает сборщик (summary.py), здесь
+ * только доставка. Разделение намеренное - считать по базе удобнее там, где
+ * она лежит целиком, а токен бота остаётся в секретах Cloudflare.
+ */
+async function digest(env, text, only) {
+  if (!text || !text.trim()) return { sent: 0, users: 0, note: "пустая сводка" };
+  // only=<id> - отправить ОДНОМУ. Нужен, чтобы проверочную рассылку можно
+  // было погонять на себе: правило «не проверяй на живом списке» держится
+  // только тогда, когда есть чем его выполнить. Проверочное уведомление
+  // однажды ушло клиенту именно потому, что такого способа не было.
+  const ids = only ? new Set([String(only)]) : await recipients(env);
+  if (!ids.size) return { sent: 0, users: 0, note: "некому слать" };
+  const batch = "digest-" + new Date().toISOString();
+  const chunks = splitLong(text.trim());
+  let sent = 0;
+  for (const uid of ids) {
+    for (const chunk of chunks) {
+      if (await sendTracked(env, uid, chunk, batch)) sent++;
+    }
+  }
+  return { sent, users: ids.size, batch };
+}
+
+async function notify(env) {
+  const { results: alerts } = await env.DB.prepare(
+    "SELECT * FROM alerts WHERE sent_at IS NULL ORDER BY mv_eur DESC"
+  ).all();
+  if (!alerts.length) return { sent: 0, users: 0 };
+
+  const ids = await recipients(env);
   if (!ids.size) return { sent: 0, users: 0, note: "некому слать" };
 
   const head =
@@ -945,26 +1016,11 @@ async function notify(env) {
     chunks.push((i === 0 ? head : "") + "\n" + blocks.slice(i, i + 10).join("\n\n"));
   }
 
-  // Номер каждого отправленного сообщения сохраняем СРАЗУ. Telegram даёт
-  // удалить сообщение только по номеру и не умеет перечислять отправленное:
-  // не записал в момент отправки - отозвать уже нечем. Проверено на себе,
-  // когда тестовое уведомление ушло клиенту и убрать его было невозможно.
   const batch = new Date().toISOString();
   let sent = 0;
   for (const uid of ids) {
     for (const text of chunks) {
-      const r = await send(env, uid, text);
-      if (r && r.ok) {
-        sent++;
-        const mid = r.result && r.result.message_id;
-        if (mid) {
-          await env.DB.prepare(
-            "INSERT INTO sent (alert_batch, user_id, message_id, sent_at) VALUES (?,?,?,?)"
-          )
-            .bind(batch, String(uid), mid, batch)
-            .run();
-        }
-      }
+      if (await sendTracked(env, uid, text, batch)) sent++;
     }
   }
   await env.DB.prepare("UPDATE alerts SET sent_at=? WHERE sent_at IS NULL")
@@ -1024,6 +1080,26 @@ export default {
         });
       } catch (e) {
         console.error("рассылка:", e && e.stack ? e.stack : e);
+        return new Response(JSON.stringify({ error: String(e) }), { status: 500 });
+      }
+    }
+    // Сводка после прогона: текст приходит телом запроса, отправляет бот.
+    // Тот же секрет, что и у вебхука.
+    if (request.method === "POST" && url.pathname === "/digest") {
+      if (
+        env.TM_WEBHOOK_SECRET &&
+        request.headers.get("x-telegram-bot-api-secret-token") !== env.TM_WEBHOOK_SECRET
+      ) {
+        return new Response("forbidden", { status: 403 });
+      }
+      try {
+        const r = await digest(env, await request.text(),
+                               url.searchParams.get("only"));
+        return new Response(JSON.stringify(r), {
+          headers: { "content-type": "application/json" },
+        });
+      } catch (e) {
+        console.error("сводка:", e && e.stack ? e.stack : e);
         return new Response(JSON.stringify({ error: String(e) }), { status: 500 });
       }
     }

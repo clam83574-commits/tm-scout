@@ -13,9 +13,10 @@
 # нагрузка на Transfermarkt не умножается на четыре.
 name: world
 
+# РАСПИСАНИЕ СНЯТО (2026-09-23): по нему теперь ходит world-fast раз в две
+# недели. Этот файл остаётся щадящим ручным режимом - 10 потоков вместо 16 и
+# части по очереди, на случай если Transfermarkt начнёт отвечать отказами.
 on:
-  schedule:
-    - cron: "0 2 1 * *"       # первое число месяца, 02:00 UTC
   workflow_dispatch:
     inputs:
       workers:
@@ -205,6 +206,17 @@ jobs:
       # лиг, где поле меняется от того, что его наконец кто-то заполнил.
       - name: Отобрать события «агент пропал»
         run: python alerts.py --since 32 --min-value 200000 --out out/d1-alerts.sql
+
+      # Сводка идёт ПЕРЕД подробным списком: сначала человек видит, что
+      # прогон состоялся и сколько всего изменилось, потом - кого именно
+      # звонить. Обратный порядок читается как «пришёл список непонятно из
+      # чего». Шлём даже когда изменений нет: молчание неотличимо от
+      # сломавшегося прогона, а строка «изменений нет» отличима.
+      - name: Краткая сводка в бот
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.TM_WEBHOOK_SECRET != '' }}
+        run: |
+          python summary.py --since 32 --alerts-min 200000 --out out/summary.txt
+          curl -sS -X POST "$WORKER_URL/digest"             -H "x-telegram-bot-api-secret-token: $TM_WEBHOOK_SECRET"             -H "content-type: text/plain; charset=utf-8"             --data-binary @out/summary.txt | tee /dev/stderr
 
       - name: Разослать уведомления
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.TM_WEBHOOK_SECRET != '' }}

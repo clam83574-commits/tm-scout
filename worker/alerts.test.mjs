@@ -129,6 +129,49 @@ check("неудалённое не помечено удалённым", stuck.n
 const rc4 = await bot.recall(env, null);
 check("отзыв всего разом добивает остаток", rc4.deleted === n2.sent, `удалено ${rc4.deleted}`);
 
+// СВОДКА ПОСЛЕ ПРОГОНА. Уходит тем же людям и тем же каналом, поэтому
+// обязана быть отзываемой так же, как уведомление: номера пишутся при
+// отправке. Отдельная рассылка - самое вероятное место, где про это забудут.
+sqlite.exec("DELETE FROM alerts"); sqlite.exec("DELETE FROM access"); sqlite.exec("DELETE FROM sent");
+sqlite.prepare("INSERT INTO access VALUES (?,?,?)").run("111", "Агент", "now");
+sqlite.prepare("INSERT INTO access VALUES (?,?,?)").run("222", "Клиент", "now");
+
+posted = []; erased = [];
+const d0 = await bot.digest(env, "   ");
+check("пустая сводка никому не шлётся", d0.sent === 0 && posted.length === 0);
+
+posted = [];
+const d1 = await bot.digest(env, `📊 <b>База обновлена</b>
+изменений нет`);
+check("сводка ушла всем получателям", d1.users === 3 && d1.sent === 3, `получателей ${d1.users}, ушло ${d1.sent}`);
+check("текст дошёл целиком", posted.every((p) => p.text.includes("База обновлена")));
+check("разметка включена", posted.every((p) => p.parse_mode === "HTML"));
+const dRows = sqlite.prepare("SELECT * FROM sent WHERE alert_batch=?").all(d1.batch);
+check("номера сводки записаны", dRows.length === d1.sent, `записей ${dRows.length}`);
+
+// длинную сводку режем по строкам, а не по символам - разорванный тег
+// HTML Telegram не примет и вернёт ошибку на всю рассылку
+posted = [];
+const long = Array.from({ length: 400 }, (_, i) => `<b>строка ${i}</b> — текст подлиннее`).join(String.fromCharCode(10))
+const d2 = await bot.digest(env, long);
+const parts = posted.length / 3;
+check("длинная сводка разбита на части", parts > 1, `частей ${parts}`);
+check("каждая часть влезает в лимит", posted.every((p) => p.text.length < 4096));
+check("теги не разорваны", posted.every((p) => (p.text.match(/<b>/g) || []).length === (p.text.match(/<\/b>/g) || []).length));
+
+// Адресная отправка - механизм правила «проверяй на себе». Без теста он
+// тихо сломается, и проверочная рассылка опять уйдёт живым получателям.
+posted = [];
+const d3 = await bot.digest(env, "проверка", "111");
+check("only шлёт ровно одному", d3.sent === 1 && d3.users === 1, `ушло ${d3.sent} на ${d3.users}`);
+check("ушло именно ему", posted.length === 1 && String(posted[0].chat_id) === "111");
+check("остальные не получили", !posted.some((p) => String(p.chat_id) === "222"));
+
+// и сводка отзывается ровно так же, как уведомление
+erased = [];
+const dr = await bot.recall(env, d1.batch);
+check("сводка отзывается целиком", dr.deleted === d1.sent, `удалено ${dr.deleted} из ${d1.sent}`);
+
 sqlite.exec("DELETE FROM alerts"); sqlite.exec("DELETE FROM access"); sqlite.exec("DELETE FROM sent");
 console.log(fails ? `\nПРОВАЛОВ: ${fails}` : "\nвсе проверки рассылки прошли");
 process.exit(fails ? 1 : 0);

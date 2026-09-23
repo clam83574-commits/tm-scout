@@ -15,6 +15,10 @@
 name: world-fast
 
 on:
+  # Раз в две недели, понедельник 02:00 UTC. Полный мир, а не приоритетные
+  # лиги: владельцу нужно, чтобы обновлялись все 126 стран, а не две.
+  schedule:
+    - cron: "0 2 * * 1"
   workflow_dispatch:
     inputs:
       workers:
@@ -44,9 +48,42 @@ env:
   WORKER_URL: https://tm-scout-bot.clam83574.workers.dev
 
 jobs:
+  # Cron в GitHub не умеет «раз в две недели»: расписание будит нас КАЖДЫЙ
+  # понедельник, а эта задача пропускает половину из них.
+  #
+  # Чётность считаем по неделям от эпохи, а не по номеру ISO-недели: соседние
+  # понедельники отличаются ровно на 604800 секунд, поэтому чередование не
+  # сбивается никогда. У ISO-недели на годах с 53 неделями чётность
+  # повторяется дважды подряд, и раз в несколько лет вышло бы два обхода
+  # подряд или пропуск в три недели.
+  #
+  # Запуск руками проходит всегда - привратник нужен только расписанию.
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.check.outputs.run }}
+    steps:
+      - id: check
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "запуск вручную - идём"
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          WEEK=$(( $(date -u +%s) / 604800 ))
+          if [ $(( WEEK % 2 )) -eq 0 ]; then
+            echo "неделя $WEEK чётная - обходим мир"
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "неделя $WEEK нечётная - пропускаем, обход через неделю"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
   # Перепись лиг делается ОДИН раз: иначе четыре части сделали бы её
   # одновременно и вчетверо нагрузили каталог ради одинакового результата.
   prep:
+    needs: gate
+    if: ${{ needs.gate.outputs.run == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
@@ -105,8 +142,11 @@ jobs:
           retention-days: 14
 
   finish:
-    needs: crawl
-    if: ${{ always() }}       # собираем то, что успело досчитаться
+    needs: [gate, crawl]
+    # always() здесь ради упавших частей - собираем то, что досчиталось. Но
+    # без проверки привратника он бы просыпался и в пропущенную неделю, когда
+    # обхода не было вовсе, и слил бы пустоту поверх базы.
+    if: ${{ always() && needs.gate.outputs.run == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 120
     steps:
@@ -131,7 +171,7 @@ jobs:
         run: python scout.py --free-agents --workers "$WORKERS" --delay "$DELAY"
 
       - name: Что изменилось
-        run: python diff.py --since 32 --out out/world-diff.md
+        run: python diff.py --since 15 --out out/world-diff.md
 
       # Сначала сохранить и доставить, потом учёт - см. lesson 2026-09-16
       - name: Сохранить базу на следующий раз
@@ -170,7 +210,18 @@ jobs:
       # стоимости обязателен - без него сообщение утонет в игроках низших
       # лиг, где поле меняется от того, что его наконец кто-то заполнил.
       - name: Отобрать события «агент пропал»
-        run: python alerts.py --since 32 --min-value 200000 --out out/d1-alerts.sql
+        run: python alerts.py --since 15 --min-value 200000 --out out/d1-alerts.sql
+
+      # Сводка идёт ПЕРЕД подробным списком: сначала человек видит, что
+      # прогон состоялся и сколько всего изменилось, потом - кого именно
+      # звонить. Обратный порядок читается как «пришёл список непонятно из
+      # чего». Шлём даже когда изменений нет: молчание неотличимо от
+      # сломавшегося прогона, а строка «изменений нет» отличима.
+      - name: Краткая сводка в бот
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.TM_WEBHOOK_SECRET != '' }}
+        run: |
+          python summary.py --since 15 --alerts-min 200000 --out out/summary.txt
+          curl -sS -X POST "$WORKER_URL/digest"             -H "x-telegram-bot-api-secret-token: $TM_WEBHOOK_SECRET"             -H "content-type: text/plain; charset=utf-8"             --data-binary @out/summary.txt | tee /dev/stderr
 
       - name: Разослать уведомления
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.TM_WEBHOOK_SECRET != '' }}
