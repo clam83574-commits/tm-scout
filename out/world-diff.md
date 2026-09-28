@@ -1,5 +1,217 @@
-# Изменения за 32 дней
+# Изменения за 15 дней
 
-_собрано 2026-09-16 08:58 UTC_
+_собрано 2026-09-28 10:02 UTC_
 
-С прошлого прогона ничего не поменялось.
+## 🔥 Агент пропал — 3
+
+- **Jeff Chabot** — VfB Stuttgart (L1) · было «агент записан», стало «пробел»
+- **Reza Asadi** — Без клуба (FREE) · было «агент записан», стало «пробел»
+- **Gaetano Castrovilli** — Без клуба (FREE) · было «агент записан», стало «пробел»
+
+## Появился агент — убрать из работы — 9
+
+- Janne Berner — SC Verl · теперь агент записан
+- Leonardo Posadas — TSV Havelse · теперь агент записан
+- Joel Darko Ampem — TSV Havelse · теперь агент записан
+- Youssef Hamdaoui — Royal Antwerp FC · теперь агент записан
+- Rok Storman — KV Kortrijk · теперь агент записан
+- Emir Sahiti — Hannover 96 · теперь агент записан
+- Anthony Caci — 1.FSV Mainz 05 · теперь агент записан
+- Adham Refai — RFC Lüttich · теперь агент записан
+- Maximilian Philipp — Без клуба · теперь агент записан
+
+## Сменил клуб — 158
+
+- Moatasem Al-Musrati: Без клуба → Al-Ahli SC
+- Danny Ings: Без клуба → Wycombe Wanderers
+- João Mendes: Без клуба → Kayserispor
+- David Alaba: Без клуба → Udinese Calcio
+- Yanik Spalt: VfB Stuttgart → VfB Stuttgart II
+- Ertugrul Yigit: VfB Stuttgart → VfB Stuttgart II
+- Jarzinho Malanga: VfB Stuttgart → VfB Stuttgart II
+- Lúkas Petersson: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
+- Natnael Abraha: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
+- Mark Diemers: Без клуба → De Graafschap Doetinchem
+- Frederico Namora: Без клуба → FC Felgueiras 1932
+- Robin Lisewski: 1.FC Nuremberg → 1.FC Nuremberg II
+- Eric Porstner: 1.FC Nuremberg → 1.FC Nuremberg II
+- Tobias Heß: 1.FC Nuremberg → 1.FC Nuremberg II
+- Marc Kornwachs Barjuan: 1.FC Nuremberg → 1.FC Nuremberg II
+- Marko Soldic: 1.FC Nuremberg → 1.FC Nuremberg II
+- Can Moustfa: 1.FC Nuremberg → 1.FC Nuremberg II
+- Piet Scobel: 1.FC Nuremberg → 1.FC Nuremberg II
+- Tom Wisbereit: FC Augsburg → FC Augsburg II
+- Romero Gerres: Rot-Weiss Essen → Rot-Weiss Essen II
+- Silvere Ganvoula: Без клуба → Wydad Casablanca
+- Mohamed Zrida: Без клуба → COD Meknès
+- Johannes Siebeking: FC Schalke 04 → FC Schalke 04 II
+- Mathieu Nguefack: Borussia Mönchengladbach → Borussia Mönchengladbach II
+- Fritz Fleck: Borussia Mönchengladbach → Borussia Mönchengladbach II
+- Iaia Manco Danfa: Borussia Mönchengladbach → Borussia Mönchengladbach II
+- Silas Ostrzinski: Borussia Dortmund → Borussia Dortmund II
+- Mussa Kaba: Borussia Dortmund → Borussia Dortmund II
+- Martin James: 1.FC Köln → 1.FC Köln II
+- Gil Neves: 1.FC Köln → 1.FC Köln II
+- Malek El Mala: 1.FC Köln → 1.FC Köln II
+- Hugo Rölleke: VfL Bochum → VfL Bochum II
+- Leon Sawas: VfL Bochum → VfL Bochum II
+- Luis Pick: VfL Bochum → VfL Bochum II
+- Florian Pruhs: SC Paderborn 07 → SC Paderborn 07 II
+- Tristan Zobel: SC Paderborn 07 → SC Paderborn 07 II
+- Lasse Eickel: SC Paderborn 07 → SC Paderborn 07 II
+- Lennart Stollenwerk: SC Fortuna Köln → SC Fortuna Köln U23
+- Jonas Schwanke: Hannover 96 → Hannover 96 II
+- Joschua Siewert: Hannover 96 → Hannover 96 II
+- Noah Engelbreth: Hannover 96 → Hannover 96 II
+- Alexander Vogel: Hannover 96 → Hannover 96 II
+- Yunus Ünal: Hannover 96 → Hannover 96 II
+- Taycan Kurt: Hannover 96 → Hannover 96 II
+- Tom Hobrecht: Hannover 96 → Hannover 96 II
+- Louis Lemke: Hamburger SV → Hamburger SV II
+- Stefan Smarkalev: SV Werder Bremen → SV Werder Bremen II
+- Darwin Soylu: SV Werder Bremen → SV Werder Bremen II
+- Marwin Schmitz: FC St. Pauli → FC St. Pauli II
+- Nick Schmidt: FC St. Pauli → FC St. Pauli II
+- Philip Hildesheim: Arminia Bielefeld → Arminia Bielefeld II
+- Eyyüb Yasar: Arminia Bielefeld → Arminia Bielefeld II
+- Benedikt Börner: SV Darmstadt 98 → SV Darmstadt 98 II
+- Max Pfister: SV Darmstadt 98 → SV Darmstadt 98 II
+- Eymen Laghrissi: Karlsruher SC → Karlsruher SC II
+- Mahmoud Dahoud: Без клуба → United FC (UAE)
+- Ben Kieffer: SSV Jahn Regensburg → SSV Jahn Regensburg II
+- Noel Lakatos: FC Ingolstadt 04 → FC Ingolstadt 04 II
+- Elias Etringer: SV 07 Elversberg → SV 07 Elversberg II
+- Norbert Gyömbér: Без клуба → Levadiakos
+- Kelvin Ofori: Без клуба → Atromitos Athens
+- Eddie Salcedo: Без клуба → Rubin Kazan
+- Igor Silva: Без клуба → Rodina Moscow
+- Daler Kuzyaev: Без клуба → Dinamo Makhachkala
+- Louis Van Aubel: KAS Eupen → KAS Eupen U23
+- Diego Baudon: KAS Eupen → KAS Eupen U23
+- Sacha Bescond: KAS Eupen → KAS Eupen U23
+- Victor Tihon: KAS Eupen → KAS Eupen U23
+- Théo Maréchal: KAS Eupen → KAS Eupen U23
+- Raphael Di Matteo: KAS Eupen → KAS Eupen U23
+- Jaden Malhage: KAS Eupen → KAS Eupen U23
+- Nick Bodon: Eintracht Braunschweig → Eintracht Braunschweig II
+- Damjan Kovacevic: Eintracht Braunschweig → Eintracht Braunschweig II
+- Sanoussy Ba: Eintracht Braunschweig → Eintracht Braunschweig II
+- Timo Schmitz: SV Meppen → SV Meppen II
+- Jonas Goldenstein: SV Meppen → SV Meppen II
+- Henrik Wittrock: SV Meppen → SV Meppen II
+- Mika Herrmann: SV Meppen → SV Meppen II
+- Emile Doucouré: KRC Genk → Jong Genk
+- Emmanuel Sarfo: KRC Genk → Jong Genk
+- August De Wannemacker: KRC Genk → Jong Genk
+- Kjell Peersman: KAA Gent → Jong KAA Gent
+- Bas Evers: KAA Gent → Jong KAA Gent
+- Mamadou Diallo: KAA Gent → Jong KAA Gent
+- Abdoul Ayinde: KAA Gent → Jong KAA Gent
+- Gilles De Meyer: KAA Gent → Jong KAA Gent
+- Axl De Corte: Club Brugge KV → Club NXT
+- Samba Coulibaly: Club Brugge KV → Club NXT
+- Gianluca Okon-Engstler: Club Brugge KV → Club NXT
+- Erik Maurer: FC Hansa Rostock → FC Hansa Rostock II
+- Robin Falk: FC Hansa Rostock → FC Hansa Rostock II
+- Fiete Bock: FC Hansa Rostock → FC Hansa Rostock II
+- Tomás Mendes: Без клуба → Deportivo Alavés B
+- Melvin Ramundo: Lommel SK → Lommel SK U23
+- Emile Vandecraen: Lommel SK → Lommel SK U23
+- Josias Lama: Lommel SK → Lommel SK U23
+- Kian Ramadani: SV Waldhof Mannheim → SV Waldhof Mannheim U21
+- Quentin Enold: SG Dynamo Dresden → Dynamo Dresden II
+- Gassimou Sylla: RSCA Futures → RSC Anderlecht U18
+- Bas Evers: KAA Gent → KAA Gent U18
+- Noa Vandenabeele: Jong KAA Gent → KAA Gent U18
+- Mikelis Menniks: Jong KAA Gent → KAA Gent U18
+- Ange-Gabriel Kokora: Standard de Liège 16 FC → Standard Liège U18
+- Sam Fraipont: Standard de Liège 16 FC → Standard Liège U18
+- Yanis Malamba: Standard de Liège 16 FC → Standard Liège U18
+- Yhanis Onehese: Standard de Liège 16 FC → Standard Liège U18
+- Luca Rousseaux: Zébra Élites → R Charleroi SC U18
+- Sacha Miantezila: Zébra Élites → R Charleroi SC U18
+- Oscar Latteur: Zébra Élites → R Charleroi SC U18
+- Leandro Diaz Rodriguez: Zébra Élites → R Charleroi SC U18
+- Stefan Ostoici: Club NXT → Club Brugge U18
+- Mateo Haesaert: Club NXT → Club Brugge U18
+- Emmanuel Fejokwu: Club NXT → Club Brugge U18
+- Anton Bojenko: KFC Houtvenne → KVC Westerlo U18
+- Olsen Djédjé: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven U18
+- Ryane Redouane: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven U18
+- Mohamed Amine Moustache: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven U18
+- Lukas Cakoni: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven U18
+- Vic Debusschere: Jong Genk → KRC Genk U18
+- Daan Van Laere: Jong Genk → KRC Genk U18
+- Lander Borgers: Jong Genk → KRC Genk U18
+- Prince N'Salambi: Jong Genk → KRC Genk U18
+- Shakhmurat Dauletov: Jong Genk → KRC Genk U18
+- Anthony Philips: KV Kortrijk → KV Kortrijk U21
+- Philippe Bibout: KVC Westerlo → KVC Westerlo U21
+- Jarne Lafosse: KFC Houtvenne → KVC Westerlo U21
+- Dino Delic: KVC Westerlo → KVC Westerlo U21
+- Robbe Van Diest: KFC Houtvenne → KVC Westerlo U21
+- Lucas Monteiro: RAAL La Louvière → RAAL La Louvière U21
+- Noah Makembo-Ntemo: RAAL La Louvière → RAAL La Louvière U21
+- Timéo Kerckhofs: RAAL La Louvière → RAAL La Louvière U21
+- Giorgi Kavlashvili: Union Saint-Gilloise → Union Saint-Gilloise U23
+- Noah Sy: Standard Liège → Standard de Liège 16 FC
+- Naël Piron: Royal Charleroi SC → Zébra Élites
+- Rafaël Teugels: Royal Charleroi SC → Zébra Élites
+- Stefan Cvetkovic: Без клуба → HSK Zrinjski Mostar
+- Luca Berreth: VfB Stuttgart II → VfB Stuttgart U19
+- Collin Schramm: VfB Stuttgart II → VfB Stuttgart U19
+- Neno Zezelj: VfB Stuttgart II → VfB Stuttgart U19
+- Enis Redzepi: VfB Stuttgart II → VfB Stuttgart U19
+- Kian Speidel: VfB Stuttgart II → VfB Stuttgart U19
+- Nico Biedermann: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Maximilian Theuer: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Finn Sherlock: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Krystof Cizek: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Zain Biazid: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Tjark Möbius: 1.FC Magdeburg → 1.FC Magdeburg U19
+- Felikss Sprogis: FC Hansa Rostock → FC Hansa Rostock U19
+- Elias Lahti: Hamburger SV → Hamburger SV U19
+- Ben Jungfleisch: 1.FC Kaiserslautern → 1.FC Kaiserslautern U19
+- Enzo dos Santos: Borussia Dortmund → Borussia Dortmund U19
+- Mathis Albert: Borussia Dortmund → Borussia Dortmund U19
+- James Gnagnon: Rot-Weiss Essen → Rot-Weiss Essen U19
+- Till Wegener: Arminia Bielefeld → Arminia Bielefeld U19
+- Daniel Richter: Arminia Bielefeld → Arminia Bielefeld U19
+- Bruno Katz: VfL Wolfsburg → VfL Wolfsburg U19
+- Benno Kaltefleiter: RB Leipzig → RB Leipzig U19
+- Christian Eriksen: VfL Wolfsburg → Без клуба
+
+## Изменился контракт — 26
+
+- Moatasem Al-Musrati (Al-Ahli SC): 31/08/2026 → 30/06/2028
+- Danny Ings (Wycombe Wanderers): 01/07/2026 → -
+- João Mendes (Kayserispor): 01/07/2026 → 30/06/2027
+- David Alaba (Udinese Calcio): 01/07/2026 → 30/06/2027
+- Elias Arden (Fortuna Düsseldorf): 30/06/2027 → 30/06/2029
+- Kian Speidel (VfB Stuttgart II): 30/06/2027 → -
+- Dominik Martinovic (SC Verl): - → 30/06/2027
+- Mark Diemers (De Graafschap Doetinchem): 01/07/2026 → 30/06/2028
+- Frederico Namora (FC Felgueiras 1932): 01/07/2026 → 30/06/2027
+- Youssef Hamdaoui (Royal Antwerp FC): 30/06/2027 → 30/06/2029
+- Arthur Cremer (Royal Charleroi SC): - → 30/06/2028
+- Isaac Cissé (Royal Charleroi SC): - → 30/06/2030
+- Boubakar Dembaga (Royal Charleroi SC): - → 30/06/2029
+- Silvere Ganvoula (Wydad Casablanca): 08/09/2026 → 30/06/2027
+- Mohamed Zrida (COD Meknès): 13/02/2026 → -
+- Mahmoud Dahoud (United FC (UAE)): 01/07/2026 → -
+- Norbert Gyömbér (Levadiakos): 01/07/2026 → 30/06/2027
+- Kelvin Ofori (Atromitos Athens): 16/09/2026 → 30/06/2028
+- Eddie Salcedo (Rubin Kazan): 01/07/2026 → 30/06/2027
+- Igor Silva (Rodina Moscow): 01/07/2026 → 30/06/2028
+- Daler Kuzyaev (Dinamo Makhachkala): 01/07/2026 → 30/06/2027
+- Rayan Yaakoubi (Jong KAA Gent): - → 30/06/2027
+- Tomás Mendes (Deportivo Alavés B): 01/07/2026 → 30/06/2027
+- Stefan Cvetkovic (HSK Zrinjski Mostar): 01/07/2026 → 30/06/2027
+- Kian Speidel (VfB Stuttgart U19): 30/06/2027 → -
+- Christian Eriksen (Без клуба): 30/06/2027 → 23/09/2026
+
+## Сейчас в базе
+
+Кандидатов всего: **134606** (нет агента 2417 · семья 2475 · пробел 129714)
+
+Игроков с записанным агентом: 68000

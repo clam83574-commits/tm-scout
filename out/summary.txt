@@ -1,0 +1,25 @@
+📊 <b>База обновлена</b> — 28 сентября
+
+🔥 <b>Пропал агент</b> — 3 игрока дороже 200 тыс. €
+<i>агент у них был, теперь нет: контракт с агентством закончился, человек в поиске</i>
+
+⚪ <a href="https://www.transfermarkt.com/jeff-chabot/profil/spieler/303219"><b>Jeff Chabot</b></a> · поле пустое
+    <i>VfB Stuttgart</i> · 15 млн € · контракт до 30/06/2028
+    🇩🇪 Германия · Бундеслига
+
+⚪ <a href="https://www.transfermarkt.com/reza-asadi/profil/spieler/408805"><b>Reza Asadi</b></a> · поле пустое
+    <i>Без клуба</i> · 500 тыс. € · контракт до 01/07/2026
+    🆓 Без клуба · Без клуба
+
+⚪ <a href="https://www.transfermarkt.com/gaetano-castrovilli/profil/spieler/303116"><b>Gaetano Castrovilli</b></a> · поле пустое
+    <i>Без клуба</i> · 500 тыс. € · контракт до 01/07/2026
+    🆓 Без клуба · Без клуба
+
+
+✅ <b>Появился агент</b> — 9, убрать из работы: Anthony Caci, Emir Sahiti, Youssef Hamdaoui, Rok Storman, Maximilian Philipp, Janne Berner, Adham Refai, Leonardo Posadas, Joel Darko Ampem
+🔄 Сменили клуб — 158
+📅 Изменился контракт — 26
+
+<b>Сейчас в базе:</b> 134 606 кандидатов
+🟢 нет агента 2 417 · 🟡 семья 2 475 · ⚪ пробел 129 714
+126 стран · 499 лиг
