@@ -1,14 +1,277 @@
 # Изменения за 15 дней
 
-_собрано 2026-09-28 10:02 UTC_
+_собрано 2026-10-12 10:40 UTC_
 
-## 🔥 Агент пропал — 3
+## 🔥 Агент пропал — 266
 
 - **Jeff Chabot** — VfB Stuttgart (L1) · было «агент записан», стало «пробел»
 - **Reza Asadi** — Без клуба (FREE) · было «агент записан», стало «пробел»
 - **Gaetano Castrovilli** — Без клуба (FREE) · было «агент записан», стало «пробел»
+- **Tomás Jacob** — Atlanta United FC (MLS1) · было «агент записан», стало «нет агента»
+- **Elías Pereyra** — CA Barracas Central (ARGC) · было «агент записан», стало «пробел»
+- **Elías Pereyra** — CA Barracas Central (ARG1) · было «агент записан», стало «пробел»
+- **Daniel Job** — FC Dallas (MLS1) · было «агент записан», стало «семья»
+- **Nicolás Meriano** — CA Banfield (ARG1) · было «агент записан», стало «пробел»
+- **Francisco Gualtieri** — AA Estudiantes (Río Cuarto) (ARGC) · было «агент записан», стало «пробел»
+- **Francisco Gualtieri** — AA Estudiantes (Río Cuarto) (ARG1) · было «агент записан», стало «пробел»
+- **Charles Dodzi** — Tacoma Defiance (MNP3) · было «агент записан», стало «пробел»
+- **Nicolás Rincón** — Columbus Crew 2 (MNP3) · было «агент записан», стало «пробел»
+- **Eric Preston** — Ventura County FC (MNP3) · было «агент записан», стало «пробел»
+- **Tega Ikoba** — Sporting Kansas City II (MNP3) · было «агент записан», стало «пробел»
+- **Tawfik Mohamed** — Al Ahly FC (EGY1) · было «агент записан», стало «пробел»
+- **Belmar Joseph** — Monterey Bay FC (USL) · было «агент записан», стало «пробел»
+- **Marwane Hajij** — Zed FC (EGY1) · было «агент записан», стало «пробел»
+- **Mohammed Sandouqa** — El Mokawloon SC (EGY1) · было «агент записан», стало «пробел»
+- **Mohamed Farouk** — Smouha SC (EGY1) · было «агент записан», стало «пробел»
+- **Zion Siranga** — FC Tulsa (USL) · было «агент записан», стало «пробел»
+- **Rafael Lima** — Moreirense FC Sub-23 (PT23) · было «агент записан», стало «пробел»
+- **Daniel Nolasco** — Leixões SC U23 (PT23) · было «агент записан», стало «пробел»
+- **Nilton Cardoso** — SCU Torreense Sub-23 (PT23) · было «агент записан», стало «пробел»
+- **Ilief Mendes** — Portimonense SAD U23 (PT23) · было «агент записан», стало «пробел»
+- **Raphael Nunes** — Académico Viseu FC U23 (PT23) · было «агент записан», стало «нет агента»
+- **Francesco Ferrara** — Roma U20 (IJ1) · было «агент записан», стало «пробел»
+- **Oliver Blini** — Empoli Primavera (IJ1) · было «агент записан», стало «пробел»
+- **Gustavo Cabral** — Vila Nova Futebol Clube (GO) (BRA2) · было «агент записан», стало «семья»
+- **Taishi Nagai** — Tochigi SC (JAP3) · было «агент записан», стало «пробел»
+- **Jarne Flies** — Lecce Primavera (IJ1) · было «агент записан», стало «пробел»
+- **James Igbinigun** — Bologna Primavera (IJ1) · было «агент записан», стало «пробел»
+- **Ricardo Silva** — América Futebol Clube (MG) (BRA2) · было «агент записан», стало «нет агента»
+- **Sebastiano Araboni** — Atalanta Primavera (IJ1) · было «агент записан», стало «пробел»
+- **Keenan Patten** — Newport County (GB4) · было «агент записан», стало «пробел»
+- **Wandisile Letlabika** — Kruger United FC (SFA1) · было «агент записан», стало «пробел»
+- **Wataru Kamijo** — Sydney FC II (A2SW) · было «агент записан», стало «пробел»
+- **Yuto Fujita** — Wollongong Wolves FC (A2SW) · было «агент записан», стало «пробел»
+- **Edoardo Zanchi** — Atalanta U23 (IT3B) · было «агент записан», стало «пробел»
+- **Thijs van Amerongen** — Sutherland Sharks FC (A2SW) · было «агент записан», стало «пробел»
+- **Yianni Nicolaou** — Sutherland Sharks FC (A2SW) · было «агент записан», стало «пробел»
+- **Renzo Paparelli** — Club Social y Atlético Guillermo Brown (AR3R) · было «агент записан», стало «пробел»
+- **Santiago Piersigilli** — Atlético Escobar FC (AR3R) · было «агент записан», стало «пробел»
+- **Mateo Alberca** — CA El Linqueño (AR3R) · было «агент записан», стало «пробел»
+- **Ryotaro Ito** — Real Valladolid CF (ES2) · было «агент записан», стало «семья»
+- **Stefan Rankic** — SV Meppen (L3) · было «агент записан», стало «пробел»
+- **Ike Orji** — Folkestone Invicta FC (NLS6) · было «агент записан», стало «пробел»
+- **Pedro López** — AD Ceuta FC (ES2) · было «агент записан», стало «нет агента»
+- **Reece Grego-Cox** — Hampton & Richmond Borough (NLS6) · было «агент записан», стало «пробел»
+- **Karlo Butic** — SSC Bari (IT3C) · было «агент записан», стало «нет агента»
+- **Daniele Solcia** — Sorrento 1945 (IT3C) · было «агент записан», стало «пробел»
+- **Léo Lelis** — Isenmulang Kalteng FC (IN1L) · было «агент записан», стало «пробел»
+- **Davide Guarneri** — Cosenza Primavera (IJ2B) · было «агент записан», стало «семья»
+- **Christian Østergaard** — FC Emmen (NL2) · было «агент записан», стало «пробел»
+- **Kévin Monzialo** — FC Den Bosch (NL2) · было «агент записан», стало «семья»
+- **Giosuè Grippa** — Palermo Primavera (IJ2B) · было «агент записан», стало «пробел»
+- **Sven Jansen** — TOP Oss (NL2) · было «агент записан», стало «пробел»
+- **Giovani Bamba** — FC Vizela (PO2) · было «агент записан», стало «пробел»
+- **Yassin Fortuné** — FC Vizela (PO2) · было «агент записан», стало «семья»
+- **Filippo Taverna** — Valenzana Mado SSD (IT4A) · было «агент записан», стало «пробел»
+- **Daniel Nolasco** — Leixões SC (PO2) · было «агент записан», стало «пробел»
+- **Alessandro Pagliari** — Borgosesia Calcio (IT4A) · было «агент записан», стало «семья»
+- **Patrick Marcelino** — Kanchanaburi Power FC (THA2) · было «агент записан», стало «пробел»
+- **Robson Duarte** — Kanchanaburi Power FC (THA2) · было «агент записан», стало «пробел»
+- **Jô** — Kanchanaburi Power FC (THA2) · было «агент записан», стало «пробел»
+- **Samuel Gomes** — Nakhonratchasima Mazda FC (THA2) · было «агент записан», стало «пробел»
+- **Benedykt Piotrowski** — Polonia Warsaw (PL2) · было «агент записан», стало «семья»
+- **Kacper Masiak** — Stal Rzeszow (PL2) · было «агент записан», стало «пробел»
+- **Sebastián Marfort** — CSCD Gimnasia y Esgrima (Chivilcoy) (AR3F) · было «агент записан», стало «пробел»
+- **Jakub Apolinarski** — Warta Poznan (PL2) · было «агент записан», стало «пробел»
+- **Kacper Sommerfeld** — Stal Mielec (PL2) · было «агент записан», стало «пробел»
+- **Oskar Tomczyk** — Podbeskidzie Bielsko-Biala (PL2) · было «агент записан», стало «семья»
+- **Yeison Suárez** — Junior FC (COLP) · было «агент записан», стало «нет агента»
+- **Kevin Pérez** — Junior FC (COLP) · было «агент записан», стало «нет агента»
+- **Diego Moreno** — Independiente Medellín (COLP) · было «агент записан», стало «нет агента»
+- **Yeison Suárez** — Junior FC (COL1) · было «агент записан», стало «нет агента»
+- **Kevin Pérez** — Junior FC (COL1) · было «агент записан», стало «нет агента»
+- **Diego Moreno** — Independiente Medellín (COL1) · было «агент записан», стало «нет агента»
+- **Marco Cruz** — Vitória Guimarães SC (PO1) · было «агент записан», стало «семья»
+- **Yanis Begraoui** — GD Estoril Praia (PO1) · было «агент записан», стало «семья»
+- **Theodoric Hebeck Tam** — Athletic Club Palermo (IT4I) · было «агент записан», стало «пробел»
+- **Jan Chodera** — Slask Wroclaw II (PL2L) · было «агент записан», стало «пробел»
+- **Leart Paçarada** — 1.FC Heidenheim 1846 (L2) · было «агент записан», стало «семья»
+- **Bartłomiej Juszczyk** — Sokol Kleczew (PL2L) · было «агент записан», стало «пробел»
+- **Dawid Tkacz** — Gornik Leczna (PL2L) · было «агент записан», стало «пробел»
+- **Javier Mateo Ortíz** — Resovia Rzeszow (PL2L) · было «агент записан», стало «семья»
+- **Daniele Occhiuto** — FBC Gravina (IT4H) · было «агент записан», стало «пробел»
+- **Óscar Rodríguez** — Al-Diriyah FC (SA1) · было «агент записан», стало «семья»
+- **Filippo Nobile** — ASD Manfredonia Calcio (IT4H) · было «агент записан», стало «пробел»
+- **Ivanoe Sessa** — Ebolitana Calcio 1925 (IT4H) · было «агент записан», стало «пробел»
+- **Luciano Espasa** — FC Francavilla 1931 (IT4H) · было «агент записан», стало «пробел»
+- **Malek Benkheira** — AS Melfi (IT4H) · было «агент записан», стало «семья»
+- **Rayan Enad** — Al-Fayha FC (SA1) · было «агент записан», стало «пробел»
+- **Tebo Gabriel** — 1.FSV Mainz 05 II (RLSW) · было «агент записан», стало «пробел»
+- **Stefano Baraldi** — Mantova Primavera (IJ2A) · было «агент записан», стало «пробел»
+- **Wilson Ibarrola** — Club Sol de América (PAR2) · было «агент записан», стало «пробел»
+- **Orlando Colmán** — Club Sol de América (PAR2) · было «агент записан», стало «пробел»
+- **Sergio Bareiro** — Club Sol de América (PAR2) · было «агент записан», стало «пробел»
+- **Bruno Díaz** — Independiente FBC (PAR2) · было «агент записан», стало «пробел»
+- **Ángel Colmán** — CD Santaní (PAR2) · было «агент записан», стало «пробел»
+- **Alex Candia** — Club Benjamín Aceval (PAR2) · было «агент записан», стало «пробел»
+- **Fernando Viveros** — Encarnacena FC (PAR2) · было «агент записан», стало «пробел»
+- **Fabio Avalos** — Guaireña FC (PAR2) · было «агент записан», стало «пробел»
+- **Cristhian Báez** — Guaireña FC (PAR2) · было «агент записан», стало «пробел»
+- **Antonio Marín** — Guaireña FC (PAR2) · было «агент записан», стало «пробел»
+- **Rabiae Bounit** — Widad Témara (MAR1) · было «агент записан», стало «пробел»
+- **Halil Duman** — Erciyes 38 FSK (TR4C) · было «агент записан», стало «нет агента»
+- **Jonathan Kafu** — Siegburger SV 04 (OLMR) · было «агент записан», стало «пробел»
+- **Marwin Ailiesei** — VfL Vichttal (OLMR) · было «агент записан», стало «семья»
+- **Igor Brzyski** — SK Sigma Olomouc (TS1) · было «агент записан», стало «семья»
+- **Filip Brdicka** — FK Pardubice (TS1) · было «агент записан», стало «пробел»
+- **Nikodem Proczek** — Pogoń-Sokół Lubaczów (PL34) · было «агент записан», стало «семья»
+- **Francisco Nevárez** — FC Juárez (MEXA) · было «агент записан», стало «пробел»
+- **Cristian Vivace** — ASD Rondinella Marzocco (IT4E) · было «агент записан», стало «пробел»
+- **Arnau Gaixas** — AD Alcorcón (E3G2) · было «агент записан», стало «пробел»
+- **Javi Antón** — Antequera CF (E3G2) · было «агент записан», стало «пробел»
+- **David del Pozo** — CF Rayo Majadahonda (E3G2) · было «агент записан», стало «пробел»
+- **Yannick Marchand** — FC Basel 1893 U21 (CHPR) · было «агент записан», стало «пробел»
+- **Vincent Rüfli** — FC Grand-Saconnex (CHPR) · было «агент записан», стало «пробел»
+- **Domenic Folino** — Preston Lions FC (A2VI) · было «агент записан», стало «пробел»
+- **Jonas Theuerzeit** — SC St. Tönis 1911/20 (OLNI) · было «агент записан», стало «пробел»
+- **Rotosson Kanu** — SC St. Tönis 1911/20 (OLNI) · было «агент записан», стало «пробел»
+- **Iago López** — Cultural Leonesa (E3G1) · было «агент записан», стало «пробел»
+- **Mario Losada** — Zamora CF (E3G1) · было «агент записан», стало «пробел»
+- **Clément Benhaddouche** — Changchun Yatai (CLO) · было «агент записан», стало «пробел»
+- **William Akio** — Greenville Triumph SC (USC3) · было «агент записан», стало «пробел»
+- **Andrej Petrovic** — FK TSC Backa Topola (SER2) · было «агент записан», стало «пробел»
+- **Christy Manzinga** — Charlotte Independence (USC3) · было «агент записан», стало «пробел»
+- **Sebastian Weiland** — Hertha BSC II (RLN4) · было «агент записан», стало «пробел»
+- **Joshua Okpalaike** — SV Babelsberg 03 (RLN4) · было «агент записан», стало «пробел»
+- **Manuel Marzupio** — Rovato Calcio (IT4B) · было «агент записан», стало «пробел»
+- **Abdellatif El Mahaoui** — TSV Schott Mainz (OLRP) · было «агент записан», стало «пробел»
+- **Robin Muth** — FK Pirmasens (OLRP) · было «агент записан», стало «семья»
+- **Anil Gözütok** — SV Rot-Weiss Wittlich (OLRP) · было «агент записан», стало «пробел»
+- **Maddox Stadel** — SV Rot-Weiss Wittlich (OLRP) · было «агент записан», стало «семья»
+- **Dragoș Albu** — Corvinul Hunedoara (RO1) · было «агент записан», стало «пробел»
+- **Facundo Butti** — CA Cerro (URUC) · было «агент записан», стало «пробел»
+- **Facundo Butti** — CA Cerro (URU1) · было «агент записан», стало «пробел»
+- **Gregori Anangonó** — CD Universidad Católica (EC1N) · было «агент записан», стало «пробел»
+- **Cristian Pasquato** — AC Campodarsego (IT4C) · было «агент записан», стало «пробел»
+- **Facundo Kidd** — Club Plaza Colonia (UR2T) · было «агент записан», стало «нет агента»
+- **Alessio Arcopinto** — Calcio Sandonà (IT4C) · было «агент записан», стало «пробел»
+- **David Scira** — NK Karlovac 1919 (KR2) · было «агент записан», стало «пробел»
+- **Dominik Pezelj** — NK Opatija (KR2) · было «агент записан», стало «семья»
+- **Sean Suke** — NK Opatija (KR2) · было «агент записан», стало «пробел»
+- **Tedi Cara** — LNZ Cherkasy (UKR1) · было «агент записан», стало «пробел»
+- **Eithan Catillon** — AO Agia Napa (CYP2) · было «агент записан», стало «пробел»
+- **Konstantinos Myrtollari** — Doxa Katokopia (CYP2) · было «агент записан», стало «пробел»
+- **Konstantinos Fortounis** — Olympiacos Piraeus (GR1) · было «агент записан», стало «пробел»
+- **Vasilios Athanasiou** — Atromitos Athens (GR1) · было «агент записан», стало «пробел»
+- **Josete Miranda** — Kalamata FC (GR1) · было «агент записан», стало «пробел»
+- **Veldin Hodza** — Rubin Kazan (RU1) · было «агент записан», стало «пробел»
+- **Aridane Hernández** — CD Atlético Paso (E4G5) · было «агент записан», стало «пробел»
+- **Yaroslav Shapovalov** — Kyrgyzaltyn Kara-Balta (KG1L) · было «агент записан», стало «пробел»
+- **Gil Alcalá** — Atlético La Paz (MEX2) · было «агент записан», стало «пробел»
+- **Gil Alcalá** — Atlético La Paz (MEXB) · было «агент записан», стало «пробел»
+- **Gustavo** — FC Etzella Ettelbruck (LUX1) · было «агент записан», стало «пробел»
+- **Pablo García** — Yeclano Deportivo (E4G3) · было «агент записан», стало «пробел»
+- **Wilfred George Igor** — Kristiansund BK (NO1) · было «агент записан», стало «семья»
+- **Villum Dalsgaard** — Mjällby AIF (SE1) · было «агент записан», стало «пробел»
+- **Anes Cardaklija** — GAIS (SE1) · было «агент записан», стало «пробел»
+- **Jon Rojo** — Sestao River (E4G1) · было «агент записан», стало «пробел»
+- **Saïf-Eddine Boutkabout** — K Lierse SK (BE2) · было «агент записан», стало «пробел»
+- **Bryan Castillo** — Carabobo FC (VZ1C) · было «агент записан», стало «пробел»
+- **Mohamed Chennah** — US Orléans U19 (F19A) · было «агент записан», стало «пробел»
+- **Graig Hoko Ebouta** — USL Dunkerque U19 (F19A) · было «агент записан», стало «пробел»
+- **Edoardo Borghi** — AC Taverne (CHC3) · было «агент записан», стало «пробел»
+- **Yasir Mihci** — FC Widnau (CHC3) · было «агент записан», стало «пробел»
+- **Eliano Guido** — Grasshopper Club Zürich U21 (CHC2) · было «агент записан», стало «семья»
+- **Diego Ferrazza** — Grasshopper Club Zürich U21 (CHC2) · было «агент записан», стало «семья»
+- **Gustav Mogensen** — Ranheim IL (NO2) · было «агент записан», стало «пробел»
+- **Dominik Drk** — ND Beltinci (SL2) · было «агент записан», стало «пробел»
+- **Roko Mavra** — NK Jesenice (SL2) · было «агент записан», стало «пробел»
+- **Patrik Priecel** — Dynamo Malzenice (SK2) · было «агент записан», стало «пробел»
+- **Arvid Eriksson** — Jönköpings Södra IF (SE3S) · было «агент записан», стало «пробел»
+- **Chisomnazu Chika Chidi** — FC Trollhättan (SE3S) · было «агент записан», стало «пробел»
+- **Matisse Willemot** — KRC Gent (VFVA) · было «агент записан», стало «пробел»
+- **Ladji Touré** — KVK Ninove (VFVA) · было «агент записан», стало «пробел»
+- **Mohsen Abdeljaoued** — FC Lausanne-Sport II (CHC1) · было «агент записан», стало «пробел»
+- **Damian Corbisiero** — LASK Amateure OÖ (RLNA) · было «агент записан», стало «пробел»
+- **Luca Gazzetta** — Lancy FC (CHC1) · было «агент записан», стало «пробел»
+- **David Parkhouse** — Moyola Park AFC (NIR2) · было «агент записан», стало «пробел»
+- **Caolan Donnelly** — Ballinamallard United FC (NIR2) · было «агент записан», стало «пробел»
+- **Danilo Gunjevic** — FCO St. Gallen U19 (C191) · было «агент записан», стало «пробел»
+- **Luciano Nequecaur** — Club Libertad Asunción (PR1C) · было «агент записан», стало «пробел»
+- **Thiago Servín** — Club Guaraní (PR1C) · было «агент записан», стало «пробел»
+- **Lucas Gómez** — Club Rubio Ñú (Asunción) (PR1C) · было «агент записан», стало «пробел»
+- **Luciano Nequecaur** — Club Libertad Asunción (PR1A) · было «агент записан», стало «пробел»
+- **Thiago Servín** — Club Guaraní (PR1A) · было «агент записан», стало «пробел»
+- **Lucas Gómez** — Club Rubio Ñú (Asunción) (PR1A) · было «агент записан», стало «пробел»
+- **Ido Shahar** — Maccabi Tel Aviv (ISR1) · было «агент записан», стало «пробел»
+- **Brayan Carabalí** — Beitar Jerusalem (ISR1) · было «агент записан», стало «нет агента»
+- **Arthur Allemeersch** — Belisia Bilzen (BE3V) · было «агент записан», стало «пробел»
+- **Sophian Do Carmo** — Rodez Aveyron Football B (FR5A) · было «агент записан», стало «пробел»
+- **Yanis El Madi** — US Lège Cap-Ferret (FR5A) · было «агент записан», стало «семья»
+- **Mads Larsen** — Odense Boldklub U19 (DKDL) · было «агент записан», стало «пробел»
+- **Villads Østergaard** — Vejle Boldklub U19 (DKDL) · было «агент записан», стало «пробел»
+- **Villads Bertelsen** — Aalborg BK U19 (DKDL) · было «агент записан», стало «пробел»
+- **Lasse Mandal** — Sönderjyske Fodbold U19 (DKDL) · было «агент записан», стало «пробел»
+- **Stephen Halm** — Kasuka FC (BSL1) · было «агент записан», стало «пробел»
+- **Briken Zendeli** — AKA Rapid Wien U18 (JGD2) · было «агент записан», стало «пробел»
+- **Fatih Mavric** — FK Partizan Belgrade U19 (SB19) · было «агент записан», стало «пробел»
+- **Emilio Orman** — AKA Austria Wien U18 (JGD2) · было «агент записан», стало «пробел»
+- **Ismail Mohamad** — Al-Ahli SC (QSL) · было «агент записан», стало «пробел»
+- **Joris Mendy** — ES Fosséenne (FR5G) · было «агент записан», стало «семья»
+- **Kaïs Salah Bendriss** — FC Espaly Saint-Marcel (FR5G) · было «агент записан», стало «пробел»
+- **Yuriy Toma** — Nyíregyháza Spartacus (UNG1) · было «агент записан», стало «пробел»
+- **Ádám Szamosi** — Kispest–Honvéd FC (UNG1) · было «агент записан», стало «пробел»
+- **Pedro Gomes** — AD Machico (CPSB) · было «агент записан», стало «пробел»
+- **Enes Ismaili** — FC Ruggell (CIR5) · было «агент записан», стало «семья»
+- **Emilio Orman** — AKA Austria Wien U16 (JGD3) · было «агент записан», стало «пробел»
+- **Yeli Mariko Trouillez** — Clermont Foot 63 U19 (F19B) · было «агент записан», стало «пробел»
+- **Tomoki Okawa** — aries Toshima (KTOS) · было «агент записан», стало «пробел»
+- **Abdulqadir Ilyas** — Al-Markhiya SC (QU2L) · было «агент записан», стало «пробел»
+- **Desthy Nkounkou** — AS Nancy-Lorraine B (FR5E) · было «агент записан», стало «пробел»
+- **Magnus Andersen** — Odense Boldklub (DK1) · было «агент записан», стало «пробел»
+- **Vitus Friis** — Odense Boldklub (DK1) · было «агент записан», стало «пробел»
+- **Tobias Klysner** — Sönderjyske Fodbold (DK1) · было «агент записан», стало «пробел»
+- **Adama Coulibaly** — Auckland United FC (NNL1) · было «агент записан», стало «пробел»
+- **Clinton Osei** — KF Iliria Fushë Krujë (ALB2) · было «агент записан», стало «пробел»
+- **Lalmalsawma** — Sudeva Delhi FC (IND2) · было «агент записан», стало «пробел»
+- **Wataru Kamijo** — Sydney FC (AUS1) · было «агент записан», стало «пробел»
+- **Ville Seppä** — FC Inter Turku (FI1) · было «агент записан», стало «пробел»
+- **Philipp Ziereis** — Melbourne Victory (AUS1) · было «агент записан», стало «пробел»
+- **Louis D'Arrigo** — Melbourne Victory (AUS1) · было «агент записан», стало «пробел»
+- **Elias Hansborg** — FC Fredericia (DK2) · было «агент записан», стало «пробел»
+- **Oliver Bjerrum Jensen** — Hvidovre IF (DK2) · было «агент записан», стало «пробел»
+- **Max Murphy** — Wexford FC (IR2) · было «агент записан», стало «пробел»
+- **Nicklas Mouritsen** — Boldklubben af 1893 (DK3O) · было «агент записан», стало «пробел»
+- **Max Albæk** — VSK Aarhus (DK3O) · было «агент записан», стало «пробел»
+- **Saïf-Eddine Boutkabout** — K Lierse SK U21 (BE21) · было «агент записан», стало «пробел»
+- **Daniel Obbekjær** — NSÍ Runavík (FARO) · было «агент записан», стало «пробел»
+- **Joel Lara** — CD Plaza Amador (PN1A) · было «агент записан», стало «пробел»
+- **Oliver Klemensen** — 07 Vestur (FARO) · было «агент записан», стало «пробел»
+- **Aimar Rodríguez** — CA Independiente (PN1A) · было «агент записан», стало «пробел»
+- **Elvar Petersen** — 07 Vestur (FARO) · было «агент записан», стало «пробел»
+- **Adama Coulibaly** — Auckland United FC (NZNL) · было «агент записан», стало «пробел»
+- **Altin Kryeziu** — KF Egnatia (ALB1) · было «агент записан», стало «пробел»
+- **Amin Al-Shanaineh** — Al-Faisaly SC (JO1L) · было «агент записан», стало «пробел»
+- **Ali Rabaei** — Shabab Al-Ordon Club (JO1L) · было «агент записан», стало «пробел»
+- **Elbis** — Ranger's FC (AND1) · было «агент записан», стало «пробел»
+- **Iñigo Zubiri** — FC Santa Coloma (AND1) · было «агент записан», стало «пробел»
+- **David Jacovic** — FC Wil 1900 (C2) · было «агент записан», стало «пробел»
+- **Ethan Brandy** — FC Stade Nyonnais (C2) · было «агент записан», стало «пробел»
+- **Clément Betoubam** — FC Stade Nyonnais (C2) · было «агент записан», стало «пробел»
+- **Daniel Luts** — Paide Linnameeskond (EST1) · было «агент записан», стало «семья»
+- **Giacomo Uggeri** — Jalgpallikool Tammeka (EST1) · было «агент записан», стало «пробел»
+- **Benjamin Luissint** — Queen of the South FC (SC3) · было «агент записан», стало «пробел»
+- **Nenad Krivokapic** — FK Jezero (MNE1) · было «агент записан», стало «пробел»
+- **Sora Kitagawa** — Basara Hyogo (JPKA) · было «агент записан», стало «пробел»
+- **Noah Abatneh** — Atlético Ottawa (CDN1) · было «агент записан», стало «пробел»
+- **Valentino Fritsche** — FC Energie Cottbus U19 (19D2) · было «агент записан», стало «пробел»
+- **Stefan Bitca** — FC Sheriff Tiraspol (MO1N) · было «агент записан», стало «пробел»
+- **Kai Whitmore** — Young Lions (SIN1) · было «агент записан», стало «пробел»
+- **Samet Hamza** — Eimsbütteler TV U17 (17DA) · было «агент записан», стало «пробел»
+- **Adam Attallihi** — FC Utrecht U19 (NLEV) · было «агент записан», стало «пробел»
+- **Yüksel Kücük** — FC Schalke 04 U19 (19D8) · было «агент записан», стало «семья»
+- **Renzo Paparelli** — Club Social y Atlético Guillermo Brown (ARG3) · было «агент записан», стало «пробел»
+- **Federico Bonansea** — CA San Martín (San Juan) (ARG2) · было «агент записан», стало «пробел»
+- **Sebastián Marfort** — CSCD Gimnasia y Esgrima (Chivilcoy) (ARG3) · было «агент записан», стало «пробел»
+- **Santiago Piersigilli** — Atlético Escobar FC (ARG3) · было «агент записан», стало «пробел»
+- **Mateo Alberca** — CA El Linqueño (ARG3) · было «агент записан», стало «пробел»
+- **Magomed Nasibov** — Pobeda Khasavyurt (2DVB) · было «агент записан», стало «нет агента»
+- **Gamid Dzhamuev** — FC Shakhter (2DVB) · было «агент записан», стало «нет агента»
+- **Nicolás Stepanovitch** — CA Acassuso (ARG2) · было «агент записан», стало «пробел»
+- **Facundo Báez** — CA San Telmo (ARG2) · было «агент записан», стало «пробел»
+- **Tiago Esidín** — Club Ferro Carril Oeste II (CLPF) · было «агент записан», стало «пробел»
 
-## Появился агент — убрать из работы — 9
+## Появился агент — убрать из работы — 603
 
 - Janne Berner — SC Verl · теперь агент записан
 - Leonardo Posadas — TSV Havelse · теперь агент записан
@@ -19,8 +282,602 @@ _собрано 2026-09-28 10:02 UTC_
 - Anthony Caci — 1.FSV Mainz 05 · теперь агент записан
 - Adham Refai — RFC Lüttich · теперь агент записан
 - Maximilian Philipp — Без клуба · теперь агент записан
+- Juan Cruz Policella — CA Vélez Sarsfield · теперь агент записан
+- Juan Cruz Policella — CA Vélez Sarsfield · теперь агент записан
+- Bruno Leyes — Club Atlético Tigre · теперь агент записан
+- Bruno Leyes — Club Atlético Tigre · теперь агент записан
+- Sekou Kone — Red Bull New York · теперь агент записан
+- Tomás Porra — CA Barracas Central · теперь агент записан
+- Tomás Porra — CA Barracas Central · теперь агент записан
+- Jaime Sancho — Al-Madina SC · теперь агент записан
+- Connor Faello — Red Bull New York II · теперь агент записан
+- Deshnick Nkeh — Orlando City B · теперь агент записан
+- Sebastiao Nzita — Houston Dynamo FC 2 · теперь агент записан
+- Oliver Pratt — Philadelphia Union II · теперь агент записан
+- Nicholas Silva — Real Monarchs SLC · теперь агент записан
+- Anthony Sumo Jr. — Carolina Core FC · теперь агент записан
+- Archie McCoy — Blackburn Rovers U18 · теперь агент записан
+- Broghan Sewell — Southampton FC U18 · теперь агент записан
+- Calum Anderson — Southampton FC U18 · теперь агент записан
+- Spencer O'Neill — Derby County U18 · теперь агент записан
+- Moussa Samake — AFC ASA Targu Mures · теперь агент записан
+- Kalum Thompson — Nottingham Forest U18 · теперь агент записан
+- Heaven Kilwa — Manchester City U18 · теперь агент записан
+- John Dodds — Everton FC U18 · теперь агент записан
+- Arthur Barratt — Everton FC U18 · теперь агент записан
+- Micaiah Fanoiki — FC Brentford U18 · теперь агент записан
+- Wiktor Masternak — FK Velke Hamry · теперь агент записан
+- Vlăduț Tiță — FC Metaloglobus Bucharest · теперь агент записан
+- Jephthah Medine — West Ham United U18 · теперь агент записан
+- Charlie Wilson-Papps — Brighton & Hove Albion U18 · теперь агент записан
+- Cooper Covington — Fulham FC U18 · теперь агент записан
+- Archie Taylor — Fulham FC U18 · теперь агент записан
+- Kymarley Morrison — Fulham FC U18 · теперь агент записан
+- Henry Pearsall — Birmingham City U18 · теперь агент записан
+- Noah Hoarau — Birmingham City U18 · теперь агент записан
+- Derek Rodríguez — CD Universidad Católica U19 · теперь агент записан
+- Andrés Gómez — LDU Quito U19 · теперь агент записан
+- Jaime Rodríguez — Independiente del Valle U19 · теперь агент записан
+- Kevin Medina — Rhode Island FC · теперь агент записан
+- Sharkia — Modern Sport Club · теперь агент записан
+- Ahmed Etman — Ghazl El Mahalla · теперь агент записан
+- Ibrahim Samy — Qanah FC · теперь агент записан
+- Ricardo Giler — CS Emelec U19 · теперь агент записан
+- Mohamed Magdy — Abo Qir Fertilizers · теперь агент записан
+- Taimu Okiyoshi — Brooklyn FC · теперь агент записан
+- Guilherme Gaspar — SL Benfica U23 · теперь агент записан
+- Leonardo Varela — Sporting CP U23 · теперь агент записан
+- Sandro Ferreira — Sporting CP U23 · теперь агент записан
+- Dion Zaberxha — HJK Helsinki U18 · теперь агент записан
+- Aleksandar Vulic — FC Vizela U23 · теперь агент записан
+- Kasper Lind — IF Gnistan U18 · теперь агент записан
+- Shurandy Sambo — Burnley FC · теперь агент записан
+- Aleksey Perestov — Académico Viseu FC U23 · теперь агент записан
+- Jason Knight — Bristol City · теперь агент записан
+- Valerio Maccaroni — Roma U20 · теперь агент записан
+- Lorenzo Damonte — Genoa U20 · теперь агент записан
+- Robert Corduneanu — Fiorentina Primavera · теперь агент записан
+- Salvatore Cianciulli — Fiorentina Primavera · теперь агент записан
+- Matteo Egan — Empoli Primavera · теперь агент записан
+- Christian Frangella — Sassuolo Primavera · теперь агент записан
+- Alessandro Sugamele — Cagliari Primavera · теперь агент записан
+- Paulo Vitor — Avaí FC · теперь агент записан
+- Kevin Fustini — Como Primavera · теперь агент записан
+- Ryo Toyama — FC Gifu · теперь агент записан
+- Tomoya Yokoyama — FC Gifu · теперь агент записан
+- Luca Bisoffi — Hellas Verona Primavera · теперь агент записан
+- Lucas Cunha — Associação Atlética Ponte Preta · теперь агент записан
+- Mattia Merla — AlbinoLeffe Primavera · теперь агент записан
+- Brodie Spencer — Oxford United · теперь агент записан
+- Jamie McDonnell — Oxford United · теперь агент записан
+- Dale Taylor — Blackpool FC · теперь агент записан
+- Taite Holtam — Gillingham FC · теперь агент записан
+- Joe Kirby — AFC Wimbledon · теперь агент записан
+- Louie Cayless — Exeter City · теперь агент записан
+- Liam Cartwright — Exeter City · теперь агент записан
+- Jamie Robson — Oldham Athletic · теперь агент записан
+- Salvador Iribarne — CA Defensores Unidos (Zarate) · теперь агент записан
+- Tomás Ferreyra — CA Defensores Unidos (Zarate) · теперь агент записан
+- Benjamín Portillo — CSC Deportivo Laferrere · теперь агент записан
+- Valentino Ratti — CS Deportivo Merlo · теперь агент записан
+- Nahuel Guerrero — CS Dock Sud · теперь агент записан
+- Kevin Ghigliazza — CS Dock Sud · теперь агент записан
+- Kyle Ajayi — Forest Green Rovers · теперь агент записан
+- Jacob Penprase — Hartlepool United · теперь агент записан
+- Luthando Vena — Stellenbosch FC · теперь агент записан
+- Osborn Maluleke — Lamontville Golden Arrows · теперь агент записан
+- Kabelo Mofokeng — Siwelele Football Club · теперь агент записан
+- Loló — Gulf United FC · теперь агент записан
+- Thulani Zandamela — Marumo Gallants FC · теперь агент записан
+- Taha Alemi — Sepahan FC · теперь агент записан
+- Massimo Zilli — Spezia Calcio · теперь агент записан
+- Michele Cavion — AC Reggiana 1919 · теперь агент записан
+- Filippo Valentini — Forlì FC · теперь агент записан
+- Hojjat Ahmadi — Paykan FC · теперь агент записан
+- Mirko Chelli — US Sambenedettese · теперь агент записан
+- Matteo Viti — FC Vado · теперь агент записан
+- Mohammadamin Vahabzadeh — Mes Shahr Babak FC · теперь агент записан
+- Niccolò Felici — AS Ostiamare Lido Calcio · теперь агент записан
+- Ibrahima Papa Wade — AS Ostiamare Lido Calcio · теперь агент записан
+- Wisdom Amey — Frosinone Calcio · теперь агент записан
+- Ignacio González — Sportivo AC (Las Parejas) · теперь агент записан
+- Arian Dizdarevic — SSV Jahn Regensburg · теперь агент записан
+- Enyinnaya Ezenwanne — Dover Athletic · теперь агент записан
+- André Leipold — SC Verl · теперь агент записан
+- Sydney Osazuwa — Real Sociedad B · теперь агент записан
+- Adu Ares — SD Eibar · теперь агент записан
+- Toby Edser — Ebbsfleet United · теперь агент записан
+- Preston Kedwell — Folkestone Invicta FC · теперь агент записан
+- Alex Camacho — AD Ceuta FC · теперь агент записан
+- Ivan Krasnov — FC Nomme United U19 · теперь агент записан
+- Alessandro Milani — Inter U23 · теперь агент записан
+- Michael Liguori — Catania FC · теперь агент записан
+- Rinaldo Maestrelli — Calcio Foggia 1920 · теперь агент записан
+- Roberto Malfitano — Barletta 1922 · теперь агент записан
+- Imad Issa — Zakho SC · теперь агент записан
+- Hamid Haji — Zakho SC · теперь агент записан
+- Ziad Ahmed — Zakho SC · теперь агент записан
+- Giulio Iachini — Perugia Primavera · теперь агент записан
+- Mohamed Seick Mané — Napoli Primavera · теперь агент записан
+- Alessandro Tosti — Avellino Primavera · теперь агент записан
+- Simone Raimondi — Avellino Primavera · теперь агент записан
+- Loek Postma — RKC Waalwijk · теперь агент записан
+- Levi Rietveld — FC Utrecht U21 · теперь агент записан
+- Johan Muñoz — Orsomarso SC · теперь агент записан
+- Efraín Chacón — Real Santander · теперь агент записан
+- Johan Muñoz — Orsomarso SC · теперь агент записан
+- Efraín Chacón — Real Santander · теперь агент записан
+- Eun-hyeok Kim — HSV Barmbek-Uhlenhorst · теперь агент записан
+- Mirko Cavallo — Atalanta Under 18 · теперь агент записан
+- Ahmet Buğra Güven — Kücükcekmece Sinop Spor · теперь агент записан
+- Gavriel Terracina — Cagliari Under 18 · теперь агент записан
+- Esat Narin — Yalova FK 77 SK · теперь агент записан
+- Luca Bisoffi — Hellas Verona Under 18 · теперь агент записан
+- Daniele Rialti — Roma Under 18 · теперь агент записан
+- Marco Bozzo — Sassuolo Under 18 · теперь агент записан
+- Leonardo Varela — Sporting CP B · теперь агент записан
+- Aleksandar Vulic — FC Vizela · теперь агент записан
+- Hiago — Avs Futebol · теперь агент записан
+- Ricardo Teixeira — Académica Coimbra · теперь агент записан
+- Shinnosuke Fukuda — Legia Warszawa · теперь агент записан
+- Gleb Kuchko — Wisla Plock · теперь агент записан
+- Marcin Kościelecki — Wisla Plock · теперь агент записан
+- Wojciech Madej — Lechia Gdansk · теперь агент записан
+- Andre Konan — Göztepe U19 · теперь агент записан
+- Cihan Akgün — Galatasaray U19 · теперь агент записан
+- Agustín Griego — CS General San Martín (Formosa) · теперь агент записан
+- Lautaro Ceratto — CS General San Martín (Formosa) · теперь агент записан
+- Dalibor Takac — Podbeskidzie Bielsko-Biala · теперь агент записан
+- Emirzat Baycu — Genclerbirligi Ankara U19 · теперь агент записан
+- Fabian Romero — Barquisimeto SC · теперь агент записан
+- Sebastián Guzmán — Deportes Tolima · теперь агент записан
+- Cristian Trujillo — Deportes Tolima · теперь агент записан
+- Enmanuel Salazar — Atletico Avila F.C · теперь агент записан
+- Sebastián Guzmán — Deportes Tolima · теперь агент записан
+- Cristian Trujillo — Deportes Tolima · теперь агент записан
+- Roameth Romaña — Llaneros FC · теперь агент записан
+- Luis Miranda — Llaneros FC · теперь агент записан
+- Juan Viveros — Alianza FC · теперь агент записан
+- Roameth Romaña — Llaneros FC · теперь агент записан
+- Isaac Camargo — Boyacá Chicó FC · теперь агент записан
+- Luis Miranda — Llaneros FC · теперь агент записан
+- Juan Viveros — Alianza FC · теперь агент записан
+- Isaac Camargo — Boyacá Chicó FC · теперь агент записан
+- Alexander Ordal — Vålerenga Fotball II · теперь агент записан
+- Matthew Nicolai Cummings — KFUM-Kameratene Oslo II · теперь агент записан
+- Andreas Schjelderup — SL Benfica · теперь агент записан
+- Jordan Arnolin — GD Estoril Praia · теперь агент записан
+- Juan Gámez — CF Pachuca U21 · теперь агент записан
+- Edoardo De Mori — Reggina 1914 · теперь агент записан
+- Riôko-Imar Bitata — US Vibonese · теперь агент записан
+- Francesco Deodato — ASD Modica Calcio · теперь агент записан
+- Ivan Yakam — Enna Calcio · теперь агент записан
+- Joel Chima Fujita — FC St. Pauli · теперь агент записан
+- Theo Menapace — SpVgg Greuther Fürth II · теперь агент записан
+- Tuna Yilmaz — SpVgg Greuther Fürth II · теперь агент записан
+- Tim Gensichen — TSV Aubstadt · теперь агент записан
+- Dennis Jastrzembski — Olimpia Grudziadz · теперь агент записан
+- Mateusz Stępień — Zawisza Bydgoszcz · теперь агент записан
+- Leonardo De Franceschi — FBC Gravina · теперь агент записан
+- Sultan Al-Anazi — Al-Shabab FC · теперь агент записан
+- Abdullah Matuq — Al-Shabab FC · теперь агент записан
+- Abdulbasit Hawsawi — Al-Ettifaq FC · теперь агент записан
+- Emad Al-Feda — Al-Riyadh SC · теперь агент записан
+- André-Jordy Ella — Al-Faisaly FC · теперь агент записан
+- Mohammed Al-Hamdani — Al-Hazem SC · теперь агент записан
+- Timo Schreuder — SC Heerenveen · теперь агент записан
+- Joao Visentin — Sampdoria Primavera · теперь агент записан
+- Leonardo Cosi — Sampdoria Primavera · теперь агент записан
+- Lushendry Martes — Sparta Rotterdam · теперь агент записан
+- Kim Bayer — SSV Ulm 1846 · теперь агент записан
+- Karl Kempf — SSV Ulm 1846 · теперь агент записан
+- Francesco Catino — Vicenza Primavera · теперь агент записан
+- Simun Birkic — SSV Ulm 1846 · теперь агент записан
+- Mamady Cissè — Vicenza Primavera · теперь агент записан
+- Samuele Bacchi — Reggiana Primavera · теперь агент записан
+- Samuel Alviano — Renate Primavera · теперь агент записан
+- Leandro Mendes — Stuttgarter Kickers · теперь агент записан
+- Nicolò Brunati — Lecco Primavera · теперь агент записан
+- Yahya Sonko — Mantova Primavera · теперь агент записан
+- Jeremy Alex Loukou — Union Brescia Primavera · теперь агент записан
+- Cristian Rumi — Union Brescia Primavera · теперь агент записан
+- Diego Valdivia — Club The Strongest · теперь агент записан
+- Héctor Villalba — Club Deportivo Oriente Petrolero · теперь агент записан
+- Kenyhiro Estrada — Club Always Ready · теперь агент записан
+- Alexandru Szamboti — Molde FK II · теперь агент записан
+- Alejandro Chumacero — Club A.B.B. · теперь агент записан
+- Cristian López — Real Potosí · теперь агент записан
+- Israel Peña — Real Oruro · теперь агент записан
+- Marcos Andino — Guaireña FC · теперь агент записан
+- Noah Kudić — SG Dynamo Schwerin · теперь агент записан
+- Paulo Henrique — Buriram United · теперь агент записан
+- Gape Edwin Mohutsiwa — Ittihad Tanger · теперь агент записан
+- Abdelhamid Maali — Ittihad Tanger · теперь агент записан
+- Ibra Lo — Difaâ El Jadida · теперь агент записан
+- Diego Di Salvatore — Paganese Calcio 1926 · теперь агент записан
+- Emiliano Fortunati — Albalonga · теперь агент записан
+- Lorenzo Lapiccirella — Città di Anagni Calcio · теперь агент записан
+- T. Düzgün — TSV Mönchröden · теперь агент записан
+- Talha Akkaya — Kirikkale FK Spor Kulübü · теперь агент записан
+- Ernest Luzolo — Al-Hilal Club (Omdurman) · теперь агент записан
+- Gilbert Byiringiro — APR FC · теперь агент записан
+- Okan Ağrap — Yeni Mersin Idmanyurdu · теперь агент записан
+- Issa Djiguiba — Rayon Sports FC · теперь агент записан
+- Elie Tatu Iradukunda — Rayon Sports FC · теперь агент записан
+- Aimé Ishimwe — Gorilla Football Club · теперь агент записан
+- Jesus Paul Sindi — Marine FC · теперь агент записан
+- Gilles Ulrich Nzeupe — Bugesera FC · теперь агент записан
+- Buğra Çağlıyan — Corlu Spor 1947 · теперь агент записан
+- Pietro Itraloni — Casatese Merate · теперь агент записан
+- Alessandro Tosi — Tropical Coriano · теперь агент записан
+- Mohamed Dieng — Kickers Offenbach II · теперь агент записан
+- Jacopo Binotto — L'Aquila 1927 · теперь агент записан
+- Enes Saygili — SC Wiedenbrück · теперь агент записан
+- Armin Deljkovic — VfB 03 Hilden · теперь агент записан
+- Maksym Gorzhuy — KSZO Ostrowiec Swietokrzyski · теперь агент записан
+- Emil Plesiński — Naprzód Jedrzejów · теперь агент записан
+- José Castillo — Deportivo Guadalajara · теперь агент записан
+- Kamil Bartoś — Hetman Zamosc · теперь агент записан
+- Fabio Mele — Seravezza Pozzi Calcio · теперь агент записан
+- Matteo Carbone — Seravezza Pozzi Calcio · теперь агент записан
+- Moha Bassele — Antequera CF · теперь агент записан
+- Douga Fofana — Villarreal CF B · теперь агент записан
+- Ibrahim Bashiru Ali — SC Weiche Flensburg 08 · теперь агент записан
+- François Bos — VfB Lübeck · теперь агент записан
+- Norbu Lhakpa — FC Zürich U21 · теперь агент записан
+- Michel Fohouo — FC Biel-Bienne 1896 · теперь агент записан
+- Erwin Mahic — FC Luzern U21 · теперь агент записан
+- Ackah-Tidiane Zoukrou — AJ Auxerre · теперь агент записан
+- Allan Linguet — USL Dunkerque · теперь агент записан
+- Matthéo Xantippe — Grenoble Foot 38 · теперь агент записан
+- Linus Langenbruch — Fortuna Düsseldorf II · теперь агент записан
+- Jordan Diop — ASC HLM Dakar · теперь агент записан
+- Álvaro Fraga — RC Deportivo Fabril · теперь агент записан
+- Rashid Nuhu — Union Omaha · теперь агент записан
+- Bubu Medina — Corpus Christi FC · теперь агент записан
+- Christian Chaney — Corpus Christi FC · теперь агент записан
+- Derek Gebhard — Forward Madison FC · теперь агент записан
+- Max Jennings — Westchester SC · теперь агент записан
+- Tiago Dias — Fort Wayne FC · теперь агент записан
+- Uros Djordjevic — Graficar Belgrad · теперь агент записан
+- Uros Petrovic — FK Spartak Subotica · теперь агент записан
+- Kevin Lankford — FC Carl Zeiss Jena · теперь агент записан
+- Nikola Marinkovic — FK Bor 1919 · теперь агент записан
+- Aleksandar Pavlovic — FK Dubocica Leskovac · теперь агент записан
+- Diren-Mehmet Günay — BFC Dynamo · теперь агент записан
+- Joshua Uwakhonye — RSV Eintracht 1949 · теперь агент записан
+- Kiril Polishchuk — FC Oleksandriya-2 · теперь агент записан
+- Maksym Kartashev — FC Oleksandriya-2 · теперь агент записан
+- Artem Bezprozvannyi — SC Poltava-2 · теперь агент записан
+- Oleg Novakovskyi — SC Poltava-2 · теперь агент записан
+- Oleksandr Petrunyk — SC Poltava-2 · теперь агент записан
+- Dmytro Ivanov — SC Poltava-2 · теперь агент записан
+- Kyrylo Tokar — SC Poltava-2 · теперь агент записан
+- Vitaliy Myts — Atlet Kyiv · теперь агент записан
+- Francesco Versari — Piacenza Calcio 1919 · теперь агент записан
+- Lorenzo Battagliola — Pro Palazzolo · теперь агент записан
+- Alessandro Zorzi — Caldiero Terme · теперь агент записан
+- Yassin Ejjaki — Rovato Calcio · теперь агент записан
+- Tommaso Sacchetto — Virtusvecomp Verona · теперь агент записан
+- Ilya Zhigulev — Arsenal Tula · теперь агент записан
+- Artur Koloskov — Veles Moscow · теперь агент записан
+- Felix Onyekachukwu Geisler — FK Pirmasens · теперь агент записан
+- Iva Gelashvili — CFR Cluj · теперь агент записан
+- Dele Israel — Petrolul Ploiesti · теперь агент записан
+- Fernando Mimbacas — CA Juventud · теперь агент записан
+- Fernando Mimbacas — CA Juventud · теперь агент записан
+- Estalin Segura — CS Emelec · теперь агент записан
+- Manu Palma — Guayaquil City FC · теперь агент записан
+- Joel Quist — Sirens FC · теперь агент записан
+- Grégory Coelho — Football Bourg-en-Bresse Péronnas 01 · теперь агент записан
+- Lauin Shaikhany — FC Teutonia Weiden · теперь агент записан
+- Artem Brovkin — Dinamo Vladivostok · теперь агент записан
+- Pablo Pérez — Luparense FC · теперь агент записан
+- Richard Nwoke — FC Legnago Salus · теперь агент записан
+- Joele Maniscalco — Unione La Rocca Altavilla · теперь агент записан
+- Pietro Torresan — Calcio Schio · теперь агент записан
+- Pavle Gusak — Boldklubben af 1893 U19 · теперь агент записан
+- Milas Bertelsen — Kolding IF U19 · теперь агент записан
+- Villum Stokbro — Akademisk Boldklub U19 · теперь агент записан
+- Enzo Uribe — Unión Española · теперь агент записан
+- Christian Silva — Santiago Wanderers · теперь агент записан
+- Stipe Musura — NK Dugopolje · теперь агент записан
+- Emmanuel Mendy — Ermis Aradippou · теперь агент записан
+- Ali Camara Trawalli — Ermis Aradippou · теперь агент записан
+- Dimitrios Berdos — PAOK Thessaloniki · теперь агент записан
+- Lamarana Jallow — Levadiakos · теперь агент записан
+- Panagiotis Deligiannidis — Asteras Aktor · теперь агент записан
+- Yoel Bárcenas — Iraklis Thessaloniki · теперь агент записан
+- Samih Uslu — SV Rödinghausen II · теперь агент записан
+- Jonny Al Ibrahim — Rot Weiss Ahlen · теперь агент записан
+- Aleksandr Maksimenko — Spartak Moscow · теперь агент записан
+- Barima Bawuah — SF Köllerbach · теперь агент записан
+- Rodrigo Ibañes — Gimnástica Segoviana CF · теперь агент записан
+- David Fernández — Atlético Madrid C · теперь агент записан
+- Álvaro Marcos — CDA Navalcarnero · теперь агент записан
+- Álvaro Domínguez — CDA Navalcarnero · теперь агент записан
+- Julen Jon Guerrero — CD Estepona FS · теперь агент записан
+- Kanta Morihisa — CP Mijas Las Lagunas · теперь агент записан
+- Dion Zaberxha — HJK Helsinki U18 · теперь агент записан
+- Kasper Lind — IF Gnistan U18 · теперь агент записан
+- Luis Chino — Atlético de San Luis U19 · теперь агент записан
+- Babou Seye — FC UNA Strassen · теперь агент записан
+- Hatim Far — US Mondorf-Les-Bains · теперь агент записан
+- Melvyn Dapa — KAS Eupen U23 · теперь агент записан
+- Imran Musa — Hammarby TFF · теперь агент записан
+- Riku Izawa — Sagan Tosu U18 · теперь агент записан
+- Kike Carrasco — CF Lorca Deportiva · теперь агент записан
+- Ángel Cano — Deportiva Minera · теперь агент записан
+- Dimitrios Berdos — PAOK Thessaloniki U19 · теперь агент записан
+- Vangelis Sougioltsis — Aris Thessaloniki U19 · теперь агент записан
+- Jerrit Paul Schünemann — VfB Ottersleben · теперь агент записан
+- Panagiotis Marinos — AEK Athens U19 · теперь агент записан
+- Angelos Georgoulas — Panetolikos U19 · теперь агент записан
+- Aurelio Sefa — Panetolikos U19 · теперь агент записан
+- Georgios Daoulas — Levadiakos U19 · теперь агент записан
+- Efthymis Farmakis — Iraklis Thessaloniki U19 · теперь агент записан
+- Lukas Sørensen — Harstad IL · теперь агент записан
+- Azizbek Bakhromov — Aral Nukus · теперь агент записан
+- Alexander Ordal — Vålerenga Fotball Elite · теперь агент записан
+- Bunyodbek Rakhimov — Olimpik-Mobiuz Tashkent · теперь агент записан
+- Kevin Hahn — Holstein Kiel II · теперь агент записан
+- Antonio Bachev — Pirin Blagoevgrad · теперь агент записан
+- Vojtech Matuska — FC Hradec Kralove U19 · теперь агент записан
+- Valentin Dotsev — Nesebar · теперь агент записан
+- Thomas Coulombe — RCD Espanyol B · теперь агент записан
+- Eloi Tost — RCD Espanyol B · теперь агент записан
+- Montader Madjed — Hammarby IF · теперь агент записан
+- Oier Erdozia — Club Portugalete · теперь агент записан
+- Milan Govaers — Beerschot VA · теперь агент записан
+- Jibril Mebtoul — Amiens SC U19 · теперь агент записан
+- Matias Lloci — KSC Lokeren · теперь агент записан
+- Noah Bailen Cobo — Excelsior Virton · теперь агент записан
+- Eric N'Jo — RFC Lüttich · теперь агент записан
+- Lars Geluykens — Sporting Hasselt · теперь агент записан
+- Sidi Dioumanara — RC Lens U19 · теперь агент записан
+- Josias Mantendi — SM Caen U19 · теперь агент записан
+- Juan Castellanos — Deportivo La Guaira · теперь агент записан
+- George Ayine — Metropolitanos FC · теперь агент записан
+- Cristian Maldonado — Dvo. Rayo Zuliano · теперь агент записан
+- Luis Dugarte — Dvo. Rayo Zuliano · теперь агент записан
+- Patrik Matyžonok — FK Zalgiris Vilnius B · теперь агент записан
+- Taiga Horikoshi — FK Atmosfera Mazeikiai · теперь агент записан
+- Chinedu Ikem — FC Bentonit Ijevan · теперь агент записан
+- Vahe Petrosyan — FC Ararat-Armenia II · теперь агент записан
+- Artyom Aleksanyan — FC Pyunik Yerevan II · теперь агент записан
+- Claudio Giannachi — FC St. Gallen 1879 U21 · теперь агент записан
+- Ahmad Nassri — TuS Makkabi Berlin · теперь агент записан
+- Kaman Diarra — LB Châteauroux · теперь агент записан
+- Karl Martin Rolstad — Ranheim IL · теперь агент записан
+- Luka Tomsic — NK Tabor Sezana · теперь агент записан
+- Jure Borsic — ND Beltinci · теперь агент записан
+- Dominik Balog — Slovan Bratislava B · теперь агент записан
+- Anej Doric — NK Triglav Kranj · теперь агент записан
+- Val Sterle — NK Krka · теперь агент записан
+- Marko Vaclavek — MSK Zilina B · теперь агент записан
+- Grega Kusar — ND Dravinja Kostroj · теперь агент записан
+- Solomon Gyan — MFK Bytca · теперь агент записан
+- Anton Branting — Hässleholms IF · теперь агент записан
+- Oliver Ball — Utsiktens BK · теперь агент записан
+- Calle Johansson — IFK Värnamo · теперь агент записан
+- Nathan Kabongo — KV Diksmuide Oostende · теперь агент записан
+- Darragh Stewart — Loughgall FC · теперь агент записан
+- Nicolas Caloiero — US Lusitanos Saint-Maur · теперь агент записан
+- Lorik Beciraj — FC Zürich U19 · теперь агент записан
+- Leart Alidemaj — FC Aarau U19 · теперь агент записан
+- Carlos Chena — Club Cerro Porteño · теперь агент записан
+- Amer Hujdur — Grasshopper Club Zürich U19 · теперь агент записан
+- Roberto Ramírez — Club Nacional Asunción · теперь агент записан
+- Bruno López — Sportivo Ameliano · теперь агент записан
+- Carlos Chena — Club Cerro Porteño · теперь агент записан
+- Roberto Ramírez — Club Nacional Asunción · теперь агент записан
+- Bruno López — Sportivo Ameliano · теперь агент записан
+- Fabian Lückl — VST Völkermarkt · теперь агент записан
+- Max Adrian — Germania Halberstadt · теперь агент записан
+- Joel Marks — VfL Halle 1896 · теперь агент записан
+- Tomer Haran — Hapoel Ramat Gan · теперь агент записан
+- Volodymyr Antonyuk — Karpaty Lviv U21 · теперь агент записан
+- Lennard Kussl — FK Jerv · теперь агент записан
+- Trym Vatn Øvreberg — Lysekloster IL · теперь агент записан
+- Kyrylo Sidelnikov — Obolon Kyiv U21 · теперь агент записан
+- Dmytro Pushkalov — FC Kharkiv U21 · теперь агент записан
+- Aaron Wiggers — Oud-Heverlee Leuven U23 · теперь агент записан
+- Valentyn Tkach — Bukovyna Chernivtsi U21 · теперь агент записан
+- Martin Le Gendre — Dinan Léhon FC · теперь агент записан
+- Mathéo Ntumi — Dinan Léhon FC · теперь агент записан
+- Lucas Leaudais — FC Lorient B · теперь агент записан
+- Biagio Pettinà — Atalanta BC U17 · теперь агент записан
+- Simone Caputo — Como Under 17 · теперь агент записан
+- Steven Barcella — Inter Under 17 · теперь агент записан
+- Alessandro Lazzaro — Vicenza Under 17 · теперь агент записан
+- Aaron Karina — Mantova Under 17 · теперь агент записан
+- Tit Kostic — NK Bravo U19 · теперь агент записан
+- Ajdin Sadikovic — NK Triglav Kranj U19 · теперь агент записан
+- Jaka Cencelj — NK Brinje Grosuplje U19 · теперь агент записан
+- Adam El Hayani — Nîmes Olympique U17 · теперь агент записан
+- Taj Verzun — NK Brinje Grosuplje U19 · теперь агент записан
+- Sofiane Mlaouah — OGC Nice U17 · теперь агент записан
+- Arda Durmaz — FC Nordsjaelland U19 · теперь агент записан
+- Casper Svart — Bröndby IF U19 · теперь агент записан
+- Luca Schettino — Benevento Under 17 · теперь агент записан
+- Lucas Borg — Silkeborg IF U19 · теперь агент записан
+- Francesco Frangella — Frosinone Under 17 · теперь агент записан
+- Marco Tagliaferri — SS Lazio U17 · теперь агент записан
+- Daniel Aghahowa — FK IMT Belgrad U19 · теперь агент записан
+- Nemanja Jevdjic — FK Mladost Lucani U19 · теперь агент записан
+- Eduardo Sosa — Selangor FC · теперь агент записан
+- Luka Djurdjevic — FK TSC Backa Topola U19 · теперь агент записан
+- Antonio Geiger — AKA Vorarlberg U18 · теперь агент записан
+- Hamidreza Firouzi — Lusail SC · теперь агент записан
+- Samuel Mate — Guarda FC · теперь агент записан
+- Baboucarr Gaye — GD Bragança · теперь агент записан
+- Jaílson — GD Bragança · теперь агент записан
+- Jordy Ntary Backala — AS Nancy-Lorraine U19 · теперь агент записан
+- Réginald Barzin — AS Nancy-Lorraine U19 · теперь агент записан
+- Jibril Bouzaiene — FCO Dijon U19 · теперь агент записан
+- Jhonnier Estrada — Atlético Fútbol Club · теперь агент записан
+- David Ortiz — Cuenca Juniors · теперь агент записан
+- Mario Gribaudo — Cumbayá FC · теперь агент записан
+- Vicente Jaime — Cumbayá FC · теперь агент записан
+- Juan Guarnizo — CD El Nacional · теперь агент записан
+- Ioannis Ikonomou — FC Zürich U17 · теперь агент записан
+- Maximilian Küng — Servette FC M-17 · теперь агент записан
+- Máni Mar Steinbjörnsson — Haukar Hafnarfjördur · теперь агент записан
+- Federico Russo — Kormákur/Hvöt · теперь агент записан
+- Pere Belmonte — Kormákur/Hvöt · теперь агент записан
+- Tommaso Friddini — Carrarese Under 17 · теперь агент записан
+- Rany Motoi — Cremonese Under 17 · теперь агент записан
+- Alessandro Banes Duany — Cremonese Under 17 · теперь агент записан
+- Lorenzo Damonte — Genoa Under 17 · теперь агент записан
+- Uros Jevremovic — FK IMT Belgrad U17 · теперь агент записан
+- Berkant Bayrak — Sönderjyske Fodbold · теперь агент записан
+- Alessandro Ferrari — Sassuolo Under 17 · теперь агент записан
+- Pietro Marinelli — Torino Under 17 · теперь агент записан
+- Stefan Tokovic — Red Star Belgrade U17 · теперь агент записан
+- Mihajlo Kresoja — Red Star Belgrade U17 · теперь агент записан
+- Sota Yuasa — Fencibles United AFC · теперь агент записан
+- Connor Austin — Melville United · теперь агент записан
+- Jisu Jacob Taiwo — KF Sopoti Librazhd · теперь агент записан
+- Vid Seitz — NK Rudes · теперь агент записан
+- Matej Markovic — HJK Helsinki · теперь агент записан
+- Armaan Wilson — SJK Seinäjoki · теперь агент записан
+- Joakim Latonen — IF Gnistan · теперь агент записан
+- Nikolas Talo — Turun Palloseura · теперь агент записан
+- Frankli Quinteros — CD Malacateco · теперь агент записан
+- Sergio Pérez — CD Malacateco · теперь агент записан
+- Vidal Paz — CD Malacateco · теперь агент записан
+- Aleksandr Aleksanyan — FC Ararat Yerevan · теперь агент записан
+- Oliver Kjaergaard — Hvidovre IF · теперь агент записан
+- Luka Le Bervet — Cobh Ramblers FC · теперь агент записан
+- Roy Lawlor — Treaty United · теперь агент записан
+- Liam Kelly — Derry City · теперь агент записан
+- Gavin Whyte — Derry City · теперь агент записан
+- Liam Boyce — Derry City · теперь агент записан
+- Calum Woods — Dundalk FC · теперь агент записан
+- Daniel Costello — University College Dublin · теперь агент записан
+- Jayden Goad — University College Dublin · теперь агент записан
+- Kian Dignam — Wexford FC · теперь агент записан
+- Carlo Zammit Lonardelli — Floriana FC · теперь агент записан
+- Ivan Krasnov — FC Nomme United U19 · теперь агент записан
+- Ilyes Qerrouani — AS Panazol · теперь агент записан
+- Naji Chifor — Union Saint-Gilloise U23 · теперь агент записан
+- Nathan Gosselain — Union Rochefortoise · теперь агент записан
+- Lyam Masri — Standard Liège U18 · теперь агент записан
+- Oskars Sulcs — KV Mechelen U18 · теперь агент записан
+- Rafael Kamaha — R Charleroi SC U18 · теперь агент записан
+- Nikola Cetkovic — FK Borac Banja Luka · теперь агент записан
+- Simon Van Steelant — RAAL La Louvière U21 · теперь агент записан
+- Lars Geluykens — Sporting Hasselt U21 · теперь агент записан
+- Adam Mamou — RWDM Brussels U21 · теперь агент записан
+- Peter Plougmand — Naestved Boldklub · теперь агент записан
+- Jonatan Rindom — Hellerup IK · теперь агент записан
+- Nikolaj Larsen — BK Fremad Amager · теперь агент записан
+- Emil Joensen — NSÍ Runavík · теперь агент записан
+- Javier Murillo — UMECIT FC · теперь агент записан
+- Pablo Álvarez — Puntarenas FC · теперь агент записан
+- Bakary Essamay Diedhiou — St Joseph's FC · теперь агент записан
+- Jaylan van Schooneveld — Glacis United · теперь агент записан
+- Justin Dass — Glacis United · теперь агент записан
+- Kenan Piric — Riga FC · теперь агент записан
+- Yousef Qashi — Al-Hussein SC (Irbid) · теперь агент записан
+- Mohammad Abu Ghoush — Shabab Al-Ordon Club · теперь агент записан
+- Dajan Shehi — KF Vora · теперь агент записан
+- Mounir Boutarfa — CF Esperança d'Andorra · теперь агент записан
+- Luka Kachibaia — FC Spaeri Tbilisi · теперь агент записан
+- Aldin Niksic — FK Sarajevo Academy U17 · теперь агент записан
+- Murad Valiyev — JK Narva Trans · теперь агент записан
+- Darko Angjeleski — Sileks Kratovo · теперь агент записан
+- Callum Burnside — Airdrieonians FC · теперь агент записан
+- Milos Vracar — FK Sutjeska Niksic · теперь агент записан
+- Nemanja Carevic — OFK Petrovac · теперь агент записан
+- Benjamin Krijestarac — FK Mornar Bar · теперь агент записан
+- Edimond Oppong — Cove Rangers FC · теперь агент записан
+- Novak Fatić — FK Jezero · теперь агент записан
+- Tomás Díaz — ART Municipal Jalapa · теперь агент записан
+- Marko Tadic — OFK Grbalj · теперь агент записан
+- Zarija Kumburovic — FK Podgorica · теперь агент записан
+- Jovan Mickovic — Kom Podgorica · теперь агент записан
+- Andrija Pupovic — Rudar Pljevlja · теперь агент записан
+- Aaron Donnelly — Dunfermline Athletic FC · теперь агент записан
+- Oisin Smyth — Partick Thistle FC · теперь агент записан
+- Zerah Gabienoo — SV Babelsberg 03 U19 · теперь агент записан
+- Nevio Zumpano — TSG 1899 Hoffenheim U19 · теперь агент записан
+- Leon Beer — Stuttgarter Kickers U19 · теперь агент записан
+- Jannis Lembke — Stuttgarter Kickers U19 · теперь агент записан
+- Leandro Mendes — Stuttgarter Kickers U19 · теперь агент записан
+- Eren Hasan Ceylan — SV Sandhausen U19 · теперь агент записан
+- Konstantinos Sidirellis — FC Augsburg U19 · теперь агент записан
+- Ryoji Nagata — FC Augsburg U19 · теперь агент записан
+- David Podar-Stiube — FC Bayern Munich U19 · теперь агент записан
+- Gabriel Zarrella — VfB Stuttgart U19 · теперь агент записан
+- Massimo Di Benedetto — VfB Stuttgart U19 · теперь агент записан
+- Manuel Keller — TSV 1860 München U19 · теперь агент записан
+- Yanis Bouataoun — Racing Strasbourg U17 · теперь агент записан
+- Roman Dumenco — Dacia Buiucani · теперь агент записан
+- Antonii Josan — Dacia Buiucani · теперь агент записан
+- Jae-yong Lee — FC Jurong · теперь агент записан
+- Tijn Tusveld — FC Twente Enschede U21 · теперь агент записан
+- Kayen Scheepens — Willem II Tilburg U21 · теперь агент записан
+- Alexander Schroeder — 1.FC Köln U17 · теперь агент записан
+- Max Thomas — Eintracht Frankfurt U17 · теперь агент записан
+- Joshua Amthor — Bayer 04 Leverkusen U17 · теперь агент записан
+- Kerem Celal Aslan — Fortuna Düsseldorf U17 · теперь агент записан
+- Milan Satik — SV Wehen Wiesbaden U17 · теперь агент записан
+- Noah-Aurel Urru — 1.FC Union Berlin U17 · теперь агент записан
+- Olli Berg — FC Hansa Rostock U17 · теперь агент записан
+- Amir Dehghanparchin — Holstein Kiel U17 · теперь агент записан
+- Jonas Eckard — FC Schalke 04 U17 · теперь агент записан
+- Luca Maximilian Wegmann — Rot-Weiss Essen U17 · теперь агент записан
+- Sahin Balta — Eintracht Frankfurt U19 · теперь агент записан
+- Jiyan Tuncer — Wuppertaler SV U17 · теперь агент записан
+- Leo Dohle — FC Erzgebirge Aue U19 · теперь агент записан
+- Lukas Richter — Rot-Weiß Erfurt U19 · теперь агент записан
+- Elias Bauer — Rot-Weiß Erfurt U19 · теперь агент записан
+- Kevin Krüger — Dynamo Dresden U19 · теперь агент записан
+- Kevin Leffs — 1.FC Magdeburg U17 · теперь агент записан
+- Levi Rietveld — FC Utrecht U19 · теперь агент записан
+- Dani Bouchta — FC Utrecht U19 · теперь агент записан
+- Just Huisman — FC Volendam U19 · теперь агент записан
+- Konstantin Fritz — Hallescher FC U17 · теперь агент записан
+- Temesgen Teadel — 1.FC Saarbrücken U19 · теперь агент записан
+- Lennart Kadisch — Rot-Weiß Erfurt U17 · теперь агент записан
+- Max Pohle — Rot-Weiß Erfurt U17 · теперь агент записан
+- Phil Trümper — Hannover 96 U17 · теперь агент записан
+- Marlon Mönnig — SC Paderborn 07 U17 · теперь агент записан
+- Johann Schwertmann — SV Meppen U17 · теперь агент записан
+- Jug Sekulic — SV Werder Bremen U17 · теперь агент записан
+- Vid Sekulic — SV Werder Bremen U17 · теперь агент записан
+- Nolan Care — RC Lens U17 · теперь агент записан
+- Tidiane M'Baka — FC Valenciennes U17 · теперь агент записан
+- Dylan Argüello — CA Atlanta · теперь агент записан
+- Francisco Flores — Club Deportivo Morón · теперь агент записан
+- Franco Fagúndez — Club Deportivo Morón · теперь агент записан
+- Ignacio González — Sportivo AC (Las Parejas) · теперь агент записан
+- Agustín Griego — CS General San Martín (Formosa) · теперь агент записан
+- Lautaro Ceratto — CS General San Martín (Formosa) · теперь агент записан
+- Emiliano González — Club Almagro · теперь агент записан
+- Ivan Startsev — Rubin 2 Kazan · теперь агент записан
+- Ruslan Volguzov — Kyzyltash Bakhchysarai · теперь агент записан
+- Beka Dzhanelidze — Rubin Yalta · теперь агент записан
+- Rodrigo Bacidalupe — CA Boca Juniors II · теперь агент записан
+- Yorkaeff Caicedo — Club Sporting Cristal II · теперь агент записан
+- Carlos Torres — Centro Social Pariacoto · теперь агент записан
+- Elias Nuñez — CA River Plate II · теперь агент записан
+- Lucas Girotti — CA Sarmiento (JunÍn) II · теперь агент записан
+- Teo Garay — AA Estudiantes de Río Cuarto II · теперь агент записан
+- Agustín Chávez — CA Unión (Santa Fe) II · теперь агент записан
+- Lucas Cacciabue — CA Unión (Santa Fe) II · теперь агент записан
+- Santino Cirocco — CA Independiente II · теперь агент записан
+- Valentín Rosso — CA Newell's Old Boys II · теперь агент записан
+- Thiago Montenegro — Club Deportivo Riestra II · теперь агент записан
+- Dayron Hernández — ASA FC de Chancay · теперь агент записан
+- Ramiro González — Club Atlético Tucumán II · теперь агент записан
+- Joaquín Sambade — CA Huracán II · теперь агент записан
+- Matías Chiquichano — CA Huracán II · теперь агент записан
+- Agustín Pérez — CD Godoy Cruz Antonio Tomba II · теперь агент записан
+- Ignacio Marina — Club Atlético Platense II · теперь агент записан
 
-## Сменил клуб — 158
+## Сменил клуб — 3124
 
 - Moatasem Al-Musrati: Без клуба → Al-Ahli SC
 - Danny Ings: Без клуба → Wycombe Wanderers
@@ -180,8 +1037,2974 @@ _собрано 2026-09-28 10:02 UTC_
 - Bruno Katz: VfL Wolfsburg → VfL Wolfsburg U19
 - Benno Kaltefleiter: RB Leipzig → RB Leipzig U19
 - Christian Eriksen: VfL Wolfsburg → Без клуба
+- Matías Satas: CA Boca Juniors II → CA Boca Juniors
+- Mateo Martínez: Racing Club II → Racing Club
+- Tyler Hall: Inter Miami CF II → Inter Miami CF
+- Daniel Sumalla: Inter Miami CF II → Inter Miami CF
+- Ezequiel Abadia-Reda: Inter Miami CF II → Inter Miami CF
+- Mateo Martínez: Racing Club II → Racing Club
+- Santi Morales: Inter Miami CF II → Inter Miami CF
+- Preston Plambeck: Inter Miami CF II → Inter Miami CF
+- Lovend's Delinois: Inter Miami CF II → Inter Miami CF
+- Tomás Romero: New York City FC II → New York City FC
+- Mac Learned: New York City FC II → New York City FC
+- Max Murray: New York City FC II → New York City FC
+- Kamran Acito: New York City FC II → New York City FC
+- Nico Cavallo: New York City FC II → New York City FC
+- Drew Baiera: New York City FC II → New York City FC
+- Marcos Rojo: Racing Club → Club Estudiantes de La Plata
+- Peter Molinari: New York City FC II → New York City FC
+- Jonathan Shore: New York City FC II → New York City FC
+- Máximo Carrizo: New York City FC II → New York City FC
+- Kevin Pierre Jr.: New York City FC II → New York City FC
+- Jacob Arroyave: New York City FC II → New York City FC
+- Cooper Flax: New York City FC II → New York City FC
+- Malachi Jones: New York City FC II → New York City FC
+- Arnau Farnós: New York City FC II → New York City FC
+- Fabian Mrozek: FC Cincinnati 2 → FC Cincinnati
+- Connor Dale: FC Cincinnati 2 → FC Cincinnati
+- Andrei Chirilă: FC Cincinnati 2 → FC Cincinnati
+- José Martínez: Без клуба → FC Cincinnati
+- Ayoub Lajhar: FC Cincinnati 2 → FC Cincinnati
+- Ademar Chávez: FC Cincinnati 2 → FC Cincinnati
+- Ștefan Chirilă: FC Cincinnati 2 → FC Cincinnati
+- Luke Pruter: Columbus Crew 2 → Columbus Crew
+- Stanislav Lapkes: Columbus Crew 2 → Columbus Crew
+- Cesar Ruvalcaba: Columbus Crew 2 → Columbus Crew
+- Tristan Brown: Columbus Crew 2 → Columbus Crew
+- Tarun Karumanchi: Columbus Crew 2 → Columbus Crew
+- Álvaro Busso: CA Vélez Sarsfield II → CA Vélez Sarsfield
+- Leo Cristaldo: CA Vélez Sarsfield II → CA Vélez Sarsfield
+- Chase Adams: Columbus Crew 2 → Columbus Crew
+- Isaac Boehmer: Whitecaps FC 2 → Vancouver Whitecaps FC
+- Nikola Djordjevic: Whitecaps FC 2 → Vancouver Whitecaps FC
+- Álvaro Busso: CA Vélez Sarsfield II → CA Vélez Sarsfield
+- Leo Cristaldo: CA Vélez Sarsfield II → CA Vélez Sarsfield
+- Dominik Chong Qui: Atlanta United 2 → Atlanta United FC
+- Ajani Fortune: Atlanta United 2 → Atlanta United FC
+- Adrian Gill: Atlanta United 2 → Atlanta United FC
+- Luke Brennan: Atlanta United 2 → Atlanta United FC
+- Santiago Pita: Atlanta United 2 → Atlanta United FC
+- Thiago Baroni: CA Talleres II → CA Talleres
+- Gonzalo Nuccio: CA Talleres II → CA Talleres
+- Bruno Trey: CA Talleres II → CA Talleres
+- Lautaro Ortiz: CA Talleres II → CA Talleres
+- Ignacio Alastra: CA Talleres II → CA Talleres
+- Gonzalo Nuccio: CA Talleres II → CA Talleres
+- Bruno Trey: CA Talleres II → CA Talleres
+- Lautaro Ortiz: CA Talleres II → CA Talleres
+- Cabral Carter: Los Angeles FC 2 → Los Angeles FC
+- Christian Díaz: Los Angeles FC 2 → Los Angeles FC
+- Ignacio Alastra: CA Talleres II → CA Talleres
+- Thiago Laplace: CA Lanús II → CA Lanús
+- Tommy Mihalić: Los Angeles FC 2 → Los Angeles FC
+- Thiago Laplace: CA Lanús II → CA Lanús
+- Max Kerkvliet: Real Monarchs SLC → Real Salt Lake City
+- Kobi Henry: Real Monarchs SLC → Real Salt Lake City
+- Luis Rivera: Real Monarchs SLC → Real Salt Lake City
+- Gio Villa: Real Monarchs SLC → Real Salt Lake City
+- Luca Moisa: Real Monarchs SLC → Real Salt Lake City
+- Antonio Riquelme: Real Monarchs SLC → Real Salt Lake City
+- Owen Anderson: Real Monarchs SLC → Real Salt Lake City
+- Zach Booth: Real Monarchs SLC → Real Salt Lake City
+- Chance Cowell: Real Monarchs SLC → Real Salt Lake City
+- Van Parker: Real Monarchs SLC → Real Salt Lake City
+- Omar Marquez: Real Monarchs SLC → Real Salt Lake City
+- Lineker Rodrigues: Real Monarchs SLC → Real Salt Lake City
+- David Poreba: Chicago Fire FC II → Chicago Fire FC
+- Robert Turdean: Chicago Fire FC II → Chicago Fire FC
+- Puso Dithejane: Chicago Fire FC II → Chicago Fire FC
+- Dean Boltz: Chicago Fire FC II → Chicago Fire FC
+- Hunter Sulte: Portland Timbers 2 → Portland Timbers
+- Sawyer Jura: Portland Timbers 2 → Portland Timbers
+- Eric Izoita: Portland Timbers 2 → Portland Timbers
+- Nahuel Banegas: Club Atlético Tigre → CA Independiente
+- Joel Medina: CA Independiente II → CA Independiente
+- Joel Medina: CA Independiente II → CA Independiente
+- Bryan Dowd: Colorado Rapids 2 → Colorado Rapids
+- Grant Gilmore: Colorado Rapids 2 → Colorado Rapids
+- Ali Fadal: Colorado Rapids 2 → Colorado Rapids
+- Kimani Stewart-Baynes: Colorado Rapids 2 → Colorado Rapids
+- Mamadou Billo Diop: Colorado Rapids 2 → Colorado Rapids
+- Donavan Phillip: Colorado Rapids 2 → Colorado Rapids
+- Sekou Kone: Red Bull New York II → Red Bull New York
+- JD Gunn: New England Revolution II → New England Revolution
+- Donovan Parisian: New England Revolution II → New England Revolution
+- Damario McIntosh: New England Revolution II → New England Revolution
+- Judah Siqueira: New England Revolution II → New England Revolution
+- Cristiano Oliveira: New England Revolution II → New England Revolution
+- Chris Rindov: Ventura County FC → Los Angeles Galaxy
+- Riley Dalgado: Ventura County FC → Los Angeles Galaxy
+- Troy Elgersma: Ventura County FC → Los Angeles Galaxy
+- Abdoulaye Doucouré: Без клуба → Charlotte FC
+- Nathan Richmond: Crown Legacy FC → Charlotte FC
+- Hugo Mbongue: Crown Legacy FC → Charlotte FC
+- Christian Olivares: Sporting Club Jacksonville → St. Louis CITY SC
+- Jack Kortkamp: Sporting Kansas City II → Sporting Kansas City
+- Nicolás Garrido: CA Independiente II → CA Central Córdoba (SdE)
+- Gilberto Rivera: Phoenix Rising FC → Houston Dynamo FC
+- Abdulkarim Helmi: Al-Akhdar SC → Al-Ittihad SC
+- Mamadou Sylla: Al-Riyadh SC → Al-Ittihad SC
+- Naoufel Khacef: CR Belouizdad → Al-Ahly SC
+- Taha Khalil: Al-Akhdar SC → Al-Ahly SC
+- Mohammed Al Kista: Al-Akhdar SC → Al-Ahly SC
+- Taha Al-Shalawi: Al-Hilal SC → Al-Ahly SC
+- Omar Ben Amer: Al-Khums SC → Al-Madina SC
+- Abdulhakim Al Alturki: Al-Ahli SC → Al-Madina SC
+- Jaime Sancho: Zamora CF → Al-Madina SC
+- Ehab Al-Kabout: Shabab Al-Ghar Club → Al-Shomooa SC
+- Chérif Kambaye: Guédiawaye FC → Al-Shomooa SC
+- Yousef Kara: Al-Ittihad SC → Al-Shomooa SC
+- Moataz Al-Fadhli: Al-Watan SC → Al-Shomooa SC
+- Marwan Al-Suwayeh: Al-Akhdar SC → Al-Shomooa SC
+- Mohammed Al-Kout: Assabah SC → Al-Shomooa SC
+- Anatole Abang: Al-Ittihad SC → Al-Shomooa SC
+- Mohamed Journi: Olympic Azzawiya SC → Union Military SC
+- Murad Al-Wuheeshi: Al-Ahly SC → Al-Hilal SC
+- Ali Salama: Al-Sadaqa Shahat SC → Al-Hilal SC
+- Ryan Porteous: Musselburgh Athletic FC → Bonnyrigg Rose FC
+- Hakim Haji: Al-Afreeki Sports Club → Al-Ta'awon SC
+- Saddam Al Werfalli: Al-Tahaddy SC → Al-Sadaqa Shahat SC
+- Muhammad Abdallah Hussain: Plateau United FC → Al-Afreeki Sports Club
+- Sonny Aluko: Albion Rovers FC → East Stirlingshire FC
+- Abdulmohaymen Lahrari: Al-Wefaq Ajdabiya SC → Al Bashayer Misrata
+- Muhannad Al-Zwawi: Al-Majd SCC → Al Bashayer Misrata
+- Sallu Turay: Linlithgow Rose FC → Pollok FC
+- Adam Livingstone: Forfar Athletic FC → Johnstone Burgh FC
+- Peter Urminsky: St. Mirren FC → Albion Rovers FC
+- Ondrej Penxa: AC Sparta Praha → AC Sparta Prague B
+- Ondrej Bleha: FK Pribram → FK Pribram B
+- Roger Faye: FK Pribram → FK Pribram B
+- Filip Zapotocny: FK Pribram → FK Pribram B
+- Alexandr Barta: FK Pribram → FK Pribram B
+- Daniel Rousar: FK Pribram → FK Pribram B
+- Adam Cadek: FK Pribram → FK Pribram B
+- Andrei Dăncuș: FCSB → Concordia Chiajna
+- Danyil Dolechek: FK Pribram → FK Pribram B
+- Zekinho Apea: FK Pribram → FK Pribram B
+- Mihai Toma: FCSB → Concordia Chiajna
+- David Popa: FCSB → Concordia Chiajna
+- Alexandru Stoian: FCSB → Concordia Chiajna
+- Denis Zamazal: FK Dukla Prague → FK Dukla Prague B
+- Lukas Kostka: FK Dukla Prague → FK Dukla Prague B
+- Michal Kroupa: FK Dukla Prague → FK Dukla Prague B
+- Petr Filip: SK Dynamo Ceske Budejovice U19 → SK Dynamo Ceske Budejovice
+- Tudor Coșa: FC Universitatea Cluj → Politehnica Timișoara
+- Alin Techereș: FC Universitatea Cluj → Politehnica Timișoara
+- Arouna Ouattara: FK Pardubice → FK Pardubice B
+- Jiri Zima: FK Pardubice → FK Pardubice B
+- Martin Reil: FK Pardubice → FK Pardubice B
+- David Barcot: SK Slavia Prague B → SK Slavia Prague U20
+- Victor Uduebo: SK Slavia Prague B → SK Slavia Prague U20
+- Alexandru Maxim: Universitatea Craiova → CSM Slatina
+- Ludek Nemecek: FK Teplice → FK Teplice B
+- Artem Garzha: FK Teplice → FK Teplice B
+- Mihnea Rădulescu: Universitatea Craiova → CSM Slatina
+- Matyas Vagner: FC Hradec Kralove → FC Hradec Kralove B
+- Stepan Ponikelsky: FC Hradec Kralove → FC Hradec Kralove B
+- György Papp: FK Csikszereda Miercurea Ciuc → CSA Steaua
+- David Nykrin: FK Jablonec → FK Jablonec B
+- Luca Noveli: FK Csikszereda Miercurea Ciuc → CSA Steaua
+- Előd Tóth-Pál: FK Csikszereda Miercurea Ciuc → CSA Steaua
+- Viktor Kun: CFR Cluj → CSM Olimpia Satu Mare
+- Mateo Miclăuș: CFR Cluj → CSM Olimpia Satu Mare
+- Răzvan Gligor: CFR Cluj → CSM Olimpia Satu Mare
+- Jakub Siman: Bohemians Prague 1905 → Bohemians Prague 1905 B
+- Jakub Tichy: Bohemians Prague 1905 → Bohemians Prague 1905 B
+- Cosmin Matei: CFR Cluj → CSM Olimpia Satu Mare
+- Oliver Mikuda: Bohemians Prague 1905 → Bohemians Prague 1905 B
+- Matej Suryn: Bohemians Prague 1905 → Bohemians Prague 1905 B
+- Denis Zanc: Corvinul Hunedoara → Gloria Bistrita
+- Nnochiri Kelechi: CS Afumati → Sport Club Popesti Leordeni
+- Bogdan Ungureanu: FC Rapid 1923 → CSL Ștefăneștii de Jos
+- Ştefan Senciuc: FC Rapid 1923 → CSL Ștefăneștii de Jos
+- Andrei Șucu: FC Rapid 1923 → CSL Ștefăneștii de Jos
+- Luca Banu: FCV Farul Constanta → FC Metaloglobus Bucharest
+- Marek Obdrzalek: FK Mlada Boleslav → FK Mlada Boleslav B
+- Filip Kolar: FK Mlada Boleslav → FK Mlada Boleslav B
+- Jan Jinoch: FK Mlada Boleslav → FK Mlada Boleslav B
+- Jake Doughty: Everton FC U18 → Aston Villa U18
+- Felipe Castillo: Técnico Universitario → Técnico Universitario U19
+- Cristhian Ortiz: Orense SC → Orense SC U19
+- Miguel Peralta: Independiente del Valle → Independiente del Valle U19
+- Akil Watts: Без клуба → Loudoun United FC
+- Paulo Uruchima: Deportivo Cuenca → Deportivo Cuenca U19
+- Bolívar Tobar: CS Emelec → CS Emelec U19
+- Gonçalo da Silva: SL Benfica B → SL Benfica U23
+- Rui Silva: SL Benfica B → SL Benfica U23
+- José Neto: SL Benfica → SL Benfica U23
+- Leandro Martins: SL Benfica B → SL Benfica U23
+- Duarte Soares: SL Benfica B → SL Benfica U23
+- Diogo Coelho: SL Benfica B → SL Benfica U23
+- Miguel Figueiredo: SL Benfica B → SL Benfica U23
+- Olivio Tomé: SL Benfica B → SL Benfica U23
+- Dudu: SL Benfica B → SL Benfica U23
+- Tiago Rodrigues: SL Benfica B → SL Benfica U23
+- Francisco Silva: SL Benfica B → SL Benfica U23
+- Peter Edokpolor: SL Benfica B → SL Benfica U23
+- Felipe Lima: SL Benfica B → SL Benfica U23
+- Miguel Gouveia: Sporting CP B → Sporting CP U23
+- Atanásio: Sporting CP B → Sporting CP U23
+- Rafael Mota: Sporting CP B → Sporting CP U23
+- Afonso Lee: Sporting CP B → Sporting CP U23
+- Rayhan Momade: Sporting CP B → Sporting CP U23
+- Catarino: Sporting CP B → Sporting CP U23
+- Rafael Besugo: Sporting CP B → Sporting CP U23
+- Rafael Camacho: Sporting CP B → Sporting CP U23
+- Leonardo Varela: Sporting CP B → Sporting CP U23
+- Sebastián Osorio: Sporting CP B → Sporting CP U23
+- Gabriel Silva: Sporting CP B → Sporting CP U23
+- Víctor Guzmán: Sporting CP B → Sporting CP U23
+- Vojin Serafimovic: FC Famalicão → FC Famalicão U23
+- Matheus Mattara: FC Famalicão → FC Famalicão U23
+- Lucas Huttunen: SJK Seinäjoki III → SJK Seinäjoki U18
+- Eeli Mäkelä: SJK Seinäjoki III → SJK Seinäjoki U18
+- Mathis Jangéal: FC Famalicão → FC Famalicão U23
+- Iiro Kangasniemi: SJK Seinäjoki II → SJK Seinäjoki U18
+- Aleksandar Vulic: FC Vizela → FC Vizela U23
+- Pedro Souza: FC Vizela → FC Vizela U23
+- Dani: FC Vizela → FC Vizela U23
+- Oliver Eteläaho: SJK Seinäjoki III → SJK Seinäjoki U18
+- Jaakko Matinlauri: SJK Seinäjoki III → SJK Seinäjoki U18
+- Arvo Asumus: SJK Seinäjoki III → SJK Seinäjoki U18
+- Luka Kuusisto: SJK Seinäjoki III → SJK Seinäjoki U18
+- Daniel Mbumba: SJK Seinäjoki III → SJK Seinäjoki U18
+- Hermanni Honkola: SJK Seinäjoki III → SJK Seinäjoki U18
+- Luis Mina: FC Vizela → FC Vizela U23
+- Moustapha Sanogo: FC Vizela → FC Vizela U23
+- Cristián Cañozales: FC Vizela → FC Vizela U23
+- Lucas Antañón: FC Vizela → FC Vizela U23
+- Neneca: CD Santa Clara → CD Santa Clara U23
+- Riku Piekkanen: Käpylän Pallo → Käpylän Pallo U18
+- Otto Heinonen: Käpylän Pallo → Käpylän Pallo U18
+- Chris Malinen: Käpylän Pallo → Käpylän Pallo U18
+- Henrique Silva: CD Santa Clara → CD Santa Clara U23
+- Toivo Koivuranta: Käpylän Pallo → Käpylän Pallo U18
+- Kamika: CD Santa Clara → CD Santa Clara U23
+- Fredy: CD Santa Clara → CD Santa Clara U23
+- Martim Madeira: CD Santa Clara B → CD Santa Clara U23
+- Afonso Duarte: CD Santa Clara → CD Santa Clara U23
+- Janderson: Moreirense FC → Moreirense FC Sub-23
+- Afonso Assis: Moreirense FC → Moreirense FC Sub-23
+- Miguel Silva: Moreirense FC → Moreirense FC Sub-23
+- Miio Höglund: FC Inter Turku II → FC Inter Turku U18
+- Albion Rashica: FC Inter Turku II → FC Inter Turku U18
+- Paavo Aalto: FC Inter Turku II → FC Inter Turku U18
+- Afonso Vieira: Moreirense FC → Moreirense FC Sub-23
+- Michael Dacosta: Moreirense FC → Moreirense FC Sub-23
+- Eduardo Esteves: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Izan Server: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Frederico Namora: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Nestori Meltoranta: FC Inter Turku II → FC Inter Turku U18
+- Niilo Kopperoinen: FC Inter Turku II → FC Inter Turku U18
+- Bakary Haidara: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Marco Ribeiro: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Beni Jetour: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Rasmus Mendolin: FC Inter Turku II → FC Inter Turku U18
+- Noah Rossi: IF Gnistan → IF Gnistan U18
+- Samuel Heikari: IF Gnistan → IF Gnistan U18
+- Jeff Selenge: IF Gnistan → IF Gnistan U18
+- Kosmo Launiala: IF Gnistan → IF Gnistan U18
+- Jovane Camará: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- João Bom: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Daniel Nolasco: Leixões SC → Leixões SC U23
+- Agustin De Armas: Leixões SC → Leixões SC U23
+- João Assunção: Leixões SC → Leixões SC U23
+- Arthur Baggio: Leixões SC → Leixões SC U23
+- Kaique: Leixões SC → Leixões SC U23
+- Morufdeen Moshood: Leixões SC → Leixões SC U23
+- Danilo: SC União Torreense → SCU Torreense Sub-23
+- Tiago Ferreira: Gil Vicente FC → Gil Vicente U23
+- Arthur Tchaptchet: Gil Vicente FC → Gil Vicente U23
+- Henrik Asula: Turun Palloseura → Turun Palloseura U18
+- Gonçalo Maia: Gil Vicente FC → Gil Vicente U23
+- Leo Mascaró: UD Leiria → UD Leiria Under 23
+- Kikín: UD Leiria → UD Leiria Under 23
+- Robbie Millar: Puotinkylän Valtti → Puotinkylän Valtti U18
+- Bernardo Gomes: UD Leiria → UD Leiria Under 23
+- Victor Silva: UD Leiria → UD Leiria Under 23
+- Stefan: UD Leiria → UD Leiria Under 23
+- Aku Ahla: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura U18
+- Lenni-Elias Aalto: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura U18
+- Samuel Alves: Rio Ave FC → Rio Ave FC U23
+- Sébastien Cibois: Portimonense SAD → Portimonense SAD U23
+- Lagartinho: Portimonense SAD → Portimonense SAD U23
+- Elias Hannula: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura U18
+- Caleb Okereke: Portimonense SAD → Portimonense SAD U23
+- Gonçalo Águas: Portimonense SAD → Portimonense SAD U23
+- Atte Salmi: JJK Jyväskylä → JJK Jyväskylä U18
+- Lauri Suutarinen: JJK Jyväskylä → JJK Jyväskylä U18
+- Veikko Ojala: JJK Jyväskylä → JJK Jyväskylä U18
+- Samuel Kähäri: JJK Jyväskylä → JJK Jyväskylä U18
+- Daniel Wacklin: JJK Jyväskylä → JJK Jyväskylä U18
+- Jesse Hautanen: Äänekosken Huima → JJK Jyväskylä U18
+- Paulinho: Portimonense SAD → Portimonense SAD U23
+- Nikolas Liimatainen: JJK Jyväskylä → JJK Jyväskylä U18
+- Lenni Rainerma: JJK Jyväskylä → JJK Jyväskylä U18
+- Veikka Rättö: FC Lahti → FC Lahti U18
+- Jussi Mynttinen: Lahden Reipas → FC Lahti U18
+- Hermanni Nykänen: Lahden Reipas → FC Lahti U18
+- Francisco Silva: CS Marítimo → CS Marítimo U23
+- Nélio Batista: CS Marítimo → CS Marítimo U23
+- Miika Vatanen: Lahden Reipas → FC Lahti U18
+- Kauã Paes: SC Farense → SC Farense U23
+- Leevi Järvinen: Lahden Reipas → FC Lahti U18
+- Emeraude Ndabawedje: Lahden Reipas → FC Lahti U18
+- Oliver Helttunen: Lahden Reipas → FC Lahti U18
+- Eliel Salmensuu: Lahden Reipas → FC Lahti U18
+- Konsta Kauppinen: Kuopion Palloseura II → Kuopion Palloseura U18
+- Rodrigo Laranjeira: SC Farense → SC Farense U23
+- Kevin Haarma: Kuopion Palloseura II → Kuopion Palloseura U18
+- Tatu Hukkanen: Kuopion Palloseura II → Kuopion Palloseura U18
+- Reko Ronkainen: Kuopion Palloseura II → Kuopion Palloseura U18
+- Renato Amorim: SC Braga B → SC Braga U23
+- Romário Cunha: SC Braga B → SC Braga U23
+- João Salvador: SC Braga B → SC Braga U23
+- Roopert Tahkola: Kuopion Palloseura II → Kuopion Palloseura U18
+- Veikko Lahtela: Kuopion Palloseura II → Kuopion Palloseura U18
+- Volkan Mutlu: Kuopion Palloseura II → Kuopion Palloseura U18
+- Edgar Mota: SC Braga B → SC Braga U23
+- Gui Barbosa: SC Braga B → SC Braga U23
+- Rodrigo Abreu: SC Braga B → SC Braga U23
+- Rodrigo Marques: SC Braga B → SC Braga U23
+- Valtteri Holopainen: Pallokerho Keski-Uusimaa → Pallokerho Keski-Uusimaa U18
+- Daniel Rozzuvaylo: SC Braga B → SC Braga U23
+- Flinto Costa: SC Braga B → SC Braga U23
+- Tomás Müller: SC Braga B → SC Braga U23
+- Guilherme Moraes: SC Braga B → SC Braga U23
+- Meireles Injai: FC Penafiel → FC Penafiel Sub-23
+- Krépin Diatta: Без клуба → Watford FC
+- Duarte Oliveira: FC Penafiel → FC Penafiel Sub-23
+- Carlinhos Augusto: FC Penafiel → FC Penafiel Sub-23
+- Tomás Teixeira: FC Penafiel → FC Penafiel Sub-23
+- Ossi Niemi: Pallokerho Keski-Uusimaa → Pallokerho Keski-Uusimaa U18
+- Eino Ehrnrooth: Vaasan Palloseura → Vaasan Palloseura U18
+- Jaapo Antila: Vaasan Palloseura II → Vaasan Palloseura U18
+- Walter Berts: Vaasan Palloseura II → Vaasan Palloseura U18
+- Aleksi Ahonen: Vaasan Palloseura II → Vaasan Palloseura U18
+- Alexander Wik: Vaasan Palloseura II → Vaasan Palloseura U18
+- Lari Piiroinen: Vaasan Palloseura II → Vaasan Palloseura U18
+- Arttu Matilainen: Vaasan Palloseura II → Vaasan Palloseura U18
+- Oskar Sparv: Vaasan Palloseura II → Vaasan Palloseura U18
+- Alex Myntti: Vaasan Palloseura → Vaasan Palloseura U18
+- Aaro Lakso: Vaasan Palloseura II → Vaasan Palloseura U18
+- Nuutti Krivetz: Mikkelin Palloilijat → Mikkelin Palloilijat U18
+- Mico Snellman: Mikkelin Palloilijat → Mikkelin Palloilijat U18
+- Henrique Poniewas: CF Estrela Amadora → CF Estrela Amadora U23
+- Paavo Haapalainen: Mikkelin Palloilijat → Mikkelin Palloilijat U18
+- Eelis Taavettila: JS Hercules II → JS Hercules U18
+- Aaron Siivikko: JS Hercules II → JS Hercules U18
+- Lukas Siika-Aho: JS Hercules II → JS Hercules U18
+- Santeri Vaihoja: JS Hercules → JS Hercules U18
+- Eetu Keskitalo: JS Hercules → JS Hercules U18
+- Santeri Holappa: JS Hercules II → JS Hercules U18
+- Nikolas Romppainen: JS Hercules II → JS Hercules U18
+- Kasper Lindgren: JS Hercules II → JS Hercules U18
+- Ahti Karppelin: JS Hercules → JS Hercules U18
+- Sakari Lehtosaari: JS Hercules → JS Hercules U18
+- Tobias Backman: Oulun Luistinseura → Oulun Luistinseura U18
+- Leevi Laru: Oulun Luistinseura → Oulun Luistinseura U18
+- Ilari Arvola: Oulun Luistinseura → Oulun Luistinseura U18
+- Hugo Taumberger: Oulun Luistinseura → Oulun Luistinseura U18
+- Lenni Teppo: Oulun Luistinseura → Oulun Luistinseura U18
+- Aaron Korkala: Oulun Luistinseura → Oulun Luistinseura U18
+- Eemeli Eronen: Oulun Luistinseura → Oulun Luistinseura U18
+- Zach Mitchell: St. Johnstone FC → Charlton Athletic
+- Levente Kilvinger: Roma Under 18 → Roma U20
+- Daniele Paul: Roma Under 18 → Roma U20
+- Giampaolo Bonifazi: Roma Under 18 → Roma U20
+- Emanuele Lulli: AS Roma → Roma U20
+- Gioele Giammattei: Roma Under 18 → Roma U20
+- Mattia Guaglianone: Roma Under 18 → Roma U20
+- Antonio Arena: AS Roma → Roma U20
+- Mandjou Camara: Roma Under 18 → Roma U20
+- Miguel Romero: Roma Under 18 → Roma U20
+- Rendijs Mihelsons: Genoa CFC → Genoa U20
+- Lorenzo Costoli: Genoa Under 18 → Genoa U20
+- Mamedi Doucouré: Genoa CFC → Genoa U20
+- Lukas Klišys: Genoa CFC → Genoa U20
+- Alessio Scelta: Genoa Under 18 → Genoa U20
+- Marcelo Vaz: Genoa CFC → Genoa U20
+- Robinho Junior: Genoa CFC → Genoa U20
+- Lorenzo Pinzani: Fiorentina Under 18 → Fiorentina Primavera
+- Arno Bianchini: Fiorentina Under 18 → Fiorentina Primavera
+- Federico Croci: ACF Fiorentina → Fiorentina Primavera
+- Francesco Verde: Juventus Next Gen → Juventus Primavera
+- Niccolò Rizzo: Juventus Next Gen → Juventus Primavera
+- Alfonso Montero: Juventus Next Gen → Juventus Primavera
+- Alessandro Brancato: Juventus Under 18 → Juventus Primavera
+- Grady Makiobo: Juventus Next Gen → Juventus Primavera
+- Josue Grelaud: Juventus Next Gen → Juventus Primavera
+- Destiny Elimoghale: Juventus Next Gen → Juventus Primavera
+- Francesco Leone: Juventus Next Gen → Juventus Primavera
+- Arman Durmiši: Juventus Next Gen → Juventus Primavera
+- Djibril Diallo: Parma Under 18 → Parma Primavera
+- Opoku Mama: Parma Under 18 → Parma Primavera
+- Thomás De Martis: Parma Calcio 1913 → Parma Primavera
+- Matteo Egan: FC Empoli → Empoli Primavera
+- Salvatore Monaco: FC Empoli → Empoli Primavera
+- Lorenzo Nyarko: US Sassuolo → Sassuolo Primavera
+- Giorgio Vezzosi: US Sassuolo → Sassuolo Primavera
+- Jeffrey Baffoh: Sassuolo Under 18 → Sassuolo Primavera
+- Lincoln: FK Spartak Subotica → Vila Nova Futebol Clube (GO)
+- Dmytro Panko: Cagliari Under 18 → Cagliari Primavera
+- Mouhamed Sow: Cagliari Under 18 → Cagliari Primavera
+- Nicola Grandu: Cagliari Calcio → Cagliari Primavera
+- Amine Bahlaouan: Cagliari Under 18 → Cagliari Primavera
+- Demi Akarakiri: Cagliari Calcio → Cagliari Primavera
+- Plamen Penev: US Lecce → Lecce Primavera
+- Christian Lupo: Lecce Under 18 → Lecce Primavera
+- Andrea Fontanarosa: Lecce Under 18 → Lecce Primavera
+- Giuseppe Cafasso: Lecce Under 18 → Lecce Primavera
+- Emanuele Persano: Lecce Under 18 → Lecce Primavera
+- Riccardo Milan: Bologna Under 18 → Bologna Primavera
+- Lorenzo Ginelli: Como Under 18 → Como Primavera
+- Dylan Sgarbi: Como Under 18 → Como Primavera
+- Thomas Boccia: Como Under 18 → Como Primavera
+- Zebedee Kennedy: Como Under 17 → Como Primavera
+- Leonardo Casati: Como Under 18 → Como Primavera
+- Francesco Lembo: Como Under 18 → Como Primavera
+- Yannick Boerleider: Torino Under 18 → Torino Primavera
+- Davide Gaffurini: Torino Under 18 → Torino Primavera
+- Carlo Mukerjee: Torino Under 18 → Torino Primavera
+- Andrea Luongo: Torino FC → Torino Primavera
+- Dylan Scibilia: Torino Under 18 → Torino Primavera
+- Gianfilippo Materazzi: Torino Under 18 → Torino Primavera
+- Kenjy Malidor: Torino Under 18 → Torino Primavera
+- Edoardo Martini: Torino Under 18 → Torino Primavera
+- Nicola Russo: Torino Under 18 → Torino Primavera
+- Tommaso Mazzi: Cesena FC → Cesena Primavera
+- Giulio Bianconi: Cesena Under 18 → Cesena Primavera
+- Marco Parisi: Cesena Under 18 → Cesena Primavera
+- Severino Petito: Cesena Under 18 → Cesena Primavera
+- Riccardo Bartoli: Cesena Under 18 → Cesena Primavera
+- Matteo Casadei: Cesena FC → Cesena Primavera
+- Enea Casadei: Cesena FC → Cesena Primavera
+- Filippo Bertaccini: Cesena FC → Cesena Primavera
+- Umut Bekirov: SS Lazio U17 → Lazio U20
+- Emanuele Riggi: Lazio Under 18 → Lazio U20
+- Ferdinando Ferrante: Lazio Under 18 → Lazio U20
+- Bruno Galassi: SS Lazio → Lazio U20
+- Matteo Morelli: Lazio Under 18 → Lazio U20
+- Michele Elena: SS Lazio U17 → Lazio U20
+- Federico Serra: SS Lazio → Lazio U20
+- Marco Raccanello: Hellas Verona Under 18 → Hellas Verona Primavera
+- Noé Maël Tagne: Hellas Verona → Hellas Verona Primavera
+- Dragoș Kirali: Hellas Verona Under 18 → Hellas Verona Primavera
+- Abdul Alim Compaore: Hellas Verona Under 18 → Hellas Verona Primavera
+- Luca Bisoffi: Hellas Verona Under 18 → Hellas Verona Primavera
+- Ruben Akalé: Hellas Verona → Hellas Verona Primavera
+- Alessandro Bianchi: Milan Under 18 → AC Milan Primavera
+- Astin Mbaye: Milan Under 18 → AC Milan Primavera
+- Mattia Mercogliano: Milan Under 18 → AC Milan Primavera
+- Mattia Angelicchio: Milan Under 18 → AC Milan Primavera
+- Thomas Martini: Milan Under 18 → AC Milan Primavera
+- Ludovico Di Nella: Milan Under 18 → AC Milan Primavera
+- Daniele Petrone: Milan Under 18 → AC Milan Primavera
+- Gabriel Bugli: Atalanta U23 → Atalanta Primavera
+- Ferdinand Ugwu: Atalanta Under 18 → Atalanta Primavera
+- Mbakhane Kane: Atalanta BC U17 → Atalanta Primavera
+- Isaac Isoa: Atalanta U23 → Atalanta Primavera
+- Salim Berrima: Atalanta Under 18 → Atalanta Primavera
+- Francesco Olivieri: Atalanta BC U17 → Atalanta Primavera
+- Francesco Gasparello: Atalanta Under 18 → Atalanta Primavera
+- Giovanni Zanatta: Atalanta Under 18 → Atalanta Primavera
+- Marco Leandri: Atalanta U23 → Atalanta Primavera
+- Marcello Fugazzola: Atalanta Under 18 → Atalanta Primavera
+- Henrikas Adomavičius: Inter Under 18 → Inter Milan Primavera
+- Andrea Donato: Inter Under 18 → Inter Milan Primavera
+- Anas El Mahboubi: Inter U23 → Inter Milan Primavera
+- Amadou Konteh: Inter Under 18 → Inter Milan Primavera
+- Filippo Generali: UC AlbinoLeffe → AlbinoLeffe Primavera
+- Matteo Trapletti: UC AlbinoLeffe → AlbinoLeffe Primavera
+- Diego Ceresoli: UC AlbinoLeffe → AlbinoLeffe Primavera
+- Filippo Delcarro: UC AlbinoLeffe → AlbinoLeffe Primavera
+- Nicolò Gamba: UC AlbinoLeffe → AlbinoLeffe Primavera
+- Alessandro Balestreri: Monza Under 18 → Monza Primavera
+- Simone Cellamaro: Monza Under 18 → Monza Primavera
+- Konstantinos Varesis: Monza Under 18 → Monza Primavera
+- Dennis Pierange Scifo: Monza Under 18 → Monza Primavera
+- Junnosuke Horie: Moriyama Samurai 2000 → Reilac Shiga
+- Will Smallbone: Без клуба → Leicester City
+- Frankie McMahon-Brown: Radcliffe FC → Salford City
+- Jay Bird: Boreham Wood FC → Salford City
+- Arvin Appiah: Без клуба → Bristol Rovers
+- Arya Pratama: Gresik United FC → Persikotas Nusantara
+- Iswahyudi Ardinata: Gresik United FC → Persikotas Nusantara
+- Fahmi Ardianshya: Persibo Bojonegoro → Persikotas Nusantara
+- Adam Moseley: Southport FC → Wigan Athletic
+- Prayoga Sanjaya: Pekanbaru FC → Pesik Kuningan
+- Ilham Maulana: Persibo Bojonegoro → Pesik Kuningan
+- Tegar Shevanton: Sriwijaya FC → Persibo Bojonegoro
+- Romeo Abisha: Gresik United FC → Persibo Bojonegoro
+- Adi Purnama: Persikotas Nusantara → Persibo Bojonegoro
+- Marvin Nugraha: Persikota Tangerang → Persibo Bojonegoro
+- Sehabudin Ahmad: Sriwijaya FC → Persibo Bojonegoro
+- Iqbal Tri: Putra Sang Fajar FC → Persibo Bojonegoro
+- Faza Al Firdaus: PERSIS Solo → Persika Karanganyar
+- Yulfikar Mansur: PERSIS Solo → Persika Karanganyar
+- Jake Oram: Spennymoor Town → Doncaster Rovers
+- Musril: Batavia FC → Persika Karanganyar
+- Arif Agung: Persikutim United → Persika Karanganyar
+- Hersya Scifo: Persiba Bantul → Persipa Pati
+- Akhmad Riyadi: Persikutim United → Persipa Pati
+- Ed Leach: King's Lynn Town → AFC Wimbledon
+- Vengko Armedya: Pekanbaru FC → Persiba Bantul
+- Daniel Wonda: Persikota Tangerang → Persipani Paniai
+- Muh. Faizal: Persiba Bantul → Persikutim United
+- Izzan Al Nasir: Putra Sang Fajar FC → Pasuruan United
+- Faizal Maulana: Deltras FC → Pasuruan United
+- Hamsa Lestaluhu: Persekabpas Pasuruan → Pasuruan United
+- Mido Hossem: Persekabpas Pasuruan → Pasuruan United
+- Sugiyanto Rohman: Persekabpas Pasuruan → Pasuruan United
+- Rexa Abdi: Gresik United FC → Pasuruan United
+- Marvin Oshaba: Maroons FC → National Enterprise Corporation FC
+- Bright Vuni: Uganda Revenue Authority FC → Mbarara City FC
+- Sula Mpanga: Police FC → Ntugasaze Football Club
+- Bernard Ndifuna: Mbarara City FC → Blacks Power FC
+- Juan Cuellar: Club The Strongest → FC Palm City
+- Georgie Gent: Barnsley FC → Boston United
+- Tom McIntyre: Без клуба → Forest Green Rovers
+- William Merrett: Hereford FC → Forest Green Rovers
+- Patric: SS Lazio → Al-Ittifaq FC
+- Roger Mendonça: Al-Dhaid SC → Al-Ittifaq FC
+- Kays Benyoub: FC Palm City → Al-Ittifaq FC
+- Papu Gómez: Calcio Padova → Forte Virtus
+- Vicente Reyes: Norwich City → Woking FC
+- Kouadjo Koffi: Kalba FC → Al-Hamriyah
+- Tom Anderson: Shrewsbury Town → Carlisle United
+- Hayden Atkinson: Darlington FC → Carlisle United
+- Siyabonga Mtombeni: Lamontville Golden Arrows → Durban City Football Club
+- Ryan Loft: Cambridge United → Hornchurch FC
+- Leo Farrell: Barnsley FC → Altrincham FC
+- Kabelo Mofokeng: Durban City Football Club → Siwelele Football Club
+- Chey Dunkley: Chesterfield FC → Solihull Moors
+- Kian Ryley: AFC Telford United → Solihull Moors
+- Anisius Lewis: Braintree Town → Aldershot Town
+- Jonathan Macaulay: Aldershot Town → Tamworth FC
+- Tom Fogarty: Brackley Town → Tamworth FC
+- Sydney Agina: Forest Green Rovers → Tamworth FC
+- Owen Dean: Farnham Town → Yeovil Town
+- Layton Love: King's Lynn Town → Kidderminster Harriers
+- Will Wright: Barnet FC → Boreham Wood FC
+- Gus Hoefsloot: Sydney FC → Sydney FC II
+- Ethan Dyer: Sydney FC → Sydney FC II
+- Tyler Williams: Sydney FC → Sydney FC II
+- Wataru Kamijo: Sydney FC → Sydney FC II
+- Joseph Lacey: Sydney FC → Sydney FC II
+- Tiago Quintal: Sydney FC → Sydney FC II
+- Marin France: Sydney FC → Sydney FC II
+- Akol Akon: Sydney FC → Sydney FC II
+- Mathias Macallister: Sydney FC → Sydney FC II
+- Tristan Vidackovic: Western Sydney Wanderers → Western Sydney Wanderers II
+- Emile Katrib: Western Sydney Wanderers → Western Sydney Wanderers II
+- Nathan Barrie: Western Sydney Wanderers → Western Sydney Wanderers II
+- Ricky Fransen: Western Sydney Wanderers → Western Sydney Wanderers II
+- Marcus Savic: Western Sydney Wanderers → Western Sydney Wanderers II
+- Ben Mewett: Western Sydney Wanderers → Western Sydney Wanderers II
+- Oscar Morrison: Western Sydney Wanderers → Western Sydney Wanderers II
+- Joshua Cetinic: Western Sydney Wanderers → Western Sydney Wanderers II
+- Jai Rose: Western Sydney Wanderers → Western Sydney Wanderers II
+- Awan Lual: Western Sydney Wanderers → Western Sydney Wanderers II
+- Alaat Abdul-Rahman: Western Sydney Wanderers → Western Sydney Wanderers II
+- Georgio Hassarati: Western Sydney Wanderers → Western Sydney Wanderers II
+- Lucas Sinnott: Western Sydney Wanderers II → Wollongong Wolves FC
+- Pouya Reshadi Mohammadi: Sepahan B FC → Sepahan FC
+- Relja Obrić: Atalanta BC → Atalanta U23
+- Simon Nicholas: NWS Spirit → Marconi Stallions FC
+- Gabriele Doretti: Spezia Primavera → Spezia Calcio
+- Armando Cassano: Spezia Primavera → Spezia Calcio
+- Lapo Valori: Pescara Primavera → Delfino Pescara 1936
+- Emanuele Troiano: Pescara Primavera → Delfino Pescara 1936
+- Luigi Morazzini: Pescara Primavera → Delfino Pescara 1936
+- Sebastian Strappini: Perugia Primavera → AC Perugia Calcio
+- Christian Dottori: Perugia Primavera → AC Perugia Calcio
+- Christian Sbaccanti: Latina Primavera → Latina Calcio 1932
+- Davide De Marchi: Latina Primavera → Latina Calcio 1932
+- Samuel Bosnjak: Sydney Olympic FC → Sutherland Sharks FC
+- Michael Marcevski: Rockdale Ilinden FC → Sutherland Sharks FC
+- Ross Matthews: Bentleigh Greens SC → Sutherland Sharks FC
+- Asahi Yokokawa: Heidelberg United FC → Sutherland Sharks FC
+- Jaden Casella: St George Saints FC → Sutherland Sharks FC
+- Jyden Harb: University of New South Wales FC → Sutherland Sharks FC
+- Lachlan Sattout: Western Sydney Wanderers II → Sutherland Sharks FC
+- Matteo Viti: SSD Imperia 1923 → FC Vado
+- Ali Hosseinzadeh: Ario Eslamshahr → Shams Azar Qazvin
+- Neto: Без клуба → Juventus FC
+- Valeri Vladimirov: Milan Futuro → AC Milan
+- Claudio Pugliese: Napoli Primavera → SSC Napoli
+- Matteo Darmian: Без клуба → Bologna FC 1909
+- Lúkas Petersson: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
+- Nico Biedermann: TSG 1899 Hoffenheim U19 → TSG 1899 Hoffenheim II
+- Maximilian Theuer: TSG 1899 Hoffenheim U19 → TSG 1899 Hoffenheim II
+- Finn Sherlock: TSG 1899 Hoffenheim U19 → TSG 1899 Hoffenheim II
+- Natnael Abraha: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
+- Luis Engelns: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
+- Krystof Cizek: TSG 1899 Hoffenheim U19 → TSG 1899 Hoffenheim II
+- Zain Biazid: TSG 1899 Hoffenheim U19 → TSG 1899 Hoffenheim II
+- Luca Berreth: VfB Stuttgart U19 → VfB Stuttgart II
+- Collin Schramm: VfB Stuttgart U19 → VfB Stuttgart II
+- Yanik Spalt: VfB Stuttgart → VfB Stuttgart II
+- Ertugrul Yigit: VfB Stuttgart → VfB Stuttgart II
+- Jarzinho Malanga: VfB Stuttgart → VfB Stuttgart II
+- Neno Zezelj: VfB Stuttgart U19 → VfB Stuttgart II
+- Enis Redzepi: VfB Stuttgart U19 → VfB Stuttgart II
+- Kian Speidel: VfB Stuttgart U19 → VfB Stuttgart II
+- Brayann Kenmoe: VfB Stuttgart U19 → VfB Stuttgart II
+- Kian Ramadani: SV Waldhof Mannheim U21 → SV Waldhof Mannheim
+- Romero Gerres: Rot-Weiss Essen II → Rot-Weiss Essen
+- James Gnagnon: Rot-Weiss Essen U19 → Rot-Weiss Essen
+- Erik Maurer: FC Hansa Rostock II → FC Hansa Rostock
+- Robin Falk: FC Hansa Rostock II → FC Hansa Rostock
+- Felikss Sprogis: FC Hansa Rostock U19 → FC Hansa Rostock
+- Fiete Bock: FC Hansa Rostock II → FC Hansa Rostock
+- Ryotaro Ito: Без клуба → Real Valladolid CF
+- Ben Kieffer: SSV Jahn Regensburg II → SSV Jahn Regensburg
+- Ollie Dewsbury: Bristol Rovers → Farnborough FC
+- Noel Lakatos: FC Ingolstadt 04 II → FC Ingolstadt 04
+- Ben Hughes: Cambridge United → Braintree Town
+- Ben Isaacson: Billericay Town → Braintree Town
+- Lennart Stollenwerk: SC Fortuna Köln U23 → SC Fortuna Köln
+- Saleem Akanbi: Spalding United → Braintree Town
+- Dan Carter: Leyton Orient → Walton & Hersham FC
+- Josh Ayres: Woking FC → Walton & Hersham FC
+- Timo Schmitz: SV Meppen II → SV Meppen
+- Jordan Alves: Aldershot Town → Farnham Town
+- George Alexander: Hornchurch FC → Farnham Town
+- Jonas Goldenstein: SV Meppen II → SV Meppen
+- Henrik Wittrock: SV Meppen II → SV Meppen
+- Mika Herrmann: SV Meppen II → SV Meppen
+- Bobby Kelman: Hornchurch FC → Folkestone Invicta FC
+- Wilson Waweru: Wealdstone FC → Hampton & Richmond Borough
+- Rashawn Scott: Farnborough FC → Salisbury FC
+- Killian Barrett: Barrow AFC → Slough Town
+- Elijah Oladunjoye: Aldershot Town → Slough Town
+- Patrik Polda: FC Nomme United U21 → FC Nomme United U19
+- Artur Lapa: FC Nomme United U17 → FC Nomme United U19
+- Robin Ortega: FC Nomme United U21 → FC Nomme United U19
+- Jakob Käis: FC Nomme United U21 → FC Nomme United U19
+- Karl Zilmer: FC Nomme United U21 → FC Nomme United U19
+- Mark Marmei: FC Nomme United U21 → FC Nomme United U19
+- Ottomar Rootsma: FC Nomme United U21 → FC Nomme United U19
+- Karl-Kaspar Piht: FC Nomme United U21 → FC Nomme United U19
+- Silver Veske: FC Nomme United U21 → FC Nomme United U19
+- Gert Kabal: FC Nomme United → FC Nomme United U19
+- Ricardo Kranberg: FC Nomme United U21 → FC Nomme United U19
+- Sten Mihelson: FC Nomme United U21 → FC Nomme United U19
+- Artsemi Radomski: FC Nomme United → FC Nomme United U19
+- Romet Leppik: FC Nomme United U21 → FC Nomme United U19
+- Ivan Krasnov: FC Nomme United → FC Nomme United U19
+- Ken Mölder: FC Nomme United U21 → FC Nomme United U19
+- Artjom Truuväärt: FC Nomme United → FC Nomme United U19
+- Lars Ossep: FC Nomme United U21 → FC Nomme United U19
+- Steven Tamm: FC Nomme United U21 → FC Nomme United U19
+- Robert Birk: FC Nomme United U17 → FC Nomme United U19
+- Kaspar Anton: FC Nomme United U21 → FC Nomme United U19
+- Bruno Ounapuu: FC Nomme United U21 → FC Nomme United U19
+- Kert Tomingas: FC Nomme United U21 → FC Nomme United U19
+- Jelissei Reinol: JK Narva Trans U21 → JK Trans Narva U19
+- Ilya Rebrik: JK Narva Trans → JK Trans Narva U19
+- Arseni Dmitrijev: JK Narva Trans U21 → JK Trans Narva U19
+- Michael Astapov: JK Narva Trans U21 → JK Trans Narva U19
+- Nikolai Fedossejev: JK Narva Trans U21 → JK Trans Narva U19
+- Maksim Gerstman: JK Narva Trans U21 → JK Trans Narva U19
+- Danil Geveller: JK Narva Trans U21 → JK Trans Narva U19
+- Aleksander Solodov: JK Narva Trans U21 → JK Trans Narva U19
+- Emilis Petkus: JK Narva Trans U21 → JK Trans Narva U19
+- Arseni Mihhailov: JK Narva Trans U21 → JK Trans Narva U19
+- Timur Zubkov: JK Narva Trans U21 → JK Trans Narva U19
+- Maxim Stepanov: JK Narva Trans U21 → JK Trans Narva U19
+- Stepan Spak: JK Narva Trans U21 → JK Trans Narva U19
+- Daniil Mihhailov: JK Narva Trans U21 → JK Trans Narva U19
+- Saveli Tarassenkov: JK Narva Trans U21 → JK Trans Narva U19
+- Jaroslav Jerjomin: JK Narva Trans U21 → JK Trans Narva U19
+- Rodion Aleksandrov: JK Narva Trans U21 → JK Trans Narva U19
+- Gennadi Gorki: JK Narva Trans U21 → JK Trans Narva U19
+- Viktor Pavlov: JK Narva Trans U21 → JK Trans Narva U19
+- Arnas Besigirskis: JK Narva Trans → JK Trans Narva U19
+- Veniamin Torchakov: JK Narva Trans U21 → JK Trans Narva U19
+- Maksim Borsts: JK Narva Trans U21 → JK Trans Narva U19
+- Saveli Alekseev: Kalev Tallinn U17 → Kalev Tallinn U19
+- Henri Tuur: Kalev Tallinn U17 → Kalev Tallinn U19
+- Silver Leon Noorma: Kalev Tallinn U17 → Kalev Tallinn U19
+- Joosep Joendi: Kalev Tallinn U21 → Kalev Tallinn U19
+- Mikhail Lakutsevits: Tallinn JK Legion → Tallinn JK Legion U19
+- Patriik Andreas: Tallinn JK Legion → Tallinn JK Legion U19
+- Arseni Balahnitsjov: Tallinn JK Legion → Tallinn JK Legion U19
+- Miroslav Tsistjakov: Tallinn JK Legion → Tallinn JK Legion U19
+- Aleksandr Vassiljev: Tallinn JK Legion → Tallinn JK Legion U19
+- Frank Pihela: FC Tallinn U17 → FC Tallinn U19
+- Oskar Järvine: FC Tallinn → FC Tallinn U19
+- Artjom Klimenko: FC Tallinn U17 → FC Tallinn U19
+- Denys Vasylenko: FC Tallinn U17 → FC Tallinn U19
+- Denis Lipnikov: FC Tallinn U17 → FC Tallinn U19
+- Aleksandr Valeniek: FC Tallinn U17 → FC Tallinn U19
+- Ismail Soroka: FC Tallinn → FC Tallinn U19
+- Mihhail Hansman: FC Tallinn → FC Tallinn U19
+- Ervin Irha: FC Tallinn → FC Tallinn U19
+- Ernest Golovatjuk: FC Tallinn U17 → FC Tallinn U19
+- Artjom Koparev: FC Tallinn U17 → FC Tallinn U19
+- Rocco Siigur: Pärnu JK Vaprus U21 → Pärnu JK Vaprus U19
+- Joel Kruuts: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Nathaniel Pettai: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Gert Söörd: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Kert Viiklaid: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Robert Koll: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Sten-Marten Dervojed: Pärnu JK Vaprus U19 → Paide Linnameeskond U19
+- Kert Selter: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Yegor Semenov: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Romet Randalainen: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Noé Clergé: Racing Club de France → Calcio Foggia 1920
+- Sander Ojasaar: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Steven Tooming: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Gustav Vilk: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Kaspar Vahepold: Kalju FC U21 → Kalju FC U19
+- Reito Rikkand: Kalju FC U17 → Kalju FC U19
+- Rasmus Tonnissoo: Kalju FC U17 → Kalju FC U19
+- Artemi Provodin: Kalju FC U21 → Kalju FC U19
+- Karl Meimre: Kalju FC U17 → Kalju FC U19
+- Kermo Kasela: Kalju FC U17 → Kalju FC U19
+- Kennet Tehvo: Kalju FC U17 → Kalju FC U19
+- Harly Ollin: Harju JK Laagri → Harju JK Laagri U19
+- Steven Kangur: Harju JK Laagri → Harju JK Laagri U19
+- Artur Savenkov: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Jegor Titov: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Jasper Enok: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Nikita Kuzmenkov: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Artjom Kuzmenkov: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Gavriil Karhanin: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Kirill Levin: Levadia Tallinn U19 → Pohja-Tallinna JK Volta U19
+- Kahro Randma: FC Tallinn U17 → FC Tallinn U18
+- Daniil Maltsev: FC Tallinn U17 → FC Tallinn U18
+- Riko Vorobjov: FC Tallinn U17 → FC Tallinn U18
+- Damian Adamson: FC Tallinn U17 → FC Tallinn U18
+- Maksim Ivanov: FC Tallinn U17 → FC Tallinn U18
+- Artem Lyeshchov: FC Tallinn U17 → FC Tallinn U18
+- Daniel Dragoljuk: FC Tallinn U17 → FC Tallinn U18
+- Denys Ostrivets: FC Tallinn U17 → FC Tallinn U18
+- Jan Maramzin: FC Tallinn U17 → FC Tallinn U18
+- Martin Limarev: FC Tallinn U17 → FC Tallinn U18
+- Artjom Hohlov: FC Tallinn U17 → FC Tallinn U18
+- Joeri Heerkens: Ajax Amsterdam → Ajax Amsterdam U21
+- Abdellah Ouazane: Ajax Amsterdam → Ajax Amsterdam U21
+- Andrea Natali: AZ Alkmaar → AZ Alkmaar U21
+- Rion Ichihara: AZ Alkmaar → AZ Alkmaar U21
+- Hessel de Wit: AZ Alkmaar → AZ Alkmaar U21
+- Bendegúz Kovács: AZ Alkmaar → AZ Alkmaar U21
+- Tijn Smolenaars: PSV Eindhoven → PSV Eindhoven U21
+- Khadim Ngom: PSV Eindhoven → PSV Eindhoven U21
+- Fabian Merién: PSV Eindhoven → PSV Eindhoven U21
+- Brent Jonkers: PSV Eindhoven U19 → PSV Eindhoven U21
+- Amir Bouhamdi: PSV Eindhoven → PSV Eindhoven U21
+- Mikkel Bro Hansen: PSV Eindhoven → PSV Eindhoven U21
+- Rayan van Aarst: NAC Breda U21 → NAC Breda
+- Mylan Brouwers: NAC Breda U21 → NAC Breda
+- Jereno van Gom: Almere City FC U23 → Almere City FC
+- Davide Picardi: Napoli Under 18 → Napoli Primavera
+- Andrea Zappalà: Napoli Under 18 → Napoli Primavera
+- Luigi Riccio: Napoli Under 18 → Napoli Primavera
+- Riccardo Chiaiese: Napoli Under 18 → Napoli Primavera
+- Adrian D'Angelo: Napoli Under 18 → Napoli Primavera
+- Marco De Michele: Napoli Under 18 → Napoli Primavera
+- Denzel Eijken: De Graafschap Doetinchem U21 → De Graafschap Doetinchem
+- Giorgio Russo: Napoli Under 18 → Napoli Primavera
+- Salvatore Pengue: Napoli Under 18 → Napoli Primavera
+- Luigi Lamberti: Avellino Under 17 → Avellino Primavera
+- Francesco Carbonella: Pisa Under 17 → Pisa Primavera
+- Leco Zeevalkink: FC Twente Enschede U21 → Heracles Almelo
+- Giandro Sambo: FC Twente Enschede U19 → Heracles Almelo
+- Sil Blokhuis: FC Twente Enschede U21 → Heracles Almelo
+- Diego van Oorschot: FC Twente Enschede U21 → Heracles Almelo
+- Tarık Hamamioğlu: FC Twente Enschede U19 → Heracles Almelo
+- Jayden Siecker: Vitesse Arnhem U21 → Vitesse Arnhem
+- Youssef Ouallil: Vitesse Arnhem U21 → Vitesse Arnhem
+- Yunus Younous: FC Dordrecht U21 → FC Dordrecht
+- Tiago Codinha: FC Volendam U21 → FC Volendam
+- Davide Guarneri: Venezia Primavera → Cosenza Primavera
+- Michele Balsamo: Palermo Primavera → Cosenza Primavera
+- Luca Amato: Frosinone Under 17 → Frosinone Primavera
+- Valerio Spirito: Frosinone Under 17 → Frosinone Primavera
+- Yankhoba Ndao: Frosinone Under 18 → Frosinone Primavera
+- Jacopo Couto Rissone: Frosinone Under 18 → Frosinone Primavera
+- Kevin Gadellaa: FC Utrecht → FC Utrecht U21
+- Mees Eppink: FC Utrecht → FC Utrecht U21
+- Ferdinand Pohl: FC Utrecht → FC Utrecht U21
+- Per Kloosterboer: FC Utrecht → FC Utrecht U21
+- Gianfilippo Casagrande: Frosinone Under 18 → Frosinone Primavera
+- Lorenzo Giurdanella: Frosinone Under 18 → Frosinone Primavera
+- Oualid Agougil: FC Utrecht → FC Utrecht U21
+- Levi Rietveld: FC Utrecht U19 → FC Utrecht U21
+- Jesper Eujen: FC Utrecht U19 → FC Utrecht U21
+- Emmanuel Chigozie Owen: FC Utrecht → FC Utrecht U21
+- Valentino Selvaggio: Palermo Under 17 → Palermo Primavera
+- Diego Montien: Bogotá FC → Boyacá Patriotas FC
+- Juan Lemus: Barranquilla FC → Real Cundinamarca
+- Andrés Ariza: Club Deportivo Oriente Petrolero → Real Santander
+- David Barbosa: Bogotá FC → Tigres FC
+- David Villa: Independiente Valle del Cauca → Leones FC
+- Diego Montien: Bogotá FC → Boyacá Patriotas FC
+- Juan Lemus: Barranquilla FC → Real Cundinamarca
+- Andrés Ariza: Club Deportivo Oriente Petrolero → Real Santander
+- David Barbosa: Bogotá FC → Tigres FC
+- David Villa: Independiente Valle del Cauca → Leones FC
+- Ilias Kinay: Barsbütteler SV → USC Paloma Hamburg II
+- Pietro Faccioli: Milan Futuro → Milan Under 18
+- Dino Kurbegovic: AC Milan Primavera → Milan Under 18
+- Yanis Messaoudi: AC Milan Primavera → Milan Under 18
+- Abdou Seye: Milan Under 17 → Milan Under 18
+- Emanuele Carbone: Milan Under 17 → Milan Under 18
+- Ablaye Samb: AC Milan Primavera → Milan Under 18
+- Leonardo Colombo: AC Milan Primavera → Milan Under 18
+- Gabriele Borsa: Milan Under 17 → Milan Under 18
+- Lorenzo Bernamonte: Fiorentina Under 17 → Fiorentina Under 18
+- Francesco Amenta: Fiorentina Under 17 → Fiorentina Under 18
+- Matteo Andreotti: Bologna Primavera → Bologna Under 18
+- Edoardo Franzosi: Como Primavera → Como Under 18
+- Mattia Arioli: Como Primavera → Como Under 18
+- Matteo Zanaria: Como Primavera → Como Under 18
+- Sebastian Burlacu: Como Primavera → Como Under 18
+- Diego Martínez: Como Primavera → Como Under 18
+- Marco Avitto: Frosinone Under 17 → Frosinone Under 18
+- Yahvan Niat: Genoa U20 → Genoa Under 18
+- Diego Morra: Genoa Under 17 → Genoa Under 18
+- Giuseppe Bonanno: Genoa U20 → Genoa Under 18
+- Alessandro Pandian: Hellas Under 17 → Hellas Verona Under 18
+- Simon Lleshi: Inter Milan Primavera → Inter Under 18
+- Lorenzo Puricelli: Inter Milan Primavera → Inter Under 18
+- Mahdi Maghlout: Inter Milan Primavera → Inter Under 18
+- Nicolas Blaj: Monza Under 17 → Monza Under 18
+- Andrea D'Avanzo: Monza Under 17 → Monza Under 18
+- Emanuele Mazzola: Monza Under 17 → Monza Under 18
+- Alberto Spagnolo: Monza Under 17 → Monza Under 18
+- Salvatore Piccolo: Napoli Under 17 → Napoli Under 18
+- Diego Di Lauro: Parma Under 17 → Parma Under 18
+- Fabio Lorenzi: SS Maceratese 1922 → Parma Under 18
+- Gabriel Lombardi: Parma Primavera → Parma Under 18
+- Paumi Mateos: Parma Under 17 → Parma Under 18
+- Gabriel Índio: SL Benfica → SL Benfica B
+- José Neto: SL Benfica → SL Benfica B
+- Daniel Banjaqui: SL Benfica → SL Benfica B
+- Anísio Cabral: SL Benfica → SL Benfica B
+- Moncef Zekri: Sporting CP → Sporting CP B
+- Rodrigo Dias: Sporting CP → Sporting CP B
+- Salvador Blopa: Sporting CP → Sporting CP B
+- Chris Ivan: Sporting CP U23 → Sporting CP B
+- Rafael Nel: Sporting CP → Sporting CP B
+- Lorenzo Costantino: FC Vado → SC Ligorna 1922
+- Duarte Cunha: FC Porto → FC Porto B
+- Luca Musio: San Donato Tavarnelle → USD Sestri Levante 1919
+- Suhayb Al-Kharusi: Genoa U20 → USD Sestri Levante 1919
+- Di Cardoso: GD Chaves B → GD Chaves
+- Lucas Lima: GD Chaves B → GD Chaves
+- Divin Muteba: GD Chaves B → GD Chaves
+- Mateusz Pruchniewski: Lech Poznan II → Lech Poznań
+- Aleks Olsztyn: Lech Poznan II → Lech Poznań
+- Wiktor Obremski: Lech Poznan II → Lech Poznań
+- Eryk Śledziński: Lech Poznan II → Lech Poznań
+- Jan Krzywański: Widzew Lodz II → Widzew Lodz
+- Adrian Damasiewicz: Jagiellonia Bialystok II → Jagiellonia Bialystok
+- Jakub Rabiczko: Jagiellonia Bialystok II → Jagiellonia Bialystok
+- Szymon Pankiewicz: Jagiellonia Bialystok II → Jagiellonia Bialystok
+- Maciej Kuczyński: Jagiellonia Bialystok II → Jagiellonia Bialystok
+- Eryk Kozłowski: Jagiellonia Bialystok II → Jagiellonia Bialystok
+- Zachary Zalewski: Jagiellonia Bialystok II → Jagiellonia Bialystok
+- Paweł Pakieła: Jagiellonia Bialystok II → Jagiellonia Bialystok
+- Maksim Kononov: Jagiellonia Bialystok II → Jagiellonia Bialystok
+- Bernardo Antunes: SC Farense U23 → SC Farense
+- Matteo Maccioni: USD Sestri Levante 1919 → Valenzana Mado SSD
+- António Gonçalves: Leixões SC U23 → Leixões SC
+- Rafał Mamla: Korona Kielce II → Korona Kielce
+- Michał Mikielewicz: Korona Kielce II → Korona Kielce
+- Franciszek Panek: Korona Kielce II → Korona Kielce
+- Igor Chmielewski: Korona Kielce II → Korona Kielce
+- Konrad Ciszek: Korona Kielce II → Korona Kielce
+- Kacper Minuczyc: Korona Kielce II → Korona Kielce
+- Kornel Toboła: Korona Kielce II → Korona Kielce
+- Zinho: Portimonense SAD U23 → Portimonense SAD
+- Jan Bienduga: Legia Warsaw II → Legia Warszawa
+- Mateusz Lauryn: Legia Warsaw II → Legia Warszawa
+- Bartosz Korżynski: Legia Warsaw II → Legia Warszawa
+- Filip Przybyłko: Legia Warsaw II → Legia Warszawa
+- Erik Mikanovich: Legia Warsaw II → Legia Warszawa
+- Samuel Kovacik: Legia Warsaw II → Legia Warszawa
+- Mateusz Szczepaniak: Legia Warsaw II → Legia Warszawa
+- Franciszek Stępniewski: Legia Warsaw U19 → Legia Warszawa
+- Alessandro Pagliari: Venezia Primavera → Borgosesia Calcio
+- Patryk Letkiewicz: Wisla Krakow II → Wisla Kraków
+- Jakub Stępak: Wisla Krakow II → Wisla Kraków
+- Bartosz Neugebauer: Wisla Krakow II → Wisla Kraków
+- Mariusz Kutwa: Wisla Krakow II → Wisla Kraków
+- Rafał Mikulec: Wisla Krakow II → Wisla Kraków
+- Maksym Tsymbalyuk: Wisla Krakow II → Wisla Kraków
+- Oliwier Pławiński: Wisla Krakow II → Wisla Kraków
+- Karol Tokarczyk: Wisla Krakow II → Wisla Kraków
+- Kacper Zagrodzki: Wieczysta Kraków II → Wieczysta Krakow
+- Nikola Knezevic: Wieczysta Kraków II → Wieczysta Krakow
+- Jakub Burek: Wisla Plock II → Wisla Plock
+- Szymon Wadas: Wisla Plock II → Wisla Plock
+- Przemysław Misiak: Wisla Plock II → Wisla Plock
+- Matvey Bokhno: Wisla Plock II → Wisla Plock
+- Marcin Więckowski: Wisla Plock II → Wisla Plock
+- Nikodem Rogowski: Wisla Plock II → Wisla Plock
+- Kacper Błaszkiewicz: Wisla Plock II → Wisla Plock
+- Marcin Kościelecki: Wisla Plock II → Wisla Plock
+- Hubert Śliczniak: Slask Wroclaw II → Slask Wroclaw
+- Dominik Klint: Slask Wroclaw II → Slask Wroclaw
+- Adrian Żulewski: Slask Wroclaw II → Slask Wroclaw
+- Patryk Sokołowski: Slask Wroclaw II → Slask Wroclaw
+- Przemyslaw Mazan: Slask Wroclaw II → Slask Wroclaw
+- Adam Ciućka: Slask Wroclaw II → Slask Wroclaw
+- Maksymilian Stangret: Slask Wroclaw II → Slask Wroclaw
+- Natnael Daniel: Ethiopia Nigd Bank SA → Kidus Giorgis SA
+- James Rhodes: LKS Lodz II → LKS Lodz
+- Lenard Szczygieł: LKS Lodz II → LKS Lodz
+- Szymon Frakowski: LKS Lodz II → LKS Lodz
+- Fabian Olejniczak: LKS Lodz II → LKS Lodz
+- Nevzat Üzel: Göztepe → Göztepe U19
+- Ege Yıldırım: Göztepe → Göztepe U19
+- Abdou Aziz Fall: Fenerbahce → Fenerbahce U19
+- Ada Yüzgeç: Galatasaray → Galatasaray U19
+- Furkan Çetinkaya: Corum FK → Corum FK U19
+- Egemen Aydın: Konyaspor → Konyaspor U19
+- Emir Gündoğdu: Konyaspor → Konyaspor U19
+- Ata Yanık: Konyaspor → Konyaspor U19
+- Arda Özyar: Kocaelispor → Kocaelispor U19
+- Cemilhan Aslan: Gaziantep FK → Gaziantep FK U19
+- Ali Osman Kalın: Gaziantep FK → Gaziantep FK U19
+- Muhammet Akmelek: Gaziantep FK → Gaziantep FK U19
+- Berk Deniz Çukurcu: Genclerbirligi Ankara → Genclerbirligi Ankara U19
+- Hamza Aydar: Genclerbirligi Ankara → Genclerbirligi Ankara U19
+- Ayaz Özcan: Genclerbirligi Ankara → Genclerbirligi Ankara U19
+- Azem Yortaç: Beşiktaş JK → Besiktas JK U19
+- Ege Albayrak: Kasimpasa → Kasimpasa U19
+- Salih Arıcı: Kasimpasa → Kasimpasa U19
+- Can Duran: Besiktas JK U19 → Kasimpasa U19
+- Efe Yiğit Üstün: Samsunspor → Samsunspor U19
+- Luca Stancic: Basaksehir FK → Basaksehir FK U19
+- Ege Öztürk: Basaksehir FK → Basaksehir FK U19
+- Hasan Yağız Döne: Caykur Rizespor → Caykur Rizespor U19
+- Yakup Ayan: Caykur Rizespor → Caykur Rizespor U19
+- Muhammed Damar: Amed SK → Amed SK U19
+- Yojan Garcés: Internacional de Bogotá → CD América de Cali
+- Yojan Garcés: Internacional de Bogotá → CD América de Cali
+- Jose Kohler: SpVgg Unterhaching → SpVgg Unterhaching II
+- Samuel Krenzer: SpVgg Unterhaching → SpVgg Unterhaching II
+- Lapo Klee: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Philipp Knörchen: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Luis Hasenstab: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Niklas Pfeiffer: SpVgg Unterhaching → SpVgg Unterhaching II
+- David Babic: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Nick Kaulfers: SpVgg Unterhaching → SpVgg Unterhaching II
+- Daris Ibrakovic: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Marinus Spann: SpVgg Unterhaching → SpVgg Unterhaching II
+- Samuel Weiß: SpVgg Unterhaching → SpVgg Unterhaching II
+- Luis Lemke: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Felix Müller: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Chris Smalling: Без клуба → FC Porto
+- Job Musuasua: Türkgücü München → Kirchheimer SC
+- Mateus: FC Alverca B → FC Alverca
+- Tiago Octávio: FC Alverca B → FC Alverca
+- Lucca Giuntini: FC Alverca B → FC Alverca
+- Rodrigo Catraio: FC Alverca B → FC Alverca
+- Thiago Pitarch: Real Madrid Castilla → Real Madrid
+- Jorge Cestero: Real Madrid Castilla → Real Madrid
+- Jesse Bisiwu: FC Barcelona Atlètic → FC Barcelona
+- Jorge Domínguez: Atlético Madrileño → Atlético de Madrid
+- Nizar El Jmili: Villarreal CF B → Villarreal CF
+- Luken Beitia: Real Sociedad B → Real Sociedad
+- Alex Marchal: Real Sociedad B → Real Sociedad
+- Alan Hernández: Club León U19 → Club León U21
+- Diego Galván: Club León U19 → Club León U21
+- Luis Rangel: Club León U19 → Club León U21
+- Issac Espinosa: Club León U19 → Club León U21
+- Karín Hernández: Club León U19 → Club León U21
+- Santiago Cisneros: Club León U19 → Club León U21
+- Emmanuel Ochoa: CD Cruz Azul → CD Cruz Azul U21
+- Bruno Salgado: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Eric Villegas: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Víctor Velázquez: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Kelvin Palacios: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Mateo Levy: CD Cruz Azul → CD Cruz Azul U21
+- Emiliano Castañeda: CD Cruz Azul U19 → CD Cruz Azul U21
+- Pedro Budib: CF Pachuca → CF Pachuca U21
+- Jonatan Ramírez: CF Pachuca U19 → CF Pachuca U21
+- Yaro Martínez: CF Pachuca U19 → CF Pachuca U21
+- Ian Zavala: CF Pachuca U19 → CF Pachuca U21
+- Nico Guillén: Sevilla Atlético → Sevilla FC
+- Ícaro da Conceição: CF América → CF América U21
+- Diego Arriaga: CF América → CF América U21
+- Alejandro Cárdenas: CF América → CF América U21
+- Derek Hernández: CF Monterrey U19 → CF Monterrey U21
+- César Bustos: CF Monterrey → CF Monterrey U21
+- Gabriel Beltrán: Club Necaxa U19 → Club Necaxa U21
+- Israel Tello: Club Necaxa U19 → Club Necaxa U21
+- Leonardo Arvizo: Club Necaxa U19 → Club Necaxa U21
+- Sergio Garcia Brothers: Querétaro FC → Querétaro FC U21
+- Emilio Albarran: Querétaro FC U19 → Querétaro FC U21
+- Érik Dueñas: Querétaro FC → Querétaro FC U21
+- Jesús Arellano: Querétaro FC → Querétaro FC U21
+- Álex Alcalá: Querétaro FC → Querétaro FC U21
+- Álex Valencia: Santos Laguna U19 → Querétaro FC U21
+- Héctor Guzmán: UNAM Pumas U19 → UNAM Pumas U21
+- Axel Rodríguez: UNAM Pumas U19 → UNAM Pumas U21
+- Walter Cauteruccio: ASD Giulianova → Nissa FC
+- Guillermo Santana: UNAM Pumas U19 → UNAM Pumas U21
+- Óscar Soto: CF Monterrey U21 → UNAM Pumas U21
+- Jonathan Flores: UNAM Pumas U19 → UNAM Pumas U21
+- Johan Ocampo: UNAM Pumas U19 → UNAM Pumas U21
+- Axel Trujillo: UNAM Pumas U19 → UNAM Pumas U21
+- Diego Villaluz: UNAM Pumas U19 → UNAM Pumas U21
+- Jan Zapata: UNAM Pumas U19 → UNAM Pumas U21
+- Ángel Rico: UNAM Pumas → UNAM Pumas U21
+- Julio Domínguez: UNAM Pumas U19 → UNAM Pumas U21
+- Oswaldo Hernández: UNAM Pumas U19 → UNAM Pumas U21
+- Jaime Obregón: UNAM Pumas U19 → UNAM Pumas U21
+- Giuseppe Cataldi: ASD Modica Calcio → Nissa FC
+- David Shrem: Deportivo Toluca → Deportivo Toluca U21
+- Diego Vargas: Deportivo Toluca U19 → Deportivo Toluca U21
+- Federico Sangiorgi: Virtusvecomp Verona → Nuova Igea Virtus
+- José Estrada: Deportivo Toluca U19 → Deportivo Toluca U21
+- Alberto Risco: Getafe CF B → Getafe CF
+- Emilio Herrera: Deportivo Toluca U19 → Deportivo Toluca U21
+- Nelson Cedillo: Santos Laguna → Santos Laguna U21
+- José Manuel Sifuentes: Santos Laguna U19 → Santos Laguna U21
+- Luis Gómez: Santos Laguna → Santos Laguna U21
+- Magnus Francisco López: Santos Laguna U19 → Santos Laguna U21
+- Guillermo Ortega: Puebla FC U19 → Puebla FC U21
+- Santiago Cruz: Puebla FC U19 → Puebla FC U21
+- Unai Santos: CA Osasuna Promesas → CA Osasuna
+- Antonio Carrera: Tigres UANL → Tigres UANL U21
+- Bryan Salazar: Tigres UANL U19 → Tigres UANL U21
+- Francesco Desiato: ASD Modica Calcio → Città di Gela
+- Dario Maltese: FC Trapani 1905 → Città di Gela
+- Aldo Torres: Tigres UANL U19 → Tigres UANL U21
+- Diego Ramírez: Tigres UANL U19 → Tigres UANL U21
+- Yerevan Barrón: FC Juárez U19 → FC Juárez U21
+- Brayan Molina: FC Juárez U19 → FC Juárez U21
+- Xavier Madrigal: FC Juárez U19 → FC Juárez U21
+- Luis Valencia: Atlas Guadalajara U19 → Atlas Guadalajara U21
+- Ramiro Bornia: AA Estudiantes de Río Cuarto II → Atlas Guadalajara U21
+- Gaetano Callari: FC Trapani 1905 → Siracusa Calcio
+- Carlos Hernández: CD Tapatío → Deportivo Guadalajara U21
+- Erick Aguilar: Deportivo Guadalajara U19 → Deportivo Guadalajara U21
+- Leonel Calderón: CD Tapatío → Deportivo Guadalajara U21
+- Antonio Manfredi: Cosenza Primavera → Vigor Lamezia Calcio
+- Alberto Castillo: Club Tijuana U19 → Club Tijuana U21
+- Roko Mijatovic: FC Bayern Munich U19 → FC Bayern Munich II
+- Winners Osawe: 1.FC Nuremberg → 1.FC Nuremberg II
+- Tim Schnitzer: FC Augsburg → FC Augsburg II
+- Faik Sakar: FC Augsburg → FC Augsburg II
+- Stefan Musa: TSV 1860 München II → TSV 1860 Munich
+- Ludwig Estermann: TSV 1860 München U19 → TSV 1860 Munich
+- Edon Krasniqi: TSV 1860 München U19 → TSV 1860 Munich
+- Mathew Collins: TSV 1860 München II → TSV 1860 Munich
+- Bruno Katz: VfL Wolfsburg U19 → VfL Wolfsburg
+- Brahim Moumou: TSV 1860 München II → TSV 1860 Munich
+- Elia Di Salvo: SpVgg Unterhaching U19 → SpVgg Unterhaching
+- Moritz Bronner: SpVgg Unterhaching U19 → SpVgg Unterhaching
+- Robin Lisewski: 1.FC Nuremberg II → 1.FC Nuremberg
+- Khalid Abu El Haija: 1.FC Nuremberg II → 1.FC Nuremberg
+- Eric Porstner: 1.FC Nuremberg II → 1.FC Nuremberg
+- Tobias Heß: 1.FC Nuremberg II → 1.FC Nuremberg
+- Ferdinand Borne: SpVgg Unterhaching U19 → SpVgg Unterhaching
+- Tarik Cirak: SpVgg Unterhaching U19 → SpVgg Unterhaching
+- Marc Kornwachs Barjuan: 1.FC Nuremberg II → 1.FC Nuremberg
+- Marko Soldic: 1.FC Nuremberg II → 1.FC Nuremberg
+- Can Moustfa: 1.FC Nuremberg II → 1.FC Nuremberg
+- Piet Scobel: 1.FC Nuremberg II → 1.FC Nuremberg
+- Marwin Schmitz: FC St. Pauli II → FC St. Pauli
+- Nick Schmidt: FC St. Pauli II → FC St. Pauli
+- Nikodem Gimiński: Legia Warsaw U19 → Legia Warsaw II
+- Oskar Krakowiak: Legia Warsaw U19 → Legia Warsaw II
+- Igor Owczarczyk: Legia Warsaw U19 → Legia Warsaw II
+- Oskar Putrzyński: Legia Warsaw U19 → Legia Warsaw II
+- Daniel Foks: Legia Warsaw U19 → Legia Warsaw II
+- Marcel Laszczyk: Legia Warsaw U19 → Legia Warsaw II
+- Norbert Merchel: Legia Warsaw U19 → Legia Warsaw II
+- Jakub Gliwa: Legia Warsaw U19 → Legia Warsaw II
+- Szymon Piasta: Legia Warsaw U19 → Legia Warsaw II
+- Edouard Etchemendigaray: Legia Warsaw U19 → Legia Warsaw II
+- Eymen Laghrissi: Karlsruher SC II → Karlsruher SC
+- Dominik Nowak: Slask Wroclaw U19 → Slask Wroclaw II
+- Mikołaj Słodkowski: Slask Wroclaw U19 → Slask Wroclaw II
+- Oliwier Czyzio: Slask Wroclaw U19 → Slask Wroclaw II
+- Jakub Kaszub: Slask Wroclaw U19 → Slask Wroclaw II
+- Mateusz Cegliński: Slask Wroclaw U19 → Slask Wroclaw II
+- Ben Jungfleisch: 1.FC Kaiserslautern U19 → 1.FC Kaiserslautern
+- Marvin Walter: TSV Aubstadt II → TSV Aubstadt
+- Noah Djalek: TSV Aubstadt II → TSV Aubstadt
+- Łukasz Zajączkowski: Slask Wroclaw U19 → Slask Wroclaw II
+- Aleksander Wołosowski: Slask Wroclaw U19 → Slask Wroclaw II
+- Mateusz Moskaluk: Slask Wroclaw U19 → Slask Wroclaw II
+- Bartosz Sadłocha: Slask Wroclaw U19 → Slask Wroclaw II
+- Konrad Sokołowski: Slask Wroclaw U19 → Slask Wroclaw II
+- Jannik Reubelt: TSV Aubstadt II → TSV Aubstadt
+- Konrad Mayer: SpVgg Bayreuth II → SpVgg Bayreuth
+- Moritz Gindel: SpVgg Bayreuth II → SpVgg Bayreuth
+- Nick Karnitzschky: SpVgg Bayreuth II → SpVgg Bayreuth
+- Louis Stöcker: SpVgg Bayreuth II → SpVgg Bayreuth
+- Burak Özkanlı: Hertha BSC II → Hertha BSC
+- Leon Madarac: FV Illertissen 1921 II → FV Illertissen 1921
+- Jonas Schwanke: Hannover 96 II → Hannover 96
+- Joschua Siewert: Hannover 96 II → Hannover 96
+- Asuma Ikari: Hannover 96 II → Hannover 96
+- Noah Engelbreth: Hannover 96 II → Hannover 96
+- Jasper Reinhold: Hannover 96 II → Hannover 96
+- Alexander Vogel: Hannover 96 II → Hannover 96
+- Yunus Ünal: Hannover 96 II → Hannover 96
+- Taycan Kurt: Hannover 96 II → Hannover 96
+- Tom Hobrecht: Hannover 96 II → Hannover 96
+- Tjark Möbius: 1.FC Magdeburg U19 → 1.FC Magdeburg
+- Felix Unger: FC Memmingen II → FC Memmingen
+- Hugo Rölleke: VfL Bochum II → VfL Bochum
+- Leon Sawas: VfL Bochum II → VfL Bochum
+- Luis Pick: VfL Bochum II → VfL Bochum
+- Benedikt Börner: SV Darmstadt 98 II → SV Darmstadt 98
+- Max Pfister: SV Darmstadt 98 II → SV Darmstadt 98
+- Quentin Enold: Dynamo Dresden II → SG Dynamo Dresden
+- Nick Bodon: Eintracht Braunschweig II → Eintracht Braunschweig
+- Damjan Kovacevic: Eintracht Braunschweig II → Eintracht Braunschweig
+- Sanoussy Ba: Eintracht Braunschweig II → Eintracht Braunschweig
+- Philip Hildesheim: Arminia Bielefeld II → Arminia Bielefeld
+- Till Wegener: Arminia Bielefeld U19 → Arminia Bielefeld
+- Eyyüb Yaşar: Arminia Bielefeld II → Arminia Bielefeld
+- Daniel Richter: Arminia Bielefeld U19 → Arminia Bielefeld
+- Ignace Abdelhamid: KVC Westerlo U21 → Zawisza Bydgoszcz
+- Davide Bifulco: FBC Gravina → Fidelis Andria 2018
+- Jacopo Russo: FBC Gravina → Fidelis Andria 2018
+- Raffaele Masi: Unipomezia Virtus → Fidelis Andria 2018
+- Cristian Gentile: Gelbison → Fidelis Andria 2018
+- Daniel Babaj: ASD Manfredonia Calcio → Fidelis Andria 2018
+- Hugo Leonardo De Oliveira: Palermo Primavera → AC Nardò
+- Leonardo De Franceschi: USD Sestri Levante 1919 → FBC Gravina
+- Silas Ostrzinski: Borussia Dortmund II → Borussia Dortmund
+- Mussa Kaba: Borussia Dortmund II → Borussia Dortmund
+- Enzo dos Santos: Borussia Dortmund U19 → Borussia Dortmund
+- Mathis Albert: Borussia Dortmund U19 → Borussia Dortmund
+- Justas Martinkus: AC Nardò → Ischia Isola Verde
+- Gabriele Capanni: US Recanatese → Ischia Isola Verde
+- Benno Kaltefleiter: RB Leipzig U19 → RB Leipzig
+- Tom Wisbereit: FC Augsburg II → FC Augsburg
+- Martin James: 1.FC Köln II → 1.FC Köln
+- Gil Neves: 1.FC Köln II → 1.FC Köln
+- Malek El Mala: 1.FC Köln II → 1.FC Köln
+- Elias Lahti: Hamburger SV U19 → Hamburger SV
+- Louis Lemke: Hamburger SV II → Hamburger SV
+- Mathieu Nguefack: Borussia Mönchengladbach II → Borussia Mönchengladbach
+- Fritz Fleck: Borussia Mönchengladbach II → Borussia Mönchengladbach
+- Iaia Manco Danfa: Borussia Mönchengladbach II → Borussia Mönchengladbach
+- Stefan Smarkalev: SV Werder Bremen II → SV Werder Bremen
+- Darwin Soylu: SV Werder Bremen II → SV Werder Bremen
+- Johannes Siebeking: FC Schalke 04 II → FC Schalke 04
+- Elias Etringer: SV 07 Elversberg II → SV 07 Elversberg
+- Florian Pruhs: SC Paderborn 07 II → SC Paderborn 07
+- Tristan Zobel: SC Paderborn 07 II → SC Paderborn 07
+- Lasse Eickel: SC Paderborn 07 II → SC Paderborn 07
+- Mannou Berger: Feyenoord U21 → Feyenoord Rotterdam
+- Tijme Wessels: Feyenoord U21 → Feyenoord Rotterdam
+- Jivayno Zinhagel: Feyenoord U21 → Feyenoord Rotterdam
+- Jerayno Schaken: Feyenoord U21 → Feyenoord Rotterdam
+- Yannick Gerritsen: FC Twente Enschede U21 → FC Twente Enschede
+- Mitchel Bakker: Без клуба → NEC Nijmegen
+- Nicolas Peter: Eintracht Frankfurt U19 → Eintracht Frankfurt II
+- Pedro Guimaraes: Eintracht Frankfurt U19 → Eintracht Frankfurt II
+- Andrea Maran: Modena FC → Modena Primavera
+- Christian Prenaj: Eintracht Frankfurt U19 → Eintracht Frankfurt II
+- Jesper Mosselaar: FC Groningen U21 → FC Groningen
+- Jismerai Dillema: FC Groningen U21 → FC Groningen
+- Jahelille Hall: FC Groningen U21 → FC Groningen
+- Niko Ilicevic: Eintracht Frankfurt U19 → Eintracht Frankfurt II
+- Pascal Kuiper: Sparta Rotterdam U21 → Sparta Rotterdam
+- Enis Kamga: 1.FC Kaiserslautern → 1.FC Kaiserslautern II
+- Leonardo Kraft: 1.FC Kaiserslautern U19 → 1.FC Kaiserslautern II
+- Jadiel Pereira da Gama: PEC Zwolle U21 → PEC Zwolle
+- Givaro Rahajaän: PEC Zwolle U21 → PEC Zwolle
+- David Schramm: 1.FC Kaiserslautern → 1.FC Kaiserslautern II
+- Dion Hofmeister: 1.FC Kaiserslautern → 1.FC Kaiserslautern II
+- Kian Scheer: 1.FC Kaiserslautern → 1.FC Kaiserslautern II
+- Owen Gibs: 1.FC Kaiserslautern → 1.FC Kaiserslautern II
+- Gilles van der Wal: PEC Zwolle U21 → PEC Zwolle
+- Ben Jungfleisch: 1.FC Kaiserslautern U19 → 1.FC Kaiserslautern II
+- Erik Müller: 1.FC Kaiserslautern → 1.FC Kaiserslautern II
+- Terence Lantveld: Go Ahead Eagles Deventer U21 → Go Ahead Eagles
+- Ofosu Boakye: Go Ahead Eagles Deventer U21 → Go Ahead Eagles
+- Jens Mathijsen: Willem II Tilburg U21 → Willem II Tilburg
+- Caleb Kramer: ADO Den Haag U21 → ADO Den Haag
+- David Wacht: SV Eintracht Trier 05 II → SV Eintracht Trier 05
+- Chris Filipe: SV Eintracht Trier 05 II → SV Eintracht Trier 05
+- Gani Büyükhan: Fortuna Sittard U21 → Fortuna Sittard
+- Martino Golinelli: Atalanta Under 18 → Südtirol Primavera
+- Elia Mondino: Südtirol Under 17 → Südtirol Primavera
+- Riccardo Nova: Cittadella Primavera → Südtirol Primavera
+- Xavier Mina: Südtirol Under 17 → Südtirol Primavera
+- Tiziano Ciampelli: Empoli Primavera → Südtirol Primavera
+- Thomas Nasso: Melbourne City FC U23 (VPL1) → Südtirol Primavera
+- Alessandro Colonna: Cremonese Under 17 → Cremonese Primavera
+- Roberto Ciceri: Cremonese Under 17 → Cremonese Primavera
+- Cristian Norelli: Cremonese Under 17 → Cremonese Primavera
+- Angelo Tramontana: Kickers Offenbach II → Kickers Offenbach
+- Nikolas Tatomirovic: Kickers Offenbach II → Kickers Offenbach
+- Finn Sauer: KSV Hessen Kassel II → KSV Hessen Kassel
+- Luke Schneider: KSV Hessen Kassel II → KSV Hessen Kassel
+- Silas Hagemann: KSV Hessen Kassel II → KSV Hessen Kassel
+- Mathias Faveri: Hellas Verona Under 18 → Mantova Primavera
+- Lennox Erb: SG Barockstadt Fulda-Lehnerz II → SG Barockstadt Fulda-Lehnerz
+- Jordy Balu: SG Barockstadt Fulda-Lehnerz II → SG Barockstadt Fulda-Lehnerz
+- Filippo Armanini: Union Brescia → Union Brescia Primavera
+- Jassem Nasraoui: VfR Mannheim II → VfR Mannheim
+- Luis Baumert: FC-Astoria Walldorf II → FC-Astoria Walldorf
+- Leander Skammelsrud: Ranheim IL → Ranheim IL II
+- Maurice Sylva: Ranheim IL → Ranheim IL II
+- Lucas Ahijado: Без клуба → Buriram United
+- Toni Moya: Без клуба → Buriram United
+- Marin Jurina: MTK Budapest → BG Pathum United
+- Tumisang Orebonye: Al-Shomooa SC → Hassania d'Agadir
+- Valentino Frasson: FC Trapani 1905 → Certosa Vigor Campagnano
+- Francisco Maurino: Athletic Club Palermo → Certosa Vigor Campagnano
+- Ciro Cipolletta: Fidelis Andria 2018 → Paganese Calcio 1926
+- Giuseppe Faiello: Scafatese Calcio 1922 → Paganese Calcio 1926
+- Mahmoud Ech Cheick: Südtirol Primavera → ASD Monastir 1983
+- Cristian Proietti: Vigor Lamezia Calcio → Unipomezia Virtus
+- Raffaele Cantisani: ASD Manfredonia Calcio → Unipomezia Virtus
+- Soufiane Lagzir: Paganese Calcio 1926 → Gelbison
+- Federico Napolitano: SS Milazzo → US Venafro
+- Ferdinando Borgia: Frosinone Primavera → Città di Anagni Calcio
+- Luis Markert: TSV Aubstadt II → DJK Schwebenried/Schwemmelsbach
+- Muhammad Ilham: Persebaya Surabaya → Persebaya Surabaya U20
+- Kenzo Albar: Persebaya Surabaya → Persebaya Surabaya U20
+- Sadida Putra: Persebaya Surabaya → Persebaya Surabaya U20
+- Ichsas Baihaqi: Persebaya Surabaya → Persebaya Surabaya U20
+- Aleandro Maulana: Persebaya Surabaya → Persebaya Surabaya U20
+- Allan Kateregga: Police FC → Musanze FC
+- Hafizh Rizkianur: Persija Jakarta → Persija Jakarta U20
+- Dia Syayid: Persija Jakarta → Persija Jakarta U20
+- Safaat Romadhona: PSS Sleman → PSS Sleman U20
+- Ferrel Arda: PSS Sleman → PSS Sleman U20
+- Surya Yudha: Dewa United Banten FC → Dewa United Banten U20
+- Lewis Sidabutar: Bhayangkara Presisi Lampung FC → Bhayangkara Presisi Lampung FC U20
+- Danish Wibowo: Bhayangkara Presisi Lampung FC → Bhayangkara Presisi Lampung FC U20
+- Rhaka Syafaka: PERSIB Bandung → PERSIB Bandung U20
+- Andhika Setiawan: Borneo FC Samarinda → Borneo FC Samarinda U20
+- Dika Nurdiansyah: Borneo FC Samarinda → Borneo FC Samarinda U20
+- Poetro Negoro: PSM Makassar → PSM Makassar U20
+- Jonathan Kawalo: PSM Makassar → PSM Makassar U20
+- Kaka Amrullah: PSM Makassar → PSM Makassar U20
+- Riski Aditya: PSM Makassar → PSM Makassar U20
+- Ettore Nicolosi: Palermo Primavera → SS Cittadella Modena
+- Filippo Ercolani: Forlì FC → SS Cittadella Modena
+- Emanuele Merolla: AC Afragolese 1944 → Casatese Merate
+- Francesco Purita: Lecco Primavera → Casatese Merate
+- Lorenzo Sala: Atalanta Primavera → Pro Sesto 1913
+- Giulio Mangano: Varese Football Club → Varese FC
+- Edoardo Capone: Varese Football Club → Varese FC
+- Gabriele Gruttadauria: Varese Football Club → Varese FC
+- Manuel Costante: Varese Football Club → Varese FC
+- Matteo Bruzzone: Varese Football Club → Varese FC
+- Stefano Molinari: Varese Football Club → Varese FC
+- Luca Tronci: Varese Football Club → Varese FC
+- Vittorio Salera: Varese Football Club → Varese FC
+- Gabriele Castellucchio: Cremonese Primavera → Varese FC
+- Orso Maria De Ponti: Varese Football Club → Varese FC
+- Andrea Malinverno: Varese Football Club → Varese FC
+- Andrea Piantoni: Varese Football Club → Varese FC
+- Roberto Beretta: Varese Football Club → Varese FC
+- Lorenzo Berbenni: Varese Football Club → Varese FC
+- Pietro Cogliati: Varese Football Club → Varese FC
+- Matthis Ndagijimana: Varese Football Club → Varese FC
+- Daniele Favale: Varese Football Club → Varese FC
+- Matteo Barzotti: Varese Football Club → Varese FC
+- Abraham Sovogui: Varese Football Club → Varese FC
+- Niccolò Romero: Varese Football Club → Varese FC
+- Andrea Zaffanelli: Varese Football Club → Varese FC
+- Mattia Barbaro: Varese Football Club → Varese FC
+- Eros Rao: Sant'Angelo → USD Castellanzese 1921
+- Lorenzo Bagnoli: ASD Tau Calcio Altopascio → US Città di Pontedera
+- Simone Menconi: SC Ligorna 1922 → US Città di Pontedera
+- Paolo Domenico Cattaneo: Sant'Angelo → Oltrepò FBC
+- Ekwalla Dioh: USD Castellanzese 1921 → Oltrepò FBC
+- Thierry Henry: Club Milano → Solbiatese Calcio 1911
+- Marcello Trippel: Borussia Mönchengladbach U19 → Borussia Mönchengladbach II
+- Artem Muradyan: Borussia Mönchengladbach U19 → Borussia Mönchengladbach II
+- Joseph Bellahsen: Borussia Mönchengladbach U19 → Borussia Mönchengladbach II
+- Marlon Siebert: Borussia Mönchengladbach U19 → Borussia Mönchengladbach II
+- Luke Fahrenhorst: Borussia Dortmund U19 → Borussia Dortmund II
+- Fadi Zarqelain: Borussia Dortmund U19 → Borussia Dortmund II
+- Adriano Verna: ASD Giulianova → Giulianova Calcio
+- Georgi David Todorov: ASD Giulianova → Giulianova Calcio
+- Joseph Moscardelli: ASD Giulianova → Giulianova Calcio
+- Thiago Menna: ASD Giulianova → Giulianova Calcio
+- Jason Schneider: VfL Bochum U19 → VfL Bochum II
+- Moritz Göttlicher: VfL Bochum U19 → VfL Bochum II
+- Tommaso Mazzei: ASD Giulianova → Giulianova Calcio
+- Aljaz Tavcar: ASD Giulianova → Giulianova Calcio
+- Stefano Mattiucci: ASD Giulianova → Giulianova Calcio
+- Tommaso Giorgetti: ASD Giulianova → Giulianova Calcio
+- Natan Cichy: ASD Giulianova → Giulianova Calcio
+- Mirko Esposito: ASD Giulianova → Giulianova Calcio
+- Federico Viero: ASD Giulianova → Giulianova Calcio
+- Maicol Origlio: ASD Giulianova → Giulianova Calcio
+- Filippo Falà: ASD Giulianova → Giulianova Calcio
+- Mattia Panzera: ASD Giulianova → Giulianova Calcio
+- Cosimo Forgione: ASD Giulianova → Giulianova Calcio
+- Gianvito Misuraca: ASD Giulianova → Giulianova Calcio
+- Alessandro Cangemi: ASD Giulianova → Giulianova Calcio
+- Tommaso D'Arcangelo: ASD Giulianova → Giulianova Calcio
+- Davide Arras: ASD Giulianova → Giulianova Calcio
+- Giuseppe Abagnale: ASD Giulianova → Giulianova Calcio
+- Jonathan Ciabuschi: ASD Giulianova → Giulianova Calcio
+- Granit Pllana: Pro Vercelli Primavera → Giulianova Calcio
+- Lukas van Ingen: SV Rödinghausen II → SV Rödinghausen
+- Max Koch: SV Rödinghausen II → SV Rödinghausen
+- Noah-Henry Köse: SV Rödinghausen II → SV Rödinghausen
+- Antonio Martiniello: ASD Giulianova → Giulianova Calcio
+- Clement Monga: ASD Giulianova → Giulianova Calcio
+- Moritz Brasas: SV Rödinghausen II → SV Rödinghausen
+- Allan Firmino Dantas: SV Rödinghausen II → SV Rödinghausen
+- Lasse Zumdieck: SV Rödinghausen II → SV Rödinghausen
+- Ansgar Kuhlmann: SV Rödinghausen II → SV Rödinghausen
+- Niklas Burlage: SV Rödinghausen II → SV Rödinghausen
+- Edoardo Vascotto: US Grosseto 1912 → L'Aquila 1927
+- Konstantin Sommer: SC Paderborn 07 U19 → SC Paderborn 07 II
+- Paul Wollenberg: SC Paderborn 07 U19 → SC Paderborn 07 II
+- Vigo Wernet: SC Paderborn 07 U19 → SC Paderborn 07 II
+- Andrea Bianchini: Fossombrone Calcio → FC Forsempronese
+- Francesco Antonini: Fossombrone Calcio → FC Forsempronese
+- Lorenzo Galeotti: Fossombrone Calcio → FC Forsempronese
+- Andrea Rotondo: Fossombrone Calcio → FC Forsempronese
+- Enrico Giunchetti: Fossombrone Calcio → FC Forsempronese
+- Vincenzo Imbriola: Fossombrone Calcio → FC Forsempronese
+- Gianmarco Fabbri: Fossombrone Calcio → FC Forsempronese
+- Filippo Ronchetti: Fossombrone Calcio → FC Forsempronese
+- Jacopo Morganti: Fossombrone Calcio → FC Forsempronese
+- Giovanni Bucchi: Fossombrone Calcio → FC Forsempronese
+- Alessandro Pezzi: Fossombrone Calcio → FC Forsempronese
+- Gabriele Carloni: Fossombrone Calcio → FC Forsempronese
+- Nael Ouaattar: Fossombrone Calcio → FC Forsempronese
+- Giacomo Ghinelli: Fossombrone Calcio → FC Forsempronese
+- Massimo Conti: Fossombrone Calcio → FC Forsempronese
+- Leonardo Pandolfi: Fossombrone Calcio → FC Forsempronese
+- Enea Di Paoli: Fossombrone Calcio → FC Forsempronese
+- Cristiano Giometti: Fossombrone Calcio → FC Forsempronese
+- Nicolas Belloni: Fossombrone Calcio → FC Forsempronese
+- Duarte Ferreira: Fossombrone Calcio → FC Forsempronese
+- Valerio Brocci: Certosa Vigor Campagnano → Termoli Calcio 1920
+- Luigi Delibra: ASD Angelana 1930 → Angelana 1930
+- Gianluca Buini: ASD Angelana 1930 → Angelana 1930
+- Matteo Capezzali: ASD Angelana 1930 → Angelana 1930
+- Giovanni Pungelli: ASD Angelana 1930 → Angelana 1930
+- Manuel Tarpanelli: ASD Angelana 1930 → Angelana 1930
+- Luca Ricci: ASD Angelana 1930 → Angelana 1930
+- Michele Di Rienzo: ASD Angelana 1930 → Angelana 1930
+- Filippo Cottini: ASD Angelana 1930 → Angelana 1930
+- Matheus Vieira: ASD Angelana 1930 → Angelana 1930
+- Andrea Santarelli: ASD Angelana 1930 → Angelana 1930
+- Matteo Fracassini: ASD Angelana 1930 → Angelana 1930
+- Nicholas Bensaja: ASD Angelana 1930 → Angelana 1930
+- Daniele Bartolini: ASD Angelana 1930 → Angelana 1930
+- Edoardo Bernabucci: ASD Angelana 1930 → Angelana 1930
+- Tommaso Onesti: ASD Angelana 1930 → Angelana 1930
+- Samuele Rosini: ASD Angelana 1930 → Angelana 1930
+- Matteo Brunetti: ASD Angelana 1930 → Angelana 1930
+- Riccardo Liotti: ASD Angelana 1930 → Angelana 1930
+- Matteo Zenoni: ASD Angelana 1930 → Angelana 1930
+- Gianmarco D'Alessandris: ASD Angelana 1930 → Angelana 1930
+- Lorenzo Boncompagni: ASD Angelana 1930 → Angelana 1930
+- Simone Tomassini: ASD Angelana 1930 → Angelana 1930
+- Davide Casagrande: ASD Angelana 1930 → Angelana 1930
+- Oumar Coulibaly: ASD Angelana 1930 → Angelana 1930
+- Damiano Butano: Nissa FC → Lanciano FC
+- Anthony Pavlesic: SK Sigma Olomouc B → SK Sigma Olomouc
+- Vaclav Zahradnicek: SK Sigma Olomouc B → SK Sigma Olomouc
+- Filip Urica: SK Sigma Olomouc B → SK Sigma Olomouc
+- Jakub Kowalski: Wisla Cracow U19 → Wisla Krakow II
+- Borys Sygut: Wisla Cracow U19 → Wisla Krakow II
+- Igor Stareńczak: Wisla Cracow U19 → Wisla Krakow II
+- Konrad Furman: Wisla Cracow U19 → Wisla Krakow II
+- Dawid Szczepaniak: Wisla Cracow U19 → Wisla Krakow II
+- Kacper Trznadel: Wisla Cracow U19 → Wisla Krakow II
+- Mateusz Maszewski: Wisla Cracow U19 → Wisla Krakow II
+- Tomasz Sałaj: Wisla Cracow U19 → Wisla Krakow II
+- Mateusz Kania: Wisla Cracow U19 → Wisla Krakow II
+- Stanislaw Kwiatkowski: Korona Kielce U19 → Korona Kielce II
+- Kacper Mastalski: Korona Kielce U19 → Korona Kielce II
+- Mikołaj Podwysocki: Korona Kielce U19 → Korona Kielce II
+- Bartosz Piotrowski: Korona Kielce U19 → Korona Kielce II
+- Szymon Talarczyk: Korona Kielce U19 → Korona Kielce II
+- Filip Skwarczyński: Korona Kielce U19 → Korona Kielce II
+- Maksymilian Podwysocki: Korona Kielce U19 → Korona Kielce II
+- Adrian Socha: Korona Kielce U19 → Korona Kielce II
+- Richard Kasik: SK Artis Brno B → SK Artis Brno
+- Danijel Kolaric: SK Artis Brno B → SK Artis Brno
+- Ismael Sylla: SK Artis Brno B → SK Artis Brno
+- Ondrej Prodelal: FC Zbrojovka Brno B → FC Zbrojovka Brno
+- Alexandr Urban: 1.FC Slovacko B → 1.FC Slovacko
+- Adam Alabi: 1.FC Slovacko B → 1.FC Slovacko
+- Filip Hruska: 1.FC Slovacko B → 1.FC Slovacko
+- Ousman Ceesay: 1.FC Slovacko B → 1.FC Slovacko
+- Stepan Bachurek: FC Zlin B → FC Zlin
+- David Grygera: FC Zlin B → FC Zlin
+- Jiri Stefan: FC Zlin B → FC Zlin
+- Tomas Hellebrand: FC Zlin B → FC Zlin
+- Tomas Fojtu: FC Zlin B → FC Zlin
+- Filip Dornak: FC Zlin B → FC Zlin
+- Moustapha Toure: FC Zlin B → FC Zlin
+- Víctor Dávila: Без клуба → CF América
+- Israel Tello: Club Necaxa U19 → Club Necaxa
+- Manex Rezola: Real Madrid C → Real Madrid Castilla
+- Javi Aznar: Atlético Madrid C → Atlético Madrileño
+- Gino Bernardini: US Follonica Gavorrano → Seravezza Pozzi Calcio
+- Andrea Lazzareschi: Villa Valle → Seravezza Pozzi Calcio
+- Jesus Barrios: Atlético Madrid C → Atlético Madrileño
+- Kevin Ingreso: SV Drochtersen/Assel II → SV Drochtersen/Assel
+- Maurits Nagel: SV Drochtersen/Assel II → SV Drochtersen/Assel
+- Martin Sattler: SV Drochtersen/Assel II → SV Drochtersen/Assel
+- Louis Grobauer: 1.FC Phönix Lübeck II → 1.FC Phönix Lübeck
+- Christen Mensah: 1.FC Phönix Lübeck II → 1.FC Phönix Lübeck
+- Mika Meyer: 1.FC Phönix Lübeck II → 1.FC Phönix Lübeck
+- Keita Nakano: Tegevajaro Miyazaki → CE Europa
+- Henry Jeschonek: VfB Lübeck II → VfB Lübeck
+- Torben Sachau: VfB Lübeck II → VfB Lübeck
+- Jaromir Grimm: VfB Lübeck II → VfB Lübeck
+- Elias Al Sadi: VfB Lübeck II → VfB Lübeck
+- Gabriel Roskovic: FC Zürich U19 → FC Zürich U21
+- Doron Lichtenstein: FC Zürich → FC Zürich U21
+- Mario Greco: FC Zürich → FC Zürich U21
+- Diego Mina: FC Lugano → FC Lugano II
+- Carbone: FC Lugano → FC Lugano II
+- Thomas Heller: FC Lugano U19 → FC Lugano II
+- Leon Gervasini: FC Lugano U17 → FC Lugano II
+- Jason Parente: FC Lugano → FC Lugano II
+- Andrea Riva: FC Lugano U19 → FC Lugano II
+- Yassine Ourais: FC Lugano U19 → FC Lugano II
+- Christian Raffa: FC Lugano → FC Lugano II
+- Aaron Davis: FC Lugano U19 → FC Lugano II
+- Ian Tiraboschi: FC Lugano → FC Lugano II
+- Nicolò Puddu: FC Lugano → FC Lugano II
+- Kenan Jakupovic: FC Lugano U17 → FC Lugano II
+- Bryan Zurmühle: FC Lugano → FC Lugano II
+- Noë Tschanz: BSC Young Boys → BSC Young Boys U21
+- Julian Schmutz: FC Basel 1893 U19 → FC Basel 1893 U21
+- Bennett Hoch: FC Basel 1893 → FC Basel 1893 U21
+- Abdulmanaf Kerim: FC Basel 1893 U19 → FC Basel 1893 U21
+- Gentian Ponik: FC Basel 1893 U19 → FC Basel 1893 U21
+- Nico Leccadito: FC Schaffhausen II → FC Schaffhausen
+- Granit Islami: FC Schaffhausen II → FC Schaffhausen
+- Boris Babic: FC Schaffhausen II → FC Schaffhausen
+- Jérôme Bieler: FC Luzern → FC Luzern U21
+- Yaya Diémé: Racing Strasbourg B → RC Strasbourg Alsace
+- Lassine Diarra: Olympique Lyon B → Olympique Lyon
+- Louis Mezerette: AJ Auxerre B → AJ Auxerre
+- Alvin Petit Dol: AJ Auxerre B → AJ Auxerre
+- Ryan Rodin: AJ Auxerre B → AJ Auxerre
+- Maël Gernigon: Angers SCO U19 → Angers SCO
+- Christian Polyzoudis: Melbourne City FC U23 (VPL1) → South Melbourne FC
+- Corentin Issanchou: Rodez Aveyron Football B → Rodez AF
+- Yanis Dahalani: Rodez Aveyron Football B → Rodez AF
+- Noah Marec: EA Guingamp B → EA Guingamp
+- Idriss Planeix: EA Guingamp B → EA Guingamp
+- Panagiotis Armenakas: Sydney Olympic FC → Avondale FC
+- Cheikh Sadio: Sonacos de Diourbel → AJEL de Rufisque
+- Ibrahima Dieng: ASC HLM Dakar → AS Pikine
+- Marcel Bakhoum: Wally Daan FC → ASC Jaraaf
+- Albert Bougazelli: Teungueth FC → US Ouakam
+- Issa Tsukamoto: Tegevajaro Miyazaki → Veertien Mie
+- Yutaka Takeuchi: Kataller Toyama → Verspah Oita
+- Prince Chinedu: UD Logroñés Promesas → UD Logroñés
+- Andrija Milicevic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Milos Soprenic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Andrija Milasinovic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Stefan Tomovic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Uros Mihailovic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Vahid Gicic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Savo Radanovic: Red Star Belgrade U19 → Graficar Belgrad
+- Strahinja Baucal: Red Star Belgrade U19 → Graficar Belgrad
+- Matej Strika: Red Star Belgrade → Graficar Belgrad
+- Ognjen Matanovic: Red Star Belgrade U19 → Graficar Belgrad
+- Dimitrije Saric: Red Star Belgrade U19 → Graficar Belgrad
+- Stefan Mitrovic: FK Zeleznicar Pancevo → FK Smederevo 1924
+- Luka Avramovic: FK Spartak Subotica U19 → FK Spartak Subotica
+- Strahinja Vasilic: FK Spartak Subotica U19 → FK Spartak Subotica
+- David Angelevski: FK Spartak Subotica U19 → FK Spartak Subotica
+- Aleksandar Kahriman: FK Vozdovac U19 → FK Vozdovac
+- Filip Pavlovic: FK Vozdovac U19 → FK Vozdovac
+- Nikola Cejovic: FK Vozdovac U19 → FK Vozdovac
+- Ahmed Skrijelj: FK Vozdovac U19 → FK Vozdovac
+- Luka Maksimovic: FK Vozdovac U19 → FK Vozdovac
+- Robert Kampa: 1.FC Magdeburg → 1.FC Magdeburg II
+- Rick Lemke: 1.FC Magdeburg U19 → 1.FC Magdeburg II
+- Tarek Chahed: 1.FC Magdeburg → 1.FC Magdeburg II
+- Leander Beimborn: 1.FC Magdeburg U19 → 1.FC Magdeburg II
+- Eldin Dzogovic: 1.FC Magdeburg → 1.FC Magdeburg II
+- Andrej Pivas: FK Vojvodina Novi Sad → OFK Vrsac
+- Magnus Baars: 1.FC Magdeburg → 1.FC Magdeburg II
+- Kevin Manthey: 1.FC Magdeburg → 1.FC Magdeburg II
+- Novak Gojkov: FK Vojvodina Novi Sad → OFK Vrsac
+- Konstantin Heide: Hertha BSC → Hertha BSC II
+- Christian Seibert: Hertha BSC U19 → Hertha BSC II
+- Ognjen Alempijevic: FK Mladost Lucani → FK Borac 1926 Cacak
+- Mateo Kesikj: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Nenad Grujic: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Kian Todorovic: Hertha BSC → Hertha BSC II
+- Niklas Hildebrandt: Hertha BSC → Hertha BSC II
+- Uros Damnjanovic: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Islam Mohammed Kpare: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Matija Budjevac: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Jakov Jovanovic: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Nikola Paunovic: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Jovan Miladinovic: FK Zeleznicar Pancevo → FK Bor 1919
+- Vojin Marinkovic: FK Partizan Belgrade → FK Teleoptik Zemun
+- Dusan Makevic: FK Partizan Belgrade → FK Teleoptik Zemun
+- Dusan Jovanovic: FK Partizan Belgrade → FK Teleoptik Zemun
+- Matija Ninic: FK Partizan Belgrade → FK Teleoptik Zemun
+- Janek Reetz: FSV 63 Luckenwalde II → FSV 63 Luckenwalde
+- Dmitriy Shalenko: Akademia FC Krasnodar U17 → FC Krasnodar II
+- Leonid Salikhov: Akademia CSKA Moscow U17 → CSKA Moscow II
+- Aleksandr Shirov: Akademia Dynamo Moscow U17 → Dynamo Moscow II
+- Danil Avramenko: Dynamo 2 Moscow → Dynamo Moscow II
+- Artem Shpinkov: Dynamo 2 Moscow → Dynamo Moscow II
+- Arseniy Khvalko: Dynamo 2 Moscow → Dynamo Moscow II
+- Ivan Lisovskiy: Akademia Dynamo Moscow U17 → Dynamo Moscow II
+- Artem Lisovskiy: Akademia Dynamo Moscow U17 → Dynamo Moscow II
+- Daniil Golovskoy: Akademia Dynamo Moscow U17 → Dynamo Moscow II
+- Vladislav Stepanov: Dynamo 2 Moscow → Dynamo Moscow II
+- Andrey Mikhaylenko: Dynamo 2 Moscow → Dynamo Moscow II
+- Ivan Zhunaev: Akademia Dynamo Moscow U17 → Dynamo Moscow II
+- Vyacheslav Yarosh: Akademia Dynamo Moscow U17 → Dynamo Moscow II
+- Danil Roslyakov: Rodina-3 Moscow → Rodina Moscow II
+- Ilya Gorbachev: Rodina 2 Moscow → Rodina Moscow II
+- Aleksandr Lazarev: Rodina 2 Moscow → Rodina Moscow II
+- Magomed Omarov: Rodina-3 Moscow → Rodina Moscow II
+- Artem Kriulskiy: Rodina-3 Moscow → Rodina Moscow II
+- Ivan Makarov: Rodina-3 Moscow → Rodina Moscow II
+- Ivan Vozrastov: Rodina 2 Moscow → Rodina Moscow II
+- Grigoriy Ryzhkov: Akademia Zenit St. Petersburg U17 → Zenit St. Petersburg II
+- Aleksandr Yudin: Akademia Zenit St. Petersburg U17 → Zenit St. Petersburg II
+- Egor Potapenko: Akademia Zenit St. Petersburg U17 → Zenit St. Petersburg II
+- Nikita Ivchenko: Akademia Zenit St. Petersburg U17 → Zenit St. Petersburg II
+- Denis Avdeev: Akademia Lokomotiv Moskau U17 → Lokomotiv Moscow II
+- Azamat Tebiev: Akademia FC Rostov U16 → FC Rostov II
+- Valeriy Gorbach: FC Rostov 2 → FC Rostov II
+- Vadim Vlasov: FC Rostov 2 → FC Rostov II
+- Nikita Levnikov: FC Rostov 2 → FC Rostov II
+- Artem Logvinenko: FC Rostov 2 → FC Rostov II
+- Bogdan Borisenko: FC Rostov 2 → FC Rostov II
+- Alim Alimov: FC Rostov 2 → FC Rostov II
+- Maksim Vanidovskiy: FC Rostov 2 → FC Rostov II
+- Maksim Gorbunov: FC Rostov 2 → FC Rostov II
+- Timur Aduev: FC Rostov Academy U17 → FC Rostov II
+- Saveliy Galyuta: FC Rostov 2 → FC Rostov II
+- Dmitriy Shantaliy: FC Rostov 2 → FC Rostov II
+- Ilya Tuniev: FC Rostov Academy U17 → FC Rostov II
+- Kristian Mikhailov: FC Rostov 2 → FC Rostov II
+- Eduard Akopyan: FC Rostov Academy U17 → FC Rostov II
+- Vadim Rassadin: FC Rostov 2 → FC Rostov II
+- Ruslan Pichienko: Spartak 2 Moscow → Spartak Moskow II
+- Pavel Egorov: Spartak 2 Moscow → Spartak Moskow II
+- Ivan Meriakri: Akademia Spartak Moscow U17 → Spartak Moskow II
+- Maksim Prokopjev: Akademia Spartak Moscow U17 → Spartak Moskow II
+- Georgiy Khanin: Spartak 2 Moscow → Spartak Moskow II
+- Nikita Zakharov: Spartak 2 Moscow → Spartak Moskow II
+- Egor Maksimov: Spartak 2 Moscow → Spartak Moskow II
+- Semen Chukhleb: Akademia Spartak Moscow U17 → Spartak Moskow II
+- Marat Shayakhmetov: Akademia Spartak Moscow U17 → Spartak Moskow II
+- Fedor Vinokurenkov: Spartak 2 Moscow → Spartak Moskow II
+- Vladimir Pavlov: Akademia Spartak Moscow U17 → Spartak Moskow II
+- Pavel Pelevin: Spartak 2 Moscow → Spartak Moskow II
+- Aleksandr Konkin: Spartak 2 Moscow → Spartak Moskow II
+- Ruslan Bystritskiy: Akademia Spartak Moskau U16 → Spartak Moskow II
+- Vadim Tsygankov: Spartak 2 Moscow → Spartak Moskow II
+- Artem Kozub: Akademia Rubin Kazan U17 → Rubin Kazan II
+- Arseniy Tolstov: Rubin 2 Kazan → Rubin Kazan II
+- Rival Gumerov: Rubin 2 Kazan → Rubin Kazan II
+- Vladislav Postrigan: Akron-2 Togliatti → Akron Akademia Konoplev
+- Matvey Bezrogov: Akron-2 Togliatti → Akron Akademia Konoplev
+- Marat Khametov: Akron-2 Togliatti → Akron Akademia Konoplev
+- Kirill Simonov: Akron-2 Togliatti → Akron Akademia Konoplev
+- Kirill Bazhukhin: Akron-2 Togliatti → Akron Akademia Konoplev
+- Georgiy Gablia: Akron-2 Togliatti → Akron Akademia Konoplev
+- Ruslan Metkalov: Akron-2 Togliatti → Akron Akademia Konoplev
+- Nikita Lyzlov: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Artem Akhmedyanov: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Arman Manukyan: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Tigran Arabachyan: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Oleg Karagodin: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Ivan Metin: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Danil Zheludkov: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Aleksey Osipov: Chertanovo Moscow → Chertanovo Moskau II
+- Danila Manyak: Chertanovo Moscow → Chertanovo Moskau II
+- Zakhar Evdachev: Chertanovo Moscow → Chertanovo Moskau II
+- Lev Akimov: Chertanovo Moscow → Chertanovo Moskau II
+- Danil Puzanov: Chertanovo Moscow → Chertanovo Moskau II
+- Umakhan Gamzalaev: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Gadzhi Ibragimov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Vagab Budaykhanov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Niyaz Gyulmagomedov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Ali Gulin: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Abdulla Ashurov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Khabib Agalarov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Gamid Shamkhalov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Danylo Garazha: FC Oleksandriya → FC Oleksandriya-2
+- Volodymyr Sharun: Nyva Ternopil → Sambir-Nyva-2 Ternopil
+- Dmytro Paruta: Nyva Ternopil → Sambir-Nyva-2 Ternopil
+- Dmytro Pokas: Nyva Ternopil → Sambir-Nyva-2 Ternopil
+- Giuseppe Mazzaglia: US Folgore Caratese → Piacenza Calcio 1919
+- Nikita Generalov: FC Nizhny Novgorod II → FC Nizhniy Novgorod
+- Leonardo Taina: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Paolo Guerci: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Lorenzo Novati: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Dario Suardi: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Raffaele Alcibiade: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Leonardo Tambussi: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Filippo Boccenti: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Jean Castegnaro: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Elia Caneva: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Antonio Napoletano: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Simone Confalonieri: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Andrea Autiero: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Christian Patitucci: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Giorgio Panigada: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Luca Palesi: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Alberto Filiciotto: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Giacomo Armaroli: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Arber Hasanaj: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Amin Ababio: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Lorenzo Pio Marino: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Edoardo Callegari: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Alberto Boschetti: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Max Pajonk: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Jacopo Zoli: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Gianmarco Lancellotti: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Alessandro Minasola: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Edmund Isaac Boateng: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Tommaso Spaviero: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Mattia Mencagli: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Domenico Grasso: ASD Nibbiano & Valtidone → Nibbiano & Valtidone
+- Manuel Azzini: Union Brescia Primavera → Calcio Pavonese
+- Simon Schwarz: FK Pirmasens II → FK Pirmasens
+- Noah Stilb: FK Pirmasens II → FK Pirmasens
+- Benedikt Stratmann: FK Pirmasens II → FK Pirmasens
+- Till Decker: FK Pirmasens II → FK Pirmasens
+- Zsombor Ráki: SSV Jahn Regensburg U19 → SSV Jahn Regensburg II
+- Leon Hoffmann: SSV Jahn Regensburg U19 → SSV Jahn Regensburg II
+- Besmir Bilali: SSV Jahn Regensburg U19 → SSV Jahn Regensburg II
+- Niklas Schicha: SSV Jahn Regensburg U19 → SSV Jahn Regensburg II
+- Felix Walther: FC Ingolstadt 04 U19 → FC Ingolstadt 04 II
+- Dragoș Albu: Без клуба → Corvinul Hunedoara
+- Robert Ergas: Без клуба → Cerro Largo FC
+- Robert Ergas: Без клуба → Cerro Largo FC
+- Rooney Troya: San Antonio FC → CD Universidad Católica
+- Saenddy Yánez: San Antonio FC → CD Universidad Católica
+- Emmanuel Mbong: Balzan FC → Naxxar Lions FC
+- David Djédjé: SC Bastia B → SC Bastia
+- Fallou Fall: Olympique Lyon B → SC Bastia
+- Parfait Mandanda: SM Caen B → SM Caen
+- Diabé Kanouté: SM Caen B → SM Caen
+- Enzo Somon: Amiens SC U19 → Amiens SC
+- Liam McKay: Qormi FC → Gudja United FC
+- Marvin Adélaïde: Amiens SC → Paris 13 Atletico
+- Juan Cruz de los Santos: Club Nacional → Al-Jazira Club
+- Wout Faes: Leicester City → Shabab Al-Ahli Club
+- Yahya Al-Ghassani: Shabab Al-Ahli Club → Sharjah FC
+- Abdullrahman Al-Ameri: Al-Wasl SC → Al-Wahda FC
+- Bader Abaelaziz: Shabab Al-Ahli Club → Kalba FC
+- Mamadou Ndoye: Wally Daan FC → Kalba FC
+- Ahmed Mahmoud: Al-Jazira Club → Khor Fakkan SSC
+- Dominique Simon: FK Pardubice → Hatta Club
+- Pedro Leão: Orlando City B → Hatta Club
+- Anthony Tra Bi Tra: Al-Akhdar SC → JS Saoura
+- Christian Dahl: IL Bjarg → IL Gneist
+- Håkon Hellesøy: SK Brann → SK Brann II
+- Chinedu Cyprain Ononogbo: SK Brann → SK Brann II
+- Vadim Shilov: Zenit St. Petersburg → Zenit 2 St. Petersburg
+- Chisom Okereke: Mosta FC → San Gwann FC
+- Murilo Freire: Sliema Wanderers → SC Mellieha
+- Sefer Özdemir: SV Grün-Weiß Brauweiler → Türkischer SV Düren
+- Mathias Conti: Victoria Hotspurs FC → SC Mellieha
+- Shola Shodiya: Gudja United FC → SC Mellieha
+- Magomed Omarov: Rodina-3 Moscow → Rodina 2 Moscow
+- Jake Borg: Naxxar Lions FC → Mqabba FC
+- Kayden Farrugia: Attard FC → Qormi FC
+- Joseph Zerafa: Balzan FC → Qormi FC
+- Nicolas Schembri: Attard FC → Qormi FC
+- Kenley Scerri: Vittoriosa Stars FC → Qormi FC
+- Aidan Agius: Swieqi United FC → Qormi FC
+- Miguel Zammit: Fgura United FC → Qrendi FC
+- Misael Tabone: Mqabba FC → Kalkara FC
+- Lee Joe Schembri: Senglea Athletic FC → Kalkara FC
+- Gabriel Azzopardi: Naxxar Lions FC → Lija Athletic FC
+- Ruslan Dzhioev: Akademia Dinamo Moskau U16 → Dynamo 2 Moscow
+- Aleksandr Shirov: Akademia Dynamo Moscow U17 → Dynamo 2 Moscow
+- Ivan Lisovskiy: Akademia Dynamo Moscow U17 → Dynamo 2 Moscow
+- Vyacheslav Yarosh: Akademia Dynamo Moscow U17 → Dynamo 2 Moscow
+- Joseph Attard: Senglea Athletic FC → Marsa FC
+- Kieren Micallef: SC Mellieha → Marsa FC
+- Daryl Gerada: Victoria Hotspurs FC → Pembroke Athleta FC
+- Gianluca Aquilina: Mqabba FC → Pembroke Athleta FC
+- Samuel Cassar: Zurrieq FC → Senglea Athletic FC
+- Philip Baloteli: Zebbug Rangers FC → Senglea Athletic FC
+- Simone Betelli: Conegliano Calcio → FCD Conegliano
+- Lorenzo Rubboli: Conegliano Calcio → FCD Conegliano
+- Denis Chiesa: Conegliano Calcio → FCD Conegliano
+- Andrea Giacomazzi: Conegliano Calcio → FCD Conegliano
+- Leonardo Raggio: Conegliano Calcio → FCD Conegliano
+- Filippo Piccoli: Conegliano Calcio → FCD Conegliano
+- Tommaso Cazzin: Conegliano Calcio → FCD Conegliano
+- Nicholas Pramparo: Conegliano Calcio → FCD Conegliano
+- Andrea Beghetto: Conegliano Calcio → FCD Conegliano
+- Simone Andolfatto: Conegliano Calcio → FCD Conegliano
+- Federico Fagan: Conegliano Calcio → FCD Conegliano
+- Alberto Pignat: Conegliano Calcio → FCD Conegliano
+- Alberto Forlani: Conegliano Calcio → FCD Conegliano
+- Nicola Dal Pietro: Conegliano Calcio → FCD Conegliano
+- Patrik Rossetto: Conegliano Calcio → FCD Conegliano
+- Giacomo Vettorazzo: Conegliano Calcio → FCD Conegliano
+- Filippo Peron: Conegliano Calcio → FCD Conegliano
+- Giovanni D'Arezzo: Conegliano Calcio → FCD Conegliano
+- Tommaso Cecchin: Conegliano Calcio → FCD Conegliano
+- Luca Nicoloso: Conegliano Calcio → FCD Conegliano
+- Alessandro Piu: Conegliano Calcio → FCD Conegliano
+- Davide Arrondini: Conegliano Calcio → FCD Conegliano
+- Gianmarco Zigoni: Conegliano Calcio → FCD Conegliano
+- Samuele Mazzer: Conegliano Calcio → FCD Conegliano
+- Ardit Nuredini: Giugliano Calcio 1928 → ASD Brian Lignano
+- Javi Boix Garcia: Oltrepò FBC → AC Este 1920
+- Pablo Mangiaracina-Lopez: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Flavio Korreshi: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Luca Kristancig: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Alessandro Ligi: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Francesco Mazzolo: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Amelio Troka: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Alessandro Busolini: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Davide Tosolini: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Mattia Romanin: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Matteo Pinton: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Giovanni Foschiani: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Gabriel Marcon: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Milan Kocic: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Filippo Bortolato: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Filippo Pinton: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Luca Peschiutta: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Elio Capellari: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Alessandro Fanin: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Marco De Anna: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Matteo Gozzerini: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Carmine De Sena: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Simone Toffoli: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Morris Nagostinis: LME Lavarian Mortean Esperia → LME LavarianMortean Esperia
+- Ante Utrobicic: NK Lokomotiva Zagreb → NK Sesvete
+- Petar Zvonimir Kostelac: NK Lokomotiva Zagreb → NK Sesvete
+- Anes Huskic: NK Lokomotiva Zagreb → NK Sesvete
+- Bartol Kardum: HNK Gorica → NK Sesvete
+- Amad Keita: NK Lokomotiva Zagreb → NK Sesvete
+- Vito Medic: Slaven Belupo Koprivnica → NK Hrvace
+- Roko Valincic: HNK Rijeka → HNK Orijent Rijeka
+- Talib Sibi: HNK Rijeka → HNK Orijent Rijeka
+- Josip Cundekovic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Dario Maricevic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Emmanuel Okeke: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Tin Ljubanovic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Ivan Stanic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Slavko Kasalo: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Lovro Kristo: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Ivan Dominic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Niko Radujkovic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Josip Palic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Martin Vrdoljak: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Matija Tunjic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Marko Novak-Stanko: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Gabriel Leko: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- David Ante Omazic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Mirko Sugic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Shettima Ibrahim: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Filip Musa: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Matija Fintic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Halid Al-Ghoul: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Marko Prenkpalaj: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Jakov Dzolan: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Boluwatife Ayomide Olabige: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Filip Jazvic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Luka Klindic Moric: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Kevin Lekaj: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Luka Vracar: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Mario Karadakic: NK Dubrava Tim kabel → NK Dubrava Zagreb
+- Domagoj Begonja: NK Varazdin → NK Kustosija Zagreb
+- Lovro Dukic: HNK Gorica → NK Kustosija Zagreb
+- Medin Gashi: HNK Gorica → NK Kustosija Zagreb
+- Filipe Jose Quissequel: NK Varazdin → NK Kustosija Zagreb
+- David Nwolokor: HNK Rijeka → NK Opatija
+- Roko Gabric: HNK Hajduk Split → NK Croatia Zmijavci
+- Duje Milisic: HNK Hajduk Split → NK Croatia Zmijavci
+- Raymond Anthony: HNK Hajduk Split → NK Croatia Zmijavci
+- Ivano Ora: HNK Hajduk Split → NK Croatia Zmijavci
+- Sebastijan Kajtazi: HNK Hajduk Split → NK Croatia Zmijavci
+- Peter Nnaemeka Ugwuodo: HNK Hajduk Split → NK Croatia Zmijavci
+- Egor Molchan: GNK Dinamo Zagreb → GNK Dinamo Zagreb II
+- Noa Godec: NK Lokomotiva Zagreb → HNK Segesta Sisak
+- Roman Salenko: Dynamo Kyiv U21 → Dynamo Kyiv
+- Vitaliy Lobko: Dynamo Kyiv U21 → Dynamo Kyiv
+- Denys Gryshkevych: Polissya-2 Zhytomyr → Polissya Zhytomyr
+- Kiril Kobernyuk: Polissya-2 Zhytomyr → Polissya Zhytomyr
+- Yaroslav Karaman: Polissya-2 Zhytomyr → Polissya Zhytomyr
+- Béni Makouana: Polissya-2 Zhytomyr → Polissya Zhytomyr
+- Yuriy Kokodynyak: Karpaty Lviv U21 → Karpaty Lviv
+- Ivan Chaban: Karpaty Lviv U21 → Karpaty Lviv
+- Anton Vydrych: Veres Rivne U21 → NK Veres Rivne
+- Konstantinos Panagi: Omonia Nicosia → ASIL Lysi
+- Stefanos Paraskevopoulos: AO Agia Napa → Anagennisi Derynia
+- Efthymios Efthymiou: Omonia Aradippou → Ermis Aradippou
+- Nikolas Chatzivarnava: Karmiotissa FC → AEP Polemidia
+- Melvin Kick: SSV Vorsfelde → SSV Vorsfelde II
+- Leander Borchers: SSV Vorsfelde → SSV Vorsfelde II
+- Theofanis Bakoulas: Olympiacos Piraeus B → Olympiacos Piraeus
+- Christos Filis: Olympiacos Piraeus B → Olympiacos Piraeus
+- Dimitrios Monastirlis: PAOK Thessaloniki B → PAOK Thessaloniki
+- Dimitrios Bataoulas: PAOK Thessaloniki B → PAOK Thessaloniki
+- Georgios Kosidis: PAOK Thessaloniki B → PAOK Thessaloniki
+- Dimitrios Tsopouroglou: PAOK Thessaloniki B → PAOK Thessaloniki
+- Dimitrios Berdos: PAOK Thessaloniki B → PAOK Thessaloniki
+- Mohamed Elneny: Без клуба → Levadiakos
+- Vasilios Chatziemmanouil: Asteras Aktor B → Asteras Aktor
+- Theofilos Kakadiaris: Asteras Aktor B → Asteras Aktor
+- Ivan Sorokin: Spartak 2 Moscow → Spartak Moscow
+- Pavel Polekh: Spartak 2 Moscow → Spartak Moscow
+- Karim Madrakhimov: FC Rostov 2 → FC Rostov
+- Ivan Ivashchenko: FC Orenburg-2 → FC Orenburg
+- Mikhail Pykhcheev: FC Orenburg-2 → FC Orenburg
+- Omar Minatulaev: FC Orenburg-2 → FC Orenburg
+- Álvaro Lezcano: Real Madrid Castilla → Real Madrid C
+- Veikka Rättö: FC Lahti → FC Lahti U18
+- Jussi Mynttinen: Lahden Reipas → FC Lahti U18
+- Hermanni Nykänen: Lahden Reipas → FC Lahti U18
+- Miika Vatanen: Lahden Reipas → FC Lahti U18
+- Leevi Järvinen: Lahden Reipas → FC Lahti U18
+- Emeraude Ndabawedje: Lahden Reipas → FC Lahti U18
+- Oliver Helttunen: Lahden Reipas → FC Lahti U18
+- Eliel Salmensuu: Lahden Reipas → FC Lahti U18
+- Tobias Backman: Oulun Luistinseura → Oulun Luistinseura U18
+- Leevi Laru: Oulun Luistinseura → Oulun Luistinseura U18
+- Ilari Arvola: Oulun Luistinseura → Oulun Luistinseura U18
+- Hugo Taumberger: Oulun Luistinseura → Oulun Luistinseura U18
+- Lenni Teppo: Oulun Luistinseura → Oulun Luistinseura U18
+- Aaron Korkala: Oulun Luistinseura → Oulun Luistinseura U18
+- Eemeli Eronen: Oulun Luistinseura → Oulun Luistinseura U18
+- Miio Höglund: FC Inter Turku II → FC Inter Turku U18
+- Albion Rashica: FC Inter Turku II → FC Inter Turku U18
+- Paavo Aalto: FC Inter Turku II → FC Inter Turku U18
+- Nestori Meltoranta: FC Inter Turku II → FC Inter Turku U18
+- Niilo Kopperoinen: FC Inter Turku II → FC Inter Turku U18
+- Rasmus Mendolin: FC Inter Turku II → FC Inter Turku U18
+- Noah Rossi: IF Gnistan → IF Gnistan U18
+- Samuel Heikari: IF Gnistan → IF Gnistan U18
+- Jeff Selenge: IF Gnistan → IF Gnistan U18
+- Kosmo Launiala: IF Gnistan → IF Gnistan U18
+- Eino Ehrnrooth: Vaasan Palloseura → Vaasan Palloseura U18
+- Jaapo Antila: Vaasan Palloseura II → Vaasan Palloseura U18
+- Walter Berts: Vaasan Palloseura II → Vaasan Palloseura U18
+- Aleksi Ahonen: Vaasan Palloseura II → Vaasan Palloseura U18
+- Alexander Wik: Vaasan Palloseura II → Vaasan Palloseura U18
+- Lari Piiroinen: Vaasan Palloseura II → Vaasan Palloseura U18
+- Arttu Matilainen: Vaasan Palloseura II → Vaasan Palloseura U18
+- Oskar Sparv: Vaasan Palloseura II → Vaasan Palloseura U18
+- Alex Myntti: Vaasan Palloseura → Vaasan Palloseura U18
+- Aaro Lakso: Vaasan Palloseura II → Vaasan Palloseura U18
+- Valtteri Holopainen: Pallokerho Keski-Uusimaa → Pallokerho Keski-Uusimaa U18
+- Ossi Niemi: Pallokerho Keski-Uusimaa → Pallokerho Keski-Uusimaa U18
+- Aku Ahla: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura U18
+- Lenni-Elias Aalto: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura U18
+- Elias Hannula: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura U18
+- Konsta Kauppinen: Kuopion Palloseura II → Kuopion Palloseura U18
+- Kevin Haarma: Kuopion Palloseura II → Kuopion Palloseura U18
+- Tatu Hukkanen: Kuopion Palloseura II → Kuopion Palloseura U18
+- Reko Ronkainen: Kuopion Palloseura II → Kuopion Palloseura U18
+- Roopert Tahkola: Kuopion Palloseura II → Kuopion Palloseura U18
+- Veikko Lahtela: Kuopion Palloseura II → Kuopion Palloseura U18
+- Volkan Mutlu: Kuopion Palloseura II → Kuopion Palloseura U18
+- Sebastián Liceaga: Deportivo Guadalajara → CD Tapatío
+- Sebastián Liceaga: Deportivo Guadalajara → CD Tapatío
+- Emmanuel Ochoa: CD Cruz Azul → CD Cruz Azul Hidalgo
+- Raymundo Rubio: CD Cruz Azul → CD Cruz Azul Hidalgo
+- Rogelio González: CD Cruz Azul → CD Cruz Azul Hidalgo
+- Emiliano Castañeda: CD Cruz Azul U19 → CD Cruz Azul Hidalgo
+- Bryan Gamboa: CD Cruz Azul → CD Cruz Azul Hidalgo
+- Raymundo Rubio: CD Cruz Azul → CD Cruz Azul Hidalgo
+- Rogelio González: CD Cruz Azul → CD Cruz Azul Hidalgo
+- Bryan Gamboa: CD Cruz Azul → CD Cruz Azul Hidalgo
+- Louis Van Aubel: KAS Eupen → KAS Eupen U23
+- Diego Baudon: KAS Eupen → KAS Eupen U23
+- Sacha Bescond: KAS Eupen → KAS Eupen U23
+- Victor Tihon: KAS Eupen → KAS Eupen U23
+- Théo Maréchal: KAS Eupen → KAS Eupen U23
+- Raphael Di Matteo: KAS Eupen → KAS Eupen U23
+- Jaden Malhage: KAS Eupen → KAS Eupen U23
+- Vetle Auklend: Viking FK → Viking FK II
+- Björn Hedlöf: Hammarby IF → Hammarby TFF
+- Isaac Yawe Höök: IK Sirius → IF Karlstad Fotboll
+- Ibuki Vincent Junior Ejike: Sagan Tosu → Sagan Tosu U18
+- Riku Izawa: Sagan Tosu → Sagan Tosu U18
+- Musab Abdi Mohamud: Västerås SK → Enköpings SK
+- Hinata Nishino: Júbilo Iwata → Júbilo Iwata U18
+- Kento Nishioka: Júbilo Iwata → Júbilo Iwata U18
+- Yuma Okuda: Júbilo Iwata → Júbilo Iwata U18
+- Dimitrios Berdos: PAOK Thessaloniki B → PAOK Thessaloniki U19
+- Matar Thiam: Aris Thessaloniki → Aris Thessaloniki U19
+- Christos Kamtsis: Aris Thessaloniki → Aris Thessaloniki U19
+- Sarafianos Papasarafianos: Aris Thessaloniki → Aris Thessaloniki U19
+- Konstantinos Charoupas: Aris Thessaloniki → Aris Thessaloniki U19
+- Christos Gitonas: Panathinaikos → Panathinaikos U19
+- Vasilios Lavdas: Panathinaikos → Panathinaikos U19
+- Panagiotis Biniaris: Panathinaikos → Panathinaikos U19
+- Iason Nebis: Panathinaikos → Panathinaikos U19
+- Konstantinos Lagoudakis: OFI Crete → OFI Crete U19
+- Pavlos Kenourgiakis: OFI Crete → OFI Crete U19
+- Manos Chnaris: OFI Crete → OFI Crete U19
+- Athanasios Sitmalidis: OFI Crete → OFI Crete U19
+- Iason Georgakopoulos: Olympiacos Piraeus B → Olympiacos Piraeus U19
+- Anastasios Kabagiovanis: Olympiacos Piraeus B → Olympiacos Piraeus U19
+- Nikolaos Avramoulis: Olympiacos Piraeus B → Olympiacos Piraeus U19
+- Vasilios Karkatsalis: Olympiacos Piraeus B → Olympiacos Piraeus U19
+- Athanasios Christopoulos: Legia Warsaw U19 → Olympiacos Piraeus U19
+- Georgios Siozios: Olympiacos Piraeus B → Olympiacos Piraeus U19
+- Christos Kapellas: Olympiacos Piraeus B → Olympiacos Piraeus U19
+- Petros Kolokotronis: Olympiacos Piraeus B → Olympiacos Piraeus U19
+- Sami Meheleb: Genoa Under 18 → Olympiacos Piraeus U19
+- Zois Karargyris: AEK Athens → AEK Athens U19
+- Simo Lampinen-Skaug: Strømsgodset IF → Strømsgodset IF II
+- Petros Tsagdis: Atromitos Athens → Atromitos Athens U19
+- Anastasios Kotsis: Atromitos Athens → Atromitos Athens U19
+- André Stavås Skistad: Strømsgodset IF → Strømsgodset IF II
+- Ole Enersen: Strømsgodset IF → Strømsgodset IF II
+- Mats Spiten: Strømsgodset IF → Strømsgodset IF II
+- Vangelis Paliouras: Atromitos Athens → Atromitos Athens U19
+- William Da Rocha: Kongsvinger IL → Kongsvinger IL II
+- Daniel Lysgård: Kongsvinger IL → Kongsvinger IL II
+- Philip Fjellman: Kongsvinger IL → Kongsvinger IL II
+- Elias Berstad Tenden: Kongsvinger IL → Kongsvinger IL II
+- Markus Flores: Kongsvinger IL → Kongsvinger IL II
+- Vetle Lysell: Kongsvinger IL → Kongsvinger IL II
+- Fabio Refatllari: Volos FC → Volos FC U19
+- Alexandros Garavelas: Volos FC → Volos FC U19
+- Efthymios Papazois: Panetolikos → Panetolikos U19
+- Filippos Theodosiou: AEK Athens U19 → Panetolikos U19
+- Endri Goxhaj: Panetolikos → Panetolikos U19
+- Mohamed Ndiaye: Levadiakos → Levadiakos U19
+- Pavlos Varelas: Kalamata FC → Kalamata FC U19
+- Jonathan Fugelsnes: Molde FK II → Molde FK
+- Haakon Sørum: Rosenborg BK II → Rosenborg BK
+- Håkon Volden: Rosenborg BK II → Rosenborg BK
+- Ulrik Hald-Hernes: Rosenborg BK II → Rosenborg BK
+- Aleksander Borgersen: Rosenborg BK II → Rosenborg BK
+- Maciej Soboczynski: Rosenborg BK II → Rosenborg BK
+- Øystein Norheim: Tromsø IL II → Tromsø IL
+- Aleksander Elvebu: Tromsø IL II → Tromsø IL
+- Bop Guèye: Sarpsborg 08 FF II → Sarpsborg 08 FF
+- Alf Lukas Grønneberg: Sandefjord Fotball II → Sandefjord Fotball
+- Stefan Hagerup: Lillestrøm SK II → Lillestrøm SK
+- Seun Akanji: Lillestrøm SK II → Lillestrøm SK
+- Tobias Leikanger: Aalesunds FK II → Aalesunds FK
+- Alexander Ordal: Vålerenga Fotball II → Vålerenga Fotball Elite
+- Mario Gomes: Vålerenga Fotball II → Vålerenga Fotball Elite
+- Even Forcha: Vålerenga Fotball II → Vålerenga Fotball Elite
+- Lorents Apold-Aasen: Vålerenga Fotball II → Vålerenga Fotball Elite
+- Marko Vuckovic: KFUM-Kameratene Oslo II → KFUM-Kameratene Oslo
+- Isaiah Skovsgaard: KFUM-Kameratene Oslo II → KFUM-Kameratene Oslo
+- Aytuar Token: FC Astana-M → FC Astana
+- Timur Tokenov: FC Astana-M → FC Astana
+- Ruslan Valikhan: FC Astana-M → FC Astana
+- Amanzhol Bakitzhanov: Tobol-M Kostanay → Tobol Kostanay
+- Azamat Zinadin: Tobol-M Kostanay → Tobol Kostanay
+- Nurdaulet Toregali: FC Aktobe II → FC Aktobe
+- Alisher Kenzhegulov: FC Aktobe II → FC Aktobe
+- Sherkhan Kalmurza: Kairat-Zhas → Kairat Almaty
+- Danila Buch: Kairat-Zhas → Kairat Almaty
+- Daniyar Tashpulatov: Kairat-Zhas → Kairat Almaty
+- Adlan Nurgaliev: Kairat-Zhas → Kairat Almaty
+- Azamat Tuyakbaev: Kairat-Zhas → Kairat Almaty
+- Mukhamedali Abish: Kairat-Zhas → Kairat Almaty
+- Ismail Bekbolat: Kairat-Zhas → Kairat Almaty
+- Mansur Birkurmanov: Kairat-Zhas → Kairat Almaty
+- Sanzhar Sansyzbaev: Yelimay-M Semey → Yelimay Semey
+- Ermek Abdulla: Yelimay-M Semey → Yelimay Semey
+- Artem Zhilin: Yelimay-M Semey → Yelimay Semey
+- Alizhan Baygaliev: Yelimay-M Semey → Yelimay Semey
+- Asan Baygaliev: Yelimay-M Semey → Yelimay Semey
+- Beybarys Kaldybay: Kaspiy-M Aktau → Kaspiy Aktau
+- Mukhammed Kuanysh: Kaspiy-M Aktau → Kaspiy Aktau
+- Erlan Kadyrbaev: Kaspiy-M Aktau → Kaspiy Aktau
+- Magzum Zholaman: Kaspiy Aktau U18 → Kaspiy Aktau
+- Almas Armenov: Kaspiy-M Aktau → Kaspiy Aktau
+- Oskars Likas: Skanstes SK U19 → FK Metta
+- Daniels Petersons: Skanstes SK U19 → FK Metta
+- Kehinde Abdulraheem: Skanstes SK U19 → FK Metta
+- Yegor Kulyk: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Karlis Jansons: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Valters Vaza: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Aksels Maulins: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Sora Masuda: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Eduards Mamis: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Daniels Huberts Kaira: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Janis Francbergs: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Martins Abolins: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Marko Kere: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Janis Grinfogels: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Rauls Steponavicus: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Haralds Kolesnikovics: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Alekss Vanags: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Alekss Petrovskis: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Markuss Ivanovs: FK Tukums 2000 U19 → FK Tukums 2000 II
+- Andrejs Karpekins: JDFS Alberts U19 → JDFS Alberts
+- Amin Mukaev: JFK Ventspils U19 → JFK Ventspils
+- Marats Zascerinskis: JFK Ventspils U19 → JFK Ventspils
+- Janis Gaisins: JFK Ventspils U19 → JFK Ventspils
+- Patriks Bruns: JFK Ventspils U19 → JFK Ventspils
+- Valters Liepajnieks: JFK Ventspils U19 → JFK Ventspils
+- Arturs Udrins: JFK Ventspils U19 → JFK Ventspils
+- Ernests Mekss: JFK Ventspils U19 → JFK Ventspils
+- Matvejs Markovs: JFK Ventspils U19 → JFK Ventspils
+- Vladislavs Bojaruns: JFK Ventspils U19 → JFK Ventspils
+- Rainers Veidemanis: JFK Ventspils U19 → JFK Ventspils
+- Andrejs Rungis: JFK Ventspils U19 → JFK Ventspils
+- Kasiuss Kosovs: JFK Ventspils U19 → JFK Ventspils
+- Iļja Kicigins: JFK Ventspils U19 → JFK Ventspils
+- Artjoms Jurcenko: JFK Ventspils U19 → JFK Ventspils
+- Miks Zakis: JFK Ventspils U19 → JFK Ventspils
+- Leo Andersons: JFK Ventspils U19 → JFK Ventspils
+- Markuss Lengvenis: JFK Ventspils U19 → JFK Ventspils
+- Roberts Psenicins: JFK Ventspils U19 → JFK Ventspils
+- Miks Sevels: Skanstes SK U19 → Skanstes SK
+- Arturs Linins: Skanstes SK U19 → Skanstes SK
+- Emils Gauris: Skanstes SK U19 → Skanstes SK
+- Pauls Pinkulis: Skanstes SK U19 → Skanstes SK
+- Kristers Jaunitis: Skanstes SK U19 → Skanstes SK
+- Kipras Mašanauskas: Skanstes SK U19 → Skanstes SK
+- Mohammed Lampty: Skanstes SK U19 → Skanstes SK
+- Ardis Abelkalns: Skanstes SK U19 → Skanstes SK
+- Patriks Pukitis: Skanstes SK U19 → Skanstes SK
+- Maksim Kletskiy: Skanstes SK U19 → Skanstes SK
+- Kristers Silins: Skanstes SK U19 → Skanstes SK
+- Markuss Salijums: Skanstes SK U19 → Skanstes SK
+- Ricards Celitans: Skanstes SK U19 → Skanstes SK
+- Deivids Baltrusaitis: Skanstes SK U19 → Skanstes SK
+- Martins Rozitis: Skanstes SK U19 → Skanstes SK
+- Mikus Berzins: Skanstes SK U19 → Skanstes SK
+- Aleks Scerbinskis: Skanstes SK U19 → Skanstes SK
+- Leonards Livcans: Skanstes SK U19 → Skanstes SK
+- Vladislavs Vareiko: Skanstes SK U19 → Skanstes SK
+- Stepan Dyntar: AC Sparta Prague B → AC Sparta Prague U19
+- Chinguun Bolorbold: AC Sparta Prague B → AC Sparta Prague U19
+- Matej Hacaperka: FC Viktoria Plzen B → FC Viktoria Plzen U19
+- Nicolas Chumlen: FC Viktoria Plzen B → FC Viktoria Plzen U19
+- Jan Knobloch: FK Mlada Boleslav B → FK Mlada Boleslav U19
+- Ondrej Cervenka: SK Slavia Prague U20 → SK Slavia Prague U19
+- Tadeas Marousek: SK Dynamo Ceske Budejovice → SK Dynamo Ceske Budejovice U19
+- Ivan Grygoruk: SK Dynamo Ceske Budejovice → SK Dynamo Ceske Budejovice U19
+- Saba Mamatsashvili: FK Zalgiris Vilnius → IK Sirius
+- Myroslav Babyak: Kisvárda FC → Kazincbarcikai SC
+- György Ottucsák: Vasas FC → Mezőkövesd Zsóry FC
+- Oskar Cotton: IK Oddevold → IF Brommapojkarna
+- Patrik Kovács: Vasas FC → Mezőkövesd Zsóry FC
+- Krisztián László: MTK Budapest → Kozármisleny FC
+- Dániel Radnóti: Ferencvárosi TC → Soroksár SC
+- Csongor Lakatos: Ferencvárosi TC → Soroksár SC
+- Ádám Bagi: Ferencvárosi TC → Soroksár SC
+- Szilárd Szabó: Ferencvárosi TC → Soroksár SC
+- Benjámin Gólik: Ferencvárosi TC → Soroksár SC
+- Noel Csorba: ETO FC → FC Ajka
+- Bálint Tuska: Debreceni VSC → Karcagi SC
+- Dénes Szakál: Debreceni VSC → Karcagi SC
+- Máté Kohut: Debreceni VSC → Karcagi SC
+- János Galambos: Paksi FC → Szentlőrinc SE
+- Mirkó Bozó: Puskás Akadémia FC → Aqvital FC Csákvár
+- Barna Pál: Puskás Akadémia FC → Aqvital FC Csákvár
+- Bence Somfalvi: Puskás Akadémia FC → Aqvital FC Csákvár
+- Zétény Garai: Zalaegerszegi TE FC → FC Nagykanizsa
+- Máté Kiss: Zalaegerszegi TE FC → FC Nagykanizsa
+- Gassimou Sylla: RSC Anderlecht U18 → RSCA Futures
+- Stefan Ostoici: Club Brugge U18 → Club NXT
+- Emmanuel Fejokwu: Club Brugge U18 → Club NXT
+- Mateo Haesaert: Club Brugge U18 → Club NXT
+- Daan Van Laere: KRC Genk U18 → Jong Genk
+- Vic Debusschere: KRC Genk U18 → Jong Genk
+- Lander Borgers: KRC Genk U18 → Jong Genk
+- Prince N'Salambi: KRC Genk U18 → Jong Genk
+- Shakhmurat Dauletov: KRC Genk U18 → Jong Genk
+- Bas Evers: KAA Gent U18 → Jong KAA Gent
+- Noa Vandenabeele: KAA Gent U18 → Jong KAA Gent
+- Raphaël Mallong: LOSC Lille U17 → LOSC Lille U19
+- Lucas Muamba: LOSC Lille U17 → LOSC Lille U19
+- Lukas Koudou: Amiens SC U17 → Amiens SC U19
+- Mikelis Menniks: KAA Gent U18 → Jong KAA Gent
+- Jordan Agblemagnon: Valenciennes FC U19 → C'Chartres Football U19
+- Louis Vital: Quevilly - Rouen Métropole U17 → Quevilly - Rouen Métropole U19
+- Mickaël Leroy: Racing Club de France → Racing Club de France U19
+- Ahmed Mahroug: Clermont Foot 63 U19 → US Orléans U19
+- Luis Álvarez: Kalkara FC → Zamora FC
+- Dominykas Čekavičius: FK Zalgiris Vilnius → FK Zalgiris Vilnius B
+- Patrik Matyžonok: FK Zalgiris Vilnius → FK Zalgiris Vilnius B
+- Martynas Šetkus: FK Zalgiris Vilnius → FK Zalgiris Vilnius B
+- Gustas Jarusevičius: FK Zalgiris Vilnius → FK Zalgiris Vilnius B
+- Kajus Bička: FK Zalgiris Vilnius → FK Zalgiris Vilnius B
+- Rokas Bagdonavičius: FC Hegelmann → FC Hegelmann B
+- Lukas Kolendo: FC Hegelmann → FC Hegelmann B
+- Dominykas Pašilys: FC Hegelmann → FC Hegelmann B
+- Lukas Jonaitis: FC Hegelmann → FC Hegelmann B
+- Domas Sinkevičius: FC Hegelmann → FC Hegelmann B
+- Vilius Šivickas: FA Siauliai → FA Siauliai B
+- Gustas Geštautas: FA Siauliai → FA Siauliai B
+- Gabijus Micevičius: FA Siauliai → FA Siauliai B
+- Ugnius Vaitiekaitis: FA Siauliai → FA Siauliai B
+- Augustas Tamaševičius: FK TransINVEST → FK TransINVEST B
+- Nojus Petkus: FK TransINVEST → FK TransINVEST B
+- Joris Aliukonis: FK Kauno Zalgiris → FK Kauno Zalgiris B
+- Feroz Baharudin: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Junior Eldstal: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Dani Bolt: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Syahmi Safari: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Syamer Kutty: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Hong Wan: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Daniesh Amirruddin: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Mohamadou Sumareh: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Jon Yeabsera: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Celso Bermejo: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Zainal Abidin Jamil: Negeri Sembilan FC → Negeri Sembilan FC II
+- Filip Andersen: Negeri Sembilan FC → Negeri Sembilan FC II
+- Zuryhakim Zafran: Negeri Sembilan FC → Negeri Sembilan FC II
+- Raimi Shamsul: Negeri Sembilan FC → Negeri Sembilan FC II
+- Afiq Fitri: Negeri Sembilan FC → Negeri Sembilan FC II
+- Haiqal Haqeemi: Negeri Sembilan FC → Negeri Sembilan FC II
+- Wan Kuzri: Negeri Sembilan FC → Negeri Sembilan FC II
+- Adam Haikal Azizol: Negeri Sembilan FC → Negeri Sembilan FC II
+- Anuar Ceesay: Negeri Sembilan FC → Negeri Sembilan FC II
+- Izrin Ibrahim: Negeri Sembilan FC → Negeri Sembilan FC II
+- Rahman Daud: Negeri Sembilan FC → Negeri Sembilan FC II
+- Moses Raj: Selangor FC → Selangor FC II
+- Muhammad Abu Khalil: Selangor FC → Selangor FC II
+- Stepan Safronov: FC Rostov 2 → Akademia FC Rostov U16
+- Artyom Davidov: BKMA Yerevan → BKMA Yerevan II
+- Artur Manukyan: BKMA Yerevan → BKMA Yerevan II
+- Ernest Kacou: FC Ararat Yerevan → FC Ararat Yerevan II
+- Alen Mkrtchyan: FC Ararat Yerevan → FC Ararat Yerevan II
+- Gagik Simonyan: FC Ararat Yerevan → FC Ararat Yerevan II
+- Valeri Petrosyan: FC Ararat-Armenia U18 → FC Ararat-Armenia II
+- Aren Kostandyan: FC Ararat-Armenia U18 → FC Ararat-Armenia II
+- Emil Papikyan: FC Shirak Gyumri → FC Shirak Gyumri II
+- Yannick Bujard: FC St. Gallen 1879 → FC St. Gallen 1879 U21
+- Mostafa Heydari: FCO St. Gallen U19 → FC St. Gallen 1879 U21
+- Pascal Büttiker: FC St. Gallen 1879 → FC St. Gallen 1879 U21
+- Marko Starcevic: FCO St. Gallen U19 → FC St. Gallen 1879 U21
+- Noah Brogli: FC Winterthur → FC Winterthur U21
+- Tobias Okafor: FC Winterthur → FC Winterthur U21
+- Giuliano Foro: FC Winterthur → FC Winterthur U21
+- Michael McHugh: Home Farm → St. Francis
+- Daniel Chukwu: Lucan United → St. Francis
+- Aaron Coogan: Home Farm → St. Francis
+- Eron Avdullahu: Grasshopper Club Zurich → Grasshopper Club Zürich U21
+- Yannick Bettkober: Grasshopper Club Zurich → Grasshopper Club Zürich U21
+- Denis Sahin: Grasshopper Club Zurich → Grasshopper Club Zürich U21
+- Simao Carreira Vieira: Grasshopper Club Zürich U19 → Grasshopper Club Zürich U21
+- Demis Fiechter: Grasshopper Club Zurich → Grasshopper Club Zürich U21
+- Diego Ferrazza: Grasshopper Club Zurich → Grasshopper Club Zürich U21
+- Dario Wälti: FC Thun → FC Thun U21
+- Leo Stucki: FC Thun → FC Thun U21
+- Louis Passavant: FC Thun → FC Thun U21
+- Mats Seiler: FC Thun → FC Thun U21
+- Adam Ilic: FC Thun → FC Thun U21
+- Luca Bühlmann: FC Basel 1893 U21 → FC Black Stars Basel
+- Kléri Serber: Hamrun Spartans → LB Châteauroux
+- Samuel Skree Skjeldal: Odds BK II → Odds BK
+- Ard Ragnar Sundal: Sogndal IL II → Sogndal IL
+- Emil Lunde Hillestad: Sogndal IL II → Sogndal IL
+- Elias Flo: Sogndal IL II → Sogndal IL
+- John Provido: Ranheim IL II → Ranheim IL
+- Enis Kovacevic: AKA Tirol U18 → Völser SV
+- Noah Schreter: AKA Tirol U18 → SV Telfs
+- Alen Abdic: ND Ilirija 1911 U19 → ND Ilirija 1911
+- Gabriel Pevc Carrera: ND Ilirija 1911 U19 → ND Ilirija 1911
+- Jan Nikolic: ND Ilirija 1911 U19 → ND Ilirija 1911
+- Alen Muminovic: ND Ilirija 1911 U19 → ND Ilirija 1911
+- Lukas Dikic: ND Ilirija 1911 U19 → ND Ilirija 1911
+- Mihailo Zobenica: ND Beltinci U19 → ND Beltinci
+- Nejc Vöröš: ND Beltinci U19 → ND Beltinci
+- Anej Mihajlovic: ND Beltinci U19 → ND Beltinci
+- Jure Borsic: ND Beltinci U19 → ND Beltinci
+- Tim Istenic: NK Triglav Kranj U19 → NK Triglav Kranj
+- Blaz Jemec: NK Triglav Kranj U19 → NK Triglav Kranj
+- Anej Doric: NK Triglav Kranj U19 → NK Triglav Kranj
+- Bor Bergant: NK Triglav Kranj U19 → NK Triglav Kranj
+- Peter Iuhanyak: Slovan Bratislava U19 → Slovan Bratislava B
+- Leo Hofstädter: Slovan Bratislava → Slovan Bratislava B
+- Matus Tomasko: Slovan Bratislava → Slovan Bratislava B
+- Manasse Kianga: Slovan Bratislava → Slovan Bratislava B
+- Davud Jusic: NK Rudar Velenje U19 → NK Rudar Velenje
+- Luka Pek: NK Rudar Velenje U19 → NK Rudar Velenje
+- Jure Bernjak: NK Rudar Velenje U19 → NK Rudar Velenje
+- Lan Husejnovic: NK Rudar Velenje U19 → NK Rudar Velenje
+- Tamas Tarcsi: MSK Zilina → MSK Zilina B
+- Bruno Valko: MSK Zilina U19 → MSK Zilina B
+- Michal Kopal: MSK Zilina U19 → MSK Zilina B
+- Adel Avdic: NK Dekani U19 → NK Dekani
+- Marko Cvijetic: NK Dekani U19 → NK Dekani
+- Enej Jurinčič: NK Dekani U19 → NK Dekani
+- Matija Grmek: NK Dekani U19 → NK Dekani
+- Dominik Pecsuk: MSK Zilina U19 → MSK Zilina B
+- Mario Charamza: MSK Zilina U19 → MSK Zilina B
+- Marco Prekop: MSK Zilina U19 → MSK Zilina B
+- Jaka Baznik: NK Brezice 1919 U19 → NK Brezice 1919
+- Rafael Markulin: NK Brezice 1919 U19 → NK Brezice 1919
+- Petar Bilicic: NK Brezice 1919 U19 → NK Brezice 1919
+- Miha Bajs: NK Brezice 1919 U19 → NK Brezice 1919
+- Noel Lundgren: Falkenbergs FF → Tvååkers IF
+- Tijn Van Ingelgom: KV Mechelen → Jong KV Mechelen
+- Axel Willockx: KV Mechelen → Jong KV Mechelen
+- Ian Struyf: KV Mechelen → Jong KV Mechelen
+- Amine Ouahabi: KV Mechelen → Jong KV Mechelen
+- Mats Van Helden: KV Mechelen → Jong KV Mechelen
+- Yanis Asghir: KV Mechelen → Jong KV Mechelen
+- Caua Foroni De Oliveira: Young Reds → Jong KV Mechelen
+- Florian Van Bever: Zulte Waregem → Jong Essevee
+- Arnaud Dobbels: Zulte Waregem → Jong Essevee
+- Alseny Soumah: Jong KAA Gent → KRC Gent
+- Azaria Isso Bulambo: KRC Gent → KFC Hoger Op Kalken
+- Emilien Grosso: FC Lausanne-Sport → FC Lausanne-Sport II
+- Rodolfo Lippo: FC Lausanne-Sport → FC Lausanne-Sport II
+- Souleymane N'Diaye: FC Lausanne-Sport → FC Lausanne-Sport II
+- Alek Karadolami: FC Lausanne-Sport U19 → FC Lausanne-Sport II
+- Simon Caillet: FC Sion → FC Sion U21
+- Nevio Biner: FC Sion → FC Sion U21
+- Damien Möschinger: FC Sion → FC Sion U21
+- Edison Berisha: FC Sion U19 → FC Sion U21
+- Jason Almeida: FC Sion → FC Sion U21
+- Victor Bizimana: FC Sion U19 → FC Sion U21
+- Altin Shala: FC Sion → FC Sion U21
+- Adrien Llukes: FC Sion → FC Sion U21
+- Rayan Stoll: FC Sion → FC Sion U21
+- Christof Katzmayr: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Fabian Schillinger: LASK → LASK Amateure OÖ
+- Aldino Turbic: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Luca Ortner: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Jakob Wansch: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Ryan Rodriguez German: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Luca Miksch: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Djaota Luyet: FC Sion U19 → FC Sion U21
+- Celestin Steimer: Servette FC U19 → Servette FC U21
+- Louis Rieder: Servette FC → Servette FC U21
+- Ilyas Ihsane: Servette FC U19 → Servette FC U21
+- Leon Sylejmani: Servette FC U19 → Servette FC U21
+- Sylvain Djoho: Servette FC → Servette FC U21
+- Houdjy Reinhart: Servette FC U19 → Servette FC U21
+- Soel Benammar: Servette FC U19 → Servette FC U21
+- Paul Krapf: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Nael Kane: LASK → LASK Amateure OÖ
+- Lukas Bozsoki: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Peyton Presson: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Matthias Hartl: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Dominik Stöger: SV Ried → SV Ried II
+- Danilo Matovic: AKA SV Ried U18 → SV Ried II
+- Valentin Holzer: AKA SV Ried U18 → SV Ried II
+- Ivan Izquierdo: Servette FC → Servette FC U21
+- Benoît Sida: Servette FC → Servette FC U21
+- Gregor Indrist: AKA SV Ried U18 → SV Ried II
+- Alessandro Goiginger: SV Ried → SV Ried II
+- Leon Gruber: AKA SV Ried U18 → SV Ried II
+- Fabian Rodriguez De Medici: AKA SV Ried U18 → SV Ried II
+- Leonit Zeqiri: SV Ried → SV Ried II
+- Nermin Mesic: SV Ried → SV Ried II
+- Conrad Scholl: SV Ried → SV Ried II
+- Fabian Lechner: SV Ried → SV Ried II
+- Raphael Pesu: SV Ried → SV Ried II
+- Milo Pereira: Team BEJUNE U19 → FC La Chaux-de-Fonds
+- Gédéon Lomami: Team BEJUNE U19 → FC La Chaux-de-Fonds
+- Elias Pitterka: SV Seekirchen II → SV Seekirchen
+- Tobias Feldinger: SV Seekirchen II → SV Seekirchen
+- Elias Schaurecker: SV Seekirchen II → SV Seekirchen
+- Simon Braun: SV Seekirchen II → SV Seekirchen
+- Samba Dembélé: LB Châteauroux → FC Chambly Oise
+- Aleksandr Belukha: FC Rostov 2 → FC Rostov Academy U17
+- Egor Kavtrev: Chertanovo Moscow → Akademia Chertanovo Moscow U17
+- Léon Boillat: Team BEJUNE U17 → Team BEJUNE U19
+- Josua Bakambo: Team BEJUNE U17 → Team BEJUNE U19
+- Yann Sonfack: Team BEJUNE U17 → Team BEJUNE U19
+- Altin Azemi: Neuchâtel Xamax FCS → Team BEJUNE U19
+- Benjamin Dautovic: FC Basel 1893 U17 → FC Basel 1893 U19
+- Jon Ajvazi: FC Basel 1893 U17 → FC Basel 1893 U19
+- Julien Werdenberg: FC Basel 1893 U17 → FC Basel 1893 U19
+- Josue Yapi: FC Basel 1893 U17 → FC Basel 1893 U19
+- Ferment Kurtishi: FC Thun U17 → FC Basel 1893 U19
+- Amri Dzaferi: FC Basel 1893 U17 → FC Basel 1893 U19
+- Mateja Sevic: FC Red Star Zürich → FC Zürich U19
+- Elia Calvi: FC Seefeld Zürich → FC Zürich U19
+- Jordan Riesen: FC Thun U17 → FC Thun U19
+- Nicola Nyffeler: FC Thun U17 → FC Thun U19
+- Dario Stiffler: FC Thun U17 → FC Thun U19
+- Jakob Ummel: FC Thun U17 → FC Thun U19
+- Lenox Kindler: FC Thun U17 → FC Thun U19
+- Yanis Spälti: FC Thun U17 → FC Thun U19
+- Eren Dikbas: FC Thun U17 → FC Thun U19
+- Kristian Bozic: FC Thun U17 → FC Thun U19
+- Ege-Kaan Auer: FC Winterthur U17 → FC Winterthur U19
+- Diego Berger: FC Schaffhausen II → FC Winterthur U19
+- Tristàn Burkart: FC St. Gallen 1879 U21 → FCO St. Gallen U19
+- Fábio Ribeiro: FCO St. Gallen U17 → FCO St. Gallen U19
+- Noel Telser: FCO St. Gallen U17 → FCO St. Gallen U19
+- Kenan Jakupovic: FC Lugano U17 → FC Lugano U19
+- Nikola Gutovic: FC Luzern U17 → FC Luzern U19
+- Arnaud Premand: FC Sierre → FC Sion U19
+- Abdoul Diallo: Frosinone Primavera → Servette FC U19
+- Enzo Thelemaque: GFC Ajaccio → GFC Ajaccio U19
+- Loris Krasniqi: Grasshopper Club Zürich U17 → Grasshopper Club Zürich U19
+- Stefan Furundzic: Grasshopper Club Zürich U21 → Grasshopper Club Zürich U19
+- Joel Mbuya: Grasshopper Club Zürich U17 → Grasshopper Club Zürich U19
+- Paul Piffer: SCR Altach → SCR Altach Juniors
+- Henrique Bell: SCR Altach → SCR Altach Juniors
+- Adrian Vonbrül: SCR Altach → SCR Altach Juniors
+- Mathias Schmid: AKA Tirol U18 → WSG Tirol II
+- Ahmet Yarim: AKA Tirol U18 → WSG Tirol II
+- Elias Reiter: AKA Tirol U18 → WSG Tirol II
+- Michael Neuner: WSG Tirol → WSG Tirol II
+- Clemens Kerschbaumer: AKA Tirol U18 → WSG Tirol II
+- Theodor Hamerle: AKA Tirol U18 → WSG Tirol II
+- Maximilian Fankhauser: AKA Tirol U18 → WSG Tirol II
+- David Falkner: WSG Tirol → WSG Tirol II
+- Simon Schüllner: AKA Tirol U18 → WSG Tirol II
+- David Veskovic: AKA Tirol U18 → WSG Tirol II
+- Branko Curdo: HSK Zrinjski Mostar → NK GOSK Gabela
+- Hamza Ljukovac: HSK Zrinjski Mostar → NK GOSK Gabela
+- Antonio Arapovic: HSK Zrinjski Mostar → NK GOSK Gabela
+- Haris Mujanic: FK Sarajevo → FK Radnik Hadzici
+- Daris Dizdarevic: FK Sarajevo → FK Radnik Hadzici
+- Petar Miskovic: FK Sarajevo → FK Radnik Hadzici
+- Albert Mendy: FK Sarajevo → FK Radnik Hadzici
+- Muhamed Dreca: FK Sarajevo Academy U19 → FK Radnik Hadzici
+- Anes Mehmedovic: FK Sarajevo Academy U19 → FK Radnik Hadzici
+- Amar Ceric: FK Sarajevo → FK Radnik Hadzici
+- Andreja Ristic: FK Sarajevo → FK Radnik Hadzici
+- Faruk Setic: FK Velez Mostar → FK Igman Konjic
+- Faris Dzevahiric: FK Velez Mostar → FK Igman Konjic
+- Vedad Spahic: NK Celik Zenica → FK Rudar Kakanj
+- Kerim Beganovic: NK Celik Zenica → FK Rudar Kakanj
+- Julian Halmich: AKA St. Pölten U18 → SKN St. Pölten Juniors
+- Matthias Döller: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Markus Haubenwallner: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Daniel Glitia: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Riad Islamaj: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Elias Vollnhofer: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Filip Sikleski: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Amel Duran: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Ben Wieselthaler: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Nico Elbl: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Abul Hossaini: AKA Admira Wacker U18 → Admira Wacker Panthers
+- David Wallner: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Harald Postl: TSV Hartberg → TSV Hartberg II
+- Simon Freund: TSV Hartberg → TSV Hartberg II
+- Paul Bratschko: TSV Hartberg → TSV Hartberg II
+- Jonas Karner: TSV Hartberg → TSV Hartberg II
+- Chilohem Onuoha: TSV Hartberg → TSV Hartberg II
+- David Korherr: TSV Hartberg → TSV Hartberg II
+- Matthias Postl: TSV Hartberg → TSV Hartberg II
+- David Skubl: Wolfsberger AC → Wolfsberger AC II
+- Julian Vogt: AKA Wolfsberger AC U18 → Wolfsberger AC II
+- Fabio Orieschnig: AKA Wolfsberger AC U18 → Wolfsberger AC II
+- Michael Schweiger: Wolfsberger AC → Wolfsberger AC II
+- David Pötsch: AKA Wolfsberger AC U18 → Wolfsberger AC II
+- Chris Jazbar: AKA Wolfsberger AC U18 → Wolfsberger AC II
+- Moritz Korak: AKA Wolfsberger AC U18 → Wolfsberger AC II
+- Sebastian Herrnhofer: AKA Wolfsberger AC U18 → Wolfsberger AC II
+- August Tscheppe: Admira Wacker → SV Lafnitz
+- Aleksandar Djordjevic: Admira Wacker → SV Lafnitz
+- Jianqiu He: Wuhan Three Towns → Wuhan Three Towns B
+- Tianle Yu: Wuhan Three Towns → Wuhan Three Towns B
+- Kang Wang: Wuhan Three Towns → Wuhan Three Towns B
+- Zihao Xia: Wuhan Three Towns → Wuhan Three Towns B
+- Zixi Min: Wuhan Three Towns → Wuhan Three Towns B
+- Lixun Jiang: Wuhan Three Towns → Wuhan Three Towns B
+- Haochen Peng: Chengdu Rongcheng → Chengdu Rongcheng B
+- Siliang Chen: Chengdu Rongcheng → Chengdu Rongcheng B
+- Ziteng Wang: Chengdu Rongcheng → Chengdu Rongcheng B
+- Moyu Li: Chengdu Rongcheng → Chengdu Rongcheng B
+- Ezimet Qeyser: Chengdu Rongcheng → Chengdu Rongcheng B
+- Weihao Shuai: Chengdu Rongcheng → Chengdu Rongcheng B
+- Batyrkhan Serikbay: Kairat Almaty U18 → Kairat-Zhas
+- Rayimbek Kenesbekov: Kairat Almaty U18 → Kairat-Zhas
+- Sanat Nurbolat: Kairat Almaty U18 → Kairat-Zhas
+- Aliden Musaipov: Kairat Almaty U18 → Kairat-Zhas
+- Evgeniy Petrik: Kairat Almaty U18 → Kairat-Zhas
+- Tore Ismagulov: Kairat Almaty U18 → Kairat-Zhas
+- Abylay Zhilkaydar: Kairat Almaty U18 → Kairat-Zhas
+- Abylay Toleukhan: Kairat Almaty U18 → Kairat-Zhas
+- Daulet Orynbasar: Kairat Almaty U18 → Kairat-Zhas
+- Nurkhan Kagazbaev: Shakhter Karaganda U18 → Shakhter Karaganda
+- Daniyal Nazarov: Shakhter Karaganda U18 → Shakhter Karaganda
+- Alen Pak: Shakhter Karaganda U18 → Shakhter Karaganda
+- Adilet Sabyrov: FC Aktobe U18 → FC Aktobe II
+- Rinat Beybitov: FC Aktobe U18 → FC Aktobe II
+- Azamat Musaev: FC Aktobe U18 → FC Aktobe II
+- Dalen Usik: FC Aktobe U18 → FC Aktobe II
+- Zhasnur Zheksenbay: FC Aktobe U18 → FC Aktobe II
+- Bikzhan Zhanaev: FC Aktobe U18 → FC Aktobe II
+- Roman Gavrilyuk: Tobol Kostanay U18 → Tobol-M Kostanay
+- Tamerlan Zhanabergenov: FC Astana U18 → FC Astana-M
+- Mansur Alikhan: FC Astana U18 → FC Astana-M
+- Ali Askerbekov: FC Astana U18 → FC Astana-M
+- Meyrzhan Serik: FC Astana U18 → FC Astana-M
+- Sanzhar Kuandyk: FC Astana U18 → FC Astana-M
+- Aryn Kanat: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Amaniyaz Oryngaliev: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Magzum Zholaman: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Alikhan Zhumabay: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Abilkayir Zharmukhamet: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Daniel Gjerde Sætren: Sogndal IL → Lysekloster IL
+- Owen Jochmans: Oud-Heverlee Leuven → Oud-Heverlee Leuven U23
+- Marcel Van Dijck: Oud-Heverlee Leuven → Oud-Heverlee Leuven U23
+- Christ Souanga: Oud-Heverlee Leuven → Oud-Heverlee Leuven U23
+- Olsen Djédjé: Oud-Heverlee Leuven U18 → Oud-Heverlee Leuven U23
+- Davis Opoku: Oud-Heverlee Leuven → Oud-Heverlee Leuven U23
+- Ryane Redouane: Oud-Heverlee Leuven U18 → Oud-Heverlee Leuven U23
+- Mohamed Amine Moustache: Oud-Heverlee Leuven U18 → Oud-Heverlee Leuven U23
+- Lukas Cakoni: Oud-Heverlee Leuven U18 → Oud-Heverlee Leuven U23
+- Bas Langenbick: Cercle Brugge → Jong Cercle
+- Tiemen De Bel: Cercle Brugge → Jong Cercle
+- Sebbe Gheerardyns: Cercle Brugge → Jong Cercle
+- Anton Bojenko: KVC Westerlo U18 → KFC Houtvenne
+- Jarne Lafosse: KVC Westerlo U21 → KFC Houtvenne
+- Robbe Van Diest: KVC Westerlo U21 → KFC Houtvenne
+- Bert Vanpeteghem: KM Torhout → KVK Tienen
+- Léo Yobé: FC Villefranche-Beaujolais → Stade Briochin
+- Mathéo Ntumi: US Concarneau → Dinan Léhon FC
+- Mathéo Moussa: SC Bastia B → Vendée Les Herbiers Football
+- King-Lok Cheng: Kui Tan → Sham Shui Po
+- Seop-yun Shin: Kowloon City → Hoi King
+- Philip Wong: Tung Sing → Hoi King
+- Coo Tseng: Kowloon City → Hoi King
+- Gianni Melwani: Hoi King → Lucky Mile
+- Ayush Adhikari: Sporting Club Delhi → Gokulam Kerala FC
+- Salahudheen Adnan Koyambravan: Kerala Blasters FC → Real Kashmir FC
+- Jannik Leitner: Südtirol Primavera → Südtirol Under 17
+- David Buvac: NK Radomlje → NK Radomlje U19
+- Vid Chinoso Juvancic: NK Radomlje → NK Radomlje U19
+- Luka Bele: NK Olimpija Ljubljana → NK Olimpija Ljubljana U19
+- Artur Vinicius: NK Olimpija Ljubljana → NK Olimpija Ljubljana U19
+- Jan Jurgec: NK Olimpija Ljubljana → NK Olimpija Ljubljana U19
+- Job Brecelj: NK Olimpija Ljubljana → NK Olimpija Ljubljana U19
+- Enej Kramberger: NK Aluminij Kidricevo → NK Aluminij Kidricevo U19
+- Filip Pongracic: NK Aluminij Kidricevo → NK Aluminij Kidricevo U19
+- Zan Luka Sega: NK Celje → NK Celje U19
+- Dejan Suhovrsnik: NK Celje → NK Celje U19
+- Mark Kavrecic: FC Koper → FC Koper U19
+- Nejc Antonic: NS Mura → NS Mura U19
+- Samo Seckar: NS Mura → NS Mura U19
+- Luka Svjetlanovic: NS Mura → NS Mura U19
+- Val Bislimaj: NS Mura → NS Mura U19
+- Matej Tadic: NK Maribor → NK Maribor U19
+- Marvin Nasnas: FC Copenhagen → FC Copenhagen U19
+- Alessio Scaccianoce: Palermo Primavera → Palermo Under 17
+- Giordano Carnemolla: Palermo Primavera → Palermo Under 17
+- Danilo Koljcevic: Red Star Belgrade U17 → Red Star Belgrade U19
+- Luka Trpevski: Red Star Belgrade U17 → Red Star Belgrade U19
+- Filip Lazovic: Red Star Belgrade U17 → Red Star Belgrade U19
+- Mihajlo Radovic: Red Star Belgrade U17 → Red Star Belgrade U19
+- Sergej Manovic: FK Mladost Lucani U17 → FK Mladost Lucani U19
+- Vuk Bradic: FK Mladost Lucani U17 → FK Mladost Lucani U19
+- Vasilije Guberinic: FK Mladost Lucani U17 → FK Mladost Lucani U19
+- Andrej Stojanovic: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Michael Maleschek: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Andreas Ekhator: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Felix Neuhäuser: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Diego Lobos: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Jakob Gauglhofer: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Lennard Kavakebi: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Michael Habisohn: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Aldin Delimehic: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Ahmet Can Poyraz: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Danilo Fekete: FK Čukarički U17 → FK Čukarički U19
+- Nikola Vasic: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Robert Takacs: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Sinan Federmair: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Adrian Stankovic: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Mirac Seckin: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Yannick Saurer: AKA St. Pölten U16 → AKA St. Pölten U18
+- Milos Tesanovic: AKA St. Pölten U16 → AKA St. Pölten U18
+- Agon Wang: AKA St. Pölten U16 → AKA St. Pölten U18
+- Dusan Kostadinovic: FK Vojvodina Novi Sad U17 → FK Vojvodina Novi Sad U19
+- Tobias Gössler: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Gasper Jesenko: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Dusan Cupara: FK Vojvodina Novi Sad U17 → FK Vojvodina Novi Sad U19
+- Theodor Fürpaß: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Aldin Sandal: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Niko Mezga: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Pavle Ilic: FK Vojvodina Novi Sad U17 → FK Vojvodina Novi Sad U19
+- Augustin Konstantiniuk: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Nathan Simo: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Nico Cakic: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Gikho Sagardzhiev: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Matteo Simmel: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Eray Bakar: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Anilberk Eliacik: AKA Vorarlberg U16 → AKA Vorarlberg U18
+- Semih Kaan Ucar: AKA Vorarlberg U16 → AKA Vorarlberg U18
+- Matthias Nemetschek: AKA Austria Wien U16 → AKA Austria Wien U18
+- Felix Ahorn: AKA Austria Wien U16 → AKA Austria Wien U18
+- Daniel Vulovic: AKA Austria Wien U16 → AKA Austria Wien U18
+- Kayra Sahinbaz: AKA Austria Wien U16 → AKA Austria Wien U18
+- Nenad Petric: AKA Austria Wien U16 → AKA Austria Wien U18
+- Emilio Orman: AKA Austria Wien U16 → AKA Austria Wien U18
+- Luca Käfel: AKA Wolfsberger AC U16 → AKA Wolfsberger AC U18
+- Jakob Lechner: AKA Wolfsberger AC U16 → AKA Wolfsberger AC U18
+- Niklas Petschnig: AKA Wolfsberger AC U16 → AKA Wolfsberger AC U18
+- Aras Sen: AKA Wolfsberger AC U16 → AKA Wolfsberger AC U18
+- Lionel Zotz: AKA Tirol U16 → AKA Tirol U18
+- Michael Maurer: AKA Tirol U16 → AKA Tirol U18
+- Fabian Halder: AKA Tirol U16 → AKA Tirol U18
+- Sejran Sejrani: AKA Tirol U16 → AKA Tirol U18
+- Matthias Duregger: AKA Tirol U16 → AKA Tirol U18
+- Albin Nicklas: AKA Tirol U16 → AKA Tirol U18
+- Stefan Strauß: AKA SV Ried U16 → AKA SV Ried U18
+- Alexander Müller: AKA SV Ried U16 → AKA SV Ried U18
+- Julian Schmidt: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Amar Ahmetovic: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Konstantin Kaufmann: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Mateo Duric: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Bilal Yilmaz: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Emil Özelt: SC Bad Sauerbrunn → AKA Burgenland U18
+- Daniel Nunhardt: AKA Burgenland U16 → AKA Burgenland U18
+- Samuel Weinzettl: AKA Burgenland U16 → AKA Burgenland U18
+- Daniel Janitsch: AKA Burgenland U16 → AKA Burgenland U18
+- Sami Beldi: Al-Rayyan NextGen → Al-Rayyan SC
+- Sami Mazen Dauleh: Al-Rayyan NextGen → Al-Rayyan SC
+- Youssef Ayman: Al-Rayyan NextGen → Al-Rayyan SC
+- Mohammed Saleh: Al-Rayyan NextGen → Al-Rayyan SC
+- Hassan Mohammed Al-Ghareeb: Al-Rayyan NextGen → Al-Rayyan SC
+- Hazem Ahmed: Al-Rayyan NextGen → Al-Rayyan SC
+- Mostafa Osama Abouelela: Al-Rayyan NextGen → Al-Rayyan SC
+- Jassem Al-Sharshani: Al-Rayyan NextGen → Al-Rayyan SC
+- Ali Al-Qahtani: Al-Rayyan NextGen → Al-Rayyan SC
+- Mostafa El Sayed: Al-Rayyan NextGen → Al-Rayyan SC
+- Ahmed Kone: Eithad Al-Gharafa → Al-Gharafa SC
+- Hamad Kahiout: Eithad Al-Gharafa → Al-Gharafa SC
+- Mahmood Gamal: Eithad Al-Gharafa → Al-Gharafa SC
+- Chalpan Abdulnasir: Eithad Al-Gharafa → Al-Gharafa SC
+- Yousef Al-Khalif: Eithad Al-Gharafa → Al-Gharafa SC
+- Ibrahim Tamer: Eithad Al-Gharafa → Al-Gharafa SC
+- Yousef Saaed Ahmed: Eithad Al-Gharafa → Al-Gharafa SC
+- Ali Mohammed: Al-Shamal Future → Al-Shamal SC
+- Youssouf Sabaly: Al-Shamal Future → Al-Shamal SC
+- Adel Bader: Al-Shamal Future → Al-Shamal SC
+- Yohan Boli: Без клуба → Qatar SC
+- Joselu: Без клуба → Al-Sailiya SC
+- Yvan Djemba Mbappé: Montpellier HSC → Montpellier HSC B
+- Yassine Badaoui: Olympique Marseille U19 → Olympique de Marseille B
+- Sue-Lae McCalla: Renaissance AEC Mons → Mount Pleasant FA
+- Lamar Walker: Mount Pleasant FA → Portmore United FC
+- Ricardo Dixon: Racing United FC → Chapelton Maroons
+- Ray Campbell: Chapelton Maroons → Waterhouse FC
+- Deandre Cunningham: Chapelton Maroons → Waterhouse FC
+- Javier Dunn: Chapelton Maroons → Waterhouse FC
+- Darren Donaie: Molynes United FC → Cavalier FC
+- Rushane Thompson: Arnett Gardens FC → Tivoli Gardens FC
+- Chevaughn Walsh: Mount Pleasant FA → Tru Juice FC
+- Tramain Graham: Chapelton Maroons → Humble Lions FC
+- Mamadou Diallo: Angers SCO U17 → Angers SCO U19
+- Sanah Camara: FC Nantes B → FC Nantes U19
+- João Trovisco: SC Braga → SC Braga B
+- Thiago Pereira: GD Chaves → GD Chaves B
+- Martim Cardoso: Dalvík/Reynir → Rebordosa AC
+- Chun-Him Yuen: Kitchee → Eastern District
+- Gavin Muens: Kaya FC-Iloilo → Kowloon City
+- Rayan Salulu: FC Metz U17 → FC Metz U19
+- Felix Stuber: BSC Young Boys U19 → BSC Young Boys U17
+- Karl Toko Ekambi: Без клуба → Umm Salal SC
+- Ahmed Al-Mohanadi: Al-Khor SC → Al-Waab SC
+- Daniel Lima: Atlético Clube Goianiense → Al-Waab SC
+- Mason Holgate: Al-Gharafa SC → Eithad Al-Gharafa
+- Mostafa Essam: Al-Gharafa SC → Eithad Al-Gharafa
+- Jamil Friakh: Al-Gharafa SC → Eithad Al-Gharafa
+- Amjad Nassar Mohamed: Al-Gharafa SC → Eithad Al-Gharafa
+- David Aguy: Racing Strasbourg U19 → Racing Strasbourg B
+- Noa Kotto Kotto Mouyema: FC Sochaux-Montbéliard → FC Sochaux-Montbéliard B
+- Andreas Maxsø: Без клуба → FC Midtjylland
+- Lorenzo Damonte: Genoa U20 → Genoa Under 17
+- Milan Ilic: FK Partizan Belgrade U17 → FK TSC Backa Topola U17
+- Ismaila Ceesay: AC Horsens U19 → AC Horsens
+- Pasquale Pellicanò: Torino Primavera → Torino Under 17
+- Andrej Petrovic: FK Teleoptik Zemun U17 → 011 Belgrad U17
+- Louie Caunter: East Coast Bays AFC → Auckland City FC
+- Bilal Habib: Green Gully SC → Auckland City FC
+- Theo Anthony: Cashmere Technical FC → Eastern Suburbs AFC
+- Louis Wickremesekera: East Coast Bays AFC → Auckland FC Reserves
+- Johannes Pentti: Oulun Luistinseura → AC Oulu
+- Otso-Pekka Parkkila: Oulun Luistinseura → AC Oulu
+- Samuel Friday James: SJK Seinäjoki II → SJK Seinäjoki
+- Eze Onuoha: SJK Seinäjoki II → SJK Seinäjoki
+- Wille Nuñez: IFK Mariehamn II → IFK Mariehamn
+- Ted Söderström: FF Jaro II → FF Jaro
+- Florian Rombogouera: Dijon FCO → Dijon FCO B
+- Mouhamed Dieng: Génération Foot → FC Sardarapat
+- Kaarel Ruus: FCI Levadia U21 → Levadia Tallinn U19
+- Teodor Sibul: FCI Levadia U21 → Levadia Tallinn U19
+- Daniil Abramenko: FCI Levadia U21 → Levadia Tallinn U19
+- Jan Hamburg: FCI Levadia U21 → Levadia Tallinn U19
+- Tristan Zahovaiko: FCI Levadia U21 → Levadia Tallinn U19
+- Hubert Liiv: FCI Levadia U21 → Levadia Tallinn U19
+- Dmitri Koop: FCI Levadia U19 → Levadia Tallinn U19
+- Kristian Rohtlaan: FCI Levadia U19 → Levadia Tallinn U19
+- Alexey Sazin: FCI Levadia U21 → Levadia Tallinn U19
+- Karl Kompus: FCI Levadia U21 → Levadia Tallinn U19
+- Siim Kotkas: FCI Levadia U19 → Levadia Tallinn U19
+- Mohamed Ouertani: FCI Levadia U21 → Levadia Tallinn U19
+- Kennert Koiv: FCI Levadia U19 → Levadia Tallinn U19
+- Gleb Gurin: FCI Levadia U19 → Levadia Tallinn U19
+- Maksimilian Skvortsov: FCI Levadia → Levadia Tallinn U19
+- Artem Fesenko: FCI Levadia U21 → Levadia Tallinn U19
+- Andreas Kompus: FCI Levadia U21 → Levadia Tallinn U19
+- Matvei Guljajev: FCI Levadia U19 → Levadia Tallinn U19
+- Arseni Aronson: FCI Levadia U19 → Levadia Tallinn U19
+- Vjatseslav Pavlovits: FCI Levadia U21 → Levadia Tallinn U19
+- Hugo Sonitsar: FCI Levadia U21 → Levadia Tallinn U19
+- Nikita Muravljov: FCI Levadia U21 → Levadia Tallinn U19
+- Fjodor Rodionov: FCI Levadia U21 → Levadia Tallinn U19
+- Ruslan Turabov: FCI Levadia U19 → Levadia Tallinn U19
+- Artjom Timakov: FCI Levadia U21 → Levadia Tallinn U19
+- Patrik Polda: FC Nomme United U21 → FC Nomme United U19
+- Artur Lapa: FC Nomme United U17 → FC Nomme United U19
+- Robin Ortega: FC Nomme United U21 → FC Nomme United U19
+- Jakob Käis: FC Nomme United U21 → FC Nomme United U19
+- Karl Zilmer: FC Nomme United U21 → FC Nomme United U19
+- Mark Marmei: FC Nomme United U21 → FC Nomme United U19
+- Ottomar Rootsma: FC Nomme United U21 → FC Nomme United U19
+- Karl-Kaspar Piht: FC Nomme United U21 → FC Nomme United U19
+- Silver Veske: FC Nomme United U21 → FC Nomme United U19
+- Gert Kabal: FC Nomme United → FC Nomme United U19
+- Ricardo Kranberg: FC Nomme United U21 → FC Nomme United U19
+- Sten Mihelson: FC Nomme United U21 → FC Nomme United U19
+- Artsemi Radomski: FC Nomme United → FC Nomme United U19
+- Romet Leppik: FC Nomme United U21 → FC Nomme United U19
+- Ivan Krasnov: FC Nomme United → FC Nomme United U19
+- Ken Mölder: FC Nomme United U21 → FC Nomme United U19
+- Artjom Truuväärt: FC Nomme United → FC Nomme United U19
+- Lars Ossep: FC Nomme United U21 → FC Nomme United U19
+- Steven Tamm: FC Nomme United U21 → FC Nomme United U19
+- Robert Birk: FC Nomme United U17 → FC Nomme United U19
+- Kaspar Anton: FC Nomme United U21 → FC Nomme United U19
+- Bruno Ounapuu: FC Nomme United U21 → FC Nomme United U19
+- Kert Tomingas: FC Nomme United U21 → FC Nomme United U19
+- Jelissei Reinol: JK Narva Trans U21 → JK Trans Narva U19
+- Ilya Rebrik: JK Narva Trans → JK Trans Narva U19
+- Arseni Dmitrijev: JK Narva Trans U21 → JK Trans Narva U19
+- Michael Astapov: JK Narva Trans U21 → JK Trans Narva U19
+- Nikolai Fedossejev: JK Narva Trans U21 → JK Trans Narva U19
+- Maksim Gerstman: JK Narva Trans U21 → JK Trans Narva U19
+- Danil Geveller: JK Narva Trans U21 → JK Trans Narva U19
+- Aleksander Solodov: JK Narva Trans U21 → JK Trans Narva U19
+- Emilis Petkus: JK Narva Trans U21 → JK Trans Narva U19
+- Arseni Mihhailov: JK Narva Trans U21 → JK Trans Narva U19
+- Timur Zubkov: JK Narva Trans U21 → JK Trans Narva U19
+- Maxim Stepanov: JK Narva Trans U21 → JK Trans Narva U19
+- Stepan Spak: JK Narva Trans U21 → JK Trans Narva U19
+- Daniil Mihhailov: JK Narva Trans U21 → JK Trans Narva U19
+- Saveli Tarassenkov: JK Narva Trans U21 → JK Trans Narva U19
+- Jaroslav Jerjomin: JK Narva Trans U21 → JK Trans Narva U19
+- Rodion Aleksandrov: JK Narva Trans U21 → JK Trans Narva U19
+- Gennadi Gorki: JK Narva Trans U21 → JK Trans Narva U19
+- Viktor Pavlov: JK Narva Trans U21 → JK Trans Narva U19
+- Arnas Besigirskis: JK Narva Trans → JK Trans Narva U19
+- Veniamin Torchakov: JK Narva Trans U21 → JK Trans Narva U19
+- Maksim Borsts: JK Narva Trans U21 → JK Trans Narva U19
+- Lauri Tahkola: FC Inter Turku U18 → FC Inter Turku II
+- Kaspar Vahepold: Kalju FC U21 → Kalju FC U19
+- Reito Rikkand: Kalju FC U17 → Kalju FC U19
+- Rasmus Tonnissoo: Kalju FC U17 → Kalju FC U19
+- Artemi Provodin: Kalju FC U21 → Kalju FC U19
+- Karl Meimre: Kalju FC U17 → Kalju FC U19
+- Kermo Kasela: Kalju FC U17 → Kalju FC U19
+- Kennet Tehvo: Kalju FC U17 → Kalju FC U19
+- Rocco Siigur: Pärnu JK Vaprus U21 → Pärnu JK Vaprus U19
+- Arne Vesa: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- William Mikkola: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Saveli Alekseev: Kalev Tallinn U17 → Kalev Tallinn U19
+- Waltteri Koivisto: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Matias Åberg: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Juho Pirkkalainen: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Johannes Moilanen: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Henri Tuur: Kalev Tallinn U17 → Kalev Tallinn U19
+- Silver Leon Noorma: Kalev Tallinn U17 → Kalev Tallinn U19
+- Joosep Joendi: Kalev Tallinn U21 → Kalev Tallinn U19
+- Joel Kruuts: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Nathaniel Pettai: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Gert Söörd: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Kert Viiklaid: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Robert Koll: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Sten-Marten Dervojed: Pärnu JK Vaprus U19 → Paide Linnameeskond U19
+- Kert Selter: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Yegor Semenov: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Romet Randalainen: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Sander Ojasaar: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Steven Tooming: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Gustav Vilk: Paide Linnameeskond U17 → Paide Linnameeskond U19
+- Nehir Aydin: Euran Pallo → FC Jazz
+- Taavi Taalikka: Vantaan Jalkapalloseura II → Vantaan Jalkapalloseura
+- Tuomas Koponen: Vantaan Jalkapalloseura II → Vantaan Jalkapalloseura
+- Valtteri Salo: Vantaan Jalkapalloseura II → Vantaan Jalkapalloseura
+- Jesper Johansson: Vantaan Jalkapalloseura II → Vantaan Jalkapalloseura
+- Oskari Blommendahl: Vantaan Jalkapalloseura II → Vantaan Jalkapalloseura
+- Mico Syrjälä: Tampereen Pallo-Veikot II → Tampereen Pallo-Veikot
+- Vikke-Valtteri Anttila: Tampereen Pallo-Veikot II → Tampereen Pallo-Veikot
+- Lamin Jadama: Tampereen Pallo-Veikot II → Tampereen Pallo-Veikot
+- Yanel Zézé: FC Nantes → FC Nantes B
+- Dan Bokelo Isenge: FC Chauray → US Chauvigny
+- Ange-Gabriel Kokora: Standard de Liège 16 FC → Standard Liège U18
+- Sam Fraipont: Standard de Liège 16 FC → Standard Liège U18
+- Yanis Malamba: Standard de Liège 16 FC → Standard Liège U18
+- Yhanis Onehese: Standard de Liège 16 FC → Standard Liège U18
+- Luca Rousseaux: Zébra Élites → R Charleroi SC U18
+- Sacha Miantezila: Zébra Élites → R Charleroi SC U18
+- Oscar Latteur: Zébra Élites → R Charleroi SC U18
+- Leandro Diaz Rodriguez: Zébra Élites → R Charleroi SC U18
+- Nino Vukasovic: NK Celje → FK Velez Mostar
+- Louis Daems: K Lierse SK → K Lierse SK U21
+- Willem Van Clemen: K Lierse SK → K Lierse SK U21
+- Daan De Peuter: K Lierse SK → K Lierse SK U21
+- Saïf-Eddine Boutkabout: K Lierse SK → K Lierse SK U21
+- Virgil Bachy: K Lierse SK → K Lierse SK U21
+- Yani Rutkowski: RFC Seraing → RFC Seraing U21
+- Lucas Brulmans: RFC Seraing → RFC Seraing U21
+- Valerio Di Crescenzo: RFC Seraing → RFC Seraing U21
+- Lars Geluykens: Sporting Hasselt → Sporting Hasselt U21
+- Robbe Haven: Sporting Hasselt → Sporting Hasselt U21
+- Paul Tilloy: Francs Borains → Francs Borains U21
+- Jón Petur Thomsen: NSÍ Runavík II → NSÍ Runavík
+- Benadiktus Olsen: NSÍ Runavík II → NSÍ Runavík
+- Tróndur Sjúrdarson: HB Tórshavn II → HB Tórshavn
+- Silas Joensen: HB Tórshavn II → HB Tórshavn
+- Jógvan í Lon: HB Tórshavn II → HB Tórshavn
+- Jógvan í Skála: HB Tórshavn II → HB Tórshavn
+- Dánjal Reginsson: HB Tórshavn II → HB Tórshavn
+- Hans Jørgensen: B36 Tórshavn II → B36 Tórshavn
+- Rói Hansen: B36 Tórshavn II → B36 Tórshavn
+- Tórur Eliasen: B36 Tórshavn II → B36 Tórshavn
+- Tobias Hansen: B36 Tórshavn II → B36 Tórshavn
+- Ingi Arngrímsson: Víkingur Göta II → Víkingur Gøta
+- Jónatan Lervig: Víkingur Göta II → Víkingur Gøta
+- Áki Magnussen: Víkingur Göta II → Víkingur Gøta
+- Rani Hansen: Víkingur Göta II → Víkingur Gøta
+- Fayo Kruse: EB/Streymur II → EB/Streymur
+- Ábraham Joensen: EB/Streymur II → EB/Streymur
+- Tóki Johannesen: EB/Streymur II → EB/Streymur
+- Thomas Bjørn Miezan: EB/Streymur II → EB/Streymur
+- Jákup Hummeland: EB/Streymur II → EB/Streymur
+- Sverri Mariusarson: EB/Streymur II → EB/Streymur
+- Hans Pauli á Bö: EB/Streymur II → EB/Streymur
+- Louie Caunter: East Coast Bays AFC → Auckland City FC
+- Bilal Habib: Green Gully SC → Auckland City FC
+- Theo Anthony: Cashmere Technical FC → Eastern Suburbs AFC
+- Louis Wickremesekera: East Coast Bays AFC → Auckland FC Reserves
+- Ilan Mastrocola-Simon: Coastal Spirit FC → Ferrymead Bays FC
+- Riley Allison: Upper Hutt City FC → Wellington Phoenix FC Reserves
+- Oliver Grosso: Christchurch United → Wellington Phoenix FC Reserves
+- Sengchan Vongpunya: BIS Master FC → Lao Army FC
+- Souksavanh Xaiyalin: BIS Master FC → Lao Army FC
+- Obee Vongthachit: Namtha United → Luang Prabang FC
+- Sang-ha Park: tonan Maebashi → Champasak HAGL Avenir FC
+- Kenshu Alao: BIS Master FC → Namtha United
+- Sitthixay Champasouk: BIS Master FC → Namtha United
+- Thavisok Latsavong: Lao Army FC → Namtha United
+- Hiroto Kaneiki: Tadotsu FC → Savannakhet Zelos
+- Ginga Shiga: Shichigahama SC → Savannakhet Zelos
+- Phoutthakone Vixay: BIS Master FC → BIS Football Club
+- Daophachanh Souvannavong: BIS Master FC → BIS Football Club
+- Soukamphan Phommalyvong: Namtha United → BIS Football Club
+- Soutnilan Chandavong: BIS Master FC → BIS Football Club
+- Nika Douangboupha: BIS Master FC → BIS Football Club
+- Palindeth Phettakounh: BIS Master FC → BIS Football Club
+- Vaithaya Sisongkham: BIS Master FC → BIS Football Club
+- Souvanvilay Youtthavong: BIS Master FC → BIS Football Club
+- Saiynumngern Phimmahaxai: BIS Master FC → BIS Football Club
+- Javon Turner: BIS Master FC → BIS Football Club
+- Shogo Hotta: BIS Master FC → BIS Football Club
+- Lavi Somthongkham: Namtha United → BIS Football Club
+- Vilai Kulungsy: BIS Master FC → BIS Football Club
+- Jilo Niamké: BIS Master FC → BIS Football Club
+- Kaiphob Manivong: Namtha United → BIS Football Club
+- Ayumu Yamaguchi: FC Porto Taibesse → Oudomxay Entremets
+- Marcis Kazainis: Riga FC II → Riga FC
+- Eriks Maurs-Boks: Riga FC II → Riga FC
+- Savelijs Boroviks: FC RFS II → FC RFS
+- Toms Petrovics: SK Super Nova II → SK Super Nova
+- Alens Grikovs: SK Super Nova II → SK Super Nova
+- Aram Baghdasaryan: SK Super Nova II → SK Super Nova
+- Georgijs Bombans: SK Super Nova II → SK Super Nova
+- Adams Dreimanis: FS Jelgava U19 → FS Jelgava
+- Alekss Kuprins: FK Tukums 2000 II → FK Tukums 2000
+- Kristofers Minajevs: FK Tukums 2000 II → FK Tukums 2000
+- Marcis Susts: FK Tukums 2000 U19 → FK Tukums 2000
+- Kristaps Uzis: FK Tukums 2000 II → FK Tukums 2000
+- Ilja Atligins: FK Tukums 2000 II → FK Tukums 2000
+- Robin Leskinen: Atlantis FC/East FC → Puistolan Urheilijat
+- Kaapo Mantere: FC Lahti II → Lahden Reipas
+- Joel Viljanen: FC Lahti II → Lahden Reipas
+- Jesús Rubio: Atlètic Club d'Escaldes → FC Santa Coloma
+- Andria Chkhaidze: FC Kolkheti-1913 Poti → FC Gagra
+- Nick Suman: Aberdeen FC → Ross County FC
+- Milos Lalevic: FK Iskra Danilovgrad → FK Mladost Donja Gorica
+- Calvin Beattie: Arbroath FC → East Fife FC
+- Chris McKenna: East Kilbride FC → Dumbarton FC
+- Francis Turley: Celtic FC B → Dumbarton FC
+- Curtis Lyle: Stenhousemuir FC → Stirling Albion FC
+- Kurtis Roberts: Alloa Athletic FC → Stirling Albion FC
+- Darryl McHardy: Buckie Thistle FC → Elgin City FC
+- Oliver Berezjuk: Kalju FC U17 → Kalju FC U21
+- Andres Kiisel: Kalju FC U17 → Kalju FC U21
+- Miller Thomson: Dundee United FC → Stenhousemuir FC
+- Jerome Diallo: Hertha BSC → Hertha BSC U19
+- Mayson Grothe: Hertha BSC → Hertha BSC U19
+- Aaron Reschke: FC Energie Cottbus → FC Energie Cottbus U19
+- Alejandro Catalán: Pirineus United Fútbol Club → FS La Massana
+- David Maneiro: CE Casa de Portugal → FS La Massana
+- Ricardo Teixeira: CE Casa de Portugal → FS La Massana
+- Jonathan Torres: Metropolitan FA → Caguas Sporting FC
+- Adrià Balastegui: FC City Escaldes → FC Santa Coloma B
+- Aria Aminloo: Ponce FC → Guaynabo FC
+- Philipp Licht: Stuttgarter Kickers → Stuttgarter Kickers U19
+- Lirijon Abdullahu: Stuttgarter Kickers → Stuttgarter Kickers U19
+- Leandro Mendes: Stuttgarter Kickers → Stuttgarter Kickers U19
+- Théodore Pizarro: SC Freiburg II → SC Freiburg U19
+- Emilio Schiertz: SC Freiburg II → SC Freiburg U19
+- Tammo Schiertz: SC Freiburg II → SC Freiburg U19
+- Jannik Veit: SC Freiburg II → SC Freiburg U19
+- Mladen Mijajlovic: SC Freiburg II → SC Freiburg U19
+- Chrisdy Dianzenza: SC Freiburg II → SC Freiburg U19
+- Batu Akgöz: SV Sandhausen → SV Sandhausen U19
+- Luka Vukoja: SV Sandhausen → SV Sandhausen U19
+- Mateo Mrden: SSV Ulm 1846 → SSV Ulm 1846 U19
+- Colin Kurz: 1.FC Heidenheim 1846 U17 → 1.FC Heidenheim 1846 U19
+- Jakob Ott: 1.FC Heidenheim 1846 U17 → 1.FC Heidenheim 1846 U19
+- Koen te Veluwe: Vitesse Arnhem → Vitesse Arnhem U21
+- Thomas Goos: NAC Breda → NAC Breda U21
+- Dani van Loenen: ADO Den Haag → ADO Den Haag U21
+- Serge Planjer: ADO Den Haag U19 → ADO Den Haag U21
+- Dion van Zanten: FC Dordrecht → FC Dordrecht U21
+- Mohamed Kessrioui: FC Dordrecht → FC Dordrecht U21
+- Levi Haps: Feyenoord U19 → Feyenoord U21
+- Giandro Sambo: FC Twente Enschede U19 → FC Twente Enschede U21
+- Thomas Hulleman: Go Ahead Eagles → Go Ahead Eagles Deventer U21
+- Jasper Reinhold: Hannover 96 II → Hannover 96 U19
+- Samuel Passariello: TSG 1899 Hoffenheim U19 → TSG 1899 Hoffenheim U17
+- Joseph Saliba: Victoria Hotspurs FC → Xewkija Tigers FC
+- Samuel Mahlamäki: Christchurch United → Xewkija Tigers FC
+- Aaron Touarha: SK Victoria Wanderers FC → Xewkija Tigers FC
+- Kenneth Mercieca: Xewkija Tigers FC → Qala Saints FC
+- Andriy Vella: Naxxar Lions FC → SK Victoria Wanderers FC
+- Gabriel Cardona: Qala Saints FC → SK Victoria Wanderers FC
+- James Meilak: Sannat Lions FC → SK Victoria Wanderers FC
+- Kyle Barbara: Victoria Hotspurs FC → Xaghra United FC
+- Nicholas Inguanez: Qala Saints FC → Xaghra United FC
+- Shaun Attard: Victoria Hotspurs FC → Xaghra United FC
+- Joseph Chilaka Agbakwuru: Gudja United FC → Xaghra United FC
+- Fadl Kamal: SpVgg Greuther Fürth II → SpVgg Greuther Fürth U19
+- Henri Rothkegel: SpVgg Greuther Fürth II → SpVgg Greuther Fürth U19
+- Dominik Spath: SpVgg Greuther Fürth II → SpVgg Greuther Fürth U19
+- Kaelen Dougan: SpVgg Greuther Fürth II → SpVgg Greuther Fürth U19
+- Gennaro Wijks: RB Leipzig U19 → RB Leipzig U17
+- Julian Wenta: RB Leipzig U19 → RB Leipzig U17
+- Edi Hajredini: FC Viktoria Köln U17 → FC Viktoria Köln U19
+- Matheo Graf: SV 07 Elversberg II → SV 07 Elversberg U19
+- Marlon Ambos: SV 07 Elversberg II → SV 07 Elversberg U19
+- Jaydan Celecia: FC Magpies U18 → FC Hound Dogs U18
+- Ryan Alvez: St. Joseph's FC U18 → Lincoln Red Imps FC U18
+- Lui Kessack: FC Magpies U18 → Lincoln Red Imps FC U18
+- Meng-Kuang Tsai: Athletic Club Taipei → Athletic Club Taipei Reserves
+- Hayato Takayama: Athletic Club Taipei → Athletic Club Taipei Reserves
+- Yi-Lei Hsu: Athletic Club Taipei → Athletic Club Taipei Reserves
+- Hsuan-An Yang: Athletic Club Taipei → Athletic Club Taipei Reserves
+- Jui-Yang Tung: Hang Yuan FC → Hang Yuan FC Reserves
+- Yen-Ju Lee: Hang Yuan FC → Hang Yuan FC Reserves
+- Wen-Hsiang Chang: Hang Yuan FC → Hang Yuan FC Reserves
+- Carlo Finotti: Hang Yuan FC → Hang Yuan FC Reserves
+- Pin-Tse Lin: Hang Yuan FC → Hang Yuan FC Reserves
+- Hao-Lin Wang: Hang Yuan FC → Hang Yuan FC Reserves
+- Ding-Rui Fu: Hang Yuan FC → Hang Yuan FC Reserves
+- Je-Wei Chiuan: Hang Yuan FC → Hang Yuan FC Reserves
+- Jannis Link: Hannover 96 U19 → Hannover 96 U17
+- Xiang-Yu Yang: Kaohsiung Attackers → Kaohsiung Attackers Reserves
+- Ping-En Liu: Kaohsiung Attackers → Kaohsiung Attackers Reserves
+- Yuu Yamada: Kaohsiung Attackers → Kaohsiung Attackers Reserves
+- Damian Lepper: SV Werder Bremen U19 → SV Werder Bremen U17
+- Abdourahmane Badji: Sonacos de Diourbel → ASC Sonacos
+- Mamadou Thiam: Sonacos de Diourbel → ASC Sonacos
+- Sadieye Tall: Sonacos de Diourbel → ASC Sonacos
+- Midie Mbaye: Sonacos de Diourbel → ASC Sonacos
+- Papa Marone: Sonacos de Diourbel → ASC Sonacos
+- Pape Fall: Sonacos de Diourbel → ASC Sonacos
+- Ababacar Kaye: Sonacos de Diourbel → ASC Sonacos
+- Alioune Aïdara: Sonacos de Diourbel → ASC Sonacos
+- Modou Ciss: Sonacos de Diourbel → ASC Sonacos
+- Mamadou Wagne: Sonacos de Diourbel → ASC Sonacos
+- Salif Sow: Sonacos de Diourbel → ASC Sonacos
+- Mouhamed Sakho: Sonacos de Diourbel → ASC Sonacos
+- Ahmadou Ba: Sonacos de Diourbel → ASC Sonacos
+- Mouhamed Sene: Sonacos de Diourbel → ASC Sonacos
+- Lamine Senghor: Sonacos de Diourbel → ASC Sonacos
+- Ibrahima Delgado: Sonacos de Diourbel → ASC Sonacos
+- Mouhamadou Niang: Sonacos de Diourbel → ASC Sonacos
+- Bara Soumare: Sonacos de Diourbel → ASC Sonacos
+- Serigne Sonko: Sonacos de Diourbel → ASC Sonacos
+- Ebrima Jeng: Sonacos de Diourbel → ASC Sonacos
+- Mouhamadou Sadio: Sonacos de Diourbel → ASC Sonacos
+- Bernard Thiaw: Sonacos de Diourbel → ASC Sonacos
+- Pape Manssaly: Sonacos de Diourbel → ASC Sonacos
+- Mansour Camara: Sonacos de Diourbel → ASC Sonacos
+- Birame Dioum: Sonacos de Diourbel → ASC Sonacos
+- Felicien Mbaye: Sonacos de Diourbel → ASC Sonacos
+- El Hadji Mbaye: Sonacos de Diourbel → ASC Sonacos
+- Eric Gomis: Sonacos de Diourbel → ASC Sonacos
+- Alpha Samoura: Sonacos de Diourbel → ASC Sonacos
+- Lucas Acosta: CA San Martín (San Juan) II → CA San Martín (San Juan)
+- Martín Campos: Club Ferro Carril Oeste II → Club Ferro Carril Oeste
+- Anton Zinkovskiy: Spartak Moscow → Spartak 2 Moscow
+- Jorge Luque: Club Deportivo Riestra II → CA Acassuso
+- Ilya Gorbachev: Rodina 2 Moscow → Rodina-3 Moscow
+- Aleksandr Andreev: Rodina 2 Moscow → Rodina-3 Moscow
+- Aldhy Valencia: Universidad César Vallejo → Universidad César Vallejo II
+- Ernesto Pinillos: Universidad César Vallejo → Universidad César Vallejo II
+- Bryan Córdova: Universidad César Vallejo → Universidad César Vallejo II
+- Julinho Astudillo: Universidad César Vallejo → Universidad César Vallejo II
+- Paulo Mesías: Universidad César Vallejo → Universidad César Vallejo II
+- Joel Quispe: Universidad César Vallejo → Universidad César Vallejo II
+- Fernando Paiva: Universidad César Vallejo → Universidad César Vallejo II
+- Jailson Mathey: Universidad César Vallejo → Universidad César Vallejo II
+- Diego Ulloa: Universidad César Vallejo → Universidad César Vallejo II
+- Joseph de la Cruz: Universidad César Vallejo → Universidad César Vallejo II
+- Diether Vásquez: Universidad César Vallejo → Universidad César Vallejo II
+- Guillermo Grández: Universidad César Vallejo → Universidad César Vallejo II
+- Matías Canahualpa: Universidad César Vallejo → Universidad César Vallejo II
+- Rodrigo Gómez: Universidad César Vallejo → Universidad César Vallejo II
+- Angelo Valiente: Universidad César Vallejo → Universidad César Vallejo II
+- Massimo Campana: Universidad César Vallejo → Universidad César Vallejo II
+- Eduardo Urtecho: Universidad César Vallejo → Universidad César Vallejo II
+- Francisco Gómez: Racing Club → Racing Club II
+- Santino Gianini: AA Argentinos Juniors → AA Argentinos Juniors II
+- Ian Silveira: CA Nueva Chicago → AA Argentinos Juniors II
+- Santiago Silveira: AA Argentinos Juniors → AA Argentinos Juniors II
+- Facundo Carrizo: AA Argentinos Juniors → AA Argentinos Juniors II
+- Gastón Bouhier: AA Argentinos Juniors → AA Argentinos Juniors II
+- Alan Alcaraz: AA Argentinos Juniors → AA Argentinos Juniors II
+- Octavio Ontivero: CA Lanús → CA Lanús II
+- Jeremías Chavero: CA Lanús → CA Lanús II
+- Jeremías Gallard: CA Talleres → CA Talleres II
+- Joaquín Medina: Instituto ACC → Instituto ACC II
+- Lorenzo Albarracín: Instituto ACC → Instituto ACC II
+- Jussi Helin: Pallo-Iirot → Euran Pallo
+- Oliver Pihlaja: SJK Seinäjoki U18 → SJK-j Seinäjoki
+- Rodrigão: Red Star Belgrade → Без клуба
+- Praxedes: Red Bull Bragantino → Без клуба
+- Dawid Kownacki: SV Werder Bremen → Без клуба
+- Dánnovi Quiñónes: Internacional de Bogotá → Без клуба
+- Luka Gagnidze: Dynamo Moscow → Без клуба
+- João Mendes: Kayserispor → Без клуба
+- Gabriel Novaes: Red Bull Bragantino → Без клуба
+- Karim Rekik: Al-Jazira Club → Без клуба
+- Marko Lukovic: FK IMT Belgrad → Без клуба
+- Allan Campbell: St. Mirren FC → Без клуба
+- Jeison Lucumí: LD Alajuelense → Без клуба
+- Brayton Vázquez: Tlaxcala FC → Без клуба
 
-## Изменился контракт — 26
+## Изменился контракт — 840
 
 - Moatasem Al-Musrati (Al-Ahli SC): 31/08/2026 → 30/06/2028
 - Danny Ings (Wycombe Wanderers): 01/07/2026 → -
@@ -209,9 +4032,823 @@ _собрано 2026-09-28 10:02 UTC_
 - Stefan Cvetkovic (HSK Zrinjski Mostar): 01/07/2026 → 30/06/2027
 - Kian Speidel (VfB Stuttgart U19): 30/06/2027 → -
 - Christian Eriksen (Без клуба): 30/06/2027 → 23/09/2026
+- Ezequiel Centurión (CA River Plate): 31/12/2026 → 31/12/2029
+- Ignacio Ovando (CA Rosario Central): 31/12/2029 → -
+- Valentín Carboni (Racing Club): 31/12/2026 → 31/12/2027
+- Valentín Carboni (Racing Club): 31/12/2026 → 31/12/2027
+- Marcos Rojo (Club Estudiantes de La Plata): 31/12/2026 → 31/12/2027
+- Guido Carrillo (Club Estudiantes de La Plata): 31/12/2026 → 31/12/2028
+- José Martínez (FC Cincinnati): 24/02/2026 → 31/12/2026
+- Thomas Müller (Vancouver Whitecaps FC): 31/12/2026 → 30/06/2027
+- Maren Haile-Selassie (Chicago Fire FC): 31/12/2026 → 30/06/2029
+- Nahuel Banegas (CA Independiente): 31/12/2028 → 30/06/2027
+- Alexis Steimbach (Club de Gimnasia y Esgrima La Plata): 31/12/2026 → 31/12/2028
+- Alexis Steimbach (Club de Gimnasia y Esgrima La Plata): 31/12/2026 → 31/12/2028
+- Mateo Seoane (Club de Gimnasia y Esgrima La Plata): 31/12/2026 → 31/12/2028
+- Mateo Seoane (Club de Gimnasia y Esgrima La Plata): 31/12/2026 → 31/12/2028
+- Sekou Kone (Red Bull New York): 31/12/2026 → 30/06/2028
+- Abdoulaye Doucouré (Charlotte FC): 01/07/2026 → 31/12/2026
+- Hugo Mbongue (Charlotte FC): 31/12/2026 → 30/06/2027
+- Christian Olivares (St. Louis CITY SC): 30/11/2026 → 31/12/2026
+- Nicolás Garrido (CA Central Córdoba (SdE)): 31/12/2028 → 31/12/2027
+- Gilberto Rivera (Houston Dynamo FC): 30/11/2026 → 30/06/2027
+- Mamadou Sylla (Al-Ittihad SC): - → 30/06/2027
+- Naoufel Khacef (Al-Ahly SC): 30/06/2030 → -
+- Jaime Sancho (Al-Madina SC): 30/06/2027 → -
+- Abduljawad Al-Mariami (Al-Shomooa SC): - → 30/06/2028
+- Ali Salama (Al-Hilal SC): - → 30/06/2027
+- Ryan Porteous (Bonnyrigg Rose FC): 30/09/2026 → -
+- Matthew Bell (Tacoma Defiance): - → 31/12/2026
+- Damyan Villanueva (Chicago Fire FC II): - → 30/06/2028
+- Sonny Aluko (East Stirlingshire FC): 31/05/2026 → -
+- Sam Rogers (Whitecaps FC 2): - → 30/06/2028
+- Adam Livingstone (Johnstone Burgh FC): - → 01/01/2027
+- Peter Urminsky (Albion Rovers FC): 31/05/2027 → 02/01/2026
+- Krystof Karban (FK Jablonec B): - → 30/06/2028
+- Matej Hacaperka (FC Viktoria Plzen B): - → 30/06/2029
+- Okello Bartley (Nottingham Forest U18): 30/06/2028 → 30/06/2029
+- Nefeye Osazee (AFC Bournemouth U18): 30/06/2028 → -
+- Jai Bansoodeb (FC Brentford U18): - → 30/06/2028
+- Harry Montague (West Ham United U18): 30/06/2027 → -
+- Vlăduț Tiță (FC Metaloglobus Bucharest): - → 30/06/2027
+- Jake Doughty (Aston Villa U18): - → 30/06/2028
+- Jayden Malundama (Chelsea FC U18): 30/06/2028 → -
+- Mohamed El Shenawy (Al Ahly FC): 30/06/2027 → 30/06/2028
+- Arjang Pakbaz (Monterey Bay FC): - → 30/11/2026
+- Akil Watts (Loudoun United FC): 01/01/2026 → 30/11/2026
+- Danny Wilson (Sporting Club Jacksonville): - → 30/11/2026
+- Emiliano Arana (Oakland Roots SC): - → 30/11/2026
+- Gustavo Santos (SL Benfica U23): - → 30/06/2029
+- Duarte Soares (SL Benfica U23): 30/06/2027 → 30/06/2030
+- Ibrahim Ba (SL Benfica U23): 30/06/2028 → 30/06/2029
+- João Rijo (Sporting CP U23): 30/06/2027 → 30/06/2029
+- Leonardo Varela (Sporting CP U23): 30/06/2028 → 30/06/2029
+- Afonso Marques (Sporting CP U23): 30/06/2027 → 30/06/2029
+- Duarte Tomás (Sporting CP U23): 30/06/2028 → 30/06/2029
+- Diogo Martins (Sporting CP U23): 30/06/2027 → 30/06/2028
+- Délcio Aurélio (Sporting CP U23): 30/06/2027 → 30/06/2028
+- Enrique Nieves (FC Felgueiras Sub-23): - → 30/06/2027
+- Kenen Torres (SCU Torreense Sub-23): 30/06/2027 → 30/06/2028
+- Vanja Lazovic (Gil Vicente U23): - → 30/06/2027
+- Miguel Rocha (UD Leiria Under 23): - → 30/06/2027
+- Lagartinho (Portimonense SAD U23): - → 30/06/2028
+- Krépin Diatta (Watford FC): 01/07/2026 → 30/06/2027
+- Elijah Morrison (Bristol City): 30/06/2027 → 30/06/2028
+- Ziad Ayoub (CF Estrela Amadora U23): 30/06/2026 → 30/06/2027
+- Bobby Clark (Derby County): - → 30/06/2030
+- Zach Mitchell (Charlton Athletic): 31/05/2027 → 30/06/2027
+- Atsuki Ito (Bolton Wanderers): - → 30/06/2029
+- Tendayi Darikwa (Lincoln City): 30/06/2027 → 30/06/2028
+- Marcelo Ajul (Sport Club do Recife): 31/12/2027 → 31/12/2028
+- Augusto Pucci (Sport Club do Recife): 31/08/2027 → 31/12/2027
+- Marcos Vinícius (Goiás EC): - → 30/11/2026
+- Gustavão (Athletic Club): - → 30/11/2026
+- Lincoln (Vila Nova Futebol Clube (GO)): 31/12/2027 → 30/11/2026
+- Gabriel Feliciano (Operário Ferroviário Esporte Clube (PR)): 31/12/2026 → 31/12/2029
+- Mikael Doka (Operário Ferroviário Esporte Clube (PR)): — → 31/12/2027
+- Davide Gaffurini (Torino Primavera): 30/06/2028 → 30/06/2029
+- Pedrinho (Botafogo FC): - → 31/12/2029
+- Yuri Felipe (Botafogo FC): 30/11/2027 → 31/12/2029
+- Léo (Clube Náutico Capibaribe): - → 30/11/2027
+- Junnosuke Horie (Reilac Shiga): 30/09/2026 → -
+- Will Smallbone (Leicester City): 01/07/2026 → 30/06/2029
+- Frankie McMahon-Brown (Salford City): 03/10/2026 → -
+- Jay Bird (Salford City): 04/10/2026 → 30/06/2027
+- Charlie Binns (Bristol Rovers): - → 30/06/2027
+- Sean Patton (Reading FC): 30/06/2027 → 30/06/2028
+- Alfie Kilgour (Bristol Rovers): - → 30/06/2027
+- Arvin Appiah (Bristol Rovers): 01/07/2026 → -
+- Tom James (Bristol Rovers): - → 30/06/2028
+- Iswahyudi Ardinata (Persikotas Nusantara): 31/05/2026 → -
+- Adam Moseley (Wigan Athletic): 03/10/2026 → 30/06/2027
+- Jack Thomson (Swindon Town): - → 30/06/2028
+- Faza Al Firdaus (Persika Karanganyar): 31/05/2027 → 30/06/2027
+- Yulfikar Mansur (Persika Karanganyar): 31/05/2027 → 30/06/2027
+- Jake Oram (Doncaster Rovers): 03/10/2026 → 30/06/2027
+- Ed Leach (AFC Wimbledon): 03/10/2026 → -
+- Nur Husnan (Persipani Paniai): - → 30/06/2027
+- Yulyan Tjoe (Persipani Paniai): - → 30/06/2027
+- Saifullah (Pasuruan United): - → 30/06/2027
+- Burhan Afiludin (Pasuruan United): - → 30/06/2027
+- Hamsa Lestaluhu (Pasuruan United): - → 30/06/2027
+- Sugiyanto Rohman (Pasuruan United): - → 30/06/2027
+- Rosihan Rizqi (Pasuruan United): - → 30/06/2027
+- Patrick Kagulire (Police FC): - → 30/06/2029
+- Henry Kayemba (Police FC): - → 30/06/2029
+- Ali Bayo (Police FC): - → 30/06/2029
+- Samuel Ssekamatte (Police FC): - → 30/06/2029
+- Juan Cuellar (FC Palm City): - → 31/07/2026
+- Georgie Gent (Boston United): 30/06/2027 → 01/12/2026
+- Tom McIntyre (Forest Green Rovers): 01/07/2026 → 01/01/2027
+- William Merrett (Forest Green Rovers): 01/10/2026 → 30/06/2027
+- Patric (Al-Ittifaq FC): 30/06/2027 → -
+- Vicente Reyes (Woking FC): 30/06/2027 → 06/01/2027
+- Jaiden Putman (Woking FC): 07/11/2026 → 04/11/2026
+- Tom Anderson (Carlisle United): 30/06/2027 → 31/12/2026
+- Hayden Atkinson (Carlisle United): 06/10/2026 → -
+- Kenton Richardson (Carlisle United): - → 30/06/2027
+- Harvey Macadam (Carlisle United): 30/06/2026 → 30/06/2027
+- Ryan Loft (Hornchurch FC): 30/06/2027 → 06/01/2027
+- Leo Farrell (Altrincham FC): - → 03/01/2027
+- Stanley Ashbee (Scunthorpe United): 03/10/2026 → 03/01/2027
+- Chey Dunkley (Solihull Moors): 30/06/2027 → 26/12/2026
+- Kian Ryley (Solihull Moors): 02/10/2026 → -
+- Jonathan Macaulay (Tamworth FC): 03/10/2026 → 30/10/2026
+- Tom Fogarty (Tamworth FC): 10/10/2026 → 30/06/2027
+- Sydney Agina (Tamworth FC): 03/01/2027 → 01/11/2026
+- Ryan Jones (Yeovil Town): 30/06/2028 → 30/06/2029
+- Owen Dean (Yeovil Town): 30/06/2027 → 30/06/2028
+- Layton Love (Kidderminster Harriers): 02/10/2026 → -
+- Will Wright (Boreham Wood FC): - → 30/06/2029
+- Lewis Richardson (Boreham Wood FC): 30/06/2027 → 30/06/2028
+- Andrea Ferraris (Delfino Pescara 1936): 30/06/2027 → 30/06/2029
+- Federico Valentini (Forlì FC): - → 30/06/2027
+- Filippo Valentini (Forlì FC): - → 30/06/2027
+- Lorenzo Di Stefano (SEF Torres 1903): 30/06/2028 → 30/06/2029
+- Francesco Fabri (US Grosseto 1912): 30/06/2027 → 30/06/2028
+- Neto (Juventus FC): 01/07/2026 → 30/06/2027
+- Nico González (Juventus FC): 30/06/2029 → 30/06/2030
+- Luca Ranieri (ACF Fiorentina): 30/06/2028 → 30/06/2029
+- Matteo Darmian (Bologna FC 1909): 01/07/2026 → 30/06/2027
+- Farès Ghedjemis (Frosinone Calcio): 30/06/2028 → 30/06/2030
+- Wladimiro Falcone (US Lecce): 30/06/2028 → 30/06/2029
+- Paco Esteban (US Lecce): 30/06/2028 → 30/06/2030
+- Stefan Dzodic (UD Almería): 30/06/2030 → 30/06/2032
+- Tegan Finn (Torquay United): 05/10/2026 → 08/11/2026
+- Ryotaro Ito (Real Valladolid CF): 01/07/2026 → 30/06/2027
+- Ollie Dewsbury (Farnborough FC): - → 03/01/2027
+- Leo Ramirez-Espain (Hemel Hempstead Town): 05/10/2026 → 30/12/2026
+- Ben Hughes (Braintree Town): 30/06/2027 → 03/01/2027
+- Saleem Akanbi (Braintree Town): 30/06/2027 → -
+- Dillon Addai (Walton & Hersham FC): 03/10/2026 → 04/12/2026
+- Dan Carter (Walton & Hersham FC): 30/06/2027 → 06/11/2026
+- Josh Ayres (Walton & Hersham FC): 30/06/2027 → 01/11/2026
+- George Alexander (Farnham Town): - → 30/06/2028
+- Kasra Ghawilu (SV Meppen): - → 30/06/2028
+- Preston Kedwell (Folkestone Invicta FC): 29/09/2026 → 27/10/2026
+- Bobby Kelman (Folkestone Invicta FC): - → 03/11/2026
+- Marco Underwood (Hampton & Richmond Borough): 12/12/2026 → 31/12/2026
+- Wilson Waweru (Hampton & Richmond Borough): - → 03/01/2027
+- Rashawn Scott (Salisbury FC): - → 30/06/2027
+- Killian Barrett (Slough Town): 30/06/2027 → 09/11/2026
+- Elijah Oladunjoye (Slough Town): 30/06/2027 → 06/01/2027
+- Damion Lowe (Dewa United Banten FC): - → 30/06/2027
+- Sten-Marten Dervojed (Paide Linnameeskond U19): - → 31/12/2026
+- Noé Clergé (Calcio Foggia 1920): - → 30/06/2027
+- Kirill Levin (Pohja-Tallinna JK Volta U19): - → 31/12/2026
+- Léo Abreu (AZ Picerno): 30/06/2027 → 30/06/2029
+- Antonio Russo (Ascoli Picchio Primavera): - → 30/06/2029
+- Ezri Konsa (Arsenal FC): - → 30/06/2030
+- Cole Palmer (Chelsea FC): 30/06/2033 → 30/06/2034
+- Lewis Hall (Newcastle United): - → 30/06/2031
+- Zion Suzuki (Aston Villa): - → 30/06/2031
+- Taylor Harwood-Bellis (Aston Villa): - → 30/06/2031
+- Matteo Ruggeri (Aston Villa): - → 30/06/2031
+- Johan Manzambi (Aston Villa): - → 30/06/2031
+- Ibrahim Mbaye (Aston Villa): - → 30/06/2031
+- Juanlu Sánchez (AFC Bournemouth): - → 30/06/2031
+- Álvaro Rodríguez (AFC Bournemouth): - → 30/06/2031
+- Christian Walton (Ipswich Town): 30/06/2028 → 30/06/2029
+- Aurèle Amenda (Coventry City): - → 30/06/2030
+- Dillon Phillips (Hull City): 30/06/2027 → 30/06/2028
+- Yves-Anthony Weitze (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Eun-hyeok Kim (HSV Barmbek-Uhlenhorst): - → 30/06/2027
+- Edvin Isic (USC Paloma Hamburg II): - → 30/06/2027
+- Jonas Ahrens (Eimsbütteler TV II): - → 30/06/2027
+- Calogero Di Mora (Altona 93 II): 30/06/2026 → 30/06/2027
+- Mykhaylo Afonin (Altona 93 II): 30/06/2026 → 30/06/2027
+- Riccardo Paonessa (Juventus Under 18): - → 30/06/2028
+- Fabio Lorenzi (Parma Under 18): 30/06/2030 → -
+- Davide Gaffurini (Torino Under 18): 30/06/2028 → 30/06/2029
+- Duarte Soares (SL Benfica B): 30/06/2027 → 30/06/2030
+- Leonardo Varela (Sporting CP B): 30/06/2028 → 30/06/2029
+- Mauro Couto (Sporting CP B): 30/06/2027 → 30/06/2029
+- Micael Sanhá (Sporting CP B): 30/06/2027 → 30/06/2029
+- Lorenzo Costantino (SC Ligorna 1922): - → 30/06/2027
+- Aleks Olsztyn (Lech Poznań): - → 30/06/2028
+- Nélson Oliveira (SC Farense): - → 30/06/2027
+- Matteo Maccioni (Valenzana Mado SSD): 30/06/2026 → 30/06/2027
+- Lagartinho (Portimonense SAD): - → 30/06/2028
+- Xavier (Portimonense SAD): - → 30/06/2027
+- Alessandro Pagliari (Borgosesia Calcio): 30/06/2028 → 30/06/2027
+- Brando Moscatelli (USD Fezzanese): - → 30/06/2027
+- Luigi Pedaci (USD Fezzanese): 30/06/2027 → -
+- Jakub Krzyzanowski (Wisla Kraków): 30/06/2027 → 30/06/2030
+- Marcin Kościelecki (Wisla Plock): 30/06/2027 → 30/06/2029
+- Kadir Yildirim (Duisburger FV 08): - → 30/06/2027
+- Krzysztof Narożny (Miedz Legnica): 30/06/2028 → 30/06/2029
+- Filip Żur (Miedz Legnica): 30/06/2028 → 30/06/2029
+- Nevzat Üzel (Göztepe U19): 30/06/2027 → 30/06/2030
+- Cristian Gorgerino (CA Alvarado): - → 31/12/2026
+- Yakup Girişen (Amed SK U19): - → 30/06/2029
+- Yojan Garcés (CD América de Cali): 30/06/2027 → 31/12/2027
+- Alexis Rodríguez (Bolívar SC): - → 31/12/2026
+- Rafael Quiñones (Bolívar SC): - → 31/12/2026
+- Enrique Salazar (Bolívar SC): - → 31/12/2026
+- Daniel Bermúdez (Monagas SC B): - → 31/12/2026
+- Luis Guzmán (Monagas SC B): - → 31/12/2026
+- Miguelangel Diaz (Monagas SC B): - → 31/12/2026
+- Hernan Salazar (Monagas SC B): 31/12/2026 → 31/12/2027
+- Emmanuel Reyes (Monagas SC B): - → 31/12/2026
+- Diego Requena (Monagas SC B): - → 31/12/2026
+- José Carrasco (Monagas SC B): - → 31/12/2026
+- Yojan Garcés (CD América de Cali): 30/06/2027 → 31/12/2027
+- Jaime Peralta (Cúcuta Deportivo): - → 31/12/2028
+- Jaime Peralta (Cúcuta Deportivo): - → 31/12/2028
+- Chris Smalling (FC Porto): 01/07/2026 → 30/06/2027
+- William Gomes (FC Porto): 30/06/2029 → 30/06/2031
+- Job Musuasua (Kirchheimer SC): 30/06/2026 → -
+- Benjamin Rio-Moe (Frigg Oslo FK): - → 31/12/2026
+- Lohann Doucet (Vitória Guimarães SC): 30/06/2029 → 30/06/2028
+- Iván Barbero (FC Arouca): 30/06/2027 → 30/06/2028
+- Abdu Dafé (Casa Pia AC): 30/06/2027 → 30/06/2028
+- Wesley Gasolina (CD Nacional): - → 30/06/2028
+- Josué Souza (CD Nacional): - → 30/06/2030
+- Matchoi Djaló (CD Nacional): - → 30/06/2028
+- Fernando Nava (CD Nacional): - → 30/06/2030
+- Xavi Espart (FC Barcelona): 30/06/2028 → 30/06/2030
+- Nizar El Jmili (Villarreal CF): 30/06/2027 → 30/06/2030
+- Javi Rodríguez (Celta de Vigo): 30/06/2028 → 30/06/2030
+- Iñigo Arguibide (CA Osasuna): 30/06/2027 → 30/06/2030
+- Ramiro Bornia (Atlas Guadalajara U21): 31/12/2026 → -
+- Antonio Manfredi (Vigor Lamezia Calcio): - → 30/06/2027
+- Elia Di Salvo (SpVgg Unterhaching): - → 30/06/2028
+- Styopa Mkrtchyan (1.FC Nuremberg): 31/05/2030 → -
+- Ferdinand Borne (SpVgg Unterhaching): - → 30/06/2028
+- Ben Westermeier (SpVgg Unterhaching): - → 30/06/2027
+- Julian Justvan (1.FC Nuremberg): 30/06/2027 → 30/06/2028
+- Aleksander Wyganowski (Legia Warsaw II): - → 30/06/2028
+- Noah Djalek (TSV Aubstadt): - → 30/06/2027
+- Marlon Fries (SpVgg Bayreuth): - → 30/06/2027
+- Leon Sawas (VfL Bochum): 30/06/2028 → -
+- Valentin Atangana (Al-Ahli SFC): 30/06/2028 → 30/06/2029
+- Luca Reggiani (Borussia Dortmund): - → 30/06/2029
+- Gabriele Capanni (Ischia Isola Verde): 30/06/2026 → 30/06/2027
+- Adam Daghim (TSG 1899 Hoffenheim): - → 30/06/2031
+- Matthias Ginter (SC Freiburg): 30/06/2027 → -
+- Joël da Silva (FC Francavilla 1931): - → 30/06/2027
+- Mitchel Bakker (NEC Nijmegen): 01/09/2026 → 30/06/2027
+- Andrea Maran (Modena Primavera): 30/06/2028 → 30/06/2029
+- Filippo Calvo (Modena Primavera): - → 30/06/2029
+- Antonio Cannoni (Modena Primavera): - → 30/06/2029
+- Pietro Arnaboldi (Modena Primavera): - → 30/06/2028
+- Gilles van der Wal (PEC Zwolle): - → 30/06/2029
+- Merveille Biankadi (SGV Heilbronn-Freiberg): - → 30/06/2028
+- Thijs Jansen (SC Cambuur Leeuwarden): 30/06/2027 → 30/06/2028
+- Samuele Volpi (Renate Primavera): - → 30/06/2028
+- Felix Dornebusch (Stuttgarter Kickers): - → 30/06/2028
+- Luca Trslic (Stuttgarter Kickers): - → 30/06/2028
+- Elvir Zukaj (Stuttgarter Kickers): - → 30/06/2028
+- Malik Sama (Stuttgarter Kickers): - → 30/06/2028
+- Ben-Luca Fisher (Stuttgarter Kickers): - → 30/06/2028
+- Nico Molinari (Stuttgarter Kickers): - → 30/06/2028
+- Leandro Mendes (Stuttgarter Kickers): - → 30/06/2028
+- Sebastian Müller (Stuttgarter Kickers): - → 30/06/2028
+- Yannick Glessing (Stuttgarter Kickers): - → 30/06/2028
+- Dejan Bozic (Stuttgarter Kickers): - → 30/06/2028
+- Laurin Völlmerk (Stuttgarter Kickers): - → 30/06/2028
+- Albert Aramayo (Gualberto Villarroel San José): - → 31/12/2026
+- Leon Musial (TSV Solingen): 30/06/2026 → 30/06/2027
+- Neil Etheridge (Buriram United): 30/06/2027 → 30/06/2028
+- Lucas Ahijado (Buriram United): 01/07/2026 → 30/06/2027
+- Toni Moya (Buriram United): 01/07/2026 → 30/06/2027
+- Goran Causic (Buriram United): 30/06/2027 → 30/06/2028
+- Marin Jurina (BG Pathum United): 30/06/2026 → 30/06/2027
+- Danny (Union Touarga Sportif): - → 30/06/2028
+- Giuseppe Faiello (Paganese Calcio 1926): 30/06/2028 → 30/06/2027
+- Othman Sabri (Widad Témara): - → 30/06/2028
+- Mahmoud Ech Cheick (ASD Monastir 1983): - → 30/06/2027
+- Edoardo Taiappa (Calcio Budoni): - → 30/06/2027
+- Pedro Ferrari (Calcio Budoni): - → 30/06/2027
+- Pietro Ladu (Calcio Budoni): - → 30/06/2027
+- Giammarco Schirru (Calcio Budoni): - → 30/06/2027
+- Ousman Gomez (Calcio Budoni): - → 30/06/2027
+- Sidat Trawally (Calcio Budoni): - → 30/06/2027
+- Ivor Ljubanovic (Calcio Budoni): - → 30/06/2027
+- Marco Troisi (Sassari Latte Dolce): - → 30/06/2027
+- Raffael Müller (SC Vahr-Blockdiek): 30/06/2026 → -
+- Ferdinando Borgia (Città di Anagni Calcio): - → 30/06/2027
+- Christoph Koch (TSV Hasenbüren): 30/06/2026 → -
+- Jan Klinkenborg (TSV Hasenbüren): 30/06/2026 → -
+- Noah Djalek (TSV Aubstadt II): - → 30/06/2027
+- Marlon Fritschi (Alemannia Haibach): 30/06/2026 → 30/06/2027
+- Luis Markert (DJK Schwebenried/Schwemmelsbach): 30/06/2027 → -
+- Andre Hufnagel (DJK Hain): 30/06/2026 → 30/06/2027
+- Julian Irrenfried (TSV Mönchröden): - → 30/06/2027
+- Ettore Nicolosi (SS Cittadella Modena): - → 30/06/2027
+- Filippo Ercolani (SS Cittadella Modena): - → 30/06/2027
+- Batuhan Doğrukıran (Inegöl Kafkas SK): - → 30/06/2028
+- Lorenzo Sala (Pro Sesto 1913): - → 30/06/2027
+- Matteo Carbonara (Pavia Calcio 1911): 30/06/2026 → 30/06/2027
+- Eros Rao (USD Castellanzese 1921): 30/06/2026 → 30/06/2027
+- Tommaso Vergato (Solbiatese Calcio 1911): 30/06/2027 → -
+- Thierry Henry (Solbiatese Calcio 1911): 30/06/2027 → -
+- Younes Hamouti (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Gianluca Colombo (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Tim Fließ (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Dariush Salahshoor (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Jonathan Muntu (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Alexander Bauscher (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Abd El Raouf Dilem (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Joel Tewelde (SG Bornheim/GW): - → 30/06/2027
+- Max Zeller (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Patrick Albert (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Teklu Tewelde (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Lukas Knell (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Luan Beqiri (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Jannis Schwarz (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Felix Casalino (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Assad Kotya-Fofana (1.FC Köln II): 30/06/2027 → 30/06/2028
+- Kristiyan Irmiev (1.FC Köln II): - → 30/06/2028
+- Leon Sawas (VfL Bochum II): 30/06/2028 → -
+- Jason Schneider (VfL Bochum II): - → 30/06/2028
+- Granit Pllana (Giulianova Calcio): - → 30/06/2027
+- Edoardo Vascotto (L'Aquila 1927): - → 30/06/2027
+- Younes Derbali (Bonner SC): 30/06/2028 → 30/06/2027
+- Yunus Akdag (Sportfreunde Lotte): - → 30/06/2027
+- Ayodele Ojo (Sportfreunde Lotte): - → 30/06/2027
+- Armin Deljkovic (VfB 03 Hilden): 30/06/2027 → 30/06/2028
+- Daniel Hysaj (US Recanatese): - → 30/06/2027
+- Adrien Tagakou-Kamm (SV Grün-Weiß Brauweiler): 30/06/2026 → 30/06/2027
+- Matti Fiedler (SV Grün-Weiß Brauweiler): 30/06/2026 → 30/06/2027
+- Jonas Jansen (SV Grün-Weiß Brauweiler): - → 30/06/2027
+- Amadou Diambo (Santegidiese 1948): - → 30/06/2027
+- Abdullahi Tanko (FK Pardubice): - → 30/06/2030
+- Idris Hopi (FK Teplice): - → 30/06/2029
+- Víctor Dávila (CF América): 01/07/2026 → 30/06/2027
+- Francisco González (Club Tijuana): - → 30/06/2029
+- Pablo Bennevendo (UNAM Pumas): - → 30/06/2027
+- Carlos Moreno (CF Pachuca): 30/06/2028 → 30/06/2030
+- Christian Molara (Mezzolara Calcio): 30/06/2027 → -
+- Kelvin Lamptey-Mills (FC Cartagena): 30/06/2028 → -
+- Nizar El Jmili (Villarreal CF B): 30/06/2027 → 30/06/2030
+- Keita Nakano (CE Europa): 31/01/2026 → -
+- Jonas Röhrbein (HSC Hannover): 30/06/2026 → 30/06/2027
+- Doron Lichtenstein (FC Zürich U21): 30/06/2030 → 30/06/2028
+- Aaron Davis (FC Lugano II): - → 30/06/2029
+- Janne Fennell (TSV Bobingen): 30/06/2026 → -
+- Adama Camara (Paris FC): 30/06/2027 → 30/06/2028
+- Jean-Philippe Krasso (Paris FC): 30/06/2027 → 30/06/2028
+- Luka Demuth (Melbourne City FC U23 (VPL1)): - → 30/06/2029
+- Mohamed Bechikh (Grenoble Foot 38): 30/06/2027 → 30/06/2028
+- Esteban Riou (FC Annecy): 30/06/2026 → 30/06/2027
+- Panagiotis Armenakas (Avondale FC): 31/12/2026 → -
+- Ludéric Etonde (US Boulogne): - → 30/06/2027
+- Ibrahima Dieng (AS Pikine): - → 30/06/2028
+- Albert Bougazelli (US Ouakam): - → 30/06/2026
+- Matties Volmering (SV Blau-Weiß Dingden): 30/06/2026 → -
+- Luca Pinke (Schwarz-Weiß Essen): 30/06/2026 → 30/06/2027
+- Luca Janßen (SV Sonsbeck): 30/06/2026 → -
+- Issa Tsukamoto (Veertien Mie): - → 30/06/2027
+- Oliver Dessau (FC Büderich): 30/06/2026 → 30/06/2027
+- Prince Chinedu (UD Logroñés): 30/06/2027 → 30/06/2030
+- Juan Solís (Fort Wayne FC): - → 30/11/2026
+- Daniel Haubner (FSV Zwickau): 30/06/2027 → 30/06/2030
+- Emilio Munser (FC Carl Zeiss Jena): 30/06/2027 → 30/06/2029
+- Dimitrije Acimovic (FK Jedinstvo Ub): 30/06/2026 → 30/06/2027
+- Dawid Kolacki (BFC Dynamo): - → 30/06/2028
+- Ibrahim Bamba (FC Oberneuland): - → 30/06/2027
+- Muhammet Özkul (SV Grohn): 30/06/2026 → 30/06/2027
+- Tommaso Mancioppi (Milan Futuro): - → 30/06/2030
+- Giuseppe Mazzaglia (Piacenza Calcio 1919): 30/06/2028 → 30/06/2027
+- Roman Kudryavtsev (FC Leningradets): 30/06/2027 → 30/06/2029
+- Michael Müller (FK Pirmasens): 30/06/2026 → 30/06/2027
+- Tim Ratkowski (FK Pirmasens): - → 30/06/2027
+- Silas Gutmann (FK Pirmasens): 30/06/2026 → 30/06/2027
+- Nico Wiltz (FK Pirmasens): 30/06/2026 → 30/06/2027
+- Oskar Prokopchuk (FK Pirmasens): 30/06/2026 → 30/06/2027
+- Dominik Kaiser (FK Pirmasens): - → 30/06/2027
+- Daniel Pantschenko (FC Rot-Weiss Koblenz): - → 30/06/2027
+- Yoel Lozano (FC Cosmos Koblenz): - → 30/06/2027
+- Tim Weiler (Sportfreunde Eisbachtal): 30/06/2026 → -
+- Moritz Muth (Sportfreunde Eisbachtal): 30/06/2026 → -
+- Jannis Muth (Sportfreunde Eisbachtal): 30/06/2026 → 30/06/2027
+- Tommy Brühl (Sportfreunde Eisbachtal): 30/06/2026 → -
+- Finn Müller (Sportfreunde Eisbachtal): 30/06/2026 → 30/06/2027
+- Jonas Kahles (Sportfreunde Eisbachtal): 30/06/2026 → -
+- Jonah Arnolds (Sportfreunde Eisbachtal): - → 30/06/2028
+- Silas Held (Sportfreunde Eisbachtal): 30/06/2026 → -
+- Sebastian Ehlert (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Robin Schneider (TuS Mechtersheim): - → 30/06/2027
+- Sören Pätzold (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Nazmi Seyman (TuS Mechtersheim): - → 30/06/2027
+- Shoma Nishino (TuS Mechtersheim): - → 30/06/2027
+- Alexander Mißbach (TuS Mechtersheim): - → 30/06/2027
+- Edonart Leposhtaku (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Mate Bozic (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Maximilian Krüger (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Leander Helbig (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Lion Schubach (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Nico Pantano (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Marcel Bormeth (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Etienne Portmann (TuS Mechtersheim): - → 30/06/2027
+- Can Abdullah Güney (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Dani Thon (TuS Mechtersheim): - → 30/06/2027
+- Andrew Wooten (TuS Mechtersheim): 30/06/2026 → 30/06/2027
+- Fırat Alpsoy (TuS Mechtersheim): - → 30/06/2027
+- Paul Schall (TuS Mechtersheim): - → 30/06/2027
+- Almir Porca (Ahrweiler BC): - → 30/06/2027
+- Aron Seck (Ahrweiler BC): - → 30/06/2027
+- Dragoș Albu (Corvinul Hunedoara): 23/07/2026 → 30/06/2027
+- Hunor Batzula (Sepsi OSK Sf. Gheorghe): - → 30/06/2031
+- Lukas Kuschka (FSV Stadeln): - → 30/06/2027
+- Agustín De la Cuesta (Racing Club de Montevideo): - → 31/12/2029
+- Robert Ergas (Cerro Largo FC): 01/07/2026 → 31/12/2026
+- Agustín De la Cuesta (Racing Club de Montevideo): - → 31/12/2029
+- Robert Ergas (Cerro Largo FC): 01/07/2026 → 31/12/2026
+- Yakub Polat (Arminia Ludwigshafen): 30/06/2026 → 30/06/2027
+- Marco Heil (SV Steinwenden): 30/06/2026 → 30/06/2027
+- Moritz Schmitt (SV Steinwenden): 30/06/2026 → 30/06/2027
+- Júnior Sornoza (Independiente del Valle): 31/12/2026 → 31/12/2028
+- Leon Schmitt (SV Steinwenden): 30/06/2026 → 30/06/2027
+- Ethan Miller (FK Pirmasens II): - → 30/06/2027
+- Jerónimo Cacciabue (CD Universidad Católica): 31/12/2026 → 31/12/2028
+- Ahmad Tajik (VfR Baumholder): 30/06/2026 → 30/06/2027
+- Lenard Foggy (VfR Baumholder): - → 30/06/2027
+- Jonas Brenner (VfR Baumholder): 30/06/2026 → 30/06/2027
+- Nico Schulz (VfR Baumholder): - → 30/06/2027
+- Elias Forat (VfR Baumholder): 30/06/2026 → 30/06/2027
+- Marius Gedratis (VfR Baumholder): - → 30/06/2027
+- Till Angel (VfR Baumholder): 30/06/2026 → 30/06/2027
+- Abdul Hadi Antar (VfR Baumholder): 30/06/2026 → 30/06/2027
+- Danny Lutz (VfR Baumholder): 30/06/2026 → 30/06/2027
+- Fabian Moorhead (VfR Baumholder): 30/06/2026 → 30/06/2027
+- Lucas (VfR Baumholder): - → 30/06/2027
+- Fineas Allnoch (VfR Baumholder): 30/06/2026 → 30/06/2027
+- Emmanuel Mbong (Naxxar Lions FC): 30/06/2026 → 30/06/2027
+- Fallou Fall (SC Bastia): 30/06/2028 → 30/06/2029
+- Juan Espinel (Zebbug Rangers FC): - → 30/06/2027
+- Liam McKay (Gudja United FC): 30/06/2026 → 30/06/2027
+- Marvin Adélaïde (Paris 13 Atletico): 30/06/2028 → 30/06/2027
+- Billal El Kaddouri (Quevilly - Rouen Métropole): - → 30/06/2027
+- Juan Cruz de los Santos (Al-Jazira Club): 31/12/2027 → -
+- Wout Faes (Shabab Al-Ahli Club): 30/06/2027 → 30/06/2029
+- Mahamadou Dembélé (Le Puy-en-Velay FC): - → 30/06/2027
+- Dinko Horkas (Al-Wasl SC): - → 30/06/2031
+- Emmanuel Kouassi (Le Puy-en-Velay FC): - → 30/06/2028
+- Antoine Gauthier (Le Puy-en-Velay FC): - → 30/06/2027
+- Marvin Emmanuel (Le Puy-en-Velay FC): - → 30/06/2027
+- Yahya Al-Ghassani (Sharjah FC): - → 30/06/2027
+- Kylian Tubio (US Thionville Lusitanos): - → 30/06/2027
+- Zola Oniesim (Football Bourg-en-Bresse Péronnas 01): - → 30/06/2028
+- Chris Bedia (Al-Nasr SC (UAE)): - → 30/06/2028
+- Bader Abaelaziz (Kalba FC): 30/06/2026 → 30/06/2027
+- Ahmed Mahmoud (Khor Fakkan SSC): 30/06/2028 → -
+- Mastias Hammache (MC Algiers): - → 30/06/2029
+- Abdelkader Menezla (MC Algiers): 30/06/2027 → 30/06/2030
+- Ayoub Abdellaoui (MC Algiers): 30/06/2027 → 30/06/2028
+- Pedro Leão (Hatta Club): 31/12/2026 → -
+- Chisom Okereke (San Gwann FC): 30/06/2026 → 30/06/2027
+- Murilo Freire (SC Mellieha): - → 30/06/2027
+- Sefer Özdemir (Türkischer SV Düren): 30/06/2026 → 30/06/2027
+- Mathias Conti (SC Mellieha): 30/06/2026 → 30/06/2027
+- Shola Shodiya (SC Mellieha): 30/06/2026 → 30/06/2027
+- Jothan Jephthah (Mqabba FC): - → 08/06/2027
+- Jake Borg (Mqabba FC): - → 30/06/2027
+- Joseph Zerafa (Qormi FC): 30/06/2026 → 30/06/2027
+- Nicolas Schembri (Qormi FC): 30/06/2026 → 30/06/2027
+- Kenley Scerri (Qormi FC): 30/06/2026 → 30/06/2027
+- Miguel Zammit (Qrendi FC): 30/06/2026 → 30/06/2027
+- Jamal Azzopardi (Kalkara FC): - → 30/06/2026
+- Misael Tabone (Kalkara FC): 30/06/2026 → 30/06/2027
+- Lee Joe Schembri (Kalkara FC): 30/06/2026 → 30/06/2027
+- Gabriel Azzopardi (Lija Athletic FC): - → 30/06/2027
+- Ross McParland (Lija Athletic FC): 30/06/2026 → 30/06/2027
+- Thomas Orduz (Lija Athletic FC): - → 30/06/2027
+- Joseph Attard (Marsa FC): 30/06/2026 → 30/06/2027
+- Kieren Micallef (Marsa FC): 30/06/2026 → 30/06/2027
+- Daryl Gerada (Pembroke Athleta FC): 30/06/2026 → 30/06/2027
+- Samuel Cassar (Senglea Athletic FC): 30/06/2026 → 30/06/2027
+- Philip Baloteli (Senglea Athletic FC): 30/06/2026 → 30/06/2027
+- Ardit Nuredini (ASD Brian Lignano): - → 30/06/2027
+- Fabian Fuchs (TSV Bad Abbach): 30/06/2026 → 30/06/2027
+- Lefter Cuku (SV Türk Gücü Straubing): - → 30/06/2027
+- Tobias Knipf (SV Türk Gücü Straubing): - → 30/06/2027
+- Elias Zeitler (SV Türk Gücü Straubing): - → 30/06/2027
+- Filip Viskovic (SV Türk Gücü Straubing): - → 30/06/2027
+- Drini Kamerolli (SV Türk Gücü Straubing): - → 30/06/2027
+- Fynn Spielvogel (SV Türk Gücü Straubing): - → 30/06/2027
+- Ajdin Vrevic (SV Wenzenbach): - → 30/06/2027
+- Junior Arias (Rangers de Talca): - → 31/12/2026
+- Prosper Obiora Nwachukwu (NK Kustosija Zagreb): - → 31/05/2028
+- Fran Kasumovic (GNK Dinamo Zagreb II): - → 30/06/2028
+- Antonio Cacic (GNK Dinamo Zagreb II): - → 30/06/2027
+- Ruslan Neshcheret (Dynamo Kyiv): 31/12/2027 → 30/06/2031
+- Samba Diallo (Dynamo Kyiv): 31/12/2026 → 30/06/2027
+- Anton Vydrych (NK Veres Rivne): - → 30/06/2028
+- Konstantinos Panagi (ASIL Lysi): 31/05/2028 → 30/06/2027
+- Stefanos Paraskevopoulos (Anagennisi Derynia): 31/05/2027 → 30/06/2027
+- Rico Frank (FC Germania Bleckenstedt): 30/06/2026 → 30/06/2027
+- Efthymios Efthymiou (Ermis Aradippou): 31/05/2028 → 30/06/2027
+- Nils Kern (FC Eintracht Northeim): 30/06/2026 → 30/06/2027
+- Till Becker (FC Eintracht Northeim): 30/06/2026 → 30/06/2027
+- Carim Blötz (FC Eintracht Northeim): 30/06/2026 → 30/06/2027
+- Marlon Mock (Rot-Weiß Volkmarode): - → 30/06/2027
+- Felix Pöhling (Rot-Weiß Volkmarode): 30/06/2026 → 30/06/2027
+- Nikolas Chatzivarnava (AEP Polemidia): 31/05/2027 → 30/06/2027
+- Melvin Kick (SSV Vorsfelde II): 30/06/2026 → 30/06/2027
+- Antonis Tsiftsis (PAOK Thessaloniki): 30/06/2028 → 30/06/2029
+- Zois Karargyris (AEK Athens): 30/06/2028 → 30/06/2027
+- Mohamed Elneny (Levadiakos): 01/07/2026 → 30/06/2027
+- Josete Miranda (Kalamata FC): 30/06/2027 → -
+- Giuliano Santoro (Türkspor Neu-Ulm): 30/06/2026 → -
+- Esequiel Barco (Spartak Moscow): 30/06/2027 → 30/06/2030
+- Igor Silva (Rodina Moscow): 30/06/2028 → 30/06/2027
+- Kwame Sosu (Betis Deportivo Balompié): 30/06/2028 → 30/06/2029
+- Rafa Oya (Betis Deportivo Balompié): 30/06/2029 → 30/06/2030
+- Justin Ruge (TuS Harsefeld): 30/06/2026 → 30/06/2027
+- Tim Martienß (TuS Harsefeld): 30/06/2026 → 30/06/2027
+- Pascal Schawaller (TuS Harsefeld): 30/06/2026 → 30/06/2027
+- Leandro Almeida (SV Blau-Weiß Bornreihe): 30/06/2026 → 30/06/2027
+- Mohamed Ballo (Rotenburger SV): 30/06/2026 → 30/06/2027
+- Hennes Büttelmann (FC Hagen/Uthlede): 30/06/2026 → 30/06/2027
+- Kilian Tienken (FC Hagen/Uthlede): 30/06/2026 → 30/06/2027
+- Fabio Hausmann (FC Hagen/Uthlede): 30/06/2026 → 30/06/2027
+- Philipp Schippert (VSK Osterholz-Scharmbeck): 30/06/2026 → 30/06/2027
+- Kian Hinte (VSK Osterholz-Scharmbeck): 30/06/2026 → 30/06/2027
+- Calvin Vrampe (VSK Osterholz-Scharmbeck): 30/06/2026 → 30/06/2027
+- Keno Liebschner (VSK Osterholz-Scharmbeck): 30/06/2026 → 30/06/2027
+- Tjark Lohmann (VSK Osterholz-Scharmbeck): 30/06/2026 → 30/06/2027
+- Luca Homann (TSV Etelsen): 30/06/2026 → -
+- Niklas Rosebrock (SV Vorwärts Hülsen): 30/06/2026 → 30/06/2027
+- Kevin Ujvari (FC Cuxhaven): 30/06/2026 → 30/06/2027
+- Junes Szybora (FC Cuxhaven): 30/06/2026 → 30/06/2027
+- Georgios Kozyrakis (OFI Crete U19): - → 30/06/2031
+- Athanasios Christopoulos (Olympiacos Piraeus U19): 30/06/2027 → -
+- Sami Meheleb (Olympiacos Piraeus U19): 30/06/2027 → -
+- Zois Karargyris (AEK Athens U19): 30/06/2028 → 30/06/2027
+- Zhasulan Amir (Ordabasy Shymkent): 31/12/2026 → 31/12/2029
+- Jorginho (Kairat Almaty): 31/12/2026 → 31/12/2027
+- José Quihunga André (Rilski Sportist): 31/05/2027 → 30/06/2027
+- Nikolay Plyakov (Marek): - → 30/06/2029
+- Matej Hacaperka (FC Viktoria Plzen U19): - → 30/06/2029
+- Jan Krivanek (FC Zbrojovka Brno U19): - → 30/06/2027
+- Pedro Rodríguez (FC Barcelona Atlètic): 30/06/2027 → 30/06/2030
+- Jorge Sálamo (UD Logroñés Promesas): 30/06/2027 → 30/06/2028
+- Prince Chinedu (UD Logroñés Promesas): 30/06/2027 → 30/06/2030
+- Saba Mamatsashvili (IK Sirius): 30/09/2026 → -
+- Alex Rahm (Örgryte IS): 31/12/2026 → 31/12/2028
+- Amine Daali (FCV Dender EH): 30/06/2027 → 30/06/2030
+- Shakhmurat Dauletov (Jong Genk): - → 30/06/2029
+- Mamadou Diallo (Jong KAA Gent): 30/06/2027 → 30/06/2029
+- Abdoul Ayinde (Jong KAA Gent): 30/06/2027 → 30/06/2028
+- Noah Laghmich (Jong KAA Gent): 30/06/2027 → 30/06/2029
+- Wout De Buyser (K Lierse SK): 30/06/2027 → 30/06/2028
+- Jordan Agblemagnon (C'Chartres Football U19): 30/06/2026 → 30/06/2027
+- Alejandro Araque (Deportivo Táchira): 31/12/2026 → 31/12/2027
+- Ahmed Mahroug (US Orléans U19): 30/06/2027 → -
+- Alejandro Yepez (Portuguesa FC): 31/12/2026 → 31/12/2027
+- Luis Álvarez (Zamora FC): 30/06/2026 → 31/12/2026
+- Luis Dugarte (Dvo. Rayo Zuliano): - → 31/12/2027
+- Jean Fran Gutiérrez (Estudiantes de Mérida): 31/12/2026 → 31/12/2027
+- Marko Fedoryaka (FSV Schleiz): 30/06/2026 → 30/06/2027
+- Moritz Wedekind (SpVgg Geratal): 30/06/2026 → 30/06/2027
+- Dustin Joel Lange (SpVgg Geratal): 30/06/2026 → 30/06/2027
+- Moses Raj (Selangor FC II): 31/05/2026 → -
+- Nikita Kariev (Akademia Lokomotiv Moskau U16): - → 31/12/2029
+- Andrey Potapenko (Dnepr Mogilev): 31/12/2026 → 31/12/2027
+- Luca Bühlmann (FC Black Stars Basel): - → 30/06/2027
+- Adjakson Ramos (TuS Makkabi Berlin): 30/06/2027 → -
+- Kléri Serber (LB Châteauroux): 30/06/2027 → -
+- Lucas Marsella (Grand Ouest Association Lyonnaise FC): 30/06/2026 → -
+- Ikrame Abdallah (Sporting Club de Toulon): - → 30/06/2027
+- Andreas Nyhagen (Sandnes Ulf): - → 31/12/2026
+- Anej Jelovica (ND Beltinci): 30/06/2027 → 30/06/2028
+- Ilija Cutovic (NK Vrhnika): - → 30/06/2027
+- Halifa Kujabi (NK Krka): - → 30/06/2027
+- Markus Assarsson (Åtvidabergs FF): - → 31/12/2027
+- Erik Grandelius (Åtvidabergs FF): - → 31/12/2027
+- Caua Foroni De Oliveira (Jong KV Mechelen): - → 30/06/2027
+- Franz Tangala (Jong Essevee): - → 30/06/2027
+- Oscar N'Guettia (Jong Essevee): - → 30/06/2027
+- Alseny Soumah (KRC Gent): 30/06/2031 → 30/06/2027
+- Andrew Lachhab (FC Lausanne-Sport II): - → 30/06/2029
+- Gédéon Lomami (FC La Chaux-de-Fonds): - → 30/06/2027
+- Mick Morgan (Newington FC): - → 30/06/2027
+- Samba Dembélé (FC Chambly Oise): 30/06/2026 → -
+- Chérif Diallo (US Lusitanos Saint-Maur): - → 30/06/2028
+- Yannis Boutouil (FC Montlouis): - → 30/06/2027
+- Djelan Morana (OGC Nizza U19): - → 30/06/2029
+- Mladen Zgonjanin (NK Jedinstvo Bihac): 30/06/2026 → 30/06/2027
+- Berin Alic (NK Bratstvo Gracanica): - → 30/06/2027
+- Joel Marks (VfL Halle 1896): 30/06/2026 → 30/06/2027
+- Moritz Müller (Einheit Wernigerode): 30/06/2026 → -
+- Erwin Liese (Einheit Wernigerode): 30/06/2026 → -
+- Daniel Gjerde Sætren (Lysekloster IL): 31/12/2027 → 31/12/2026
+- Jørgen Havig (Brattvåg IL): - → 31/12/2026
+- Bert Vanpeteghem (KVK Tienen): 30/06/2026 → -
+- Léo Yobé (Stade Briochin): 30/06/2028 → -
+- Mathéo Ntumi (Dinan Léhon FC): 30/06/2028 → 30/06/2027
+- Seop-yun Shin (Hoi King): - → 30/06/2027
+- Ayush Adhikari (Gokulam Kerala FC): 31/05/2027 → -
+- Salahudheen Adnan Koyambravan (Real Kashmir FC): 31/05/2026 → -
+- An Kumer Celik (NK Bravo U19): - → 31/05/2028
+- Vid Mächtig Kozlin (NK Bravo U19): - → 30/06/2028
+- Andrej Pecar (NK Bravo U19): - → 31/05/2028
+- Anze Zabukovec (NK Maribor U19): 31/05/2027 → 31/05/2029
+- Jonas Holmgaard (FC Midtjylland U19): - → 31/12/2028
+- Ikenna Ude-Chukwu (FC Midtjylland U19): - → 30/06/2028
+- Tobias Agger (FC Midtjylland U19): - → 30/06/2027
+- Joseph Okuaghare (FC Midtjylland U19): - → 30/06/2028
+- Frederik Vestergaard (FC Midtjylland U19): 30/06/2027 → 31/12/2028
+- Hassan Kashietu (FC Midtjylland U19): - → 30/06/2028
+- Nathaniel Torres (FC Midtjylland U19): 31/12/2029 → 31/12/2028
+- Paolo Paris (Fiorentina Under 17): - → 30/06/2029
+- Leonardo Forte (Fiorentina Under 17): - → 30/06/2027
+- Nóa Joensen (Randers FC U19): - → 30/06/2028
+- Maksim Cavaric (FK TSC Backa Topola U19): - → 30/06/2029
+- Ognjen Bjekic (FK TSC Backa Topola U19): - → 30/06/2029
+- Ali Nader Mahmoud (Qatar SC): 30/06/2027 → 30/06/2030
+- Yohan Boli (Qatar SC): 02/09/2026 → 30/06/2027
+- Joselu (Al-Sailiya SC): 01/07/2026 → 30/06/2027
+- Noah Vidal-Cartoux (Montpellier HSC B): 30/06/2028 → 30/06/2031
+- Alexi Koum (Olympique de Marseille B): 30/06/2027 → 30/06/2029
+- Sue-Lae McCalla (Mount Pleasant FA): 30/06/2026 → -
+- Yanis Sellami (Olympique de Marseille B): 30/06/2027 → 30/06/2029
+- Lamar Walker (Portmore United FC): 30/06/2026 → -
+- Ricardo Dixon (Chapelton Maroons): 30/06/2026 → -
+- Marlon Cunningham (Chapelton Maroons): 30/06/2026 → -
+- Miljan Krpic (ETO FC): 30/06/2028 → 30/06/2029
+- Javier Dunn (Waterhouse FC): 30/06/2026 → -
+- Alexander Bicknell (Waterhouse FC): 30/06/2026 → -
+- Timóteus Mikolay (MTK Budapest): - → 30/06/2030
+- Peter Harrison (Dunbeholden FC): 30/06/2026 → 30/06/2027
+- Amos Youga (Kisvárda FC): - → 30/06/2027
+- Gian Andri Bischof (FC Ruggell): 30/06/2026 → 30/06/2027
+- Gabriel Brilhante (FC Ruggell): 30/06/2026 → 30/06/2027
+- Olcay Gür (FC Ruggell): 30/06/2026 → 30/06/2027
+- Ivan Ivic (FC Ruggell): 30/06/2026 → 30/06/2027
+- Colin Haas (FC Ruggell): 30/06/2026 → 30/06/2027
+- Simon Maag (FC Ruggell): 30/06/2026 → 30/06/2027
+- Seyhan Yildiz (FC Ruggell): 30/06/2026 → 30/06/2027
+- Riccardo Licci (FC Ruggell): 30/06/2026 → 30/06/2027
+- Valerian Scheidl (FC Ruggell): 30/06/2026 → 30/06/2027
+- Yuri Silva Gomez (FC Ruggell): 30/06/2026 → 30/06/2027
+- Philipp Ospelt (FC Ruggell): 30/06/2026 → 30/06/2027
+- Deniz Mujic (FC Ruggell): 30/06/2026 → 30/06/2027
+- Dario Ivic (FC Ruggell): 30/06/2026 → 30/06/2027
+- Florian Allgäuer (FC Ruggell): 30/06/2026 → 30/06/2027
+- Noah Biedermann (FC Ruggell): 30/06/2026 → 30/06/2027
+- Dinis Costa (Rebordosa AC): 30/06/2026 → 30/06/2027
+- Martim Cardoso (Rebordosa AC): - → 30/06/2027
+- Victor (North District): - → 31/05/2027
+- Kayke David (North District): - → 30/06/2027
+- Samuel Granada (North District): - → 31/05/2027
+- Chun-Him Yuen (Eastern District): - → 30/06/2027
+- Gavin Muens (Kowloon City): 08/01/2026 → 31/05/2027
+- Nathan Lourenço (Hong Kong Rangers): - → 31/05/2027
+- Cristiano De Castro Rolo (FC Metz U19): - → 30/06/2028
+- Henrijs Holtoms (FC Lausanne-Sport U17): - → 30/06/2029
+- Karl Toko Ekambi (Umm Salal SC): 01/07/2026 → 30/06/2027
+- Ahmed Al-Mohanadi (Al-Waab SC): 30/06/2026 → -
+- Daniel Lima (Al-Waab SC): 31/12/2026 → -
+- Andreas Maxsø (FC Midtjylland): 01/07/2026 → 31/12/2026
+- Kasper Kiilerich (Viborg FF): 31/12/2028 → 30/06/2030
+- Nikolaj Purić (Modena Under 17): - → 30/06/2029
+- Laurits Raun Pedersen (Randers FC): 31/12/2027 → 30/06/2030
+- Niko Brodar (Modena Under 17): - → 30/06/2029
+- Mathias Greve (Randers FC): 30/06/2028 → 30/06/2029
+- Aleksa Djorovic (FK Spartak Subotica U17): - → 30/06/2029
+- Bilal Habib (Auckland City FC): 30/09/2026 → 31/12/2026
+- Josip Mitrovic (Slaven Belupo Koprivnica): 30/06/2027 → 30/06/2028
+- Lovre Rogic (NK Rudes): 31/05/2026 → 31/05/2027
+- Onni Tiihonen (AC Oulu): 31/12/2026 → 31/12/2027
+- Gabriel Tilo (Central Coast Mariners): - → 30/06/2027
+- Yoann Dumay (FC Annecy B): - → 30/06/2027
+- Amos Kwanye (FC Syunik): - → 31/05/2027
+- Linus Rönnberg (Aarhus Fremad): - → 30/06/2028
+- Ruairi Keating (Cork City FC): 30/11/2027 → 30/11/2029
+- Aodh Dervin (Dundalk FC): 30/11/2026 → 30/11/2029
+- Shane Tracey (Dundalk FC): 30/11/2026 → 30/11/2029
+- Gabriel Santos (Balzan FC): 30/06/2026 → 30/06/2027
+- Sten-Marten Dervojed (Paide Linnameeskond U19): - → 31/12/2026
+- Justin Kihm (Manila Digger FC): - → 31/05/2027
+- Ilyes Ziani (RWDM Brussels): 30/06/2026 → 30/06/2027
+- Yanis Malamba (Standard de Liège 16 FC): 30/06/2027 → 30/06/2028
+- Destiny Gandaho (Aguilas-UMak FC): - → 15/01/2027
+- Ryuta Iwai (Aguilas-UMak FC): - → 31/12/2026
+- Yhanis Onehese (Standard de Liège 16 FC): - → 30/06/2029
+- Walid Jaouhari (Union Saint-Gilloise U23): 30/06/2026 → 30/06/2027
+- Youssef Hamoutahar (Union Saint-Gilloise U23): 30/06/2026 → 30/06/2029
+- Jordan Botaka (Union Saint-Gilloise U23): - → 30/06/2027
+- Ayoub Moussaoui (Union Saint-Gilloise U23): 30/06/2026 → 30/06/2027
+- Yanis Malamba (Standard Liège U18): 30/06/2027 → 30/06/2028
+- Yhanis Onehese (Standard Liège U18): - → 30/06/2029
+- Pieter Moens (SV Zulte Waregem U18): - → 30/06/2027
+- Ilano Carchiolo (Royal Antwerp FC U18): - → 30/06/2028
+- Amer Hiros (FK Borac Banja Luka): 30/06/2027 → 30/06/2029
+- Manu Verbruggen (RAAL La Louvière U21): - → 30/06/2028
+- Miladin Stevanovic (FK Radnik Bijeljina): - → 30/06/2027
+- Luis Asprilla (Tauro FC): - → 31/12/2026
+- Jesús Delgado (UMECIT FC): - → 31/12/2026
+- Yeisón Ramírez (CA Independiente): - → 31/12/2026
+- Bilal Habib (Auckland City FC): 30/09/2026 → 31/12/2026
+- Vüsal Isgandarli (FC Malisheva): - → 30/06/2027
+- Antonio Matías (Kajaanin Haka): 30/10/2026 → 31/10/2026
+- Kouaycheng Noophackde (Champasak HAGL Avenir FC): 30/06/2027 → 31/03/2027
+- Daniels Balodis (FK Auda): - → 30/11/2028
+- Alvis Jaunzems (FK Auda): - → 30/11/2027
+- Leonel Strumia (FK Liepaja): 31/12/2026 → 31/12/2027
+- Kaspars Anmanis (FK Tukums 2000): - → 31/12/2026
+- Reis Bakalli (KF Egnatia): - → 30/06/2027
+- Robin Leskinen (Puistolan Urheilijat): - → 31/12/2026
+- Claudinei (FC Gagra): 30/06/2027 → 31/12/2027
+- Lirian Xheladini (Shkendija Tetovo): - → 30/06/2027
+- Nick Suman (Ross County FC): 31/05/2028 → 31/05/2027
+- Milos Lalevic (FK Mladost Donja Gorica): 30/06/2027 → -
+- Calvin Beattie (East Fife FC): 31/05/2028 → 31/05/2027
+- Alban Taipi (FK Otrant-Olympic Ulcinj): 01/06/2028 → 01/06/2027
+- Todor Mijac (FK Budva): - → 30/06/2027
+- Chris McKenna (Dumbarton FC): - → 01/01/2027
+- Francis Turley (Dumbarton FC): 31/05/2028 → 01/01/2027
+- Darryl McHardy (Elgin City FC): 30/06/2027 → 31/05/2027
+- Miller Thomson (Stenhousemuir FC): 31/05/2027 → 01/01/2027
+- Colin Anlauf (Eintracht Braunschweig U19): - → 30/06/2027
+- Petr Vlasov (Eintracht Braunschweig U19): - → 30/06/2027
+- Alejandro Catalán (FS La Massana): 30/06/2026 → 30/06/2027
+- David Maneiro (FS La Massana): 30/06/2026 → 30/06/2027
+- Ricardo Teixeira (FS La Massana): 30/06/2026 → -
+- Gabriel Huerfano (CF Atlètic Amèrica): - → 30/06/2027
+- Aldo Hermosa (CF Atlètic Amèrica): - → 30/06/2027
+- Carlos Báez (CF Atlètic Amèrica): - → 30/06/2027
+- Raúl Báez (CF Atlètic Amèrica): - → 30/06/2027
+- Jadilson Caicedo (CF Atlètic Amèrica): - → 30/06/2027
+- Mitu (CF Atlètic Amèrica): - → 30/06/2027
+- José Portilla (CF Atlètic Amèrica): - → 30/06/2027
+- Leandro Mendes (Stuttgarter Kickers U19): - → 30/06/2028
+- Ryoji Nagata (FC Augsburg U19): - → 30/06/2027
+- Elia Di Salvo (SpVgg Unterhaching U19): - → 30/06/2028
+- Ferdinand Borne (SpVgg Unterhaching U19): - → 30/06/2028
+- Neal Doktorczyk (TSV 1860 München U19): - → 30/06/2028
+- Valentin Bannert (TSV 1860 München U19): 30/06/2027 → -
+- Moncef Thabti (FC Ingolstadt 04 U19): - → 30/06/2027
+- Ioan-Calin Revenco (FC Petrocub Hincesti): - → 31/07/2027
+- Antonii Josan (Dacia Buiucani): - → 30/06/2027
+- Gilles van der Wal (PEC Zwolle U21): - → 30/06/2029
+- Emil Brandenburg (Preußen Münster U19): - → 30/06/2029
+- Joseph Saliba (Xewkija Tigers FC): 30/06/2026 → 30/06/2027
+- Samuel Mahlamäki (Xewkija Tigers FC): 31/12/2026 → 30/06/2027
+- Maxim Fetter (TSV Havelse U19): - → 30/06/2027
+- Aaron Touarha (Xewkija Tigers FC): - → 30/06/2027
+- Christian Bartolo (Qala Saints FC): - → 30/06/2027
+- Ciro Aquino (TSV Havelse U19): - → 30/06/2027
+- Phoenix Muscat (Qala Saints FC): - → 30/06/2027
+- Kenneth Mercieca (Qala Saints FC): 30/06/2026 → 30/06/2027
+- Luke Attard (Qala Saints FC): - → 30/06/2027
+- Andriy Vella (SK Victoria Wanderers FC): - → 30/06/2027
+- Gabriel Cardona (SK Victoria Wanderers FC): 30/06/2026 → 30/06/2027
+- James Meilak (SK Victoria Wanderers FC): 30/06/2026 → 30/06/2027
+- Mateo Escorcia (SK Victoria Wanderers FC): - → 30/06/2027
+- Andres Moreno (SK Victoria Wanderers FC): - → 30/06/2027
+- Kender Villahermosa (SK Victoria Wanderers FC): - → 30/06/2027
+- Kyle Barbara (Xaghra United FC): 30/06/2026 → 30/06/2027
+- Nicholas Inguanez (Xaghra United FC): 30/06/2026 → 30/06/2027
+- Shaun Attard (Xaghra United FC): - → 30/06/2027
+- Joseph Chilaka Agbakwuru (Xaghra United FC): 30/06/2026 → 30/06/2027
+- Ole Räthcke (FC St. Pauli U17): - → 30/06/2028
+- Oscar Robayo (FC St. Pauli U17): 30/06/2026 → 30/06/2029
+- Ibrahima Camara (FC St. Pauli U17): - → 30/06/2028
+- Etienne Krebo (VfL Bochum U17): - → 30/06/2029
+- Jason Schneider (VfL Bochum U19): - → 30/06/2028
+- Romario Lambraño (Port Layola FC): 30/05/2026 → -
+- Zarije Duric (MSV Duisburg U19): - → 30/06/2027
+- Jaydan Celecia (FC Hound Dogs U18): 30/06/2026 → 30/06/2027
+- Evan Alvez (FC Magpies U18): 30/06/2026 → 30/06/2027
+- Ryan Alvez (Lincoln Red Imps FC U18): 30/06/2026 → 30/06/2027
+- Lui Kessack (Lincoln Red Imps FC U18): 30/06/2026 → 30/06/2027
+- Kairon Moreno (St. Joseph's FC U18): - → 30/06/2027
+- Lewis Martinez (St. Joseph's FC U18): - → 30/06/2027
+- Lennart Kadisch (Rot-Weiß Erfurt U17): - → 30/06/2027
+- Max Pohle (Rot-Weiß Erfurt U17): - → 30/06/2027
+- Tomás Rojas (CA Atlanta): 31/12/2026 → 31/12/2028
+- Fernando Bersano (CS Deportivo Madryn): 31/12/2026 → 31/12/2027
+- Facundo Ardiles (CA Estudiantes): 31/12/2026 → 31/12/2027
+- Felipe Coronel (CA All Boys): - → 31/12/2027
+- Cristian Gorgerino (CA Alvarado): - → 31/12/2026
+- Baltazar Blum (CA Boca Juniors II): - → 31/12/2030
+- Tomás Márquez (CA Boca Juniors II): - → 31/12/2030
+- Ian Silveira (AA Argentinos Juniors II): 31/12/2026 → 31/12/2029
+- Cirilo Pereyra (CA River Plate II): - → 31/12/2028
+- Román Fernández (CA River Plate II): - → 31/12/2028
+- Jonathan Spiff (CA River Plate II): - → 31/12/2028
+- Lucas Cuffia (Club Atlético Colón II): 31/12/2026 → 31/12/2028
+- Jersson Vásquez (Sporting Company): - → 31/12/2026
+- Hung Trang Nguyen (Sporting Kristina): 31/12/2026 → 31/12/2027
+- Rodrigão (Без клуба): 30/06/2027 → 02/10/2026
+- Praxedes (Без клуба): 30/06/2026 → 01/07/2026
+- Dawid Kownacki (Без клуба): 30/06/2027 → 30/09/2026
+- Dánnovi Quiñónes (Без клуба): 30/06/2027 → 02/10/2026
+- Luka Gagnidze (Без клуба): 30/06/2027 → 07/10/2026
+- João Mendes (Без клуба): 30/06/2027 → 01/08/2026
+- Gabriel Novaes (Без клуба): 01/05/2026 → 01/06/2026
+- Karim Rekik (Без клуба): - → 01/07/2025
+- Marko Lukovic (Без клуба): 30/06/2027 → 22/09/2026
+- Allan Campbell (Без клуба): 31/05/2026 → 01/06/2026
+- Jeison Lucumí (Без клуба): 31/12/2026 → 28/09/2026
+- Brayton Vázquez (Без клуба): - → 01/09/2026
 
 ## Сейчас в базе
 
-Кандидатов всего: **134606** (нет агента 2417 · семья 2475 · пробел 129714)
+Кандидатов всего: **136015** (нет агента 2419 · семья 2492 · пробел 131104)
 
-Игроков с записанным агентом: 68000
+Игроков с записанным агентом: 68632
