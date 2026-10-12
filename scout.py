@@ -839,6 +839,21 @@ def export_stats(c, statuses, path=None):
     return path
 
 
+# Индексы таблицы players в D1. Общий список для полной заливки (export_d1)
+# и для заливки разницы (d1sync.py): по нему же d1sync считает, во сколько
+# записанных строк обойдётся правка того или иного столбца.
+D1_INDEXES = (
+    ("idx_status", ("agent_status",)),
+    ("idx_country_status", ("country", "agent_status")),
+    ("idx_comp_status", ("comp", "agent_status")),
+    ("idx_club_status", ("club_id", "agent_status")),
+    ("idx_comp_mv", ("comp", "agent_status", "mv_eur")),
+    ("idx_name", ("name",)),
+    ("idx_last_key", ("last_key",)),
+    ("idx_name_key", ("name_key",)),
+)
+
+
 def export_d1(c, statuses, path):
     """SQL для заливки в Cloudflare D1: wrangler d1 execute --file=..."""
     marks = ",".join("?" * len(statuses))
@@ -863,16 +878,8 @@ def export_d1(c, statuses, path):
     # Индексы создаём ЗДЕСЬ ЖЕ. DROP TABLE выше сносит и таблицу, и её
     # индексы, так что без этих строк каждая заливка тихо возвращала бы
     # базу бота к полному перебору 134 тысяч строк на каждое нажатие.
-    out += [
-        "CREATE INDEX idx_status ON players(agent_status);",
-        "CREATE INDEX idx_country_status ON players(country, agent_status);",
-        "CREATE INDEX idx_comp_status ON players(comp, agent_status);",
-        "CREATE INDEX idx_club_status ON players(club_id, agent_status);",
-        "CREATE INDEX idx_comp_mv ON players(comp, agent_status, mv_eur);",
-        "CREATE INDEX idx_name ON players(name);",
-        "CREATE INDEX idx_last_key ON players(last_key);",
-        "CREATE INDEX idx_name_key ON players(name_key);",
-    ]
+    out += ["CREATE INDEX %s ON players(%s);" % (n, ", ".join(cols))
+            for n, cols in D1_INDEXES]
     path.write_text("\n".join(out), encoding="utf-8")
     print("D1 SQL -> %s (%d строк + индексы)" % (path, len(rows)))
 

@@ -17,3 +17,7 @@ worker/.tg-payload.json
 # что человек может открыть: diff, счётчики, события и CSV.
 out/candidates.json
 out/d1-import.sql
+# Выгрузка таблицы из D1 (~95 МиБ) и рассчитанная по ней разница - живут
+# только внутри прогона, см. d1sync.py.
+out/remote-players.sql
+out/d1-sync.sql

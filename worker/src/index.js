@@ -43,7 +43,10 @@ const CONTRACT = {
   a: { label: "любой", sql: "" },
   x: {
     label: "кончается ≤6 мес",
-    sql: " AND (comp='FREE' OR (contract_days IS NOT NULL AND contract_days BETWEEN 0 AND 183))",
+    // Дни считаются здесь из contract_iso, а не берутся из contract_days:
+    // столбец заливается в D1 только вместе с другими правками строки
+    // (d1sync.py), иначе каждая заливка переписывала бы всю таблицу.
+    sql: " AND (comp='FREE' OR (contract_iso IS NOT NULL AND julianday(contract_iso) - julianday(date('now')) BETWEEN 0 AND 183))",
   },
   f: { label: "уже без клуба", sql: " AND comp='FREE'" },
 };
@@ -134,6 +137,15 @@ const has = (v) => {
 };
 
 /** У игрока без клуба дата в поле «контракт» - это день, С которого он свободен. */
+// Дней до конца контракта на сегодня. Из contract_iso, а не из столбца
+// contract_days: тот в D1 обновляется только вместе с другими правками строки.
+const daysLeft = (r) => {
+  if (!r.contract_iso) return null;
+  const end = Date.parse(r.contract_iso);
+  if (Number.isNaN(end)) return null;
+  return Math.round((end - Date.parse(new Date().toISOString().slice(0, 10))) / 86400000);
+};
+
 const contractLine = (r) => {
   if (!has(r.contract_until)) return "";
   return r.comp === "FREE"
@@ -528,7 +540,7 @@ async function screenNote(env, pid, comp, clubId, page, flt, srt) {
   // «не указан» и «нет контракта» — разные вещи, и агенту важно не спутать.
   const contract = contractLine(p)
     ? contractLine(p) +
-      (p.contract_days != null && p.contract_days > 0 ? ` (${p.contract_days} дн.)` : "")
+      (daysLeft(p) > 0 ? ` (${daysLeft(p)} дн.)` : "")
     : "срок контракта не указан";
   let txt =
     `${BADGE[p.agent_status] || "·"} <a href="${p.url}"><b>${esc(p.name)}</b></a> · ` +

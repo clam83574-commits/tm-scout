@@ -178,10 +178,10 @@ jobs:
       - uses: actions/upload-artifact@v4
         with: { name: world-sqlite, path: data/scout.sqlite, retention-days: 30 }
 
-      # ПРЕДОХРАНИТЕЛЬ. Заливка ниже начинается с DROP TABLE: она верна
-      # ровно тогда, когда собранная база содержит ВСЁ. Прогон, стартовавший
-      # без базы прошлого раза, соберёт только свои лиги и полной заменой
-      # сотрёт остальной мир - и останется зелёным. 21.09.2026 так пропали
+      # ПРЕДОХРАНИТЕЛЬ. Заливка ниже удаляет из бота всех, кого нет в
+      # собранной базе: она верна ровно тогда, когда база содержит ВСЁ.
+      # Прогон, стартовавший без базы прошлого раза, соберёт только свои лиги
+      # и сотрёт остальной мир - и останется зелёным. 21.09.2026 так пропали
       # 134 610 игроков, в боте осталось 691. Сравниваем с тем, что уже живёт
       # в боте, и при резкой усушке падаем красным, ничего не тронув.
       - name: Проверить, что база не усохла
@@ -193,7 +193,13 @@ jobs:
       - name: Залить в базу бота (Cloudflare D1)
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
         run: |
-          npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-import.sql -y
+          # Только РАЗНИЦА с тем, что уже в D1, а не DROP TABLE + вся
+          # таблица: полная заливка = 1,36 млн записанных строк при лимите
+          # 100 тыс. в сутки на весь аккаунт Cloudflare. 28.09 и 12.10.2026
+          # она на сутки лишала записи соседних ботов (launch-scout).
+          npx wrangler@4 d1 export tm-scout --remote --table players --output out/remote-players.sql
+          python d1sync.py --remote-dump out/remote-players.sql --out out/d1-sync.sql
+          npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-sync.sql -y
           # сводка счётчиков идёт СРАЗУ ЗА данными: иначе экраны
           # выбора показывали бы числа от прошлого прогона
           npx wrangler@4 d1 execute tm-scout --remote --file=out/d1-stats.sql -y
