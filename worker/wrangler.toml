@@ -8,6 +8,12 @@ binding = "DB"
 database_name = "tm-scout"
 database_id = "761e9738-963b-4e34-9ea5-46d9a6c46338"  # заменяется выводом wrangler d1 create
 
+# 05:30 UTC = 08:30 МСК, каждый день. Рассылает сводку, пришедшую ночью
+# (deliverDigest/flushDigests в src/index.js). Пустая очередь - один запрос
+# к D1 и тишина.
+[triggers]
+crons = ["30 5 * * *"]
+
 [vars]
 # Кому отвечать: Telegram id через запятую. Пусто = отвечает всем подряд.
 TM_BOT_ALLOW = ""

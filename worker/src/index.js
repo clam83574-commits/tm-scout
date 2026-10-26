@@ -908,7 +908,8 @@ async function handleMessage(env, msg) {
 }
 
 // Экраны экспортируются ради теста test.mjs — он гоняет их на настоящей базе.
-export { allowed, checkAttempts, noteAttempt, notify, recall, digest };
+export { allowed, checkAttempts, noteAttempt, notify, recall, digest,
+         deliverDigest, flushDigests };
 export { screenCountries, screenLeagues, screenClubs, screenPlayers, screenFilter,
          search, screenMark, screenNote };
 
@@ -1018,6 +1019,58 @@ async function digest(env, text, only) {
   return res;
 }
 
+/**
+ * Ночную сводку не шлём сразу, а придерживаем до 08:30 МСК.
+ *
+ * Владелец ждёт сводку в понедельник в 8-9 утра. Расписание GitHub на это
+ * время не годится: оно опаздывает на часы (cron на 02:00 UTC стартовал в
+ * 07:30-08:50 UTC), поэтому обход идёт ночью, а время доставки держит cron
+ * Cloudflare (wrangler.toml), который срабатывает минута в минуту.
+ *
+ * Днём (08:00-22:00 МСК) шлём сразу: если обход опоздал или его запустили
+ * руками, сводка нужна сейчас, а не завтра утром. Адресная отправка (only)
+ * тоже уходит сразу - это проверка на себе.
+ */
+const MSK_OFFSET = 3 * 3600 * 1000;   // Москва - UTC+3 круглый год
+function quietHours(now) {
+  const h = new Date(now.getTime() + MSK_OFFSET).getUTCHours();
+  return h < 8 || h >= 22;
+}
+
+const DIGEST_QUEUE =
+  "CREATE TABLE IF NOT EXISTS digest_queue (id INTEGER PRIMARY KEY AUTOINCREMENT, " +
+  "text TEXT NOT NULL, queued_at TEXT, sent_at TEXT)";
+
+async function deliverDigest(env, text, only, now = new Date()) {
+  if (only || !quietHours(now)) return digest(env, text, only);
+  if (!text || !text.trim()) return { sent: 0, users: 0, note: "пустая сводка" };
+  await env.DB.prepare(DIGEST_QUEUE).run();
+  await env.DB.prepare("INSERT INTO digest_queue (text, queued_at) VALUES (?,?)")
+    .bind(text, now.toISOString())
+    .run();
+  return { sent: 0, queued: true, note: "ночь по Москве - уйдёт в 08:30 МСК" };
+}
+
+/** Разослать придержанное. Зовётся cron Cloudflare в 08:30 МСК. */
+async function flushDigests(env) {
+  await env.DB.prepare(DIGEST_QUEUE).run();
+  const { results } = await env.DB.prepare(
+    "SELECT id, text FROM digest_queue WHERE sent_at IS NULL ORDER BY id"
+  ).all();
+  const out = [];
+  for (const q of results) {
+    // Метка ДО отправки: лучше потерять сводку (она лежит в артефактах
+    // прогона и в этой таблице), чем при сбое посередине разослать её
+    // всем второй раз на следующее утро - два одинаковых сообщения подряд
+    // читаются как поломка.
+    await env.DB.prepare("UPDATE digest_queue SET sent_at=? WHERE id=?")
+      .bind(new Date().toISOString(), q.id)
+      .run();
+    out.push(await digest(env, q.text));
+  }
+  return out;
+}
+
 async function notify(env) {
   const { results: alerts } = await env.DB.prepare(
     "SELECT * FROM alerts WHERE sent_at IS NULL ORDER BY mv_eur DESC"
@@ -1119,8 +1172,8 @@ export default {
         return new Response(JSON.stringify({ error: String(e) }), { status: 500 });
       }
     }
-    // Сводка после прогона: текст приходит телом запроса, отправляет бот.
-    // Тот же секрет, что и у вебхука.
+    // Сводка после прогона: текст приходит телом запроса, отправляет бот
+    // (ночью - ставит в очередь до 08:30 МСК). Тот же секрет, что и у вебхука.
     if (request.method === "POST" && url.pathname === "/digest") {
       if (
         env.TM_WEBHOOK_SECRET &&
@@ -1129,8 +1182,8 @@ export default {
         return new Response("forbidden", { status: 403 });
       }
       try {
-        const r = await digest(env, await request.text(),
-                               url.searchParams.get("only"));
+        const r = await deliverDigest(env, await request.text(),
+                                      url.searchParams.get("only"));
         return new Response(JSON.stringify(r), {
           headers: { "content-type": "application/json" },
         });
@@ -1165,5 +1218,13 @@ export default {
       console.error("ошибка обработки:", e && e.stack ? e.stack : e);
     }
     return new Response("ok");
+  },
+
+  // Cron из wrangler.toml: 08:30 МСК - разослать сводку, пришедшую ночью.
+  async scheduled(event, env, ctx) {
+    ctx.waitUntil(
+      flushDigests(env).catch((e) =>
+        console.error("утренняя сводка:", e && e.stack ? e.stack : e))
+    );
   },
 };

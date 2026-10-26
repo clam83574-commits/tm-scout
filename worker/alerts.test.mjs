@@ -188,6 +188,32 @@ erased = [];
 const dr = await bot.recall(env, d1.batch);
 check("сводка отзывается целиком", dr.deleted === d1.sent, `удалено ${dr.deleted} из ${d1.sent}`);
 
+// УТРЕННЯЯ ДОСТАВКА. Обход кончается ночью; сводка обязана прийти в 08:30
+// МСК, а не в три часа ночи - и ровно один раз.
+sqlite.exec("DROP TABLE IF EXISTS digest_queue");
+const night = new Date("2026-11-01T23:40:00Z");   // 02:40 МСК
+const day = new Date("2026-11-02T07:10:00Z");     // 10:10 МСК
+posted = [];
+const q1 = await bot.deliverDigest(env, "📊 ночная сводка", null, night);
+check("ночью сводка не шлётся, а ждёт утра", q1.queued === true && posted.length === 0, `ушло ${posted.length}`);
+const q0 = await bot.deliverDigest(env, "   ", null, night);
+check("пустая ночная сводка не встаёт в очередь", !q0.queued);
+posted = [];
+const q2 = await bot.deliverDigest(env, "проверка ночью", "111", night);
+check("адресная проверка уходит сразу и ночью", q2.sent === 1 && posted.length === 1);
+posted = [];
+const q3 = await bot.deliverDigest(env, "дневная сводка", null, day);
+check("днём сводка уходит сразу", q3.sent === 3 && !q3.queued, `ушло ${q3.sent}`);
+posted = [];
+const f1 = await bot.flushDigests(env);
+check("утром придержанная сводка ушла всем", f1.length === 1 && f1[0].sent === 3, `ушло ${f1[0] && f1[0].sent}`);
+check("ушла именно ночная", posted.every((p) => p.text.includes("ночная сводка")));
+check("утренняя рассылка отзываема", sqlite.prepare("SELECT COUNT(*) n FROM sent WHERE alert_batch=?").get(f1[0].batch).n === 3);
+posted = [];
+const f2 = await bot.flushDigests(env);
+check("второе утро не повторяет сводку", f2.length === 0 && posted.length === 0);
+sqlite.exec("DROP TABLE IF EXISTS digest_queue");
+
 sqlite.exec("DELETE FROM alerts"); sqlite.exec("DELETE FROM access"); sqlite.exec("DELETE FROM sent");
 console.log(fails ? `\nПРОВАЛОВ: ${fails}` : "\nвсе проверки рассылки прошли");
 process.exit(fails ? 1 : 0);
