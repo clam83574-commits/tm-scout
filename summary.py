@@ -17,7 +17,7 @@
 Сводка отправляется ДАЖЕ когда ничего не изменилось: молчание неотличимо от
 сломавшегося прогона, а строка «изменений нет» отличима.
 
-  python summary.py --since 15 --min-value 200000 --out out/summary.txt
+  python summary.py --since 8 --min-value 200000 --out out/summary.txt
 """
 import argparse
 import html
@@ -77,7 +77,7 @@ def esc(v):
     return html.escape(str(v)) if v else ""
 
 
-def build(since_days=15, min_value=200000):
+def build(since_days=8, min_value=200000):
     c = sqlite3.connect(DB)
     c.row_factory = sqlite3.Row
     cutoff = (datetime.now(timezone.utc) - timedelta(days=since_days)).isoformat()
@@ -186,7 +186,7 @@ def build(since_days=15, min_value=200000):
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--since", type=int, default=15, help="за сколько дней")
+    ap.add_argument("--since", type=int, default=8, help="за сколько дней")
     ap.add_argument("--min-value", type=int, default=200000,
                     help="порог стоимости для подробного списка")
     ap.add_argument("--out", default="out/summary.txt")
