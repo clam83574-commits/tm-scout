@@ -1,12 +1,9 @@
 # Изменения за 15 дней
 
-_собрано 2026-10-12 10:40 UTC_
+_собрано 2026-10-26 09:23 UTC_
 
-## 🔥 Агент пропал — 266
+## 🔥 Агент пропал — 593
 
-- **Jeff Chabot** — VfB Stuttgart (L1) · было «агент записан», стало «пробел»
-- **Reza Asadi** — Без клуба (FREE) · было «агент записан», стало «пробел»
-- **Gaetano Castrovilli** — Без клуба (FREE) · было «агент записан», стало «пробел»
 - **Tomás Jacob** — Atlanta United FC (MLS1) · было «агент записан», стало «нет агента»
 - **Elías Pereyra** — CA Barracas Central (ARGC) · было «агент записан», стало «пробел»
 - **Elías Pereyra** — CA Barracas Central (ARG1) · было «агент записан», стало «пробел»
@@ -270,18 +267,339 @@ _собрано 2026-10-12 10:40 UTC_
 - **Nicolás Stepanovitch** — CA Acassuso (ARG2) · было «агент записан», стало «пробел»
 - **Facundo Báez** — CA San Telmo (ARG2) · было «агент записан», стало «пробел»
 - **Tiago Esidín** — Club Ferro Carril Oeste II (CLPF) · было «агент записан», стало «пробел»
+- **Kenneth Igboke** — Rangers International FC (NPFL) · было «агент записан», стало «пробел»
+- **Chibueze Oputa** — Rangers International FC (NPFL) · было «агент записан», стало «пробел»
+- **Adewale John Adebayo** — Bendel Insurance (NPFL) · было «агент записан», стало «пробел»
+- **Justice Apaingolo** — Shooting Stars Sports Club (NPFL) · было «агент записан», стало «пробел»
+- **Ayomide Abatan** — Ikorodu City FC (NPFL) · было «агент записан», стало «пробел»
+- **John Victor Ekioke** — Nasarawa United (NPFL) · было «агент записан», стало «пробел»
+- **Jonathan Herrera** — CA Sarmiento (Junin) (ARGC) · было «агент записан», стало «пробел»
+- **Jonathan Herrera** — CA Sarmiento (Junin) (ARG1) · было «агент записан», стало «пробел»
+- **Ashton Gordon** — Chattanooga FC (MNP3) · было «агент записан», стало «пробел»
+- **Paul Toroc** — CSC Dumbravita (RO2) · было «агент записан», стало «пробел»
+- **Robert Nicolae** — CS Dinamo Bucuresti (RO2) · было «агент записан», стало «пробел»
+- **Marwan Ateya** — Al Ahly FC (EGY1) · было «агент записан», стало «нет агента»
+- **Benicio Baker** — Millwall FC (GB2) · было «агент записан», стало «пробел»
+- **Lisav Eissat** — Bristol City (GB2) · было «агент записан», стало «пробел»
+- **Mostafa Gamal** — El Mokawloon SC (EGY1) · было «агент записан», стало «пробел»
+- **Hossam Awad** — Tala'ea El Gaish (EGY1) · было «агент записан», стало «пробел»
+- **Pepê** — Cuiabá Esporte Clube (MT) (BRA2) · было «агент записан», стало «нет агента»
+- **Lucas Cunha** — Associação Atlética Ponte Preta (BRA2) · было «агент записан», стало «пробел»
+- **Takuto Minami** — Reilac Shiga (JAP3) · было «агент записан», стало «пробел»
+- **Joel Ortíz** — CA Argentino (Merlo) (URL3) · было «агент записан», стало «пробел»
+- **Martín Correa** — CSD Flandria (URL3) · было «агент записан», стало «пробел»
+- **Nahuel Menéndez** — CD UAI Urquiza (URL3) · было «агент записан», стало «пробел»
+- **Faisal Gariba** — Karela United FC (GHPL) · было «агент записан», стало «пробел»
+- **Kazuma Nagata** — Vanraure Hachinohe (JAP2) · было «агент записан», стало «пробел»
+- **Abdoulaye Mariko** — Marumo Gallants FC (SFA1) · было «агент записан», стало «пробел»
+- **Aribim Pepple** — Plymouth Argyle (GB3) · было «агент записан», стало «пробел»
+- **Arlind Ajeti** — Bodrum FK (TR2) · было «агент записан», стало «семья»
+- **Ege Bilsel** — Bodrum FK (TR2) · было «агент записан», стало «пробел»
+- **Besart Topalloj** — Sutton United (CNAT) · было «агент записан», стало «пробел»
+- **Salem Bouajila** — Muglaspor (TR2) · было «агент записан», стало «семья»
+- **Şahverdi Çetin** — Mardin 1969 Spor (TR2) · было «агент записан», стало «пробел»
+- **Ehsan Dalir** — Paykan FC (IRN1) · было «агент записан», стало «пробел»
+- **Christiantus Nnanna Onu** — Berlin Türkspor 04 (VLBE) · было «агент записан», стало «пробел»
+- **Mariano Miño** — CA Boca Unidos (AR3R) · было «агент записан», стало «пробел»
+- **Cesinha** — Daegu FC (RSK2) · было «агент записан», стало «семья»
+- **George Moncur** — Bedford Town (NLN6) · было «агент записан», стало «пробел»
+- **Sambaly Keïta** — Mantova 1911 (IT2) · было «агент записан», стало «пробел»
+- **Alessandro Plizzari** — FC Südtirol (IT2) · было «агент записан», стало «пробел»
+- **Aboubaka Soumahoro** — RCD Mallorca (ES2) · было «агент записан», стало «семья»
+- **Pietro Pinelli** — Carrarese Calcio 1908 (IT2) · было «агент записан», стало «пробел»
+- **Dylan Stephenson** — Darlington FC (NLN6) · было «агент записан», стало «пробел»
+- **George Robesten** — Weston-super-Mare AFC (NLS6) · было «агент записан», стало «пробел»
+- **Marshall Francis** — Hemel Hempstead Town (NLS6) · было «агент записан», стало «пробел»
+- **Rayan Tetego** — Club Africain (TUN1) · было «агент записан», стало «пробел»
+- **Bilel Aït Malek** — Club Africain (TUN1) · было «агент записан», стало «пробел»
+- **Walid Dhouib** — CS Sfaxien (TUN1) · было «агент записан», стало «пробел»
+- **Shay Spencer** — Slough Town (NLS6) · было «агент записан», стало «пробел»
+- **Adem Ouertani** — Etoile Sportive du Sahel (TUN1) · было «агент записан», стало «пробел»
+- **Malek Doukali** — Club Athlétique Bizertin (TUN1) · было «агент записан», стало «пробел»
+- **Ivan Krasnov** — FC Nomme United U19 (EE19) · было «агент записан», стало «пробел»
+- **Anicet Ishimwe** — Olympique Beja (TUN1) · было «агент записан», стало «пробел»
+- **Turan Demirci** — Kepez Spor Futbol (TR4B) · было «агент записан», стало «пробел»
+- **Nolan Muteba N'Tumba** — SV Waldhof Mannheim (L3) · было «агент записан», стало «семья»
+- **Rafael Eßlinger** — FC Ingolstadt 04 (L3) · было «агент записан», стало «пробел»
+- **Jeremiah Mensah** — Roda JC Kerkrade (NL2) · было «агент записан», стало «пробел»
+- **Mouhamed Faye** — Génération Foot (SEN1) · было «агент записан», стало «пробел»
+- **Genrich Sillé** — FC Den Bosch (NL2) · было «агент записан», стало «пробел»
+- **Wálber** — Persebaya Surabaya (IN1L) · было «агент записан», стало «пробел»
+- **Juan Manuel Quejada** — Envigado FC (CO2T) · было «агент записан», стало «нет агента»
+- **Jhon Vélez** — Internacional de Palmira (CO2T) · было «агент записан», стало «пробел»
+- **Fredy Valencia** — Deportes Quindío (CO2T) · было «агент записан», стало «семья»
+- **Rafael Ribeiro** — Isenmulang Kalteng FC (IN1L) · было «агент записан», стало «нет агента»
+- **Lukas Nmecha** — Leeds United (GB1) · было «агент записан», стало «семья»
+- **Ahmet Buğra Güven** — Kücükcekmece Sinop Spor (TR4A) · было «агент записан», стало «пробел»
+- **Mattia Di Fino** — Sanremese Calcio (IT4A) · было «агент записан», стало «пробел»
+- **Filippo Atzori** — Celle Varazze (IT4A) · было «агент записан», стало «пробел»
+- **Juan Manuel Quejada** — Envigado FC (CO22) · было «агент записан», стало «нет агента»
+- **Jhon Vélez** — Internacional de Palmira (CO22) · было «агент записан», стало «пробел»
+- **Fredy Valencia** — Deportes Quindío (CO22) · было «агент записан», стало «семья»
+- **Théo Fonseca** — UD Oliveirense (PT3A) · было «агент записан», стало «пробел»
+- **Mamor Niang** — CD Mafra (PT3A) · было «агент записан», стало «пробел»
+- **Daniele Filigheddu** — Avellino Primavera (IJ2B) · было «агент записан», стало «пробел»
+- **Matteo Iovane** — Lazio Under 18 (ITJ7) · было «агент записан», стало «пробел»
+- **Nikolas Sattlberger** — KRC Genk (BE1) · было «агент записан», стало «пробел»
+- **Jeremy Mbambi** — Sint-Truidense VV (BE1) · было «агент записан», стало «пробел»
+- **Mustapha Isah** — RAAL La Louvière (BE1) · было «агент записан», стало «семья»
+- **Jhon Murillo** — CD América de Cali (COLP) · было «агент записан», стало «пробел»
+- **Fabián Charales** — Rionegro Águilas (COLP) · было «агент записан», стало «пробел»
+- **Jhon Murillo** — CD América de Cali (COL1) · было «агент записан», стало «пробел»
+- **Fabián Charales** — Rionegro Águilas (COL1) · было «агент записан», стало «пробел»
+- **Jakub Sypek** — Zaglebie Lubin (PL1) · было «агент записан», стало «пробел»
+- **Javier Orantes** — Club Necaxa U21 (M21C) · было «агент записан», стало «пробел»
+- **Javier Orantes** — Club Necaxa U21 (M21A) · было «агент записан», стало «пробел»
+- **Efe Berat Töruz** — Samsunspor (TR1) · было «агент записан», стало «пробел»
+- **Melih İbrahimoğlu** — Konyaspor (TR1) · было «агент записан», стало «пробел»
+- **Ulrich Meleke** — Gaziantep FK (TR1) · было «агент записан», стало «пробел»
+- **Leon Fust** — Türkgücü München (LBSO) · было «агент записан», стало «пробел»
+- **Williams Tortolero** — Bolívar SC (VN2A) · было «агент записан», стало «пробел»
+- **Krystian Szymocha** — Sokol Kleczew (PL2L) · было «агент записан», стало «пробел»
+- **Luan Fusaro** — FC Memmingen (RLB3) · было «агент записан», стало «пробел»
+- **Maurice Merkl** — TSV Landsberg (RLB3) · было «агент записан», стало «семья»
+- **Gracjan Czapniewski** — Resovia Rzeszow (PL2L) · было «агент записан», стало «семья»
+- **Maximilian Addai** — Altona 93 (OBLJ) · было «агент записан», стало «пробел»
+- **Ythallo** — CD Santa Clara (PO1) · было «агент записан», стало «пробел»
+- **Yair Castro** — Anagennisi Karditsa (GRS2) · было «агент записан», стало «пробел»
+- **Athanasios Papadakos** — Anagennisi Karditsa (GRS2) · было «агент записан», стало «пробел»
+- **Georgios Kouraklis** — Olympiacos Piraeus B (GRS2) · было «агент записан», стало «пробел»
+- **Manuel Bihr** — Port FC (THA1) · было «агент записан», стало «семья»
+- **Tarek Aggoun** — Ratchaburi FC (THA1) · было «агент записан», стало «пробел»
+- **Ewerton** — Ayutthaya United (THA1) · было «агент записан», стало «пробел»
+- **Abderrahman Arkid** — FUS Rabat (MAR1) · было «агент записан», стало «пробел»
+- **Akram Khouidssi** — Widad Témara (MAR1) · было «агент записан», стало «семья»
+- **Erfan Pourafraz** — Niroye Zamini FC (IRN2) · было «агент записан», стало «пробел»
+- **Kacper Jakóbczyk** — Zabkovia Zabki (PL31) · было «агент записан», стало «пробел»
+- **Giacomo Lauri** — Certosa Vigor Campagnano (IT4G) · было «агент записан», стало «пробел»
+- **Diego Di Salvatore** — Paganese Calcio 1926 (IT4G) · было «агент записан», стало «пробел»
+- **Marcello Piras** — ASD Monastir 1983 (IT4G) · было «агент записан», стало «пробел»
+- **Fabian Patriarca** — Pro Vercelli Primavera (IJ2A) · было «агент записан», стало «пробел»
+- **Pietro Cogliati** — Varese FC (IT4D) · было «агент записан», стало «пробел»
+- **Salah Taboucha** — GSD Ghiviborgo VDS (IT4E) · было «агент записан», стало «пробел»
+- **Tahiel Jiménez** — Santos Laguna (MEXA) · было «агент записан», стало «нет агента»
+- **Tae-wook Ahn** — Jecheon Citizen (K4L) · было «агент записан», стало «пробел»
+- **Gerard Mirashi** — US Vibonese (IT4I) · было «агент записан», стало «пробел»
+- **Nicolo Avellino** — Athletic Club Palermo (IT4I) · было «агент записан», стало «пробел»
+- **Pavel Juroska** — 1.FC Slovacko (TS1) · было «агент записан», стало «нет агента»
+- **Jan Pietrzak** — Zaglebie Lubin U19 (PLZJ) · было «агент записан», стало «семья»
+- **Tahiel Jiménez** — Santos Laguna (MEX1) · было «агент записан», стало «нет агента»
+- **Javier Orantes** — Club Necaxa (MEX1) · было «агент записан», стало «пробел»
+- **Uchechi Duru** — SC Weiche Flensburg 08 (RLN3) · было «агент записан», стало «семья»
+- **Brandolf Duah** — SC Weiche Flensburg 08 (RLN3) · было «агент записан», стало «пробел»
+- **Moritz Frahm** — Eintracht Norderstedt (RLN3) · было «агент записан», стало «пробел»
+- **Massimiliano Montuori** — Gladiator 1924 (IT4H) · было «агент записан», стало «нет агента»
+- **Floni Selimi** — Bremer SV (RLN3) · было «агент записан», стало «семья»
+- **Ferran Quetglás** — Real Madrid Castilla (E3G2) · было «агент записан», стало «пробел»
+- **Simone Bonavita** — Ebolitana Calcio 1925 (IT4H) · было «агент записан», стало «пробел»
+- **Onesime Tembe** — Real Forio 2014 (IT4H) · было «агент записан», стало «семья»
+- **Raphaël Lipinski** — Rodez AF (FR2) · было «агент записан», стало «нет агента»
+- **Akim Abdallah** — Pau FC (FR2) · было «агент записан», стало «пробел»
+- **Mohamed Koné** — FC Annecy (FR2) · было «агент записан», стало «пробел»
+- **Samy Chouchane** — Dijon FCO (FR2) · было «агент записан», стало «пробел»
+- **Hicham Boudaoui** — OGC Nice (FR1) · было «агент записан», стало «семья»
+- **Yusuf Örnek** — 1461 Trabzon FK (TR3B) · было «агент записан», стало «семья»
+- **Predrag Popadic** — FK Borac 1926 Cacak (SER2) · было «агент записан», стало «пробел»
+- **Anthony Nwanne** — FC Grand-Saconnex (CHPR) · было «агент записан», стало «пробел»
+- **Granit Islami** — FC Schaffhausen (CHPR) · было «агент записан», стало «пробел»
+- **Jamie Jenni** — TSV 1860 München II (OLB2) · было «агент записан», стало «семья»
+- **Georgios Genidis** — TSV 1860 München II (OLB2) · было «агент записан», стало «пробел»
+- **Klayver** — Rukh Lviv (UA3L) · было «агент записан», стало «пробел»
+- **Joon-seok Hwang** — Daejeon Korail FC (K3L) · было «агент записан», стало «пробел»
+- **Chan-bin Park** — Daejeon Korail FC (K3L) · было «агент записан», стало «пробел»
+- **Artem Lyushin** — Akron Akademia Konoplev (RJL2) · было «агент записан», стало «пробел»
+- **Ivan Metin** — Ural Ekaterinburg II (RJL2) · было «агент записан», стало «пробел»
+- **Miron Malyshenko** — Almaz-Antei St.Petersburg (RJL2) · было «агент записан», стало «пробел»
+- **Pavel Golovin** — Chertanovo Moskau II (RJL2) · было «агент записан», стало «пробел»
+- **Makar Chirkov** — SKA Khabarovsk (RU2) · было «агент записан», стало «нет агента»
+- **Amit Ben Kish** — Maccabi Herzliya (ISR2) · было «агент записан», стало «пробел»
+- **Meric-Nuh Gültekin** — SV Rot-Weiss Wittlich (OLRP) · было «агент записан», стало «семья»
+- **Martin Sroler** — Jeddah SC (SA2L) · было «агент записан», стало «пробел»
+- **Alexander Meyer** — FC Ingolstadt 04 II (OLB1) · было «агент записан», стало «пробел»
+- **Robert Geller** — Bahlinger SC (OBLB) · было «агент записан», стало «пробел»
+- **Rafail Savvidis** — FC Nöttingen (OBLB) · было «агент записан», стало «пробел»
+- **Florian Krajinovic** — Young Boys Reutlingen (OBLB) · было «агент записан», стало «семья»
+- **Hee-do Won** — Gangwon FC (RSK1) · было «агент записан», стало «пробел»
+- **Patryk Klimala** — FC Seoul (RSK1) · было «агент записан», стало «пробел»
+- **Seung-ho Park** — Incheon United (RSK1) · было «агент записан», стало «пробел»
+- **Bogdan Oteliță** — Sepsi OSK Sf. Gheorghe (RO1) · было «агент записан», стало «пробел»
+- **Ensar Music** — SK Rapid Wien II (A2) · было «агент записан», стало «пробел»
+- **Patryk Procek** — Elana Torun (PL32) · было «агент записан», стало «семья»
+- **Jesús Ocejo** — Tampico Madero (MEX2) · было «агент записан», стало «пробел»
+- **Édson Gutiérrez** — Dorados de Sinaloa (MEX2) · было «агент записан», стало «пробел»
+- **Luis Razo** — CD Leones Negros de la UdeG (MEX2) · было «агент записан», стало «пробел»
+- **David Wurst** — FC Helsingör U19 (DKDD) · было «агент записан», стало «пробел»
+- **Jesús Ocejo** — Tampico Madero (MEXB) · было «агент записан», стало «пробел»
+- **Édson Gutiérrez** — Dorados de Sinaloa (MEXB) · было «агент записан», стало «пробел»
+- **Luis Razo** — CD Leones Negros de la UdeG (MEXB) · было «агент записан», стало «пробел»
+- **Santiago Corbo** — Miramar Misiones (UR2T) · было «агент записан», стало «пробел»
+- **Cody David** — LNZ Cherkasy (UKR1) · было «агент записан», стало «нет агента»
+- **Andriy Busko** — Bukovyna Chernivtsi (UKR1) · было «агент записан», стало «нет агента»
+- **Vitaliy Dakhnovskyi** — Bukovyna Chernivtsi (UKR1) · было «агент записан», стало «нет агента»
+- **Stefan Ilic** — Türkspor Neu-Ulm (VLBW) · было «агент записан», стало «семья»
+- **Martin Georgiev** — AEK Athens (GR1) · было «агент записан», стало «пробел»
+- **Aarón Martin** — Kalamata FC (GR1) · было «агент записан», стало «нет агента»
+- **Hamed Dramé** — Akritas Chloraka (CYP2) · было «агент записан», стало «пробел»
+- **Georgios Neofytidis** — Anagennisi Derynia (CYP2) · было «агент записан», стало «пробел»
+- **Monir Abdeselam** — Alga Bishkek (KG1L) · было «агент записан», стало «пробел»
+- **Alexandre Llovet** — AEP Polemidia (CYP2) · было «агент записан», стало «пробел»
+- **Barima Bawuah** — SF Köllerbach (LLSA) · было «агент записан», стало «семья»
+- **Jordy Soladio** — FC Victoria Rosport (LUX1) · было «агент записан», стало «пробел»
+- **Keleb Nwubani** — FC Etzella Ettelbruck (LUX1) · было «агент записан», стало «пробел»
+- **Ayouba Kosiah** — FK Radnik Surdulica (SER1) · было «агент записан», стало «пробел»
+- **Semir Lbenay** — SV Excelsior '31 Rijssen (510) · было «агент записан», стало «пробел»
+- **Alejandro Azócar** — Coquimbo Unido (CLPD) · было «агент записан», стало «пробел»
+- **Jaloliddin Jumaboev** — Dinamo Samarqand (UZ1) · было «агент записан», стало «пробел»
+- **Amadou Doumbouya** — Dinamo Samarqand (UZ1) · было «агент записан», стало «пробел»
+- **Gustav Nordh** — Lillestrøm SK (NO1) · было «агент записан», стало «пробел»
+- **Egor Khvalko** — FC Atyrau (KAS1) · было «агент записан», стало «пробел»
+- **Bence Sós** — Tiszakécskei LC (UN2) · было «агент записан», стало «пробел»
+- **Jorden Winter** — Holstein Kiel II (OBLL) · было «агент записан», стало «пробел»
+- **Brad-Hamilton Mantsounga** — Excelsior Virton (BE2) · было «агент записан», стало «семья»
+- **Xente Vila** — UCAM Murcia CF (E4G3) · было «агент записан», стало «пробел»
+- **Luis Felipe Monteiro** — BSV Schwarz-Weiß Rehden (OBLN) · было «агент записан», стало «пробел»
+- **Yerson Chacón** — AEK Larnaca (ZYP1) · было «агент записан», стало «пробел»
+- **Artyom Aleksanyan** — FC Pyunik Yerevan II (ARM2) · было «агент записан», стало «нет агента»
+- **Josué Schmidt** — Omonia Aradippou (ZYP1) · было «агент записан», стало «пробел»
+- **Adel Beggah** — Omonia Aradippou (ZYP1) · было «агент записан», стало «пробел»
+- **Aaron Corish** — TU Dublin (IRL3) · было «агент записан», стало «пробел»
+- **Maksym Shevchenko** — FC Baranovichi (WER1) · было «агент записан», стало «пробел»
+- **Ibrahim Madi** — Istres Football Club (FR4C) · было «агент записан», стало «пробел»
+- **Thierry Diethelm** — FC Winterthur U21 (CHC3) · было «агент записан», стало «пробел»
+- **Maxime Foulon** — AS Saint-Priest (FR4C) · было «агент записан», стало «пробел»
+- **Gil Lawson** — Sporting Club de Toulon (FR4C) · было «агент записан», стало «пробел»
+- **Luca Dammeyer** — Blau-Weiß Papenburg (LNWE) · было «агент записан», стало «пробел»
+- **Jonas Selnæs** — Moss FK (NO2) · было «агент записан», стало «пробел»
+- **Marcus Gudmann** — Helsingborgs IF (SE2) · было «агент записан», стало «пробел»
+- **Giancarlo Sacaza** — CD Motagua Tegucigalpa (HO1A) · было «агент записан», стало «пробел»
+- **Sasha Diakiese** — Union Mauer (A4W) · было «агент записан», стало «пробел»
+- **Joel Nöller** — Utsiktens BK (SE3S) · было «агент записан», стало «пробел»
+- **Jonathan Häffner** — SV Linx (VLSB) · было «агент записан», стало «пробел»
+- **Cead McGrath** — Moyola Park AFC (NIR2) · было «агент записан», стало «пробел»
+- **Calvin McCurry** — Harland & Wolff Welders FSC (NIR2) · было «агент записан», стало «пробел»
+- **Zhaner Zhazmaganbetov** — Kaspiy-M Aktau (KAS2) · было «агент записан», стало «пробел»
+- **Bridges Loumouamou** — FR Haguenau (FR4A) · было «агент записан», стало «семья»
+- **Brunnel Tutuana** — FR Haguenau (FR4A) · было «агент записан», стало «пробел»
+- **Erwan Régulus** — Racing Club de France (FR4A) · было «агент записан», стало «пробел»
+- **Deni Memisevic** — NK Vitez (BOS2) · было «агент записан», стало «пробел»
+- **Dan Barton** — Barry Town United (WAL1) · было «агент записан», стало «пробел»
+- **Jacob Jones** — Briton Ferry Llansawel (WAL1) · было «агент записан», стало «пробел»
+- **Mathis Raimbault** — Saint-Colomban Locminé (FR4B) · было «агент записан», стало «семья»
+- **Djibril Konté** — Saint-Colomban Locminé (FR4B) · было «агент записан», стало «пробел»
+- **Jonas Böhmert** — Dynamo Dresden II (OBLG) · было «агент записан», стало «пробел»
+- **Pedro Brazão** — Maccabi Haifa (ISR1) · было «агент записан», стало «пробел»
+- **Sebastian Sørlie Henriksen** — FK Vidar (NO31) · было «агент записан», стало «пробел»
+- **Mats Gresvik Lunde** — Sotra SK (NO31) · было «агент записан», стало «пробел»
+- **Arlan Franzi** — FC Baden II (CIR3) · было «агент записан», стало «пробел»
+- **Joey Dujardin** — SK Roeselare (BE3V) · было «агент записан», стало «пробел»
+- **Jean-François Mbuba** — KVC Wilrijk (VFVB) · было «агент записан», стало «пробел»
+- **Jonas André Strand** — Stjørdals-Blink Fotball (NO32) · было «агент записан», стало «пробел»
+- **Semih Sevik** — Sönderjyske Fodbold U19 (DKDL) · было «агент записан», стало «пробел»
+- **Juan Mosquera** — FC Serpa (CPSD) · было «агент записан», стало «нет агента»
+- **Abdullah Al-Ahrak** — Al-Shamal SC (QSL) · было «агент записан», стало «пробел»
+- **Marwan Badreldin** — Al-Ahli SC (QSL) · было «агент записан», стало «пробел»
+- **Radoslav Kirilov** — Levski Sofia (BU1) · было «агент записан», стало «пробел»
+- **Ehije Ukaki** — Botev Plovdiv (BU1) · было «агент записан», стало «пробел»
+- **Nikola Savic** — Slavia Sofia (BU1) · было «агент записан», стало «пробел»
+- **Vladimir Nikolov** — Slavia Sofia (BU1) · было «агент записан», стало «пробел»
+- **Eliot Reynaud** — SA Mérignac U19 (F19C) · было «агент записан», стало «пробел»
+- **Mauricio Cerritos** — CD Luis Angel Firpo (SL1C) · было «агент записан», стало «пробел»
+- **Mauricio Cerritos** — CD Luis Angel Firpo (SL1A) · было «агент записан», стало «пробел»
+- **Ricardinho** — AC Malveira (CPSC) · было «агент записан», стало «пробел»
+- **Kevin Neves** — FC Alverca B (CPSC) · было «агент записан», стало «пробел»
+- **Seydou Traoré** — FC Lausanne-Sport (C1) · было «агент записан», стало «пробел»
+- **Matteo Di Giusto** — FC Luzern (C1) · было «агент записан», стало «пробел»
+- **Furkan Dursun** — FC Thun (C1) · было «агент записан», стало «семья»
+- **Granit Islami** — FC Schaffhausen II (CIR5) · было «агент записан», стало «пробел»
+- **Kassem El Zein** — Nejmeh SC (LIB1) · было «агент записан», стало «пробел»
+- **Mohamad Hebous** — Jwaya SC (LIB1) · было «агент записан», стало «нет агента»
+- **Rúben Gonçalves** — GD Chaves B (CPSA) · было «агент записан», стало «пробел»
+- **Shoib Akhtar** — FC Bengaluru United (INIL) · было «агент записан», стало «нет агента»
+- **Rafael Silva** — UD Sousense (CPSB) · было «агент записан», стало «пробел»
+- **Davor Peric** — FK Leotar Trebinje (BH2S) · было «агент записан», стало «нет агента»
+- **Justin Peñarrieta** — Gualaceo SC (EC2L) · было «агент записан», стало «нет агента»
+- **Anders Tønnesen** — Hörsholm-Usseröd IK (DK4L) · было «агент записан», стало «пробел»
+- **Angelo Gattermayer** — TSV Hartberg (A1) · было «агент записан», стало «семья»
+- **Nikolai Baden Frederiksen** — WSG Tirol (A1) · было «агент записан», стало «пробел»
+- **Sacha Delaye** — SC Austria Lustenau (A1) · было «агент записан», стало «пробел»
+- **Efe Lucky** — KF Pogradeci (ALB2) · было «агент записан», стало «пробел»
+- **Vincent Ulundu** — FC Inter Turku (FI1) · было «агент записан», стало «пробел»
+- **Topias Inkinen** — FC Lahti (FI1) · было «агент записан», стало «пробел»
+- **Oisin McEntee** — Heart of Midlothian FC (SC1) · было «агент записан», стало «пробел»
+- **Emmanuel Longelo** — Motherwell FC (SC1) · было «агент записан», стало «пробел»
+- **Oliver Bundgaard** — Viborg FF (DK1) · было «агент записан», стало «пробел»
+- **Davit Davtyan** — BKMA Yerevan (ARM1) · было «агент записан», стало «пробел»
+- **Markuss Strods** — Bohemian Football Club (IR1) · было «агент записан», стало «пробел»
+- **Yaya Diakité** — US Orléans B (FR5H) · было «агент записан», стало «семья»
+- **Malone Boucard** — Dijon FCO B (FR5F) · было «агент записан», стало «пробел»
+- **Ivan Krasnov** — FC Nomme United U19 (ELME) · было «агент записан», стало «пробел»
+- **Mathis Clerval** — FC Challans (FR5B) · было «агент записан», стало «пробел»
+- **Enzo Bellouti** — Sablé-sur-Sarthe FC (FR5B) · было «агент записан», стало «пробел»
+- **Andreas Gülstorff** — FC Fredericia (DK2) · было «агент записан», стало «пробел»
+- **Admir Gojak** — FK Zeljeznicar Sarajevo (BOS1) · было «агент записан», стало «пробел»
+- **Isak Taannander** — Kolding IF (DK2) · было «агент записан», стало «пробел»
+- **Zinédine Ould Khaled** — Sabah FK (AZ1) · было «агент записан», стало «пробел»
+- **Ári Mohr Jónsson** — HB Tórshavn (FARO) · было «агент записан», стало «пробел»
+- **Børge Petersen** — B36 Tórshavn (FARO) · было «агент записан», стало «пробел»
+- **Jónas Prior** — 07 Vestur (FARO) · было «агент записан», стало «пробел»
+- **Ethan Drummond** — Municipal Pérez Zeledón (CRPD) · было «агент записан», стало «пробел»
+- **Erick Marín** — Municipal Pérez Zeledón (CRPD) · было «агент записан», стало «пробел»
+- **Néstor Monge** — Escorpiones de Belén (CRPD) · было «агент записан», стало «пробел»
+- **Benicio Peña** — FC Roskilde (DK3O) · было «агент записан», стало «пробел»
+- **Myles Beerman** — Floriana FC (MT1N) · было «агент записан», стало «пробел»
+- **Rio Yoshitake** — Nobeoka Agata (JPKS) · было «агент записан», стало «пробел»
+- **Brandon Waterman** — CA Independiente (PN1A) · было «агент записан», стало «пробел»
+- **Darhein Sayala** — SK Beveren U21 (BE21) · было «агент записан», стало «нет агента»
+- **Bilal Douah** — Glacis United (GI1) · было «агент записан», стало «пробел»
+- **Dominik Ivkic** — NK Brinje Grosuplje (SL1) · было «агент записан», стало «семья»
+- **Igball Jashari** — FC Drita (KO1) · было «агент записан», стало «пробел»
+- **Maksims Tonisevs** — Riga FC (LET1) · было «агент записан», стало «пробел»
+- **Reginaldo Ramires** — Riga FC (LET1) · было «агент записан», стало «семья»
+- **Ivans Patrikejevs** — SK Super Nova (LET1) · было «агент записан», стало «нет агента»
+- **Alfonso Porras** — FC Western (NCL1) · было «агент записан», стало «нет агента»
+- **Alejandro Maqueda** — Penya Encarnada d'Andorra (AND1) · было «агент записан», стало «пробел»
+- **Mounir Boutarfa** — CF Esperança d'Andorra (AND1) · было «агент записан», стало «пробел»
+- **Manuel Cuestas** — FK Jezero (MNE1) · было «агент записан», стало «пробел»
+- **Fabien Ourega** — FK Kauno Žalgiris (LI1) · было «агент записан», стало «пробел»
+- **Samuli Hölttä** — FC KTP (FI2) · было «агент записан», стало «пробел»
+- **Otto Salmensuu** — Pallokerho-35 (FI2) · было «агент записан», стало «семья»
+- **Jore Nikkilä** — SJK Seinäjoki II (FI2) · было «агент записан», стало «пробел»
+- **Shafique Wilson** — Mikkelin Palloilijat (FI2) · было «агент записан», стало «пробел»
+- **Afrim Gashi** — FC Bayern Munich U19 (19D4) · было «агент записан», стало «пробел»
+- **Alexander Meyer** — FC Ingolstadt 04 U19 (19D4) · было «агент записан», стало «пробел»
+- **Kevin Holt** — Ayr United FC (SC2) · было «агент записан», стало «пробел»
+- **Djamal Faram** — SC Freiburg U19 (19D5) · было «агент записан», стало «пробел»
+- **Ross MacLean** — Forfar Athletic FC (SC4) · было «агент записан», стало «пробел»
+- **Bozhidar Tanev** — FC Dordrecht U21 (212F) · было «агент записан», стало «пробел»
+- **Isaque Sousa Monte** — Excelsior Rotterdam U21 (212F) · было «агент записан», стало «пробел»
+- **Dawid Sankiewicz** — Eintracht Frankfurt U17 (17DE) · было «агент записан», стало «пробел»
+- **Tin Matic** — Balestier Khalsa (SIN1) · было «агент записан», стало «пробел»
+- **Giuseppe Martorelli** — Stuttgarter Kickers U17 (17DD) · было «агент записан», стало «пробел»
+- **Enrico Petermichl** — VfB Stuttgart U17 (17DD) · было «агент записан», стало «пробел»
+- **Endi Krasniqi** — Hannover 96 U19 (19D9) · было «агент записан», стало «пробел»
+- **Pierre Kluck** — 1.FC Union Berlin U17 (17DA) · было «агент записан», стало «пробел»
+- **Ben Schreiweis** — SV Darmstadt 98 U19 (19D6) · было «агент записан», стало «пробел»
+- **Fanol Gashi** — SV Darmstadt 98 U19 (19D6) · было «агент записан», стало «пробел»
+- **Till Burkhardt** — Borussia Dortmund U19 (19D8) · было «агент записан», стало «пробел»
+- **Can Sahin** — Rot-Weiss Essen U19 (19D8) · было «агент записан», стало «пробел»
+- **Paul Schrödter** — FC Erzgebirge Aue U19 (19D3) · было «агент записан», стало «пробел»
+- **Baltazar Blum** — CA Boca Juniors II (CLPF) · было «агент записан», стало «пробел»
+- **Emanuel Beltrán** — CA Colón (ARG2) · было «агент записан», стало «пробел»
+- **Lucas Ambrogio** — CA Nueva Chicago (ARG2) · было «агент записан», стало «нет агента»
+- **Vitaliy Zhokhov** — FC Astrakhan (2DVB) · было «агент записан», стало «пробел»
+- **Stanislav Ruban** — FK Sevastopol (2DVB) · было «агент записан», стало «пробел»
+- **Artem Stepanovich** — FK Sevastopol (2DVB) · было «агент записан», стало «пробел»
+- **Yorkaeff Caicedo** — Club Sporting Cristal II (PLI3) · было «агент записан», стало «пробел»
+- **Fabricio Sena** — CA Acassuso (ARG2) · было «агент записан», стало «пробел»
+- **Ivan Metin** — Ural 2 Ekaterinburg (2DVB) · было «агент записан», стало «пробел»
+- **Mariano Miño** — CA Boca Unidos (ARG3) · было «агент записан», стало «пробел»
+- **Baltazar Blum** — CA Boca Juniors II (CLPI) · было «агент записан», стало «пробел»
+- **Iuri Medeiros** — Без клуба (FREE) · было «агент записан», стало «пробел»
+- **Nikolay Minkov** — Без клуба (FREE) · было «агент записан», стало «пробел»
+- **Bruno Costa** — Без клуба (FREE) · было «агент записан», стало «пробел»
 
-## Появился агент — убрать из работы — 603
+## Появился агент — убрать из работы — 1498
 
-- Janne Berner — SC Verl · теперь агент записан
-- Leonardo Posadas — TSV Havelse · теперь агент записан
-- Joel Darko Ampem — TSV Havelse · теперь агент записан
-- Youssef Hamdaoui — Royal Antwerp FC · теперь агент записан
-- Rok Storman — KV Kortrijk · теперь агент записан
-- Emir Sahiti — Hannover 96 · теперь агент записан
-- Anthony Caci — 1.FSV Mainz 05 · теперь агент записан
-- Adham Refai — RFC Lüttich · теперь агент записан
-- Maximilian Philipp — Без клуба · теперь агент записан
 - Juan Cruz Policella — CA Vélez Sarsfield · теперь агент записан
 - Juan Cruz Policella — CA Vélez Sarsfield · теперь агент записан
 - Bruno Leyes — Club Atlético Tigre · теперь агент записан
@@ -876,167 +1194,913 @@ _собрано 2026-10-12 10:40 UTC_
 - Matías Chiquichano — CA Huracán II · теперь агент записан
 - Agustín Pérez — CD Godoy Cruz Antonio Tomba II · теперь агент записан
 - Ignacio Marina — Club Atlético Platense II · теперь агент записан
+- Chinedu Nwosu — Bendel Insurance · теперь агент записан
+- Samuel Okechukwu — Enyimba Aba · теперь агент записан
+- Michael Atata — Ikorodu City FC · теперь агент записан
+- Jeronimo Russo — CA Newell's Old Boys · теперь агент записан
+- Manuel Tucker — Club Atlético Platense · теперь агент записан
+- Emmanuel Ojeda — CA Huracán · теперь агент записан
+- Fernando Alarcón — Instituto ACC · теперь агент записан
+- Luca Rafaelli — Instituto ACC · теперь агент записан
+- Tijani Idowu Azeez — Doma United · теперь агент записан
+- Sergio Vásquez — Los Angeles FC · теперь агент записан
+- Baye Coulibaly — Charlotte FC · теперь агент записан
+- Bongokuhle Hlongwane — Minnesota United FC · теперь агент записан
+- Josh Munson — Red Bull New York II · теперь агент записан
+- Nicolas Lasheras — Orlando City B · теперь агент записан
+- Landon Lucero — Tacoma Defiance · теперь агент записан
+- Damian Nigg — Chicago Fire FC II · теперь агент записан
+- Jeronimo Russo — CA Newell's Old Boys · теперь агент записан
+- Shun Ayukawa — Sanfrecce Hiroshima · теперь агент записан
+- Daiki Sugioka — Kashiwa Reysol · теперь агент записан
+- Manuel Tucker — Club Atlético Platense · теперь агент записан
+- Christian Ayala — Austin FC II · теперь агент записан
+- Nanasei Iino — Vissel Kobe · теперь агент записан
+- Emmanuel Ojeda — CA Huracán · теперь агент записан
+- Fernando Alarcón — Instituto ACC · теперь агент записан
+- Bryce Vanvoorhis — Portland Timbers 2 · теперь агент записан
+- Luca Rafaelli — Instituto ACC · теперь агент записан
+- David Díaz — Carolina Core FC · теперь агент записан
+- Brady Krysiewicz — Sporting Kansas City II · теперь агент записан
+- Marcel Solís — Independiente del Valle U19 · теперь агент записан
+- Ramsses Quiñónez — Independiente del Valle U19 · теперь агент записан
+- Gabriel Pinela — Independiente del Valle U19 · теперь агент записан
+- Bruss Coello — CD Macará U19 · теперь агент записан
+- David Popa — Concordia Chiajna · теперь агент записан
+- Yanis Sorescu — CSM Slatina · теперь агент записан
+- Alexandru Bota — FC Bihor 1902 · теперь агент записан
+- Rafael Lima — Moreirense FC Sub-23 · теперь агент записан
+- Miguel — Leixões SC U23 · теперь агент записан
+- Aaron Aneke — Wolverhampton Wanderers U18 · теперь агент записан
+- Tyler Coulson — Wolverhampton Wanderers U18 · теперь агент записан
+- Joe Bhaskaran — Leeds United U18 · теперь агент записан
+- Emmanuel Ziro — Manchester United U18 · теперь агент записан
+- Joe Cowan — Sunderland AFC U18 · теперь агент записан
+- Charlie Hamilton-Forsyth — Sunderland AFC U18 · теперь агент записан
+- Afonso Rola — Portimonense SAD U23 · теперь агент записан
+- Daniel Majekodunmi — Liverpool FC U18 · теперь агент записан
+- Freddie Murdock — Everton FC U18 · теперь агент записан
+- Glen Ilunga — Burnley FC U18 · теперь агент записан
+- Babagirei Khalifa — FC Penafiel Sub-23 · теперь агент записан
+- Fletcher Smythe-Lowe — Estoril Praia U23 · теперь агент записан
+- Gabriel Torres — Estoril Praia U23 · теперь агент записан
+- Raffaele Oppong — Brighton & Hove Albion U18 · теперь агент записан
+- Marley Clarke — Fulham FC U18 · теперь агент записан
+- Taha Elmansuri — Birmingham City U18 · теперь агент записан
+- Zion Beckles — Tottenham Hotspur U18 · теперь агент записан
+- Kevin Viveros — Club Athletico Paranaense · теперь агент записан
+- Jorge Rivaldo — Club Athletico Paranaense · теперь агент записан
+- Zé Vitor — Esporte Clube Vitória · теперь агент записан
+- Emmanuel Martínez — Esporte Clube Vitória · теперь агент записан
+- Abdellatif Aboukoura — Loudoun United FC · теперь агент записан
+- Ziad Saoudi — Pyramids FC · теперь агент записан
+- Abdallah El Said — Zamalek SC · теперь агент записан
+- Khaled Al-Nabris — Cleopatra FC · теперь агент записан
+- Hussein Faisal — El Masry SC · теперь агент записан
+- Denilson Milanés — Miami FC · теперь агент записан
+- Abdo Gouda — Zed FC · теперь агент записан
+- Walid Farag — Zed FC · теперь агент записан
+- Mahmoud Dunga — Ittihad Alexandria SC · теперь агент записан
+- Adel Alaa — Ghazl El Mahalla · теперь агент записан
+- Badreldin Walid — El Gouna FC · теперь агент записан
+- Saber El Shimi — El Gouna FC · теперь агент записан
+- Islam Abou-Salima — El Gouna FC · теперь агент записан
+- Marwan Essam — El Gouna FC · теперь агент записан
+- Ahmed Sherif — El Gouna FC · теперь агент записан
+- Khaled Ahmed — El Gouna FC · теперь агент записан
+- Janderson — Vila Nova Futebol Clube (GO) · теперь агент записан
+- Glid Otanga — Abo Qir Fertilizers · теперь агент записан
+- Quaison Kofi Gideon — Abo Qir Fertilizers · теперь агент записан
+- Ziad Farag — Abo Qir Fertilizers · теперь агент записан
+- Kyle John — Port Vale FC · теперь агент записан
+- Vinicius Ferrari — Associação Atlética Ponte Preta · теперь агент записан
+- Keyrol Figueroa — Port Vale FC · теперь агент записан
+- Alfie Pond — Chesterfield FC · теперь агент записан
+- Shaq Forde — Bristol Rovers · теперь агент записан
+- Karlo Pajsar — Parma Primavera · теперь агент записан
+- Roni Koskinen — Ilves Tampere U18 · теперь агент записан
+- Riccardo Milan — Bologna Primavera · теперь агент записан
+- Ilja Kivioja — JS Hercules U18 · теперь агент записан
+- Lenni Teppo — Oulun Luistinseura U18 · теперь агент записан
+- Miguel Silva — Como Primavera · теперь агент записан
+- Edoardo Martini — Torino Primavera · теперь агент записан
+- Yuzuki Kobayashi — RB Omiya Ardija · теперь агент записан
+- Gota Yamaguchi — Shonan Bellmare · теперь агент записан
+- Iury Castilho — Albirex Niigata · теперь агент записан
+- Joseph Amoah — Asante Kotoko SC · теперь агент записан
+- Yusuke Matsuo — Oita Trinita · теперь агент записан
+- Samuel Prempeh — Young Apostles FC · теперь агент записан
+- Siphamandla Zikhali — AmaZulu FC · теперь агент записан
+- Keanan Johannesen — Stellenbosch FC · теперь агент записан
+- Junior Dion — Lamontville Golden Arrows · теперь агент записан
+- Nhlakanipho Ngcobo — Richards Bay FC · теперь агент записан
+- Sanele Zulu — Richards Bay FC · теперь агент записан
+- Lundi Mahala — Richards Bay FC · теперь агент записан
+- Siyabonga Ndebele — Siwelele Football Club · теперь агент записан
+- Asanele Bonani — Chippa United · теперь агент записан
+- Camagu Mdevulana — TS Galaxy FC · теперь агент записан
+- Prince Manku — Marumo Gallants FC · теперь агент записан
+- Thabiso Mkhwanazi — Marumo Gallants FC · теперь агент записан
+- Mpho Mvundlela — Polokwane City FC · теперь агент записан
+- Mvelo Zikakayo — Milford FC · теперь агент записан
+- Reggie Walsh — Wigan Athletic · теперь агент записан
+- Fotios Pseftis — Antalyaspor · теперь агент записан
+- Ataol Taylan Karapınar — Kayserispor · теперь агент записан
+- Aref Aghasi — Esteghlal FC · теперь агент записан
+- Fatih Tultak — Istanbulspor · теперь агент записан
+- Morgan Roberts — Tamworth FC · теперь агент записан
+- Yusuf Özer — Istanbulspor · теперь агент записан
+- Arda Erdursun — Sivasspor · теперь агент записан
+- Burak Kapacak — Sivasspor · теперь агент записан
+- Saeed Mohammadifard — Chadormalu SC · теперь агент записан
+- Lachlan Sattout — Sutherland Sharks FC · теперь агент записан
+- Lucio Urquía — Sportivo AC (Las Parejas) · теперь агент записан
+- Alessandro Falleni — Guidonia Montecelio 1937 FC · теперь агент записан
+- Jong-hyun Ko — Suwon Samsung Bluewings · теперь агент записан
+- Alessandro Iosa — Latina Calcio 1932 · теперь агент записан
+- Francesco Galastri — AS Ostiamare Lido Calcio · теперь агент записан
+- Sang-hyun Park — Gimpo FC · теперь агент записан
+- Alessio Marcu — US Grosseto 1912 · теперь агент записан
+- Ha-min Kim — Gyeongnam FC · теперь агент записан
+- Dhirar Brik — FC Südtirol · теперь агент записан
+- Harrison Iwunze — Hereford FC · теперь агент записан
+- Deago Nelson — Oxford City · теперь агент записан
+- Jacob Cummins — Chorley FC · теперь агент записан
+- Loris Zonta — LR Vicenza · теперь агент записан
+- Freddie Ingram — Dagenham & Redbridge FC · теперь агент записан
+- Luigi Cuppone — Virtus Entella · теперь агент записан
+- Finley Woodham — Billericay Town · теперь агент записан
+- Tom Dean — Truro City FC · теперь агент записан
+- Pedro López — AD Ceuta FC · теперь агент записан
+- Brandon Mason — Farnham Town · теперь агент записан
+- Timi Olagbemi — Maidstone United · теперь агент записан
+- Juan Sanchez — Maidstone United · теперь агент записан
+- Nathan Odokonyero — Salisbury FC · теперь агент записан
+- Youssef Saafi — Stade Tunisien · теперь агент записан
+- Philippe Lanquetin — Etoile Sportive du Sahel · теперь агент записан
+- Achref Ben Dhiaf — Etoile Sportive du Sahel · теперь агент записан
+- Mohamed Aziz Chaouch — AS Marsa · теперь агент записан
+- Luca Boncori — US Salernitana 1919 · теперь агент записан
+- Youssef Maktouf — Club Athlétique Bizertin · теперь агент записан
+- Mohamed Aziz Chaabane — Club Athlétique Bizertin · теперь агент записан
+- Manoubi Haddad — Olympique Beja · теперь агент записан
+- Ghaith Ben Hassine — Jeunesse Sportive Omrane · теперь агент записан
+- Emanuele Scipioni — SS Monopoli 1966 · теперь агент записан
+- Ibrahima Bationo Bertrand — Progrès Sportif Sakiet Eddaier · теперь агент записан
+- Alessandro Pozzi — Cosenza Calcio · теперь агент записан
+- Raul Alessandro Bura — Potenza Calcio · теперь агент записан
+- Cornelius Staver — Potenza Calcio · теперь агент записан
+- Bartu Dinç — Ayvalikgücü Belediyespor · теперь агент записан
+- Ozan Cörüt — Eskisehirspor · теперь агент записан
+- Ahmet Dereli — Eskisehirspor · теперь агент записан
+- Samba Mballo — US Gorée · теперь агент записан
+- Daan Lambers — FC Emmen · теперь агент записан
+- Jens Elbers — FC Eindhoven · теперь агент записан
+- Modou Séne — ASCE La Linguère · теперь агент записан
+- Sergio Martinez — Orsomarso SC · теперь агент записан
+- Pedro Rodríguez — Real Santander · теперь агент записан
+- Hasan Temel — Genclerbirligi Ankara U19 · теперь агент записан
+- Fatihhan Demir — Kocaelispor U19 · теперь агент записан
+- Issa Diop — Ipswich Town · теперь агент записан
+- José Mauricio Delgado — Atlético FC · теперь агент записан
+- Ephron Mason-Clark — Coventry City · теперь агент записан
+- Mustafa Kürşat Tümay — Basaksehir FK U19 · теперь агент записан
+- Badou Sene — Al-Jazira Al-Hamra Club · теперь агент записан
+- Enis Tozaj — USD Sestri Levante 1919 · теперь агент записан
+- Federico Brusa — ASD Chisola Calcio · теперь агент записан
+- Joshua Malagrida — ASD Millesimo Calcio · теперь агент записан
+- JP Silva — Vitória Guimarães SC B · теперь агент записан
+- Sergio Martinez — Orsomarso SC · теперь агент записан
+- Pedro Rodríguez — Real Santander · теперь агент записан
+- Richard — Leça FC · теперь агент записан
+- José Mauricio Delgado — Atlético FC · теперь агент записан
+- Pedro Matos — Varzim SC · теперь агент записан
+- Klejton Uruci — Bologna Under 18 · теперь агент записан
+- Michele Bianco — Avellino Primavera · теперь агент записан
+- Sacha Dondas — Hellas Verona Under 18 · теперь агент записан
+- Facundo Fernández — Centro Juventud Antoniana · теперь агент записан
+- Davide Guarneri — Cosenza Primavera · теперь агент записан
+- Jhon Palacios — Centro Juventud Antoniana · теперь агент записан
+- Mathias Perrotta — Roma Under 18 · теперь агент записан
+- Patricio Ferreira — CSCD Gimnasia y Esgrima (Chivilcoy) · теперь агент записан
+- Khairaba Kaba — Salernitana Primavera · теперь агент записан
+- Gonçalo Moreira — SL Benfica B · теперь агент записан
+- Miguel Rocha — CD Feirense · теперь агент записан
+- Pedrinho — CD Feirense · теперь агент записан
+- Brian Araújo — Lusitânia FC Lourosa · теперь агент записан
+- Anouar Ait El Hadj — Union Saint-Gilloise · теперь агент записан
+- Raul Florucz — Union Saint-Gilloise · теперь агент записан
+- Massimo Decoene — KV Mechelen · теперь агент записан
+- Andrea Tessiore — US Folgore Caratese · теперь агент записан
+- Dominic Thompson — SK Beveren · теперь агент записан
+- Wuilker Fariñez — Internacional de Bogotá · теперь агент записан
+- Aleks Olsztyn — Lech Poznań · теперь агент записан
+- Nikodem Całko — Raków Częstochowa · теперь агент записан
+- Kuba Solecki — Arka Gdynia · теперь агент записан
+- Benedykt Piotrowski — Polonia Warsaw · теперь агент записан
+- Amir Al-Ammari — Cracovia · теперь агент записан
+- Kahveh Zahiroleslam — Cracovia · теперь агент записан
+- Wuilker Fariñez — Internacional de Bogotá · теперь агент записан
+- Marcin Stas — Odra Opole · теперь агент записан
+- Thiago Dombroski — Bruk-Bet Termalica Nieciecza · теперь агент записан
+- Mateusz Leniart — Stal Rzeszow · теперь агент записан
+- Dylan Harwin — Polonia Bytom · теперь агент записан
+- Conrado — Radomiak Radom · теперь агент записан
+- Oskar Tomczyk — Podbeskidzie Bielsko-Biala · теперь агент записан
+- Leonel Calderón — Deportivo Guadalajara U21 · теперь агент записан
+- Mustafa Hekimoğlu — Beşiktaş JK · теперь агент записан
+- Leonel Calderón — Deportivo Guadalajara U21 · теперь агент записан
+- Deivis Perez — Monagas SC B · теперь агент записан
+- Yehova Osorio — A.C Club Deportivo Atletico Barinas · теперь агент записан
+- Paul Duran — Real Frontera SC · теперь агент записан
+- Djibril Ouattara — APR FC · теперь агент записан
+- Jean Merveil Tuyisenge — Gicumbi FC · теперь агент записан
+- Fabrice Igiraneza — Kigali FC · теперь агент записан
+- Irene Mugisha — Kigali FC · теперь агент записан
+- Mangubu Patrick Baombolia — Kigali FC · теперь агент записан
+- Cyubahiro Fuadi — Kigali FC · теперь агент записан
+- Matous Srb — FC Bayern Munich II · теперь агент записан
+- Melvin Steinheil — SpVgg Greuther Fürth II · теперь агент записан
+- Georgiy Nachkebia — TSV Aubstadt · теперь агент записан
+- Ivan Velychko — Rekord Bielsko-Biala · теперь агент записан
+- Kuba Wilk — Gornik Leczna · теперь агент записан
+- Tyron Koomson — SpVgg Ansbach · теперь агент записан
+- Kacper Rzepka — Hutnik Krakow · теперь агент записан
+- Mateusz Zientarski — Lechia Zielona Góra · теперь агент записан
+- Przemysław Bargiel — Lechia Zielona Góra · теперь агент записан
+- Emin Brobbey — Altona 93 · теперь агент записан
+- Ye-kang Jin — TSV Buchholz 08 · теперь агент записан
+- Aster Vranckx — VfL Wolfsburg · теперь агент записан
+- Angelo Tramontana — Kickers Offenbach · теперь агент записан
+- Panormitis Kaliaros — Athens Kallithea · теперь агент записан
+- Kyriakos Mazoulouxis — AE Larisa · теперь агент записан
+- Ilias Petratos — Marko FC · теперь агент записан
+- Ianis Dobrescu — Asteras Aktor B · теперь агент записан
+- Iver Solberg Jacobsen — Rosenborg BK II · теперь агент записан
+- Georgios Birbilis — Pyrgos AFC · теперь агент записан
+- Tirivashe Chirikwawo — Pyrgos AFC · теперь агент записан
+- Alexandros Dani — Pyrgos AFC · теперь агент записан
+- Frixos Grivas — Pyrgos AFC · теперь агент записан
+- Gennadiy Kiselev — FC Leningradets · теперь агент записан
+- Artem Beskibalnyi — Rodina 2 Moscow · теперь агент записан
+- Bilal Bilalov — Dinamo Kirov · теперь агент записан
+- Egor Gurenko — Dinamo Vladivostok · теперь агент записан
+- Vyacheslav Bezzubov — Torpedo Miass · теперь агент записан
+- Takahiro Yanagi — BG Pathum United · теперь агент записан
+- Jean-Pierre Da Sylva — Pattani FC · теперь агент записан
+- Mateo Benegas — Al-Khaleej FC · теперь агент записан
+- Mathias Roa — 3 de Noviembre · теперь агент записан
+- Zakaria Benabbou — Moghreb Atlético Tétouan · теперь агент записан
+- Mamadou Tounkara — Amal Tiznit · теперь агент записан
+- Amirmehdi Heydari — Saipa FC · теперь агент записан
+- Tito Angulo — Alianza Universidad · теперь агент записан
+- Parsa Khodadadi — Saipa FC · теперь агент записан
+- Amirmehdi Janmaleki — Pars Jonoubi Jam · теперь агент записан
+- Alireza Afkham — Pars Jonoubi Jam · теперь агент записан
+- Gonzalo Silva — Carlos A. Mannucci · теперь агент записан
+- Nahuel Tecilla — ADA Jaén · теперь агент записан
+- Antonio Acosta — Comerciantes FC · теперь агент записан
+- Abolfazl Khalilian — Niroye Zamini FC · теперь агент записан
+- Amirhossein Neshatjoo — Niroye Zamini FC · теперь агент записан
+- Amirreza Shokravi — Havadar SC · теперь агент записан
+- Iliya Jafari — Havadar SC · теперь агент записан
+- Hojjat Khaksarsani — Havadar SC · теперь агент записан
+- Edris Rahmani — Havadar SC · теперь агент записан
+- Arya Shirvani — Havadar SC · теперь агент записан
+- Shayan Rashkan — Havadar SC · теперь агент записан
+- Amirali Nikmehr — Havadar SC · теперь агент записан
+- Enzo Rodriguez — Club Always Ready · теперь агент записан
+- João Pedro — San Antonio Bulo Bulo · теперь агент записан
+- Felipe Pasadore — Universitario de Vinto · теперь агент записан
+- Marcin Kossakowski — Olimpia Elblag · теперь агент записан
+- Tolga Köksal — Erbaaspor · теперь агент записан
+- Hernán Tifner — Real Oruro · теперь агент записан
+- Jakub Jakimiuk — Olimpia Zambrow · теперь агент записан
+- Oskar Koper — Pelikan Lowicz · теперь агент записан
+- Francesco Santoro — Gelbison · теперь агент записан
+- Paco Raasch — 1.FC Neubrandenburg 04 · теперь агент записан
+- Pietro Biolchi — Cremonese Primavera · теперь агент записан
+- Lorenzo Meledandri — Anzio Calcio 1924 · теперь агент записан
+- Diego Zedda — Cittadella Primavera · теперь агент записан
+- Filippo Galafassi — Pro Sesto 1913 · теперь агент записан
+- Daniele Viscardi — Pro Sesto 1913 · теперь агент записан
+- Niccolò Canzian — Südtirol Primavera · теперь агент записан
+- Xavier Mina — Südtirol Primavera · теперь агент записан
+- Thomas Nasso — Südtirol Primavera · теперь агент записан
+- Tommaso Paleari — USD Castellanzese 1921 · теперь агент записан
+- Edoardo Casali — Nuova Ternana 1925 · теперь агент записан
+- Fabian Hallidri — GSD Ghiviborgo VDS · теперь агент записан
+- Isacco Barducci — ASD Grassina · теперь агент записан
+- Hee-chan Jung — Seosan Pioneer · теперь агент записан
+- Eren Şimşek — Malatya Yesilyurt SK · теперь агент записан
+- Carlos Moreno — CF Pachuca · теперь агент записан
+- Ki-uk Hong — Jincheon HR FC · теперь агент записан
+- Mattia Pisciotta — Athletic Club Palermo · теперь агент записан
+- Richard Kasik — SK Artis Brno · теперь агент записан
+- Oskars Vientiess — FK Teplice · теперь агент записан
+- Pawel Tyszko — Polonia Warsaw U19 · теперь агент записан
+- Jan Tyszko — Polonia Warsaw U19 · теперь агент записан
+- Szymon Górniak — Gornik Zabrze U19 · теперь агент записан
+- Aleks Olsztyn — Lech Poznan U19 · теперь агент записан
+- Michel Lieder — Borussia Mönchengladbach II · теперь агент записан
+- Szymon Głowiński — Miedz Legnica U19 · теперь агент записан
+- Filip Nowacki — FCB Escola Varsovia U19 · теперь агент записан
+- Jakub Kuśnierczak — FCB Escola Varsovia U19 · теперь агент записан
+- Marcel Frankowicz — Slask Wroclaw U19 · теперь агент записан
+- Haakon Pomorin — 1.FC Bocholt · теперь агент записан
+- Carlos Moreno — CF Pachuca · теперь агент записан
+- Mateusz Wojciechowski — Arka Gdynia U19 · теперь агент записан
+- Massaman Keita — Bonner SC · теперь агент записан
+- Bogdan Lebezun — Talent Warszawa U19 · теперь агент записан
+- Ilhan Altuntas — VfB 03 Hilden · теперь агент записан
+- Mateusz Grygier — LKS Goczalkowice-Zdroj · теперь агент записан
+- Nikodem Całko — Raków Częstochowa II · теперь агент записан
+- Łukasz Góral — Raków Częstochowa II · теперь агент записан
+- Jan Mordaka — Raków Częstochowa II · теперь агент записан
+- Ciro Arabesco — Palmese · теперь агент записан
+- Younes Otte — HSC Hannover · теперь агент записан
+- Fin Tiedeken — SV Atlas Delmenhorst · теперь агент записан
+- D. Bilali — KFC Uerdingen 05 · теперь агент записан
+- Buğra Akçagün — Erzincanspor · теперь агент записан
+- Jamil Al Hussein — FC Büderich · теперь агент записан
+- Quincy Tavares — FK Vozdovac · теперь агент записан
+- Vukasin Radosavljevic — FK Proleter 023 Zrenjanin · теперь агент записан
+- Pietro Souza Bregant — BSC Young Boys U21 · теперь агент записан
+- Getuart Kadriaj — FC Zürich U21 · теперь агент записан
+- Antonello Serra — Ancona Calcio · теперь агент записан
+- Nicholas Cocola — Ancona Calcio · теперь агент записан
+- Gabriel Zaic — AC Bellinzona · теперь агент записан
+- Noah Kakor — FC Basel 1893 U21 · теперь агент записан
+- Darren Okoh — FC Basel 1893 U21 · теперь агент записан
+- Maximilian Riedelsberger — TSV 1860 München II · теперь агент записан
+- Amiro Amadou — SV Babelsberg 03 · теперь агент записан
+- Cedric Ildas — SV Heimstetten · теперь агент записан
+- Seung-ho Hwang — SC Verl II · теперь агент записан
+- Jun-hwi Lim — Jeonbuk Hyundai Motors Reserves · теперь агент записан
+- Sin-jung Hwang — Siheung City FC · теперь агент записан
+- Han-bin Lee — Dangjin Citizen · теперь агент записан
+- Eldar Guseynov — FC Krasnodar II · теперь агент записан
+- Yaroslav Maslennikov — CSKA Moscow II · теперь агент записан
+- Matvey Lykov — Lokomotiv Moscow II · теперь агент записан
+- Ivan Nenashev — FC Rostov II · теперь агент записан
+- Aleksey Polesskiy — Spartak Moskow II · теперь агент записан
+- Fedor Vinokurenkov — Spartak Moskow II · теперь агент записан
+- Georgiy Gablia — Akron Akademia Konoplev · теперь агент записан
+- Yaroslav Sosnikhin — FC Nizhny Novgorod II · теперь агент записан
+- Daniil Dolya — Fakel Voronezh II · теперь агент записан
+- Valeriy Grinevich — Ural Ekaterinburg II · теперь агент записан
+- Artur Chelnov — Ural Ekaterinburg II · теперь агент записан
+- Diego Díaz — CD Extremadura 1924 · теперь агент записан
+- Ilya Safronov — FK Chelyabinsk · теперь агент записан
+- Petr Shcherbatov — Chertanovo Moskau II · теперь агент записан
+- Stepan Glotov — SKA Khabarovsk · теперь агент записан
+- Javi Labrada — UD Ourense · теперь агент записан
+- Artur Chernyi — Shinnik Yaroslavl · теперь агент записан
+- Artemiy Kosogorov — Shinnik Yaroslavl · теперь агент записан
+- Nazar Rybalchenko — KamAZ Naberezhnye Chelny · теперь агент записан
+- Aleksandr Kokotun — KamAZ Naberezhnye Chelny · теперь агент записан
+- Ibrahim Al-Harbi — Damac FC · теперь агент записан
+- Zaid Salem Al-Shammari — Al-Jabalain FC · теперь агент записан
+- Theo Yolou — Al-Zulfi SFC · теперь агент записан
+- Ali Al-Makrami — Al-Okhdood Club · теперь агент записан
+- Ibrahim Ashi — Al-Okhdood Club · теперь агент записан
+- Faris Al-Zubaidi — Al-Orobah FC · теперь агент записан
+- Ty Collins — FC Naples · теперь агент записан
+- Rom Savitch — Hapoel Kfar Shalem · теперь агент записан
+- Dawood Al-Tarif — Al-Saqer FC · теперь агент записан
+- Jacopo Smiderle — Chievo Verona · теперь агент записан
+- Daniele Dell'Acqua — Club Milano · теперь агент записан
+- Luca Zanetti — Caldiero Terme · теперь агент записан
+- Alberto Soragni — Caldiero Terme · теперь агент записан
+- Ouelid Gannouni — Rovato Calcio · теперь агент записан
+- Kademain Yao — Türkischer SV Singen · теперь агент записан
+- Louis Potye — TSG Balingen · теперь агент записан
+- Maxim Schmalz — TSG Balingen · теперь агент записан
+- Mika Stauss — TSG Balingen · теперь агент записан
+- Topaz Kronmüller — FC Nöttingen · теперь агент записан
+- Dixon Gaspar — Barcelona SC Guayaquil · теперь агент записан
+- Sami Abdulmahmoud — Almere City FC U23 · теперь агент записан
+- Leon Opdam — Almere City FC U23 · теперь агент записан
+- Yorlin Arce — Técnico Universitario · теперь агент записан
+- Rafael Chila — Técnico Universitario · теперь агент записан
+- Jun-hwi Lim — Jeonbuk Hyundai Motors · теперь агент записан
+- David Popa — FCSB · теперь агент записан
+- Leonardo Montoya — Club Necaxa U19 · теперь агент записан
+- Ștefan Opriș — FC Dinamo 1948 · теперь агент записан
+- Santiago Lomelin — CF Monterrey U19 · теперь агент записан
+- Sang-eun Shin — Jeju SK · теперь агент записан
+- Moisés Izazaga — FC Juárez U19 · теперь агент записан
+- Min-jun Kang — Pohang Steelers · теперь агент записан
+- Leonardo Montoya — Club Necaxa U19 · теперь агент записан
+- Santiago Lomelin — CF Monterrey U19 · теперь агент записан
+- Moisés Izazaga — FC Juárez U19 · теперь агент записан
+- Keelyan Portut — SM Caen · теперь агент записан
+- Victor Delins — Amiens SC · теперь агент записан
+- Heraba Gassama — FC Fleury 91 · теперь агент записан
+- Moïse Mahop — Vendée Foot Club La Roche-sur-Yon · теперь агент записан
+- Rúben Évora Moniz — Vendée Foot Club La Roche-sur-Yon · теперь агент записан
+- Youcef Izem — JS Kabylie · теперь агент записан
+- Boris Kehayov — SV Hemelingen · теперь агент записан
+- Nils Donat — SK Sturm Graz II · теперь агент записан
+- Elias Kolp — SK Rapid Wien II · теперь агент записан
+- Krzysztof Karbownik — Elana Torun · теперь агент записан
+- Emmanuel Ojukwu — SV Kapfenberg · теперь агент записан
+- Maxi Trajano — Hvidovre IF U19 · теперь агент записан
+- Aleksey Ismagilov — Sokol Saratov · теперь агент записан
+- Vladislav Shpitalnyi — Sokol Saratov · теперь агент записан
+- Artem Beskibalnyi — Rodina 2 Moscow · теперь агент записан
+- Bilal Bilalov — Dinamo Kirov · теперь агент записан
+- Egor Gurenko — Dinamo Vladivostok · теперь агент записан
+- Vyacheslav Bezzubov — Torpedo Miass · теперь агент записан
+- Fran Svraka — NK BSK Bijelo Brdo · теперь агент записан
+- Leonardo Raggio — FCD Conegliano · теперь агент записан
+- Tommaso Cazzin — FCD Conegliano · теперь агент записан
+- Federico Demo — AC Campodarsego · теперь агент записан
+- Samuele Longo — AC Campodarsego · теперь агент записан
+- Antonio Kasala — AC Este 1920 · теперь агент записан
+- Loris Caradonna — FC Rodange 91 · теперь агент записан
+- Alessio Arcopinto — Calcio Sandonà · теперь агент записан
+- Matthias Malcom Marie-Francoise — Union Titus Petange · теперь агент записан
+- Rocco De Grandis — Calcio Schio · теперь агент записан
+- Daniel Matteucci — Calcio Schio · теперь агент записан
+- Daniel Glamocanin — Calcio Schio · теперь агент записан
+- Alessandro Bertuolo — Virtus Bolzano · теперь агент записан
+- Romain Fajout — FC Koeppchen · теперь агент записан
+- Javier Espinoza — Deportes Recoleta · теперь агент записан
+- Tedi Cara — LNZ Cherkasy · теперь агент записан
+- Marlon Radel — FSV 08 Bietigheim-Bissingen · теперь агент записан
+- Calvin Rosental — TSG Hofherrnweiler-Unterrombach · теперь агент записан
+- Philipp Tabatabai — TSG Hofherrnweiler-Unterrombach · теперь агент записан
+- Mehedi Hasan Srabon — Bashundhara Kings · теперь агент записан
+- Matthew Chinedu — Abahani Limited Dhaka · теперь агент записан
+- Nico Kieninger — TSG Balingen II · теперь агент записан
+- Kofi Junior Dabanka — Chattogram City · теперь агент записан
+- Aashish Sonam — Chattogram City · теперь агент записан
+- Dzenis Burnic — Volos FC · теперь агент записан
+- Pani — CF Talavera de la Reina · теперь агент записан
+- Maxi López — CD Guadalajara · теперь агент записан
+- David Semenchuk — FC Rostov · теперь агент записан
+- Nikolay Rasskazov — Krylya Sovetov Samara · теперь агент записан
+- Trygve Schreiner — Lillehammer FK · теперь агент записан
+- Lenni Teppo — Oulun Luistinseura U18 · теперь агент записан
+- Roni Koskinen — Ilves Tampere U18 · теперь агент записан
+- Rafa Oya — Betis Deportivo Balompié · теперь агент записан
+- Andy Gonzalez — US Mondorf-Les-Bains · теперь агент записан
+- Filip Rajcan — FC Banik Ostrava B · теперь агент записан
+- Radek Novak — FK Arsenal Ceska Lipa · теперь агент записан
+- Mirko Milikic — FK Zeleznicar Pancevo · теперь агент записан
+- Simão Pedro — FK Zeleznicar Pancevo · теперь агент записан
+- Djordje Radivojevic — FK IMT Belgrad · теперь агент записан
+- Konstantinos Papageorgiou — Olympiacos Piraeus U19 · теперь агент записан
+- Dimitrios Panagopoulos — Olympiacos Piraeus U19 · теперь агент записан
+- Filip Zunic — FK Radnik Surdulica · теперь агент записан
+- Aleksandar Vidovic — FK Radnicki Nis · теперь агент записан
+- Asterios Kaberis — Aris Thessaloniki U19 · теперь агент записан
+- Filippos Papanikolaou — Panathinaikos U19 · теперь агент записан
+- Dimitrios Klados — OFI Crete U19 · теперь агент записан
+- Dimitrios Rigas — Volos FC U19 · теперь агент записан
+- Hubert Warpechowski — RSD Jette · теперь агент записан
+- Dimitrios-Rafail Koumaropoulos — Iraklis Thessaloniki U19 · теперь агент записан
+- Isaak Kadem — RE Acren-Lessines · теперь агент записан
+- Gustav Andrén — Hammarby TFF · теперь агент записан
+- Oskar Moczarny — Hammarby TFF · теперь агент записан
+- Matheo Canoilas — FC Stockholm Internazionale · теперь агент записан
+- Vincent Lif — AFC Eskilstuna · теперь агент записан
+- Ansis Vitins — SK Super Nova II · теперь агент записан
+- Jekabs Vitins — SK Super Nova II · теперь агент записан
+- Leo Tivenius — IFK Stocksund · теперь агент записан
+- Isac Wikström — Piteå IF · теперь агент записан
+- Jovany Campusano — CD Ñublense · теперь агент записан
+- Harold Antiñirre — Huachipato FC · теперь агент записан
+- Sergio Núñez — Huachipato FC · теперь агент записан
+- Daniel Reilich — FK Dukla Prague U19 · теперь агент записан
+- Dzhaner Sadetinov — Hebar · теперь агент записан
+- Nikola Videnov — Etar Veliko Tarnovo · теперь агент записан
+- Kuvonchbek Khushvaktov — Nasaf Qarshi · теперь агент записан
+- Diyorbek Abdunazarov — Nasaf Qarshi · теперь агент записан
+- Dilshod Murtozoev — Nasaf Qarshi · теперь агент записан
+- Bekhruzbek Oblakulov — Dinamo Samarqand · теперь агент записан
+- Raul Djeparov — Dinamo Samarqand · теперь агент записан
+- Patrick Metcalfe — Hamarkameratene · теперь агент записан
+- Nosirzhon Abdusalomov — Bunyodkor Tashkent · теперь агент записан
+- Davron Merganov — Surkhon Termiz · теперь агент записан
+- Bekhruz Uktamov — Surkhon Termiz · теперь агент записан
+- Marius Østbye — Strømsgodset IF II · теперь агент записан
+- Zhasulan Amir — Ordabasy Shymkent · теперь агент записан
+- Otto Rosengren — Malmö FF · теперь агент записан
+- Nikolaj Staykov — AIK · теперь агент записан
+- Julius Lindberg — BK Häcken · теперь агент записан
+- Askhat Baltabekov — Zhetysu Taldykorgan · теперь агент записан
+- Adilkhan Dobay — Zhetysu Taldykorgan · теперь агент записан
+- Aslan Akhmedov — FC Ulytau Zhezkazgan · теперь агент записан
+- Till Wiese — Holstein Kiel II · теперь агент записан
+- Maksim Sevostjanov — Akademia Dinamo Moskau U16 · теперь агент записан
+- Maksim Zaponov — Akademia Dinamo Moskau U16 · теперь агент записан
+- Kirill Trofimov — Akademia Lokomotiv Moskau U16 · теперь агент записан
+- Maksim Nakleskin — Akademia Spartak Moskau U16 · теперь агент записан
+- Vladislav Do — Akademia ZSKA Moskau U16 · теперь агент записан
+- Mark Shpyra — FC Hegelmann B · теперь агент записан
+- Matvey Babakov — Master-Saturn Egorjevsk U16 · теперь агент записан
+- Kaïs Touré — Paris FC U17 · теперь агент записан
+- Bogdan Verzhbitskiy — Akademia Rubin Kazan U16 · теперь агент записан
+- Artem Maziy — Akademia FC Rostov U16 · теперь агент записан
+- Timur Gambarchaev — Akademia Rodina Moskau U16 · теперь агент записан
+- Richard Kasik — SK Artis Brno B · теперь агент записан
+- Utku Kurtal — Club NXT · теперь агент записан
+- Matej Kucak — MFK Karvina B · теперь агент записан
+- Kevin Angulo — Club NXT · теперь агент записан
+- Ousmane Camara — RFC Lüttich · теперь агент записан
+- Saturday Meelubari — Real Oviedo Vetusta · теперь агент записан
+- Mohammed Bengharda — VfV Borussia 06 Hildesheim · теперь агент записан
+- Dennis Galante — Marino Luanco · теперь агент записан
+- Salva Juárez — Elche Ilicitano · теперь агент записан
+- David Soto — CF La Nucía · теперь агент записан
+- Oussama Marmouk — SV Meppen II · теперь агент записан
+- Dennis Almiñana — CD Castellón B · теперь агент записан
+- Fuli — Gimnástica de Torrelavega · теперь агент записан
+- Salia Kader Traore — FC Andranik · теперь агент записан
+- Danilo Spoljaric — Apollon Limassol · теперь агент записан
+- Bryan Castillo — Carabobo FC · теперь агент записан
+- Valeriy Hambardzumyan — FC Pyunik Yerevan II · теперь агент записан
+- Konstantinos Venizelou — Krasava ENY · теперь агент записан
+- Robert Hernández — Caracas FC · теперь агент записан
+- Fergus Tierney — Omonia 29th May · теперь агент записан
+- Fernando Díaz — Dvo. Rayo Zuliano · теперь агент записан
+- Jhon Moreno — Estudiantes de Mérida · теперь агент записан
+- Andriy Storchous — FC Oleksandriya · теперь агент записан
+- Roman Kuzmyn — FC Oleksandriya · теперь агент записан
+- Yegor Sherstyuk — Metalist Kharkiv · теперь агент записан
+- Bryan Castillo — Carabobo FC · теперь агент записан
+- Abdoul Aziz Toure — Dinamo Minsk · теперь агент записан
+- Robert Hernández — Caracas FC · теперь агент записан
+- Evgeniy Yudchits — Isloch Minsk Region · теперь агент записан
+- Fernando Díaz — Dvo. Rayo Zuliano · теперь агент записан
+- Ramsey Miller — University College Cork · теперь агент записан
+- Jhon Moreno — Estudiantes de Mérida · теперь агент записан
+- Lendon Vercruysse — Amiens SC U19 · теперь агент записан
+- Mohamed Traoré — FC Rouen U19 · теперь агент записан
+- Raphaël Agoua — FC Rouen U19 · теперь агент записан
+- Giuliano Foro — FC Winterthur U21 · теперь агент записан
+- Hugo Carion — Valenciennes FC U19 · теперь агент записан
+- Thomas Blot — Hauts Lyonnais · теперь агент записан
+- Ognjen Vukelic — FK Borac Banja Luka U19 · теперь агент записан
+- Vedad Huzejrovic — NK Celik Zenica U19 · теперь агент записан
+- Ali Al-Asadi — FC Hertha 03 Zehlendorf · теперь агент записан
+- Theo Krantz — IFK Norrköping · теперь агент записан
+- Tobias Karlsson — Landskrona BoIS · теперь агент записан
+- Erik Ansok Frøysa — Raufoss IL · теперь агент записан
+- Leon Sethi — Strømmen IF · теперь агент записан
+- Alieu Atlee Manneh — GIF Sundsvall · теперь агент записан
+- Luis Arriaga — CD Marathón · теперь агент записан
+- Mike Arana — Real CD España · теперь агент записан
+- Ángel Palomo — Génesis / Policía Nacional FC · теперь агент записан
+- Yair Medrano — Juticalpa FC · теперь агент записан
+- Gasper Petek — ND Ilirija 1911 · теперь агент записан
+- Ladji Mori Kane — ND Ilirija 1911 · теперь агент записан
+- Niko Grlic — ND Ilirija 1911 · теперь агент записан
+- Denny Tiganj — NK Rudar Velenje · теперь агент записан
+- Tony Macan — NK Jesenice · теперь агент записан
+- Mamadou Seck — KSC Blankenberge · теперь агент записан
+- Stan Nuyts — Jong KV Mechelen · теперь агент записан
+- Jihan Cappellari — KVK Ieper · теперь агент записан
+- William Jensen — FC Trollhättan · теперь агент записан
+- Paolo Lilja — Kristianstad FC · теперь агент записан
+- Ali Riyadh Majeed Saedi — Åtvidabergs FF · теперь агент записан
+- Adam Paakkari — Åtvidabergs FF · теперь агент записан
+- Leo Rexha — FC Zürich U19 · теперь агент записан
+- Leonit Sulejmani — FC Zürich U19 · теперь агент записан
+- Leon Babic — FCO St. Gallen U19 · теперь агент записан
+- Joaquín Plaza — Concón National · теперь агент записан
+- Metin Ajredin — FC Aarau U19 · теперь агент записан
+- Maxim Adam Amrich — Slovan Galanta · теперь агент записан
+- Christopher Anez Arauz — Servette FC U19 · теперь агент записан
+- Lenart Istrefi — Grasshopper Club Zürich U19 · теперь агент записан
+- Nassim Amessis — Montpellier HSC U19 · теперь агент записан
+- Amir Kernif — Olympique Marseille U19 · теперь агент записан
+- Marc Yvan Kepdep Fanleu — Olympique Rovenain U19 · теперь агент записан
+- Christoph Bertl — FC Marchfeld Donauauen · теперь агент записан
+- Jesse Richards — Wiener Sport-Club · теперь агент записан
+- Dias Kushkumbaev — Batyr Ekibastuz · теперь агент записан
+- Bekzat Mansurov — FC Arys · теперь агент записан
+- Askhat Zhanbyrbay — FC Arys · теперь агент записан
+- Gaël Nsombi — US Lusitanos Saint-Maur · теперь агент записан
+- Yanis Afkir — FC Dieppe · теперь агент записан
+- Brayan Kenge — Racing Club de France · теперь агент записан
+- Lyes Aka — US Le Pays du Valois · теперь агент записан
+- Paul Jouini — FC Kufstein · теперь агент записан
+- Thiago Fernández — Club Libertad Asunción · теперь агент записан
+- Samuel Beltrán — Sportivo Luqueño · теперь агент записан
+- Alexander Franco — Recoleta FC · теперь агент записан
+- Timur Safin — Akademia Lokomotiv Moskau U17 · теперь агент записан
+- Artur Chilikyan — Akademia CSKA Moscow U17 · теперь агент записан
+- Gleb Bordachev — Akademia Spartak Moscow U17 · теперь агент записан
+- Fedor Vinokurenkov — Akademia Spartak Moscow U17 · теперь агент записан
+- Dmitriy Knyazkov — Akademia Spartak Moscow U17 · теперь агент записан
+- Arseniy Kalenov — MFA Moskau U17 · теперь агент записан
+- Thiago Fernández — Club Libertad Asunción · теперь агент записан
+- Samuel Beltrán — Sportivo Luqueño · теперь агент записан
+- Alexander Franco — Recoleta FC · теперь агент записан
+- Hussein Mehasseb — Connah's Quay Nomads · теперь агент записан
+- Ben Hughes — Flint Town United · теперь агент записан
+- Tom Wright — Ammanford AFC · теперь агент записан
+- M. Wiese — VfB 1921 Krieschow · теперь агент записан
+- Syed Zahid — Mohun Bagan Super Giant · теперь агент записан
+- Wins Aborga — Polissya Zhytomyr U21 · теперь агент записан
+- Aryaman Bengani — Punjab FC · теперь агент записан
+- Danish Aribam — Churchill Brothers FC · теперь агент записан
+- Dattaraj Gaonkar — Churchill Brothers FC · теперь агент записан
+- Mateja Listmajer — Slovan Bratislava U19 · теперь агент записан
+- Jakub Benkovsky — Spartak Trnava U19 · теперь агент записан
+- Jakov Terenkov — Spartak Trnava U19 · теперь агент записан
+- Dominik Drevenak — Spartak Trnava U19 · теперь агент записан
+- Tibor Marcis — MFK Dukla Banska Bystrica U19 · теперь агент записан
+- Filip Blasko — AS Trencin U19 · теперь агент записан
+- Alex Subert — AS Trencin U19 · теперь агент записан
+- Mate Feher — DAC Dunajska Streda U19 · теперь агент записан
+- Ryan Pokorny — MFK Skalica U19 · теперь агент записан
+- Sofiane El Mobariki — Nîmes Olympique U17 · теперь агент записан
+- Fabio Sposito — KFC Dessel Sport · теперь агент записан
+- Alex Matuta — Diegem Sport · теперь агент записан
+- Jacob-Leander Thuv — Rana FK · теперь агент записан
+- Ahmed Yaqub — SV Waldhof Mannheim U21 · теперь агент записан
+- Domenico De Micco — Arezzo Under 17 · теперь агент записан
+- Gustavo Mattos — Cagliari Under 17 · теперь агент записан
+- Yuri de Oliveira Baratto — Como Under 17 · теперь агент записан
+- Giuseppe Oliveri — Empoli Under 17 · теперь агент записан
+- Giulio Orlando — Fiorentina Under 17 · теперь агент записан
+- Marco Luretti — Vicenza Under 17 · теперь агент записан
+- Pietro Ambrosoli — Milan Under 17 · теперь агент записан
+- Andrea Vallini — Monza Under 17 · теперь агент записан
+- Radu Voicu — Monza Under 17 · теперь агент записан
+- Andrea Tacchi — SS Lazio U17 · теперь агент записан
+- Pietro Babacar Sarr — Monza Under 17 · теперь агент записан
+- Ivan Merdian — Südtirol Under 17 · теперь агент записан
+- Denny Schillaci — Südtirol Under 17 · теперь агент записан
+- Rocco Zanchi — Venezia Under 17 · теперь агент записан
+- Jamil El-Rrami — Lyngby Boldklub U19 · теперь агент записан
+- Luka Gutic — FK IMT Belgrad U19 · теперь агент записан
+- Djordje Radivojevic — FK IMT Belgrad U19 · теперь агент записан
+- Naum Perovic — FK IMT Belgrad U19 · теперь агент записан
+- Todor Zekic — OFK Beograd U19 · теперь агент записан
+- Nino Krizanic — NK Bravo U19 · теперь агент записан
+- Enej Mesic — NK Bravo U19 · теперь агент записан
+- Ambroz Remic — NK Brinje Grosuplje U19 · теперь агент записан
+- Yusuf Arabo — NK Brezice 1919 U19 · теперь агент записан
+- Dionildo Vilhete — GD Alcochetense · теперь агент записан
+- Renato Carvalho — Amora FC · теперь агент записан
+- Emirkhan Kurbanov — Ordabasy Shymkent U18 · теперь агент записан
+- Elias Mitterbauer — AKA Red Bull Salzburg U18 · теперь агент записан
+- Roland Gács — AKA St. Pölten U18 · теперь агент записан
+- Mazire Soula — Levski Sofia · теперь агент записан
+- Simeon Shishkov — Ludogorets Razgrad · теперь агент записан
+- Burak Akıncı — Arda Kardzhali · теперь агент записан
+- Ryan Leijten — Lokomotiv Plovdiv · теперь агент записан
+- Axel Velev — Lokomotiv Plovdiv · теперь агент записан
+- Levi Ntumba — Slavia Sofia · теперь агент записан
+- Tajay Grant — Racing United FC · теперь агент записан
+- Sebastian Wade — Septemvri Sofia · теперь агент записан
+- Nesta Ouimpieu — SA Mérignac U19 · теперь агент записан
+- Nicolae Rotaru — ETO FC · теперь агент записан
+- Ferenc Ujváry — Újpest FC · теперь агент записан
+- Balázs Sain — Debreceni VSC · теперь агент записан
+- Arter Undonque — CF Os Marialvas · теперь агент записан
+- Giovany Maieco — FC Alverca B · теперь агент записан
+- Ádám Szamosi — Kispest–Honvéd FC · теперь агент записан
+- Marcos Vinícius — FC Oliveira do Hospital · теперь агент записан
+- Noa Tshiakayembe — Stade Beaucairois 30 · теперь агент записан
+- Francisco Moura — CD Fátima · теперь агент записан
+- Téo Bregieiro — GD Nazarenos · теперь агент записан
+- Diogo Moura — AD Nogueirense · теперь агент записан
+- Isaac Schmidt — BSC Young Boys · теперь агент записан
+- Marquinhos Cipriano — FC Sion · теперь агент записан
+- Karlo Letica — FC Luzern · теперь агент записан
+- Téo Allix — Servette FC · теперь агент записан
+- Ali El-Reda Atwi — Al-Ahed · теперь агент записан
+- Aaron Issumo — AJ Auxerre U19 · теперь агент записан
+- Jeremiah Omonkhegbele — Parma Under 17 · теперь агент записан
+- Aleandro Bottone — Torino Under 17 · теперь агент записан
+- Kendy — Kitchee · теперь агент записан
+- Mihajlo Mikan — FK Drina Zvornik · теперь агент записан
+- Stick Mosquera — Cuenca Juniors · теперь агент записан
+- Jeison Mina — LDU de Portoviejo · теперь агент записан
+- Andrés Andrade — LASK · теперь агент записан
+- Ismaël Guerti — Grazer AK 1902 · теперь агент записан
+- Osman Ismaili — FC Aarau U17 · теперь агент записан
+- Trésor Kouablé — Racing Strasbourg B · теперь агент записан
+- David Tebili — FC Sochaux-Montbéliard B · теперь агент записан
+- Ernesto Marqeshi — KS Burreli · теперь агент записан
+- Alhassane Barry — US Torcy · теперь агент записан
+- John Emmanuel — Al-Mesaimeer SC · теперь агент записан
+- Alexander Zaverdinos — Sydney FC · теперь агент записан
+- Marek Okal — MSK Zilina · теперь агент записан
+- Marek Jurak — AS Trencin · теперь агент записан
+- Melos Bajrami — Spartak Trnava · теперь агент записан
+- Filip Trello — Spartak Trnava · теперь агент записан
+- Antton Nylund — HJK Helsinki · теперь агент записан
+- Edmund Arko-Mensah — IF Gnistan · теперь агент записан
+- Adrian Arrakoski — Vaasan Palloseura · теперь агент записан
+- Nils Veinbergs — Turun Palloseura · теперь агент записан
+- Brad Lyons — Aberdeen FC · теперь агент записан
+- MJ Kamson-Kamara — Kilmarnock FC · теперь агент записан
+- Taylor Steven — St. Johnstone FC · теперь агент записан
+- Deniss Melniks — Falkirk FC · теперь агент записан
+- Paul McGovern — Falkirk FC · теперь агент записан
+- Vasilije Djuranovic — Red Star Belgrade U17 · теперь агент записан
+- Gevorg Tarakhchyan — FC Pyunik Yerevan · теперь агент записан
+- Tigran Sumbulyan — FC Shirak Gyumri · теперь агент записан
+- Artur Askaryan — BKMA Yerevan · теперь агент записан
+- Robbie Lynch — Treaty United (- 2026) · теперь агент записан
+- Iago Viana — FC Van · теперь агент записан
+- Tyreik Sammy — Bray Wanderers · теперь агент записан
+- Lovro Loncaric — Slaven Belupo Koprivnica · теперь агент записан
+- Lenni Teppo — Oulun Luistinseura · теперь агент записан
+- John McGovern — Shamrock Rovers · теперь агент записан
+- Lee Devitt — Galway United FC · теперь агент записан
+- Kelyan Graziani — Stade Brest 29 B · теперь агент записан
+- Aurélien Digbeu — OC Cesson-Sévigné · теперь агент записан
+- Mikkel Duelund — Vejle Boldklub · теперь агент записан
+- Redouan Belkaious — RWDM Brussels · теперь агент записан
+- Amin Ramazanov — Sabah FK · теперь агент записан
+- Abdulakh Khaybulayev — Sabah FK · теперь агент записан
+- Rauf Rüstamli — Sabah FK · теперь агент записан
+- Breno Almeida — Neftchi PFK · теперь агент записан
+- Hüseynali Quliyev — Zira FC · теперь агент записан
+- Joe Sheridan — Cliftonville FC · теперь агент записан
+- Cillian Murray — Cliftonville FC · теперь агент записан
+- Mani Raeisi — Stallion Laguna FC · теперь агент записан
+- Jamie McGonigle — Limavady United FC · теперь агент записан
+- Kamel Hamidi — LOSC Lille B · теперь агент записан
+- Pablo Fonseca — AD San Carlos · теперь агент записан
+- Sékou Dramé — US Vimy · теперь агент записан
+- Ayoub Chaibi — KV Mechelen U18 · теперь агент записан
+- Ayaz Cetinkaya — Oud-Heverlee Leuven U18 · теперь агент записан
+- Mouad El Fanis — Hibernians FC · теперь агент записан
+- Noah Livolsi — RAAL La Louvière U21 · теперь агент записан
+- Aboubacar Barry — RFC Seraing U21 · теперь агент записан
+- Moisés Vergara — CD Universitario · теперь агент записан
+- Safwane Hadri — Beerschot VA U21 · теперь агент записан
+- Ridvan Ozdemir — RWDM Brussels U21 · теперь агент записан
+- Christian Rutjens — Lincoln Red Imps FC · теперь агент записан
+- Giuliano Foro — FC Winterthur · теперь агент записан
+- Anthony Susnja — FC Rapperswil-Jona · теперь агент записан
+- Marcel Solís — Independiente del Valle U19 · теперь агент записан
+- Ramsses Quiñónez — Independiente del Valle U19 · теперь агент записан
+- Gabriel Pinela — Independiente del Valle U19 · теперь агент записан
+- Osuman Kassim — Khosilot Farkhor · теперь агент записан
+- Manuel Joseph Mbollo — Regar-TadAZ Tursunzoda · теперь агент записан
+- Kamal Mohammed — Barqchi Hisor · теперь агент записан
+- Rezo Gazdeliani — Sioni Bolnisi · теперь агент записан
+- Sandi Nuhanovic — NK Bravo · теперь агент записан
+- William Baeten — FC Drita · теперь агент записан
+- Dienit Isufi — KF Dukagjini · теперь агент записан
+- Altin Kryeziu — KF Egnatia · теперь агент записан
+- Danila Patijcuks — FK Liepaja · теперь агент записан
+- Markús Páll Ellertsson — ÍA Akranes · теперь агент записан
+- Hashem Al-Mubaidin — Al-Hussein SC (Irbid) · теперь агент записан
+- Anes Meljichi — Shkendija Tetovo · теперь агент записан
+- Target Ayannubi — Pallo-Iirot · теперь агент записан
+- Giorgi Burduli — FC Meshakhte Tkibuli · теперь агент записан
+- Robin Lafarge — Inter Club d'Escaldes · теперь агент записан
+- Uri Gómez — FC Ordino · теперь агент записан
+- Damjan Dakic — FK Mornar Bar · теперь агент записан
+- Deividas Šešplaukis — FK Zalgiris Vilnius · теперь агент записан
+- Edgaras Bierontas — FA Siauliai · теперь агент записан
+- Elias Mattila — FC Haka · теперь агент записан
+- Pyry Piirainen — Jippo Joensuu · теперь агент записан
+- Lucas Helander — Ekenäs IF · теперь агент записан
+- Aaron Eadie — Hamilton Academical FC · теперь агент записан
+- Charley Oosenbrugh — Montrose FC · теперь агент записан
+- Jabessa Fitie — SpVgg Unterhaching U19 · теперь агент записан
+- Maximilian Kostka von Liebinsfeld — FC Ingolstadt 04 U19 · теперь агент записан
+- Diljan Geci — SSV Jahn Regensburg U19 · теперь агент записан
+- Olly Whyte — Ayr United FC · теперь агент записан
+- Aaron Thomson — The Spartans FC · теперь агент записан
+- Tommy North — Edinburgh City · теперь агент записан
+- Leart Bekolli — FC Twente Enschede U21 · теперь агент записан
+- Tevin Andrew — Fortuna Sittard U21 · теперь агент записан
+- Kelvin Arteaga — DS Edusoccer · теперь агент записан
+- Yaro Broers — Go Ahead Eagles Deventer U21 · теперь агент записан
+- Andi Zaplluzhani — ADO Den Haag U21 · теперь агент записан
+- Tom van den Bos — Excelsior Rotterdam U21 · теперь агент записан
+- Samuel Elenberger — Eintracht Frankfurt U17 · теперь агент записан
+- Seiga Sumi — Tampines Rovers · теперь агент записан
+- Julius Wichmann — 1.FC Union Berlin U19 · теперь агент записан
+- Niklas Heinicke — Chemnitzer FC U19 · теперь агент записан
+- Mert Badem — Hallescher FC U19 · теперь агент записан
+- Nick Zimmermann — 1.FC Kaiserslautern U17 · теперь агент записан
+- Lorik Mustafa — Karlsruher SC U17 · теперь агент записан
+- Noah Abatneh — Atlético Ottawa · теперь агент записан
+- Anel Halilovic — SC Freiburg U17 · теперь агент записан
+- Reinaldo Abraham — Atlético Ottawa · теперь агент записан
+- Alexander Bergman — Inter Toronto FC · теперь агент записан
+- Alessio Janssen — SV Waldhof Mannheim U17 · теперь агент записан
+- Luca Radosta — VfB Stuttgart U17 · теперь агент записан
+- Till Wiese — Holstein Kiel U19 · теперь агент записан
+- Moritz Rufener — 1.FC Magdeburg U19 · теперь агент записан
+- Mohamed Amissi — Vancouver FC · теперь агент записан
+- Jonas Bärwind — FC St. Pauli U19 · теперь агент записан
+- Maximilian Schmid — Hamburger SV U19 · теперь агент записан
+- Sergiu Ungureanu — FC Zimbru Chisinau · теперь агент записан
+- Caio Dantas — FC Zimbru Chisinau · теперь агент записан
+- Mansour Camara — ASC Sonacos · теперь агент записан
+- Loek Schakenraad — PSV Eindhoven U19 · теперь агент записан
+- Givenciyo Sabajo — PSV Eindhoven U19 · теперь агент записан
+- Metehan Eksiner — 1.FC Nürnberg U17 · теперь агент записан
+- Anil Baygündüz — NEC Nijmegen U19 · теперь агент записан
+- Mika Hartmann — FC Augsburg U17 · теперь агент записан
+- Ikhlas Mutebi — FC Augsburg U17 · теперь агент записан
+- Tobias Wöhnl — FC Augsburg U17 · теперь агент записан
+- Eljon Gashi — FC Ingolstadt 04 U17 · теперь агент записан
+- Meikel Boruch — FC Ingolstadt 04 U17 · теперь агент записан
+- Efkan Faruk Kesim — FC Ingolstadt 04 U17 · теперь агент записан
+- Kevin Inacio — FC Ingolstadt 04 U17 · теперь агент записан
+- Fabio Cziommer — De Graafschap Doetinchem U19 · теперь агент записан
+- Timo Meijles — De Graafschap Doetinchem U19 · теперь агент записан
+- Olumide Johnson — SpVgg Unterhaching U17 · теперь агент записан
+- Yuki Hirose — SSV Ulm 1846 U17 · теперь агент записан
+- Onural Orak — TSV 1860 München U17 · теперь агент записан
+- Jupp Mißbach — VfL Wolfsburg U19 · теперь агент записан
+- Kenley Doesburg — Almere City FC U19 · теперь агент записан
+- Diémo Albada — Almere City FC U19 · теперь агент записан
+- Enes-Bahattin Cinar — SC Paderborn 07 U17 · теперь агент записан
+- Roano Reinbergen — Almere City FC U19 · теперь агент записан
+- Leonard Sorg — 1.FC Union Berlin U17 · теперь агент записан
+- Mats Vogler — FC St. Pauli U17 · теперь агент записан
+- Nelio Kock — Hamburger SV U17 · теперь агент записан
+- Keanu Blasa — SV Darmstadt 98 U19 · теперь агент записан
+- Samet Acar — 1.FC Kaiserslautern U19 · теперь агент записан
+- Martin Petkov — Hertha BSC U17 · теперь агент записан
+- Abraham Efrem — FSV Frankfurt U19 · теперь агент записан
+- Abdul Job — SC Fortuna Köln U19 · теперь агент записан
+- Sohrab Samandari — SV Wehen Wiesbaden U19 · теперь агент записан
+- Mert Polat — Rot-Weiss Essen U19 · теперь агент записан
+- Ylli Suka — Fortuna Düsseldorf U17 · теперь агент записан
+- Yüksel Kücük — FC Schalke 04 U19 · теперь агент записан
+- Marko Soares — Rot-Weiß Oberhausen U17 · теперь агент записан
+- Majd Almeri — Fortuna Düsseldorf U19 · теперь агент записан
+- Nebe-Sirak Domnic — Bayer 04 Leverkusen U19 · теперь агент записан
+- Aleksa Damjanovic — Bayer 04 Leverkusen U19 · теперь агент записан
+- Joel Gezer — VfL Bochum U19 · теперь агент записан
+- Manilo Marotta — 1.FC Saarbrücken U19 · теперь агент записан
+- Davis Okojie — Borussia Dortmund U17 · теперь агент записан
+- Chinedu Jibunor — Borussia Dortmund U17 · теперь агент записан
+- Adriano Bejta — Borussia Dortmund U17 · теперь агент записан
+- Mats Alexander Prang — MSV Duisburg U17 · теперь агент записан
+- Linus Wienker — Preußen Münster U17 · теперь агент записан
+- Parvis Tembo — AAS Sarcelles U17 · теперь агент записан
+- Rayan Ghazouani — Wuppertaler SV U17 · теперь агент записан
+- Pharel Mehlinger — US Thionville Lusitanos U17 · теперь агент записан
+- Linus Müller — SpVgg Greuther Fürth U19 · теперь агент записан
+- William Sack — FC Erzgebirge Aue U19 · теперь агент записан
+- Jonas Berndt — Rot-Weiß Erfurt U19 · теперь агент записан
+- Tim Großmann — Dynamo Dresden U19 · теперь агент записан
+- Ognjen Susa — Dynamo Dresden U19 · теперь агент записан
+- Lenny Charlery — Montpellier HSC U17 · теперь агент записан
+- Nino Scherm — Chemnitzer FC U17 · теперь агент записан
+- Máximo Paredes — Racing Club II · теперь агент записан
+- Leonardo Sosa — CA Rosario Central II · теперь агент записан
+- Kevin Gutiérrez — CA Rosario Central II · теперь агент записан
+- Luca Cura — CA Sarmiento (JunÍn) II · теперь агент записан
+- Agustín Cortez — CA Vélez Sarsfield II · теперь агент записан
+- Tiziano Croci — CA Vélez Sarsfield II · теперь агент записан
+- Arkhip Efremov — FC Orenburg-2 · теперь агент записан
+- Kirill Cheburakov — FC Rostov 2 · теперь агент записан
+- Fedor Vinokurenkov — Spartak 2 Moscow · теперь агент записан
+- Danila Kalin — FC Shakhter · теперь агент записан
+- Georgiy Gablia — Akron-2 Togliatti · теперь агент записан
+- Daniil Tereshkin — Chaika-m Peschanokopskoe · теперь агент записан
+- Aleksandr Semka — Chaika-m Peschanokopskoe · теперь агент записан
+- Arseniy Vasilenko — Chaika-m Peschanokopskoe · теперь агент записан
+- Lucas Faggioli — Club Deportivo Maipú · теперь агент записан
+- Denis Pershin — FC Zarya · теперь агент записан
+- Timur Sharapov — FC Zarya · теперь агент записан
+- Raji Wakuma — Centro Social Pariacoto · теперь агент записан
+- Jose Léctor — Centro Social Pariacoto · теперь агент записан
+- Luis Cerrón — Centro Social Pariacoto · теперь агент записан
+- Patrik Alfonso — Centro Social Pariacoto · теперь агент записан
+- Cristian Trejo — Centro Social Pariacoto · теперь агент записан
+- Joaquín Vizcarra — Centro Social Pariacoto · теперь агент записан
+- Jorge Luque — CA Acassuso · теперь агент записан
+- Cristian Gonzales — Club Juan Aurich · теперь агент записан
+- Maksim Ulezko — SKA Khabarovsk 2 · теперь агент записан
+- Andrey Boyko — SKA Khabarovsk 2 · теперь агент записан
+- Artem Kotov — FC Ryazan · теперь агент записан
+- Nikita Kupriyanov — Saturn Ramenskoe · теперь агент записан
+- Artur Maksimchuk — Saturn Ramenskoe · теперь агент записан
+- Dmitriy Filippov — Krylya Sovetov 2 Samara · теперь агент записан
+- Facundo Fernández — Centro Juventud Antoniana · теперь агент записан
+- Jhon Palacios — Centro Juventud Antoniana · теперь агент записан
+- Máximo Paredes — Racing Club II · теперь агент записан
+- Patricio Ferreira — CSCD Gimnasia y Esgrima (Chivilcoy) · теперь агент записан
+- Leonardo Sosa — CA Rosario Central II · теперь агент записан
+- Kevin Gutiérrez — CA Rosario Central II · теперь агент записан
+- Luca Cura — CA Sarmiento (JunÍn) II · теперь агент записан
+- Lucio Urquía — Sportivo AC (Las Parejas) · теперь агент записан
+- Agustín Cortez — CA Vélez Sarsfield II · теперь агент записан
+- Tiziano Croci — CA Vélez Sarsfield II · теперь агент записан
 
-## Сменил клуб — 3124
+## Сменил клуб — 6525
 
-- Moatasem Al-Musrati: Без клуба → Al-Ahli SC
-- Danny Ings: Без клуба → Wycombe Wanderers
-- João Mendes: Без клуба → Kayserispor
-- David Alaba: Без клуба → Udinese Calcio
-- Yanik Spalt: VfB Stuttgart → VfB Stuttgart II
-- Ertugrul Yigit: VfB Stuttgart → VfB Stuttgart II
-- Jarzinho Malanga: VfB Stuttgart → VfB Stuttgart II
-- Lúkas Petersson: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
-- Natnael Abraha: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
-- Mark Diemers: Без клуба → De Graafschap Doetinchem
-- Frederico Namora: Без клуба → FC Felgueiras 1932
-- Robin Lisewski: 1.FC Nuremberg → 1.FC Nuremberg II
-- Eric Porstner: 1.FC Nuremberg → 1.FC Nuremberg II
-- Tobias Heß: 1.FC Nuremberg → 1.FC Nuremberg II
-- Marc Kornwachs Barjuan: 1.FC Nuremberg → 1.FC Nuremberg II
-- Marko Soldic: 1.FC Nuremberg → 1.FC Nuremberg II
-- Can Moustfa: 1.FC Nuremberg → 1.FC Nuremberg II
-- Piet Scobel: 1.FC Nuremberg → 1.FC Nuremberg II
-- Tom Wisbereit: FC Augsburg → FC Augsburg II
-- Romero Gerres: Rot-Weiss Essen → Rot-Weiss Essen II
-- Silvere Ganvoula: Без клуба → Wydad Casablanca
-- Mohamed Zrida: Без клуба → COD Meknès
-- Johannes Siebeking: FC Schalke 04 → FC Schalke 04 II
-- Mathieu Nguefack: Borussia Mönchengladbach → Borussia Mönchengladbach II
-- Fritz Fleck: Borussia Mönchengladbach → Borussia Mönchengladbach II
-- Iaia Manco Danfa: Borussia Mönchengladbach → Borussia Mönchengladbach II
-- Silas Ostrzinski: Borussia Dortmund → Borussia Dortmund II
-- Mussa Kaba: Borussia Dortmund → Borussia Dortmund II
-- Martin James: 1.FC Köln → 1.FC Köln II
-- Gil Neves: 1.FC Köln → 1.FC Köln II
-- Malek El Mala: 1.FC Köln → 1.FC Köln II
-- Hugo Rölleke: VfL Bochum → VfL Bochum II
-- Leon Sawas: VfL Bochum → VfL Bochum II
-- Luis Pick: VfL Bochum → VfL Bochum II
-- Florian Pruhs: SC Paderborn 07 → SC Paderborn 07 II
-- Tristan Zobel: SC Paderborn 07 → SC Paderborn 07 II
-- Lasse Eickel: SC Paderborn 07 → SC Paderborn 07 II
-- Lennart Stollenwerk: SC Fortuna Köln → SC Fortuna Köln U23
-- Jonas Schwanke: Hannover 96 → Hannover 96 II
-- Joschua Siewert: Hannover 96 → Hannover 96 II
-- Noah Engelbreth: Hannover 96 → Hannover 96 II
-- Alexander Vogel: Hannover 96 → Hannover 96 II
-- Yunus Ünal: Hannover 96 → Hannover 96 II
-- Taycan Kurt: Hannover 96 → Hannover 96 II
-- Tom Hobrecht: Hannover 96 → Hannover 96 II
-- Louis Lemke: Hamburger SV → Hamburger SV II
-- Stefan Smarkalev: SV Werder Bremen → SV Werder Bremen II
-- Darwin Soylu: SV Werder Bremen → SV Werder Bremen II
-- Marwin Schmitz: FC St. Pauli → FC St. Pauli II
-- Nick Schmidt: FC St. Pauli → FC St. Pauli II
-- Philip Hildesheim: Arminia Bielefeld → Arminia Bielefeld II
-- Eyyüb Yasar: Arminia Bielefeld → Arminia Bielefeld II
-- Benedikt Börner: SV Darmstadt 98 → SV Darmstadt 98 II
-- Max Pfister: SV Darmstadt 98 → SV Darmstadt 98 II
-- Eymen Laghrissi: Karlsruher SC → Karlsruher SC II
-- Mahmoud Dahoud: Без клуба → United FC (UAE)
-- Ben Kieffer: SSV Jahn Regensburg → SSV Jahn Regensburg II
-- Noel Lakatos: FC Ingolstadt 04 → FC Ingolstadt 04 II
-- Elias Etringer: SV 07 Elversberg → SV 07 Elversberg II
-- Norbert Gyömbér: Без клуба → Levadiakos
-- Kelvin Ofori: Без клуба → Atromitos Athens
-- Eddie Salcedo: Без клуба → Rubin Kazan
-- Igor Silva: Без клуба → Rodina Moscow
-- Daler Kuzyaev: Без клуба → Dinamo Makhachkala
-- Louis Van Aubel: KAS Eupen → KAS Eupen U23
-- Diego Baudon: KAS Eupen → KAS Eupen U23
-- Sacha Bescond: KAS Eupen → KAS Eupen U23
-- Victor Tihon: KAS Eupen → KAS Eupen U23
-- Théo Maréchal: KAS Eupen → KAS Eupen U23
-- Raphael Di Matteo: KAS Eupen → KAS Eupen U23
-- Jaden Malhage: KAS Eupen → KAS Eupen U23
-- Nick Bodon: Eintracht Braunschweig → Eintracht Braunschweig II
-- Damjan Kovacevic: Eintracht Braunschweig → Eintracht Braunschweig II
-- Sanoussy Ba: Eintracht Braunschweig → Eintracht Braunschweig II
-- Timo Schmitz: SV Meppen → SV Meppen II
-- Jonas Goldenstein: SV Meppen → SV Meppen II
-- Henrik Wittrock: SV Meppen → SV Meppen II
-- Mika Herrmann: SV Meppen → SV Meppen II
-- Emile Doucouré: KRC Genk → Jong Genk
-- Emmanuel Sarfo: KRC Genk → Jong Genk
-- August De Wannemacker: KRC Genk → Jong Genk
-- Kjell Peersman: KAA Gent → Jong KAA Gent
-- Bas Evers: KAA Gent → Jong KAA Gent
-- Mamadou Diallo: KAA Gent → Jong KAA Gent
-- Abdoul Ayinde: KAA Gent → Jong KAA Gent
-- Gilles De Meyer: KAA Gent → Jong KAA Gent
-- Axl De Corte: Club Brugge KV → Club NXT
-- Samba Coulibaly: Club Brugge KV → Club NXT
-- Gianluca Okon-Engstler: Club Brugge KV → Club NXT
-- Erik Maurer: FC Hansa Rostock → FC Hansa Rostock II
-- Robin Falk: FC Hansa Rostock → FC Hansa Rostock II
-- Fiete Bock: FC Hansa Rostock → FC Hansa Rostock II
-- Tomás Mendes: Без клуба → Deportivo Alavés B
-- Melvin Ramundo: Lommel SK → Lommel SK U23
-- Emile Vandecraen: Lommel SK → Lommel SK U23
-- Josias Lama: Lommel SK → Lommel SK U23
-- Kian Ramadani: SV Waldhof Mannheim → SV Waldhof Mannheim U21
-- Quentin Enold: SG Dynamo Dresden → Dynamo Dresden II
-- Gassimou Sylla: RSCA Futures → RSC Anderlecht U18
-- Bas Evers: KAA Gent → KAA Gent U18
-- Noa Vandenabeele: Jong KAA Gent → KAA Gent U18
-- Mikelis Menniks: Jong KAA Gent → KAA Gent U18
-- Ange-Gabriel Kokora: Standard de Liège 16 FC → Standard Liège U18
-- Sam Fraipont: Standard de Liège 16 FC → Standard Liège U18
-- Yanis Malamba: Standard de Liège 16 FC → Standard Liège U18
-- Yhanis Onehese: Standard de Liège 16 FC → Standard Liège U18
-- Luca Rousseaux: Zébra Élites → R Charleroi SC U18
-- Sacha Miantezila: Zébra Élites → R Charleroi SC U18
-- Oscar Latteur: Zébra Élites → R Charleroi SC U18
-- Leandro Diaz Rodriguez: Zébra Élites → R Charleroi SC U18
-- Stefan Ostoici: Club NXT → Club Brugge U18
-- Mateo Haesaert: Club NXT → Club Brugge U18
-- Emmanuel Fejokwu: Club NXT → Club Brugge U18
-- Anton Bojenko: KFC Houtvenne → KVC Westerlo U18
-- Olsen Djédjé: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven U18
-- Ryane Redouane: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven U18
-- Mohamed Amine Moustache: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven U18
-- Lukas Cakoni: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven U18
-- Vic Debusschere: Jong Genk → KRC Genk U18
-- Daan Van Laere: Jong Genk → KRC Genk U18
-- Lander Borgers: Jong Genk → KRC Genk U18
-- Prince N'Salambi: Jong Genk → KRC Genk U18
-- Shakhmurat Dauletov: Jong Genk → KRC Genk U18
-- Anthony Philips: KV Kortrijk → KV Kortrijk U21
-- Philippe Bibout: KVC Westerlo → KVC Westerlo U21
-- Jarne Lafosse: KFC Houtvenne → KVC Westerlo U21
-- Dino Delic: KVC Westerlo → KVC Westerlo U21
-- Robbe Van Diest: KFC Houtvenne → KVC Westerlo U21
-- Lucas Monteiro: RAAL La Louvière → RAAL La Louvière U21
-- Noah Makembo-Ntemo: RAAL La Louvière → RAAL La Louvière U21
-- Timéo Kerckhofs: RAAL La Louvière → RAAL La Louvière U21
-- Giorgi Kavlashvili: Union Saint-Gilloise → Union Saint-Gilloise U23
-- Noah Sy: Standard Liège → Standard de Liège 16 FC
-- Naël Piron: Royal Charleroi SC → Zébra Élites
-- Rafaël Teugels: Royal Charleroi SC → Zébra Élites
-- Stefan Cvetkovic: Без клуба → HSK Zrinjski Mostar
-- Luca Berreth: VfB Stuttgart II → VfB Stuttgart U19
-- Collin Schramm: VfB Stuttgart II → VfB Stuttgart U19
-- Neno Zezelj: VfB Stuttgart II → VfB Stuttgart U19
-- Enis Redzepi: VfB Stuttgart II → VfB Stuttgart U19
-- Kian Speidel: VfB Stuttgart II → VfB Stuttgart U19
-- Nico Biedermann: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
-- Maximilian Theuer: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
-- Finn Sherlock: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
-- Krystof Cizek: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
-- Zain Biazid: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
-- Tjark Möbius: 1.FC Magdeburg → 1.FC Magdeburg U19
-- Felikss Sprogis: FC Hansa Rostock → FC Hansa Rostock U19
-- Elias Lahti: Hamburger SV → Hamburger SV U19
-- Ben Jungfleisch: 1.FC Kaiserslautern → 1.FC Kaiserslautern U19
-- Enzo dos Santos: Borussia Dortmund → Borussia Dortmund U19
-- Mathis Albert: Borussia Dortmund → Borussia Dortmund U19
-- James Gnagnon: Rot-Weiss Essen → Rot-Weiss Essen U19
-- Till Wegener: Arminia Bielefeld → Arminia Bielefeld U19
-- Daniel Richter: Arminia Bielefeld → Arminia Bielefeld U19
-- Bruno Katz: VfL Wolfsburg → VfL Wolfsburg U19
-- Benno Kaltefleiter: RB Leipzig → RB Leipzig U19
-- Christian Eriksen: VfL Wolfsburg → Без клуба
 - Matías Satas: CA Boca Juniors II → CA Boca Juniors
 - Mateo Martínez: Racing Club II → Racing Club
 - Tyler Hall: Inter Miami CF II → Inter Miami CF
@@ -4003,35 +5067,3568 @@ _собрано 2026-10-12 10:40 UTC_
 - Allan Campbell: St. Mirren FC → Без клуба
 - Jeison Lucumí: LD Alajuelense → Без клуба
 - Brayton Vázquez: Tlaxcala FC → Без клуба
+- Imo Obot: Abia Warriors FC → Rivers United FC
+- Joshua John: Nasarawa United → Shooting Stars Sports Club
+- Ismaila Nasir: Katsina United FC → Kano Pillars
+- Matías Satas: CA Boca Juniors II → CA Boca Juniors
+- Alimi Sikiru: JS Saoura → Kano Pillars
+- Mateo Martínez: Racing Club II → Racing Club
+- Matías Reali: CA San Lorenzo de Almagro → CS Independiente Rivadavia
+- Álvaro Busso: CA Vélez Sarsfield II → CA Vélez Sarsfield
+- Leo Cristaldo: CA Vélez Sarsfield II → CA Vélez Sarsfield
+- Ignacio Peluffo: CA Tigre II → Club Atlético Tigre
+- Maliq Musa: Jong Essevee → Ikorodu City FC
+- Thiago Baroni: CA Talleres II → CA Talleres
+- Gonzalo Nuccio: CA Talleres II → CA Talleres
+- Bruno Trey: CA Talleres II → CA Talleres
+- Lautaro Ortiz: CA Talleres II → CA Talleres
+- Ignacio Alastra: CA Talleres II → CA Talleres
+- Thiago Laplace: CA Lanús II → CA Lanús
+- Santino Gianini: AA Argentinos Juniors II → AA Argentinos Juniors
+- Santiago Silveira: AA Argentinos Juniors II → AA Argentinos Juniors
+- Facundo Carrizo: AA Argentinos Juniors II → AA Argentinos Juniors
+- Gastón Bouhier: AA Argentinos Juniors II → AA Argentinos Juniors
+- Alan Alcaraz: AA Argentinos Juniors II → AA Argentinos Juniors
+- Joel Medina: CA Independiente II → CA Independiente
+- Martín Úbeda: Gimnasia y Esgrima de Mendoza II → Gimnasia y Esgrima de Mendoza
+- Joaquín Medina: Instituto ACC II → Instituto ACC
+- Lorenzo Albarracín: Instituto ACC II → Instituto ACC
+- Tiziano Ramirez: CA Central Córdoba (SdE) II → CA Central Córdoba (SdE)
+- Kevin Gbamblé: Columbus Crew 2 → Columbus Crew
+- Aatu Tarvainen: Mikkelin Palloilijat U18 → Mikkelin Palloilijat II
+- Antone Bossenberry: Toronto FC II → Toronto FC
+- Tuomo Kinnunen: FC Vaajakoski → FC Vaajakoski II
+- Okko Vaara: FC Vaajakoski → FC Vaajakoski II
+- Masi Lohi: FC Vaajakoski → FC Vaajakoski II
+- Basir Muradi: FC Vaajakoski → FC Vaajakoski II
+- Mohammed Kareem: FC Vaajakoski → FC Vaajakoski II
+- Tomi Koskiahde: FC Vaajakoski → FC Vaajakoski II
+- Leevi Pätynen: FC Vaajakoski → FC Vaajakoski II
+- Joel Huovinen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Otto Hänninen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Vilho Virén: JJK Jyväskylä → JJK Jyväskylä II
+- Ville Nalli: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Samuel Kähäri: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Mico Nykänen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Luka Kautto: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Aksel Pitkänen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Valtteri Nenonen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Eetu Kasakkamäki: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Matias Nygrén: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Laszlo Matias Korsos: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Misael Lahtinen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Leevi Katainen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Neo Nygren: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Niki Patjas: JJK Jyväskylä → JJK Jyväskylä II
+- Eevert Sainila: JJK Jyväskylä → JJK Jyväskylä II
+- Veeti Liukkonen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Toivo Jalava: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Joona Lilja: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Alvar Tuppurainen: JJK Jyväskylä → JJK Jyväskylä II
+- Jonatan Laakso: JJK Jyväskylä → JJK Jyväskylä II
+- Heikki Pitkänen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Max Nykänen: JJK Jyväskylä U18 → JJK Jyväskylä II
+- Mico Kinnunen: Kuopion Palloseura U18 → Kuopion Palloseura III
+- Henry Nguyen: Kuopion Palloseura II → Kuopion Palloseura III
+- Jordan Farr: Loudoun United FC → D.C. United
+- Cammy Cooper: Annan Athletic FC → Caledonian Braves FC
+- Chris Callander: Kilwinning Rangers FC → Largs Thistle FC
+- Calum Brodie: Huntly FC → Lochee United FC
+- Jere Hinkkanen: PEPO Lappeenranta → LAUTP Lauritsala
+- Frankie Aitchison: Linlithgow Rose FC → Dunipace FC
+- Ryan Porteous: Bonnyrigg Rose FC → Musselburgh Athletic FC
+- Adam Carnwath: Peterhead FC → Cowdenbeath FC
+- Evan Galasso: Auchinleck Talbot FC → Beith Juniors FC
+- Kenzie Mitchell: Ayr United FC → Auchinleck Talbot FC
+- Matías Satas: CA Boca Juniors II → CA Boca Juniors
+- Mateo Martínez: Racing Club II → Racing Club
+- Matías Reali: CA San Lorenzo de Almagro → CS Independiente Rivadavia
+- Álvaro Busso: CA Vélez Sarsfield II → CA Vélez Sarsfield
+- Leo Cristaldo: CA Vélez Sarsfield II → CA Vélez Sarsfield
+- Ignacio Peluffo: CA Tigre II → Club Atlético Tigre
+- Thiago Baroni: CA Talleres II → CA Talleres
+- Gonzalo Nuccio: CA Talleres II → CA Talleres
+- Bruno Trey: CA Talleres II → CA Talleres
+- Lautaro Ortiz: CA Talleres II → CA Talleres
+- Ignacio Alastra: CA Talleres II → CA Talleres
+- Anthony Motosuna: Kashima Antlers U18 → Kashima Antlers
+- Thiago Laplace: CA Lanús II → CA Lanús
+- Minato Yoshida: Kashima Antlers U18 → Kashima Antlers
+- Asuto Fujita: Kawasaki Frontale U18 → Kawasaki Frontale
+- Santino Gianini: AA Argentinos Juniors II → AA Argentinos Juniors
+- Tianhai Quan: Kawasaki Frontale U18 → Kawasaki Frontale
+- Hiroto Ogawa: Kawasaki Frontale U18 → Kawasaki Frontale
+- Santiago Silveira: AA Argentinos Juniors II → AA Argentinos Juniors
+- Facundo Carrizo: AA Argentinos Juniors II → AA Argentinos Juniors
+- Gastón Bouhier: AA Argentinos Juniors II → AA Argentinos Juniors
+- Alan Alcaraz: AA Argentinos Juniors II → AA Argentinos Juniors
+- Leedo Morii: Sanfrecce Hiroshima U18 → Sanfrecce Hiroshima
+- Rento Noguchi: Sanfrecce Hiroshima U18 → Sanfrecce Hiroshima
+- Hiroto Ota: Sanfrecce Hiroshima U18 → Sanfrecce Hiroshima
+- Minato Hara: Sanfrecce Hiroshima U18 → Sanfrecce Hiroshima
+- Narumi Takahashi: Sanfrecce Hiroshima U18 → Sanfrecce Hiroshima
+- Raku Sato: Kashiwa Reysol U18 → Kashiwa Reysol
+- Ryo Igarashi: Kashiwa Reysol U18 → Kashiwa Reysol
+- Kaiji Chonan: Kashiwa Reysol U18 → Kashiwa Reysol
+- Yuito Kamo: Kashiwa Reysol U18 → Kashiwa Reysol
+- Joel Medina: CA Independiente II → CA Independiente
+- Matthew Watanabe: FC Tokyo U18 → FC Tokyo
+- Chui Hiromu Mayaka: Shibuya City → Machida Zelvia
+- Yuma Nobata: Gamba Osaka U18 → Gamba Osaka
+- Yuya Yokoi: Gamba Osaka U18 → Gamba Osaka
+- Kaita Maruoka: Gamba Osaka U18 → Gamba Osaka
+- Kosuke Murata: Gamba Osaka U18 → Gamba Osaka
+- Yoshiki Fujimoto: Gamba Osaka U18 → Gamba Osaka
+- Arata Okamoto: Gamba Osaka U18 → Gamba Osaka
+- Martín Úbeda: Gimnasia y Esgrima de Mendoza II → Gimnasia y Esgrima de Mendoza
+- Joaquín Medina: Instituto ACC II → Instituto ACC
+- Lorenzo Albarracín: Instituto ACC II → Instituto ACC
+- Tiziano Ramirez: CA Central Córdoba (SdE) II → CA Central Córdoba (SdE)
+- Stepan Dyntar: AC Sparta Prague U19 → AC Sparta Prague B
+- Chinguun Bolorbold: AC Sparta Prague U19 → AC Sparta Prague B
+- Ondrej Penxa: AC Sparta Praha → AC Sparta Prague B
+- Haruki Watanabe: Tokyo Verdy U18 → Tokyo Verdy
+- Cheick Sezar Camara: Tokyo Verdy U18 → Tokyo Verdy
+- Ondrej Cervenka: SK Slavia Prague U19 → SK Slavia Prague U20
+- Ibrahim El Nagaawy: SK Slavia Prague B → SK Slavia Prague U20
+- Chisom Taichi Odeike: Nagoya Grampus U18 → Nagoya Grampus
+- Yuzo Takeuchi: Nagoya Grampus U18 → Nagoya Grampus
+- Sakuto Fukaya: Nagoya Grampus U18 → Nagoya Grampus
+- Rekuto Shiraogawa: Nagoya Grampus U18 → Nagoya Grampus
+- Adam Prochazka: SK Slavia Prague U19 → SK Slavia Prague U20
+- Tadeas Marousek: SK Dynamo Ceske Budejovice U19 → SK Dynamo Ceske Budejovice
+- Petr Filip: SK Dynamo Ceske Budejovice U19 → SK Dynamo Ceske Budejovice
+- Ivan Grygoruk: SK Dynamo Ceske Budejovice U19 → SK Dynamo Ceske Budejovice
+- Takezo Fujikawa: Avispa Fukuoka U18 → Avispa Fukuoka
+- Arouna Ouattara: FK Pardubice → FK Pardubice B
+- Jiri Zima: FK Pardubice → FK Pardubice B
+- Martin Reil: FK Pardubice → FK Pardubice B
+- Ludek Nemecek: FK Teplice → FK Teplice B
+- Shohei Takemoto: Avispa Fukuoka U18 → Avispa Fukuoka
+- Hikaru Maeda: Avispa Fukuoka U18 → Avispa Fukuoka
+- Artem Garzha: FK Teplice → FK Teplice B
+- Matyas Vagner: FC Hradec Kralove → FC Hradec Kralove B
+- Stepan Ponikelsky: FC Hradec Kralove → FC Hradec Kralove B
+- David Nykrin: FK Jablonec → FK Jablonec B
+- Matej Hacaperka: FC Viktoria Plzen U19 → FC Viktoria Plzen B
+- Nicolas Chumlen: FC Viktoria Plzen U19 → FC Viktoria Plzen B
+- Jakub Siman: Bohemians Prague 1905 → Bohemians Prague 1905 B
+- Jakub Tichy: Bohemians Prague 1905 → Bohemians Prague 1905 B
+- Oliver Mikuda: Bohemians Prague 1905 → Bohemians Prague 1905 B
+- Matej Suryn: Bohemians Prague 1905 → Bohemians Prague 1905 B
+- Ashkan Tavana: Shahrdari Mahshahr → Damash Gilan FC
+- Mehran Niknejad: Shahin Tehran → Damash Gilan FC
+- Shahin Maleki: Shahin Tehran → Damash Gilan FC
+- Erfan Tomaj: Rakhsh Khodro → Damash Gilan FC
+- Mostafa Alikhani: Foolad Hormozgan → Damash Gilan FC
+- Mohammadali Gharajeh: Esteghlal B FC → Damash Gilan FC
+- Mohammad Miri: Sepidrood Rasht FC → Damash Gilan FC
+- Shayan Gholami: Esteghlal B FC → Damash Gilan FC
+- Esmaeil Sharifat: Shahrdari Mahshahr → Damash Gilan FC
+- Saeed Talebi: Sepidrood Rasht FC → Damash Gilan FC
+- Mehdi Baensaf: Esteghlal B FC → Damash Gilan FC
+- Davoud Shahroei: Dena Yasuj → Esteghlal B FC
+- Erfan Seyedi: Shahrdari Mahshahr → Esteghlal B FC
+- Ali Zare: Aseman Golestan FC → Esteghlal B FC
+- Reza Shokri: Padyab Khalkhal → Esteghlal B FC
+- Amin Kor: Aseman Golestan FC → Esteghlal B FC
+- Erfan Bahri: Saipa FC → Bargh Shiraz FC
+- Yasin Mahmoudi: Navad Urmia FC → Bargh Shiraz FC
+- Ali Moghnemian: Dena Yasuj → Bargh Shiraz FC
+- Pouya Jamadi: Foolad Hormozgan → Bargh Shiraz FC
+- Amirhossein Hosseinzadeh: Sepidrood Rasht FC → Bargh Shiraz FC
+- Amirmohammad Lotfpour: Padyab Khalkhal → Bargh Shiraz FC
+- Eslam Dabiri: Foolad Hormozgan → Bargh Shiraz FC
+- Javad Ramezani: Foolad Hormozgan → Bargh Shiraz FC
+- Hamzeh Behzad: Sepahan B FC → Bargh Shiraz FC
+- Reza Mousavi: Fard Alborz → Bargh Shiraz FC
+- Milad Jafari: Padyab Khalkhal → Rezvani Esfahan
+- Hossein Doustdar: Sepahan B FC → Rezvani Esfahan
+- Mohammadamin Kaviani: Sepahan B FC → Rezvani Esfahan
+- Ali Eshaghian: Bargh Shiraz FC → Rezvani Esfahan
+- Ali Rajaei: Dena Yasuj → Rezvani Esfahan
+- Marek Obdrzalek: FK Mlada Boleslav → FK Mlada Boleslav B
+- Filip Kolar: FK Mlada Boleslav → FK Mlada Boleslav B
+- Jan Knobloch: FK Mlada Boleslav U19 → FK Mlada Boleslav B
+- Moataz Al-Jurnazi: Al-Madina SC → Al-Ahly SC
+- Jan Jinoch: FK Mlada Boleslav → FK Mlada Boleslav B
+- Erfan Besharati: Bargh Shiraz FC → Malavan Bushehr
+- Alireza Hakiminejad: Bargh Shiraz FC → Malavan Bushehr
+- Hadi Alavi: Iranjavan FC → Malavan Bushehr
+- Amirhossein Salarinik: Dena Yasuj → Malavan Bushehr
+- Reza Bakhtiarizadeh: Naft va Gaz Gachsaran → Malavan Bushehr
+- Felipe Castillo: Técnico Universitario → Técnico Universitario U19
+- Reza Asadpour: Dena Yasuj → Naft Ahvaz
+- Cristhian Ortiz: Orense SC → Orense SC U19
+- Mohammad Ghasemi: Shayan Diesel FC → Naft Ahvaz
+- Pouria Shayesteh: Esteghlal B FC → Shahid Ghandi Yazd
+- Reza Valizadeh: Foolad Hormozgan → Shahid Ghandi Yazd
+- Marco Acosta: CD El Nacional → CD El Nacional U19
+- Milad Tavalaei: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Hamid Ebrahimi: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Mostafa Mallahi: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Mohammadfazel Bahreini: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Hamidreza Mahmoudabadi: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Maziar Shafaei: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Alireza Ahmadzadeh: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Alireza Akbari: Ario Eslamshahr → Shahrvand Bandar Abbas
+- Mohammadamin Sadeghi Kian: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Erfan Taraz: Qeshm Island CSC → Shahrvand Bandar Abbas
+- Mohammadamin Darvishi: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Hossein Banzarkian: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Mohsen Mahboubi: Shahrdari Bandar Abbas → Shahrvand Bandar Abbas
+- Shayan Abiar: Shahid Ghandi Yazd → Pishtazan Sanat Babol
+- Mohammadamin Hosseinzadeh: Chooka Talesh FC → Pishtazan Sanat Babol
+- Ali Khanlarzadeh: Rezvani Esfahan → Pishtazan Sanat Babol
+- Mohammad Ebrahimnejad: Chooka Talesh FC → Pishtazan Sanat Babol
+- Farhan Kia Rezazadeh: Shahrdari Nowshahr → Pishtazan Sanat Babol
+- Mehdi Habibi: Shahrdari Mahshahr → Naft va Gaz Ilam
+- Ali Joudaki: Fajr Qazvin → Aseman Golestan FC
+- Ali Davaran: Damash Gilan FC → Aseman Golestan FC
+- Seyed Hassan Hosseini: Aseman Golestan FC → Parvaz Simorgh
+- Miguel Peralta: Independiente del Valle → Independiente del Valle U19
+- Mohamed Al-Shebli: Assabah SC → Olympic Azzawiya SC
+- Mamoudou Junior Diakité: Al-Sadaqa Shahat SC → Olympic Azzawiya SC
+- Abdulmuyassir Boushibah: Al-Ittihad SC → Olympic Azzawiya SC
+- Konate Mouhamadou: Al-Wefaq Ajdabiya SC → Olympic Azzawiya SC
+- Kaporal: El Ettihad Al-Misraty SC → Olympic Azzawiya SC
+- Amirhossein Mahjouri: Esteghlal B FC → Fajr Qazvin
+- Alireza Jafarian: Chooka Talesh FC → Fajr Qazvin
+- Hossein Ghazanfari: Chooka Talesh FC → Fajr Qazvin
+- Messie Biatoumoussoka: Hamrun Spartans → El Ettihad Al-Misraty SC
+- Luis Godoy: Vinotinto FC → Vinotinto FC U19
+- Wael Bousloma: Al-Wefaq Ajdabiya SC → Al-Sadaqa Shahat SC
+- Mohammed Eshkerba: Darnes SC → Al-Sadaqa Shahat SC
+- Mohammadreza Damadi: Beasat Kermanshah → Sepidrood Rasht FC
+- Ali Taghizadeh: Shahid Ghandi Yazd → Sepidrood Rasht FC
+- Pierre Lopy: Casa Sports → Al-Sadaqa Shahat SC
+- Masih Moradi: Zob Ahan B Isfahan → Zob Ahan B Esfahan
+- Mohammad Sayyadi: Esteghlal B FC → Zob Ahan B Esfahan
+- Mohammed Al-Shamikh: Shabab Al-Ghar Club → Al-Sadaqa Shahat SC
+- Jaafar Ejbouda: Olympic Azzawiya SC → Al-Sadaqa Shahat SC
+- Mutassim Boushnaf: Al-Ta'awon SC → Al-Sadaqa Shahat SC
+- Mohammed Al-Sharif: Al-Majd SCC → Al-Sadaqa Shahat SC
+- Abdulrahman Al Jaghmani: Al-Akhdar SC → Al-Ta'awon SC
+- Mohammad Kazemi Nasrabadi: Chooka Talesh FC → Iranjavan FC
+- Soufian Tcheco: Al-Tahaddy SC → Al-Ta'awon SC
+- Ali Rizq Abubaker: Al-Tahaddy SC → Al-Ta'awon SC
+- Jebril Rajab: Al-Akhdar SC → Al-Ta'awon SC
+- Alireza Faraji: Padyab Khalkhal → Aco Mode Ardabil
+- Mehdi Bohloulzadeh: Padyab Khalkhal → Aco Mode Ardabil
+- Vahid Rahimi: Padyab Khalkhal → Aco Mode Ardabil
+- Mehdi Amani: Padyab Khalkhal → Aco Mode Ardabil
+- Mohammadreza Hamdinejad: Padyab Khalkhal → Aco Mode Ardabil
+- Nima Pourhamzeh: Padyab Khalkhal → Aco Mode Ardabil
+- Morteza Hadadi: Shahrdari Mahshahr → Aco Mode Ardabil
+- Sajjad Taghavi: Padyab Khalkhal → Aco Mode Ardabil
+- Pouya Moradzadeh: Shahrdari Mahshahr → Aco Mode Ardabil
+- Ali Hesami: Rezvani Esfahan → Aco Mode Ardabil
+- Mehran Mostajeran: Padyab Khalkhal → Aco Mode Ardabil
+- Pouya Mirzaei: Padyab Khalkhal → Aco Mode Ardabil
+- Saeed Khademi: Padyab Khalkhal → Aco Mode Ardabil
+- Elhadi Emara: Olympic Azzawiya SC → Al-Ta'awon SC
+- Ali Sherafat: Aseman Golestan FC → Aco Mode Ardabil
+- Reza Mastalipour: Rakhsh Khodro → Aco Mode Ardabil
+- Rastin Kharaghani: Iranjavan FC → Keshavarz Robat Karim
+- Vahid Amani: Shahrdari Mahshahr → Keshavarz Robat Karim
+- Mohammad Gholamreza: Navad Urmia FC → Keshavarz Robat Karim
+- Yasin Azhdari: Bargh Shiraz FC → Shayan Diesel FC
+- Kokou Kloukpo: Al-Afreeki Sports Club → Al-Akhdar SC
+- Armin Asadi: Bargh Shiraz FC → Shayan Diesel FC
+- Kaveh Alizadeh: Dena Yasuj → Foolad Hormozgan
+- Anush Bazyari: Bargh Shiraz FC → Foolad Hormozgan
+- Alireza Salari: Shahrdari Bandar Abbas → Foolad Hormozgan
+- Mehrdad Aalipour: Shahrdari Bandar Abbas → Foolad Hormozgan
+- Fariborz Yousefi: Padyab Khalkhal → Foolad Hormozgan
+- Abbas Tahmasebi: Padyab Khalkhal → Foolad Hormozgan
+- Amirhossein Zakerinejad: Shahrdari Bandar Abbas → Foolad Hormozgan
+- Amirarsalan Delavari: Shahin Tehran → Foolad Hormozgan
+- Milad Ghanbari: Shahrdari Bandar Abbas → Foolad Hormozgan
+- Erfan Golmohammadi: Malavan Bushehr → Foolad Hormozgan
+- Iman Ahmadi Tifkani: Shahrdari Bandar Abbas → Foolad Hormozgan
+- Mehdi Shooryabi: Malavan Bushehr → Chooka Talesh FC
+- Mohammad Jokar: Naft va Gaz Ilam → Chooka Talesh FC
+- Masoud Fagherlou: Shayan Diesel FC → Chooka Talesh FC
+- Ashkan Ahmadi: Fajr Qazvin → Chooka Talesh FC
+- Amirhossein Navaei: FC Arka City → Chooka Talesh FC
+- Abolfazl Norouzi: Dena Yasuj → Sepahan B FC
+- Farzam Khatibi: Niroye Zamini FC → Sepahan B FC
+- Paulo Uruchima: Deportivo Cuenca → Deportivo Cuenca U19
+- Maab Adel Shukri: Al-Ta'awon SC → Assabah SC
+- Jihad Alashhab: Al-Akhdar SC → Assabah SC
+- Bolívar Tobar: CS Emelec → CS Emelec U19
+- Yacine Belaiche: Shabab Al-Ghar Club → Assabah SC
+- Meftah Ben Taher: Swehly SC → Assabah SC
+- Ahmed Al-Abed: Al-Khums SC → Assabah SC
+- Ousmane Sow: ASC HLM Dakar → Al-Majd SCC
+- Agung Prasetyo: Perseden Denpasar → Persekat Tegal
+- Giofani Raditya: PSIS Semarang U20 → Persekat Tegal
+- Wondo Sulaeman: Persija Jakarta U20 → Persekat Tegal
+- Resa Aditya: Pekanbaru FC → Persikotas Nusantara
+- Muhammad Mukhlis: Persekat Tegal → Pekanbaru FC
+- Khaled Al-Mesmari: Al-Ta'awon SC → Benghazi Al-Jadida SC
+- Abdallah Alshaafi: Darnes SC → Benghazi Al-Jadida SC
+- Moataz Al-Mehdi: Al-Hilal SC → Benghazi Al-Jadida SC
+- Amadou Guèye: ASCE La Linguère → Al-Batnan SC
+- Enriyan Fahri: Batavia FC → Pekanbaru FC
+- Tores Khadafi: Dewa United Banten FC → Pesik Kuningan
+- Faaris Nurhidayat: Persija Jakarta U20 → Pesik Kuningan
+- Daud Kotulus: Donggala United → Pesik Kuningan
+- Sayfullah Kader: Sriwijaya FC → Gresik United FC
+- Aldo Fernandi: Persikota Tangerang → Persibo Bojonegoro
+- Revaldo Agusto: Persika Karanganyar → Persibo Bojonegoro
+- Aaron Yekti: Sriwijaya FC → Persibo Bojonegoro
+- Yosua Yoltuwu: Persikutim United → Persipa Pati
+- Novian Setya: PERSIS Solo U20 → Persibangga Purbalingga
+- Khoirul Amin: Persekat Tegal → Persibangga Purbalingga
+- Andrei Dăncuș: FCSB → Concordia Chiajna
+- Theo Wicaksono: Persikutim United → Persibangga Purbalingga
+- Farrel Arya: Persipa Pati → Persibangga Purbalingga
+- Fajar Akhmad: Persika Karanganyar → Persibangga Purbalingga
+- Mihai Toma: FCSB → Concordia Chiajna
+- David Popa: FCSB → Concordia Chiajna
+- Alexandru Stoian: FCSB → Concordia Chiajna
+- Andhika Bawan: Persipa Pati → Persikutim United
+- Ergun Arif: Persija Jakarta U20 → Persikutim United
+- Ashari: Borneo FC Samarinda U20 → Persikutim United
+- Tudor Coșa: FC Universitatea Cluj → Politehnica Timișoara
+- Hajir Suryana: Persitara Jakarta Utara → Persikutim United
+- Nabiq Muntas: Persinab Nabire → Persikutim United
+- Huone Figo: Persipa Pati → Persikutim United
+- Sahrul Madani: PSM Makassar U20 → Persikutim United
+- Alin Techereș: FC Universitatea Cluj → Politehnica Timișoara
+- Alexandru Maxim: Universitatea Craiova → CSM Slatina
+- Mihnea Rădulescu: Universitatea Craiova → CSM Slatina
+- Gonçalo da Silva: SL Benfica B → SL Benfica U23
+- Rui Silva: SL Benfica B → SL Benfica U23
+- José Neto: SL Benfica B → SL Benfica U23
+- Leandro Martins: SL Benfica B → SL Benfica U23
+- Duarte Soares: SL Benfica B → SL Benfica U23
+- Diogo Coelho: SL Benfica B → SL Benfica U23
+- Miguel Figueiredo: SL Benfica B → SL Benfica U23
+- Olivio Tomé: SL Benfica B → SL Benfica U23
+- Dudu: SL Benfica B → SL Benfica U23
+- Tiago Rodrigues: SL Benfica B → SL Benfica U23
+- Francisco Silva: SL Benfica B → SL Benfica U23
+- Peter Edokpolor: SL Benfica B → SL Benfica U23
+- Felipe Lima: SL Benfica B → SL Benfica U23
+- Miguel Gouveia: Sporting CP B → Sporting CP U23
+- Atanásio: Sporting CP B → Sporting CP U23
+- Rafael Mota: Sporting CP B → Sporting CP U23
+- Afonso Lee: Sporting CP B → Sporting CP U23
+- Rayhan Momade: Sporting CP B → Sporting CP U23
+- Catarino: Sporting CP B → Sporting CP U23
+- Rafael Besugo: Sporting CP B → Sporting CP U23
+- Rafael Camacho: Sporting CP B → Sporting CP U23
+- Leonardo Varela: Sporting CP B → Sporting CP U23
+- György Papp: FK Csikszereda Miercurea Ciuc → CSA Steaua
+- Sebastián Osorio: Sporting CP B → Sporting CP U23
+- Gabriel Silva: Sporting CP B → Sporting CP U23
+- Gabriel Cabral: FC Famalicão → FC Famalicão U23
+- Luca Noveli: FK Csikszereda Miercurea Ciuc → CSA Steaua
+- Előd Tóth-Pál: FK Csikszereda Miercurea Ciuc → CSA Steaua
+- Aleksandar Vulic: FC Vizela → FC Vizela U23
+- Pedro Souza: FC Vizela → FC Vizela U23
+- Luis Mina: FC Vizela → FC Vizela U23
+- Moustapha Sanogo: FC Vizela → FC Vizela U23
+- Cristián Cañozales: FC Vizela → FC Vizela U23
+- Lucas Antañón: FC Vizela → FC Vizela U23
+- Viktor Kun: CFR Cluj → CSM Olimpia Satu Mare
+- Mateo Miclăuș: CFR Cluj → CSM Olimpia Satu Mare
+- Răzvan Gligor: CFR Cluj → CSM Olimpia Satu Mare
+- Cosmin Matei: CFR Cluj → CSM Olimpia Satu Mare
+- Eduardo Esteves: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Frederico Namora: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Bakary Haidara: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Beni Jetour: FC Felgueiras 1932 → FC Felgueiras Sub-23
+- Denis Zanc: Corvinul Hunedoara → Gloria Bistrita
+- Daniel Nolasco: Leixões SC → Leixões SC U23
+- António Gonçalves: Leixões SC → Leixões SC U23
+- Agustin De Armas: Leixões SC → Leixões SC U23
+- João Assunção: Leixões SC → Leixões SC U23
+- Arthur Baggio: Leixões SC → Leixões SC U23
+- Kaique: Leixões SC → Leixões SC U23
+- Morufdeen Moshood: Leixões SC → Leixões SC U23
+- Renato Amorim: SC Braga B → SC Braga U23
+- Romário Cunha: SC Braga B → SC Braga U23
+- João Salvador: SC Braga B → SC Braga U23
+- Edgar Mota: SC Braga B → SC Braga U23
+- Gui Barbosa: SC Braga B → SC Braga U23
+- Rodrigo Abreu: SC Braga B → SC Braga U23
+- Rodrigo Marques: SC Braga B → SC Braga U23
+- António Gil: SC Braga B → SC Braga U23
+- João Aragão: SC Braga B → SC Braga U23
+- Daniel Rozzuvaylo: SC Braga B → SC Braga U23
+- Flinto Costa: SC Braga B → SC Braga U23
+- Tomás Müller: SC Braga B → SC Braga U23
+- Guilherme Moraes: SC Braga B → SC Braga U23
+- Danilo: SC União Torreense → SCU Torreense Sub-23
+- Bogdan Ungureanu: FC Rapid 1923 → CSL Ștefăneștii de Jos
+- Ştefan Senciuc: FC Rapid 1923 → CSL Ștefăneștii de Jos
+- Andrei Șucu: FC Rapid 1923 → CSL Ștefăneștii de Jos
+- Luca Banu: FCV Farul Constanta → FC Metaloglobus Bucharest
+- Leo Mascaró: UD Leiria → UD Leiria Under 23
+- Bernardo Gomes: UD Leiria → UD Leiria Under 23
+- Stefan: UD Leiria → UD Leiria Under 23
+- Sébastien Cibois: Portimonense SAD → Portimonense SAD U23
+- Lagartinho: Portimonense SAD → Portimonense SAD U23
+- Caleb Okereke: Portimonense SAD → Portimonense SAD U23
+- Gonçalo Águas: Portimonense SAD → Portimonense SAD U23
+- Zinho: Portimonense SAD → Portimonense SAD U23
+- Paulinho: Portimonense SAD → Portimonense SAD U23
+- Kauã Paes: SC Farense → SC Farense U23
+- Bernardo Antunes: SC Farense → SC Farense U23
+- Rodrigo Laranjeira: SC Farense → SC Farense U23
+- Callum Feeney: Radcliffe FC → Burnley FC U18
+- Meireles Injai: FC Penafiel → FC Penafiel Sub-23
+- Duarte Oliveira: FC Penafiel → FC Penafiel Sub-23
+- Carlinhos Augusto: FC Penafiel → FC Penafiel Sub-23
+- Tomás Teixeira: FC Penafiel → FC Penafiel Sub-23
+- Thiago Speroni: Dagenham & Redbridge FC → Crystal Palace U18
+- Si-woo Yang: CF Estrela Amadora → CF Estrela Amadora U23
+- Brandon Williams: Без клуба → Rotherham United
+- Oliver Pihlaja: SJK-j Seinäjoki → SJK Seinäjoki U18
+- Ronan Maher: Wealdstone FC → Walsall FC
+- Robbie Millar: Puotinkylän Valtti → Puotinkylän Valtti U18
+- Levente Kilvinger: Roma Under 18 → Roma U20
+- Daniele Paul: Roma Under 18 → Roma U20
+- Giampaolo Bonifazi: Roma Under 18 → Roma U20
+- Gioele Giammattei: Roma Under 18 → Roma U20
+- Mattia Guaglianone: Roma Under 18 → Roma U20
+- Mandjou Camara: Roma Under 18 → Roma U20
+- Miguel Romero: Roma Under 18 → Roma U20
+- Lorenzo Costoli: Genoa Under 18 → Genoa U20
+- Alessio Scelta: Genoa Under 18 → Genoa U20
+- Lorenzo Damonte: Genoa Under 17 → Genoa U20
+- Yahvan Niat: Genoa Under 18 → Genoa U20
+- Mihai Calițoiu: Genoa Under 18 → Genoa U20
+- Giuseppe Bonanno: Genoa Under 18 → Genoa U20
+- Lorenzo Pinzani: Fiorentina Under 18 → Fiorentina Primavera
+- Jeffrey Baffoh: Sassuolo Under 18 → Sassuolo Primavera
+- Owen Boateng: Sassuolo Under 18 → Sassuolo Primavera
+- Dmytro Panko: Cagliari Under 18 → Cagliari Primavera
+- Mouhamed Sow: Cagliari Under 18 → Cagliari Primavera
+- Amine Bahlaouan: Cagliari Under 18 → Cagliari Primavera
+- Christian Lupo: Lecce Under 18 → Lecce Primavera
+- Andrea Fontanarosa: Lecce Under 18 → Lecce Primavera
+- Giuseppe Cafasso: Lecce Under 18 → Lecce Primavera
+- Elias Dahman: Viking FK II → Lecce Primavera
+- Emanuele Persano: Lecce Under 18 → Lecce Primavera
+- Riccardo Milan: Bologna Under 18 → Bologna Primavera
+- Matteo Andreotti: Bologna Under 18 → Bologna Primavera
+- Lorenzo Ginelli: Como Under 18 → Como Primavera
+- Dylan Sgarbi: Como Under 18 → Como Primavera
+- Mattia Arioli: Como Under 18 → Como Primavera
+- Matteo Zanaria: Como Under 18 → Como Primavera
+- Sebastian Burlacu: Como Under 18 → Como Primavera
+- Thomas Boccia: Como Under 18 → Como Primavera
+- Francesco Lembo: Como Under 18 → Como Primavera
+- Zebedee Kennedy: Como Under 17 → Como Primavera
+- Diego Martínez: Como Under 18 → Como Primavera
+- Leonardo Casati: Como Under 18 → Como Primavera
+- Pasquale Pellicanò: Torino Under 17 → Torino Primavera
+- Yannick Boerleider: Torino Under 18 → Torino Primavera
+- Davide Gaffurini: Torino Under 18 → Torino Primavera
+- Carlo Mukerjee: Torino Under 18 → Torino Primavera
+- Dylan Scibilia: Torino Under 18 → Torino Primavera
+- Gianfilippo Materazzi: Torino Under 18 → Torino Primavera
+- Kenjy Malidor: Torino Under 18 → Torino Primavera
+- Edoardo Martini: Torino Under 18 → Torino Primavera
+- Nicola Russo: Torino Under 18 → Torino Primavera
+- Giulio Bianconi: Cesena Under 18 → Cesena Primavera
+- Marco Parisi: Cesena Under 18 → Cesena Primavera
+- Severino Petito: Cesena Under 18 → Cesena Primavera
+- Riccardo Bartoli: Cesena Under 18 → Cesena Primavera
+- Wubishet Kifle: Wolayta Dicha SC → Sidama Bunna FC
+- Emanuele Riggi: Lazio Under 18 → Lazio U20
+- Dawa Hotessa: Adama Ketema FC → Sidama Bunna FC
+- Seid Habtamu: Hawasa Ketema SC → Negele Arsi Town FC
+- Matteo Morelli: Lazio Under 18 → Lazio U20
+- Marco Raccanello: Hellas Verona Under 18 → Hellas Verona Primavera
+- Dragoș Kirali: Hellas Verona Under 18 → Hellas Verona Primavera
+- Yared Biruk: Hawasa Ketema SC → Negele Arsi Town FC
+- Bereket Gizaw: Fasil Kenema SC → Negele Arsi Town FC
+- Collins Kudjoe: Mechal SC → Negele Arsi Town FC
+- Abdul Alim Compaore: Hellas Verona Under 18 → Hellas Verona Primavera
+- Luca Bisoffi: Hellas Verona Under 18 → Hellas Verona Primavera
+- Gabriel Bugli: Atalanta U23 → Atalanta Primavera
+- Biruk Belachew: Ethiopian Insurance Corporation SA → Kidus Giorgis SA
+- Ferdinand Ugwu: Atalanta Under 18 → Atalanta Primavera
+- Mbakhane Kane: Atalanta BC U17 → Atalanta Primavera
+- Isaac Isoa: Atalanta U23 → Atalanta Primavera
+- Salim Berrima: Atalanta Under 18 → Atalanta Primavera
+- Tsega-ab Gizaw: Hadia Hosaina FC → Kidus Giorgis SA
+- Gerard Ruiz: Atalanta U23 → Atalanta Primavera
+- Francesco Gasparello: Atalanta Under 18 → Atalanta Primavera
+- Giovanni Zanatta: Atalanta Under 18 → Atalanta Primavera
+- Marco Leandri: Atalanta U23 → Atalanta Primavera
+- Marcello Fugazzola: Atalanta Under 18 → Atalanta Primavera
+- Abubeker Nuri: Ethiopian Insurance Corporation SA → Ethiopia Bunna SC
+- Bereket Woldeyohannes: Ethio Electric SC → Ethiopia Bunna SC
+- Pawlos Kekatiba: Kidus Giorgis SA → Ethiopia Bunna SC
+- Alessandro Bianchi: Milan Under 18 → AC Milan Primavera
+- Astin Mbaye: Milan Under 18 → AC Milan Primavera
+- Yanis Messaoudi: Milan Under 18 → AC Milan Primavera
+- Dino Kurbegovic: Milan Under 18 → AC Milan Primavera
+- Dawit Gebru: Wolwalo Adigrat University FC → Ethiopia Bunna SC
+- Mattia Mercogliano: Milan Under 18 → AC Milan Primavera
+- Mattia Angelicchio: Milan Under 18 → AC Milan Primavera
+- Thomas Martini: Milan Under 18 → AC Milan Primavera
+- Ablaye Samb: Milan Under 18 → AC Milan Primavera
+- Leonardo Colombo: Milan Under 18 → AC Milan Primavera
+- Ludovico Di Nella: Milan Under 18 → AC Milan Primavera
+- Daniele Petrone: Milan Under 18 → AC Milan Primavera
+- Serge Obassa: Kano Pillars → Hawasa Ketema SC
+- Nigatu Gebreselassie: Ethiopian Insurance Corporation SA → Hawasa Ketema SC
+- Henrikas Adomavičius: Inter Under 18 → Inter Milan Primavera
+- Simon Lleshi: Inter Under 18 → Inter Milan Primavera
+- Andrea Donato: Inter Under 18 → Inter Milan Primavera
+- Lorenzo Puricelli: Inter Under 18 → Inter Milan Primavera
+- Kaleab Wubshet: Hadia Hosaina FC → Hawasa Ketema SC
+- Muse Kebela: Hadia Hosaina FC → Hawasa Ketema SC
+- Redwan Nasir: Sidama Bunna FC → Hawasa Ketema SC
+- Bereket Desta: Mechal SC → Hawasa Ketema SC
+- Kalkidan Zelalem: Fasil Kenema SC → Hawasa Ketema SC
+- Amadou Konteh: Inter Under 18 → Inter Milan Primavera
+- Mahdi Maghlout: Inter Under 18 → Inter Milan Primavera
+- Biruk Beyene: Hadia Hosaina FC → Hawasa Ketema SC
+- Yodaye Dawit: Mechal SC → Bahirdar Ketema SC
+- Shemeles Bekele: Hawasa Ketema SC → Bahirdar Ketema SC
+- Bruk Mulugeta: Ethiopian Insurance Corporation SA → Bahirdar Ketema SC
+- Kitika Jima: Negele Arsi Town FC → Bahirdar Ketema SC
+- Charles Musiige: Mechal SC → Bahirdar Ketema SC
+- Aljaz Strajnar: AC Monza → Monza Primavera
+- Alessandro Balestreri: Monza Under 18 → Monza Primavera
+- Konstantinos Varesis: Monza Under 18 → Monza Primavera
+- Dennis Pierange Scifo: Monza Under 18 → Monza Primavera
+- Yared Kassaye: Ethiopian Insurance Corporation SA → Mechal SC
+- Ramadan Yesuf: Ethiopian Insurance Corporation SA → Mechal SC
+- Tito Okello: Al-Sadaqa Shahat SC → Mechal SC
+- Abdoulaye Diakhaté: ASC Jaraaf → Adama Ketema FC
+- Yosef Tarekegn: Shagger City FC → Adama Ketema FC
+- Mintamir Melese: Mechal SC → Wolayta Dicha SC
+- Bereket Wolde: Negele Arsi Town FC → Wolayta Dicha SC
+- Abebayehu Achiso: Sidama Bunna FC → Wolayta Dicha SC
+- Anas Yusuf: JS Saoura → Wolayta Dicha SC
+- Hasen Husen: Ethio Electric SC → Wolayta Dicha SC
+- Tolosa Niguse: Kidus Giorgis SA → Hadia Hosaina FC
+- Wondmagegn Maereg: Hawasa Ketema SC → Hadia Hosaina FC
+- Afolayan Peters: Enyimba Aba → Hadia Hosaina FC
+- Simon Yu Mendy: RKU Kashiwa High School → RB Omiya Ardija
+- Prince Badu: Asante Kotoko SC → Hadia Hosaina FC
+- Soma Furukawa: RKU Kashiwa High School → RB Omiya Ardija
+- Eyob Gebremariyam: Ethio Electric SC → Hadia Hosaina FC
+- Biniyam Getachew: Ethiopia Bunna SC → Hadia Hosaina FC
+- David Oppong: Hearts of Oak → Ethiopia Nigd Bank SA
+- Muluken Addisu: Wolayta Dicha SC → Ethiopia Nigd Bank SA
+- Ananiya Getachew: Bahirdar Ketema SC → Ethiopia Nigd Bank SA
+- Fitsum Tilahun: Kidus Giorgis SA → Ethiopia Nigd Bank SA
+- Chala Teshita: Hadia Hosaina FC → Ethiopia Nigd Bank SA
+- Amar Fall: AS Pikine → Wolwalo Adigrat University FC
+- Fasil Gebremichael: Ethiopian Insurance Corporation SA → Wolwalo Adigrat University FC
+- Befikadu Asresehegn: Ethio Electric SC → Wolwalo Adigrat University FC
+- Hinata Nishino: Júbilo Iwata U18 → Júbilo Iwata
+- Eyob Alemayehu: Hadia Hosaina FC → Wolwalo Adigrat University FC
+- Kento Nishioka: Júbilo Iwata U18 → Júbilo Iwata
+- Yuma Okuda: Júbilo Iwata U18 → Júbilo Iwata
+- Ibuki Vincent Junior Ejike: Sagan Tosu U18 → Sagan Tosu
+- Abel Ayele: Shagger City FC → Ethio Electric SC
+- Firaol Mengistu: Sidama Bunna FC → Ethio Electric SC
+- Natnael Zeleke: Shagger City FC → Ethio Electric SC
+- Anwar Murad: Fasil Kenema SC → Ethio Electric SC
+- Riku Izawa: Sagan Tosu U18 → Sagan Tosu
+- Melese Mishamo: Hadia Hosaina FC → Shagger City FC
+- Habtamu Tadesse: Sidama Bunna FC → Shagger City FC
+- Asheber Tesfaye: Ethio Electric SC → Ethiopian Insurance Corporation SA
+- Enyew Kasahun: Hawasa Ketema SC → Ethiopian Insurance Corporation SA
+- Geleta Hailu: Ethio Electric SC → Ethiopian Insurance Corporation SA
+- Endale Yohannes: Ethiopia Nigd Bank SA → Ethiopian Insurance Corporation SA
+- Yared Birhanu: Fasil Kenema SC → Ethiopian Insurance Corporation SA
+- Nesredin Hailu: Mechal SC → Halaba City FC
+- Caleb Amankwah: Ethiopia Nigd Bank SA → Halaba City FC
+- Kirubeal Wondimu: Wolwalo Adigrat University FC → Halaba City FC
+- Yared Mohamed: Ethiopian Insurance Corporation SA → Halaba City FC
+- Abush Derbe: Hadia Hosaina FC → Halaba City FC
+- Samba Seck: US Ouakam → Halaba City FC
+- Frew Solomon: Wolwalo Adigrat University FC → Halaba City FC
+- Natnael Solomon: Negele Arsi Town FC → Halaba City FC
+- Mulualem Mesfin: Wolwalo Adigrat University FC → Gamo Chencha FC
+- Abenezer Hizkiel: Shagger City FC → Gamo Chencha FC
+- Eyob Tesfaye: Wolayta Dicha SC → Gamo Chencha FC
+- Eitaro Nishikata: Yokohama FC U18 → Yokohama FC
+- Katsuto Yamagishi: Yokohama FC U18 → Yokohama FC
+- Yudai Fukuoka: Yokohama FC U18 → Yokohama FC
+- Kakeru Saito: Yokohama FC U18 → Yokohama FC
+- Stephen Kwakye: Aduana FC → Berekum Chelsea FC
+- Augustine Boakye: Bibiani Gold Stars FC → Berekum Chelsea FC
+- Massawudu Inusah: Aduana FC → Debibi United FC
+- Felix Koduah Junior: FC Samartex → Debibi United FC
+- Salim Magoola: Richards Bay FC → Durban City Football Club
+- Noah Phillips: Gateshead FC → Leyton Orient
+- Ben Whitfield: Boreham Wood FC → Barrow AFC
+- Will Grigg: Chesterfield FC → Forest Green Rovers
+- Sam Lavelle: Grimsby Town → Hartlepool United
+- Luke Browne: Torquay United → Notts County
+- Ashley Palmer: York City → Southend United
+- Rico Browne: Walsall FC → Woking FC
+- Nathan Patten: Bromley FC → Woking FC
+- Harry Hedges: Horsham FC → AFC Wimbledon
+- Olly Tipton: Buxton FC → Kidderminster Harriers
+- Michael Reindorf: Farnborough FC → Kidderminster Harriers
+- Seb Naylor: Bristol City → Yeovil Town
+- Luke McCormick: Yeovil Town → AFC Fylde
+- Kyrell Malcolm: Salford City → AFC Fylde
+- Jay Bird: Salford City → Boreham Wood FC
+- Oguzhan Özlesen: Bitlis 1916 FSK → Muglaspor
+- Alireza Beiranvand: Tractor FC → Fajr Sepasi Shiraz
+- Gus Hoefsloot: Sydney FC → Sydney FC II
+- Ethan Dyer: Sydney FC → Sydney FC II
+- Tyler Williams: Sydney FC → Sydney FC II
+- Wataru Kamijo: Sydney FC → Sydney FC II
+- Joseph Lacey: Sydney FC → Sydney FC II
+- Tiago Quintal: Sydney FC → Sydney FC II
+- Marin France: Sydney FC → Sydney FC II
+- Akol Akon: Sydney FC → Sydney FC II
+- Mathias Macallister: Sydney FC → Sydney FC II
+- Tristan Vidackovic: Western Sydney Wanderers → Western Sydney Wanderers II
+- Emile Katrib: Western Sydney Wanderers → Western Sydney Wanderers II
+- Nathan Barrie: Western Sydney Wanderers → Western Sydney Wanderers II
+- Ricky Fransen: Western Sydney Wanderers → Western Sydney Wanderers II
+- Marcus Savic: Western Sydney Wanderers → Western Sydney Wanderers II
+- Ben Mewett: Western Sydney Wanderers → Western Sydney Wanderers II
+- Oscar Morrison: Western Sydney Wanderers → Western Sydney Wanderers II
+- Joshua Cetinic: Western Sydney Wanderers → Western Sydney Wanderers II
+- Jai Rose: Western Sydney Wanderers → Western Sydney Wanderers II
+- Awan Lual: Western Sydney Wanderers → Western Sydney Wanderers II
+- Alaat Abdul-Rahman: Western Sydney Wanderers → Western Sydney Wanderers II
+- Georgio Hassarati: Western Sydney Wanderers → Western Sydney Wanderers II
+- Paul Teny: Police FC → Kataka Football Club Lufumbi
+- Reef Farias: Sydney FC II → APIA Leichhardt FC
+- Taye Hedley: Sydney FC II → APIA Leichhardt FC
+- Orson Conroy: Sydney FC II → APIA Leichhardt FC
+- Seita Murai: Avondale FC → Marconi Stallions FC
+- Theo Zimonopoulos: Sydney FC II → Marconi Stallions FC
+- Stephan De Robillard: Manly United FC → Marconi Stallions FC
+- Jerry Skotadis: Rockdale Ilinden FC → St George Saints FC
+- Travis Major: Blacktown City FC → St George Saints FC
+- Jak O'Brien: Blacktown City FC → St George Saints FC
+- Alexis Devesa: CA Aldosivi II → CB Ramón Santamarina
+- Jesse Cameron: Western Sydney Wanderers II → Sutherland Sharks FC
+- Kaisem Mahdi: St. George City FA → Rockdale Ilinden FC
+- Charlie Kanu: Manly United FC → University of New South Wales FC
+- Mattia Pedretti: Atalanta Primavera → Atalanta U23
+- Lucas Pasquoto: Reggiana Primavera → AC Reggiana 1919
+- Joo-chan Kim: Gimcheon Sangmu → Suwon Samsung Bluewings
+- Se-jin Park: Gimcheon Sangmu → Daegu FC
+- Jae-hyun Go: Gimcheon Sangmu → Daegu FC
+- Cheol-woo Park: Gimcheon Sangmu → Suwon FC
+- Valeri Vladimirov: Milan Futuro → AC Milan
+- Emanuele Lulli: Roma U20 → AS Roma
+- Antonio Arena: Roma U20 → AS Roma
+- Claudio Pugliese: Napoli Primavera → SSC Napoli
+- Federico Croci: Fiorentina Primavera → ACF Fiorentina
+- Bruno Galassi: Lazio U20 → SS Lazio
+- Federico Serra: Lazio U20 → SS Lazio
+- Chan-wook Lee: Gimcheon Sangmu → Gyeongnam FC
+- Andrea Luongo: Torino Primavera → Torino FC
+- Rendijs Mihelsons: Genoa U20 → Genoa CFC
+- Mamedi Doucouré: Genoa U20 → Genoa CFC
+- Lukas Klišys: Genoa U20 → Genoa CFC
+- Marcelo Vaz: Genoa U20 → Genoa CFC
+- Robinho Junior: Genoa U20 → Genoa CFC
+- Thomás De Martis: Parma Primavera → Parma Calcio 1913
+- Nicola Grandu: Cagliari Primavera → Cagliari Calcio
+- Demi Akarakiri: Cagliari Primavera → Cagliari Calcio
+- Plamen Penev: Lecce Primavera → US Lecce
+- Adam Moseley: Wigan Athletic → Southport FC
+- Ben Jackson: Barrow AFC → Radcliffe FC
+- Frankie McMahon-Brown: Salford City → Radcliffe FC
+- Tom Fogarty: Tamworth FC → Brackley Town
+- Alex Whittle: Farnborough FC → Brackley Town
+- Byron Pendleton: Shrewsbury Town → Brackley Town
+- Danni Anisjko: Chesterfield FC → Bedford Town
+- Manny Duku: Eastleigh FC → Bedford Town
+- Dan Cameron: Gateshead FC → Hebburn Town
+- Andrea Maran: Modena Primavera → Modena FC
+- Pietro Arnaboldi: Modena Primavera → Modena FC
+- Tito Fabbri: Modena Primavera → Modena FC
+- Treasure Egharevba: Modena Primavera → Modena FC
+- Isaac England: Shrewsbury Town → AFC Telford United
+- Kian Ryley: Solihull Moors → AFC Telford United
+- Mason Bennett: Harrogate Town → Worksop Town
+- Cole Jarvis: Newport County → Merthyr Town FC
+- William Merrett: Forest Green Rovers → Hereford FC
+- Arjan Raikhy: Boston United → Marine FC
+- Ethan Moore: Kidderminster Harriers → Spennymoor Town
+- Jake Oram: Doncaster Rovers → Chorley FC
+- Hayden Atkinson: Carlisle United → Darlington FC
+- Francesco Reita: US Catanzaro U19 → US Catanzaro
+- Matteo Del Gaudio: Benevento Primavera → Benevento Calcio
+- Matteo Donatiello: Benevento Primavera → Benevento Calcio
+- Vincenzo Battista: Benevento Primavera → Benevento Calcio
+- Marco Giugliano: Benevento Primavera → Benevento Calcio
+- Ed Leach: AFC Wimbledon → King's Lynn Town
+- Layton Love: Kidderminster Harriers → King's Lynn Town
+- Rocco Dente: Ascoli Picchio Primavera → Ascoli Calcio
+- Antonio Russo: Ascoli Picchio Primavera → Ascoli Calcio
+- Oliver Rose: Scunthorpe United → Spalding United
+- Rohan Vaughan: Harrogate Town → Spalding United
+- Finley Woodham: Southend United → Billericay Town
+- Harry Webster: Gillingham FC → Hemel Hempstead Town
+- Alfie Tuck: Maidstone United → Hemel Hempstead Town
+- Harry Rodda: Southampton FC U18 → AFC Totton
+- Ted Collins: Folkestone Invicta FC → Folkestone Invicta
+- Isaac Ogunseri: Folkestone Invicta FC → Folkestone Invicta
+- Dillon Simmons: Folkestone Invicta FC → Folkestone Invicta
+- Liam Smith: Folkestone Invicta FC → Folkestone Invicta
+- Jamie Fielding: Folkestone Invicta FC → Folkestone Invicta
+- Kevin Lokko: Folkestone Invicta FC → Folkestone Invicta
+- Daniel Quick: Folkestone Invicta FC → Folkestone Invicta
+- Reggie Young: Folkestone Invicta FC → Folkestone Invicta
+- Ben Mason: Folkestone Invicta FC → Folkestone Invicta
+- Adam Lovatt: Folkestone Invicta FC → Folkestone Invicta
+- Alex Woodyard: Folkestone Invicta FC → Folkestone Invicta
+- Alejandro Machado: Folkestone Invicta FC → Folkestone Invicta
+- Harvey Kedwell: Folkestone Invicta FC → Folkestone Invicta
+- Donnell Thomas: Folkestone Invicta FC → Folkestone Invicta
+- John Akinde: Folkestone Invicta FC → Folkestone Invicta
+- Aaron Cosgrave: Folkestone Invicta FC → Folkestone Invicta
+- Joe Pigott: Folkestone Invicta FC → Folkestone Invicta
+- Devonte West: Folkestone Invicta FC → Folkestone Invicta
+- Euan Mutale: Folkestone Invicta FC → Folkestone Invicta
+- Freddie Francis: Folkestone Invicta FC → Folkestone Invicta
+- Preston Kedwell: Folkestone Invicta FC → Folkestone Invicta
+- Bobby Kelman: Folkestone Invicta FC → Folkestone Invicta
+- Bright Siaw: Barnet FC → Hampton & Richmond Borough
+- George Cox: Worthing FC → Horsham FC
+- Rabii Hamri: Al-Madina SC → Olympique Beja
+- Mikhail Lakutsevits: Tallinn JK Legion → Tallinn JK Legion U19
+- Patriik Andreas: Tallinn JK Legion → Tallinn JK Legion U19
+- Arseni Balahnitsjov: Tallinn JK Legion → Tallinn JK Legion U19
+- Miroslav Tsistjakov: Tallinn JK Legion → Tallinn JK Legion U19
+- Aleksandr Vassiljev: Tallinn JK Legion → Tallinn JK Legion U19
+- Oskar Järvine: FC Tallinn → FC Tallinn U19
+- Ismail Soroka: FC Tallinn → FC Tallinn U19
+- Mihhail Hansman: FC Tallinn → FC Tallinn U19
+- Ervin Irha: FC Tallinn → FC Tallinn U19
+- Paul Selter: FC Nomme United U19 → FC Flora Tallinn U19
+- Artur Savenkov: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Jegor Titov: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Jasper Enok: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Nikita Kuzmenkov: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Artjom Kuzmenkov: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Gavriil Karhanin: Johvi FC Phoenix → Johvi FC Phoenix U19
+- Burhan Tuzun: Yeni Mersin Idmanyurdu → Etimesgut SK
+- Çınar Temir: Corum FK U19 → Kepez Spor Futbol
+- Lúkas Petersson: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
+- Natnael Abraha: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
+- Luis Engelns: TSG 1899 Hoffenheim → TSG 1899 Hoffenheim II
+- Luca Berreth: VfB Stuttgart U19 → VfB Stuttgart II
+- Collin Schramm: VfB Stuttgart U19 → VfB Stuttgart II
+- Yanik Spalt: VfB Stuttgart → VfB Stuttgart II
+- Ertugrul Yigit: VfB Stuttgart → VfB Stuttgart II
+- Jarzinho Malanga: VfB Stuttgart → VfB Stuttgart II
+- Neno Zezelj: VfB Stuttgart U19 → VfB Stuttgart II
+- Enis Redzepi: VfB Stuttgart U19 → VfB Stuttgart II
+- Brayann Kenmoe: VfB Stuttgart U19 → VfB Stuttgart II
+- Romero Gerres: Rot-Weiss Essen II → Rot-Weiss Essen
+- James Gnagnon: Rot-Weiss Essen U19 → Rot-Weiss Essen
+- Paul Pöpperl: Без клуба → Rot-Weiss Essen
+- Rami Malaeb: Rot-Weiss Essen U19 → Rot-Weiss Essen
+- Fadih Vasic: Rot-Weiss Essen U19 → Rot-Weiss Essen
+- David Zimmer: SV Waldhof Mannheim U21 → SV Waldhof Mannheim
+- Thomas Goos: NAC Breda U21 → NAC Breda
+- Rayan van Aarst: NAC Breda U21 → NAC Breda
+- Mylan Brouwers: NAC Breda U21 → NAC Breda
+- Jereno van Gom: Almere City FC U23 → Almere City FC
+- Denzel Eijken: De Graafschap Doetinchem U21 → De Graafschap Doetinchem
+- Leco Zeevalkink: FC Twente Enschede U21 → Heracles Almelo
+- El Hadji Gueye: Guédiawaye FC → US Gorée
+- Omar Ndoye: US Ouakam → US Gorée
+- Giandro Sambo: FC Twente Enschede U19 → Heracles Almelo
+- Sil Blokhuis: FC Twente Enschede U21 → Heracles Almelo
+- Diego van Oorschot: FC Twente Enschede U21 → Heracles Almelo
+- Tarık Hamamioğlu: FC Twente Enschede U19 → Heracles Almelo
+- Jayden Siecker: Vitesse Arnhem U21 → Vitesse Arnhem
+- Youssef Ouallil: Vitesse Arnhem U21 → Vitesse Arnhem
+- Koen te Veluwe: Vitesse Arnhem U21 → Vitesse Arnhem
+- Dion van Zanten: FC Dordrecht U21 → FC Dordrecht
+- Mohamed Kessrioui: FC Dordrecht U21 → FC Dordrecht
+- Serigne Sonko: ASC Sonacos → Casa Sports
+- Thurbuce Ndiaye: AS Dakar Sacré Cœur → Casa Sports
+- Yunus Younous: FC Dordrecht U21 → FC Dordrecht
+- Tiago Codinha: FC Volendam U21 → FC Volendam
+- Thierry Manzi: Al-Ahli SC → Golan SC
+- Levi Rietveld: FC Utrecht U19 → FC Utrecht U21
+- Jesper Eujen: FC Utrecht U19 → FC Utrecht U21
+- Sidy Sow: Teungueth FC → US Ouakam
+- Aly Sy: Génération Foot → Stade de Mbour
+- Pape Fall: Génération Foot → Stade de Mbour
+- Abou Soumaré: AS Cambérène → Guédiawaye FC
+- Alfred Gomis: Casa Sports → ASC HLM Dakar
+- Maheri Touré: ASC Jaraaf → ASC HLM Dakar
+- Mamadou Diop: AS Pikine → ASCE La Linguère
+- Mamadou Gueye: AS Cambérène → AS Dakar Sacré Cœur
+- Thierno Ndir: US Ouakam → AS Dakar Sacré Cœur
+- Bécaye Ndiaye: Guédiawaye FC → AS Dakar Sacré Cœur
+- Cheikhna Sané: AS Pikine → AS Dakar Sacré Cœur
+- Joseph Bassan: Oslo Football Academy → Essamaye FC
+- Hafizh Rizkianur: Persija Jakarta U20 → Persija Jakarta
+- Dia Syayid: Persija Jakarta U20 → Persija Jakarta
+- Rhaka Syafaka: PERSIB Bandung U20 → PERSIB Bandung
+- Kenzo Albar: Persebaya Surabaya U20 → Persebaya Surabaya
+- Muhammad Ilham: Persebaya Surabaya U20 → Persebaya Surabaya
+- Sadida Putra: Persebaya Surabaya U20 → Persebaya Surabaya
+- Ichsas Baihaqi: Persebaya Surabaya U20 → Persebaya Surabaya
+- Aleandro Maulana: Persebaya Surabaya U20 → Persebaya Surabaya
+- Surya Yudha: Dewa United Banten U20 → Dewa United Banten FC
+- Andhika Setiawan: Borneo FC Samarinda U20 → Borneo FC Samarinda
+- Dika Nurdiansyah: Borneo FC Samarinda U20 → Borneo FC Samarinda
+- Poetro Negoro: PSM Makassar U20 → PSM Makassar
+- Arda Yılmaz: Galatasaray → Galatasaray U19
+- Jonathan Kawalo: PSM Makassar U20 → PSM Makassar
+- Kaka Amrullah: PSM Makassar U20 → PSM Makassar
+- Riski Aditya: PSM Makassar U20 → PSM Makassar
+- Safaat Romadhona: PSS Sleman U20 → PSS Sleman
+- Ferrel Arda: PSS Sleman U20 → PSS Sleman
+- Armando Güner: Galatasaray → Galatasaray U19
+- Saeed Ahmad: Khor Fakkan SSC → Dibba Al-Hisn SC
+- Nuri Kandaz: Mardin 1969 Spor → Inkilap FSK
+- Rashed Essa: Al-Arabi SCC → Al-Hamriyah
+- Salem Al-Suwaidi: Al-Fujairah SC → Al-Jazira Al-Hamra Club
+- Alhusain Saleh: Sharjah FC → Al-Jazira Al-Hamra Club
+- Khalid Ghuloom: Gulf United FC → Al-Jazira Al-Hamra Club
+- Abdulla Al-Mansoori: Al-Fujairah SC → Al-Jazira Al-Hamra Club
+- Valentino Salducco: ASD La Biellese → Derthona FBC
+- Ghanem Ahmed: Al-Ittifaq FC → Al-Jazira Al-Hamra Club
+- Samuele Giallombardo: AC Bra → USD Sestri Levante 1919
+- Fahad Hadeed: Al-Jazira Al-Hamra Club → Dubai City FC
+- Filippo Campani: US Folgore Caratese → ASD La Biellese
+- Thiago Balieiro: Vitória Guimarães SC → Vitória Guimarães SC B
+- Francisco Dias: Vitória Guimarães SC → Vitória Guimarães SC B
+- Rica Rocha: Vitória Guimarães SC → Vitória Guimarães SC B
+- Ibnu Kurniawan: Persikota Tangerang → Isenmulang Kalteng U20
+- Dzakir Karozi: SLB Laulara → Garudayaksa U20
+- Alva Zidane: Persija Jakarta U20 → Garudayaksa U20
+- Adriano Baihaki: PSIM Yogyakarta U20 → Garudayaksa U20
+- Rizki Ahmad: Java United FC U20 → Garudayaksa U20
+- Leo Mocco: Portimonense SAD U23 → SC São João de Ver
+- Abdul Rizky: Java United FC U20 → PSIS Semarang U20
+- Ali Syafiq: Java United FC U20 → PSIS Semarang U20
+- Babullah Walik: Java United FC U20 → PSIS Semarang U20
+- Sobrian Al Jabar: Persijap Jepara U20 → PERSIB Bandung U20
+- Pietro Faccioli: Milan Futuro → Milan Under 18
+- Mattia Barbone: Fiorentina Under 17 → Fiorentina Under 18
+- Lorenzo Bernamonte: Fiorentina Under 17 → Fiorentina Under 18
+- Francesco Amenta: Fiorentina Under 17 → Fiorentina Under 18
+- Sebastian Strappini: AC Perugia Calcio → Perugia Primavera
+- Christian Dottori: AC Perugia Calcio → Perugia Primavera
+- Nicholas Tosolini: Cagliari Primavera → Cagliari Under 18
+- Diego Palacio: Cagliari Primavera → Cagliari Under 18
+- William Mehlstrand Skjöld: Cagliari Primavera → Cagliari Under 18
+- Luigi Lamberti: Avellino Under 17 → Avellino Primavera
+- Marco Avitto: Frosinone Under 17 → Frosinone Under 18
+- Massimo Anzidei: Frosinone Primavera → Frosinone Under 18
+- Yankhoba Ndao: Frosinone Primavera → Frosinone Under 18
+- Jacopo Couto Rissone: Frosinone Primavera → Frosinone Under 18
+- Maros Novak: FC Petrzalka → Pisa Primavera
+- Gianfilippo Casagrande: Frosinone Primavera → Frosinone Under 18
+- Lorenzo Giurdanella: Frosinone Primavera → Frosinone Under 18
+- Isaia Bagnarol: Genoa Under 17 → Hellas Verona Under 18
+- Jacopo La Barba: Delfino Pescara 1936 → Pescara Primavera
+- Lapo Valori: Delfino Pescara 1936 → Pescara Primavera
+- Emanuele Troiano: Delfino Pescara 1936 → Pescara Primavera
+- Gabriel Broștic: Juventus Under 17 → Juventus Under 18
+- Emanuele Giaretta: Juventus Primavera → Juventus Under 18
+- Luigi Morazzini: Delfino Pescara 1936 → Pescara Primavera
+- Gabriele Doretti: Spezia Calcio → Spezia Primavera
+- Armando Cassano: Spezia Calcio → Spezia Primavera
+- Carmelo Rantuccio: Cosenza Calcio → Cosenza Primavera
+- Lucio Bonofiglio: Cosenza Calcio → Cosenza Primavera
+- Antonio Amendola: Napoli Primavera → Napoli Under 18
+- Davide Picardi: Napoli Primavera → Napoli Under 18
+- Andrea Zappalà: Napoli Primavera → Napoli Under 18
+- Giorgio Russo: Napoli Primavera → Napoli Under 18
+- Luigi Riccio: Napoli Primavera → Napoli Under 18
+- Riccardo Chiaiese: Napoli Primavera → Napoli Under 18
+- Andrea Di Bari: SS Monopoli 1966 → Monopoli Primavera
+- Adrian D'Angelo: Napoli Primavera → Napoli Under 18
+- Marco De Michele: Napoli Primavera → Napoli Under 18
+- Salvatore Pengue: Napoli Primavera → Napoli Under 18
+- Salvatore Piccolo: Napoli Under 17 → Napoli Under 18
+- Jesse Jay Bennett: SS Monopoli 1966 → Monopoli Primavera
+- Francesco Falbo: SSC Bari → Bari Primavera
+- Luca Amato: Frosinone Under 17 → Frosinone Primavera
+- Valerio Spirito: Frosinone Under 17 → Frosinone Primavera
+- Christian Sbaccanti: Latina Calcio 1932 → Latina Primavera
+- Daniele Chittaro: Unipomezia Virtus → Latina Primavera
+- Davide De Marchi: Latina Calcio 1932 → Latina Primavera
+- Valentino Selvaggio: Palermo Under 17 → Palermo Primavera
+- Alessio Scaccianoce: Palermo Under 17 → Palermo Primavera
+- Giordano Carnemolla: Palermo Under 17 → Palermo Primavera
+- Gabriel Índio: SL Benfica → SL Benfica B
+- Daniel Banjaqui: SL Benfica → SL Benfica B
+- Anísio Cabral: SL Benfica → SL Benfica B
+- Moncef Zekri: Sporting CP → Sporting CP B
+- Rodrigo Dias: Sporting CP → Sporting CP B
+- Salvador Blopa: Sporting CP → Sporting CP B
+- Rafael Nel: Sporting CP → Sporting CP B
+- Duarte Cunha: FC Porto → FC Porto B
+- Di Cardoso: GD Chaves B → GD Chaves
+- Lucas Lima: GD Chaves B → GD Chaves
+- Divin Muteba: GD Chaves B → GD Chaves
+- Axl De Corte: Club NXT → Club Brugge KV
+- Samba Coulibaly: Club NXT → Club Brugge KV
+- Gianluca Okon-Engstler: Club NXT → Club Brugge KV
+- Emile Doucouré: Jong Genk → KRC Genk
+- Emmanuel Sarfo: Jong Genk → KRC Genk
+- August De Wannemacker: Jong Genk → KRC Genk
+- Giorgi Kavlashvili: Union Saint-Gilloise U23 → Union Saint-Gilloise
+- Francesco Verde: Juventus Primavera → Juventus Next Gen
+- Niccolò Rizzo: Juventus Primavera → Juventus Next Gen
+- Alfonso Montero: Juventus Primavera → Juventus Next Gen
+- Grady Makiobo: Juventus Primavera → Juventus Next Gen
+- Kjell Peersman: Jong KAA Gent → KAA Gent
+- Bas Evers: Jong KAA Gent → KAA Gent
+- Josue Grelaud: Juventus Primavera → Juventus Next Gen
+- Destiny Elimoghale: Juventus Primavera → Juventus Next Gen
+- Francesco Leone: Juventus Primavera → Juventus Next Gen
+- Arman Durmiši: Juventus Primavera → Juventus Next Gen
+- Mamadou Diallo: Jong KAA Gent → KAA Gent
+- Hannes Vernemmen: Jong KAA Gent → KAA Gent
+- Abdoul Ayinde: Jong KAA Gent → KAA Gent
+- Gilles De Meyer: Jong KAA Gent → KAA Gent
+- Filippo Armanini: Union Brescia Primavera → Union Brescia
+- Noah Sy: Standard de Liège 16 FC → Standard Liège
+- Philippe Bibout: KVC Westerlo U21 → KVC Westerlo
+- Dino Delic: KVC Westerlo U21 → KVC Westerlo
+- Tijn Van Ingelgom: Jong KV Mechelen → KV Mechelen
+- Axel Willockx: Jong KV Mechelen → KV Mechelen
+- Ian Struyf: Jong KV Mechelen → KV Mechelen
+- Amine Ouahabi: Jong KV Mechelen → KV Mechelen
+- Mats Van Helden: Jong KV Mechelen → KV Mechelen
+- Yanis Asghir: Jong KV Mechelen → KV Mechelen
+- Bas Langenbick: Jong Cercle → Cercle Brugge
+- Tiemen De Bel: Jong Cercle → Cercle Brugge
+- Sebbe Gheerardyns: Jong Cercle → Cercle Brugge
+- Naël Piron: Zébra Élites → Royal Charleroi SC
+- Rafaël Teugels: Zébra Élites → Royal Charleroi SC
+- Ettore Contarato: Venezia Primavera → Arzignano Valchiampo
+- Owen Jochmans: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven
+- Marcel Van Dijck: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven
+- Christ Souanga: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven
+- Davis Opoku: Oud-Heverlee Leuven U23 → Oud-Heverlee Leuven
+- Florian Van Bever: Jong Essevee → Zulte Waregem
+- Arnaud Dobbels: Jong Essevee → Zulte Waregem
+- Filippo Generali: AlbinoLeffe Primavera → UC AlbinoLeffe
+- Matteo Trapletti: AlbinoLeffe Primavera → UC AlbinoLeffe
+- Mario Botti: AlbinoLeffe Primavera → UC AlbinoLeffe
+- Melvin Ramundo: Lommel SK U23 → Lommel SK
+- Emile Vandecraen: Lommel SK U23 → Lommel SK
+- Josias Lama: Lommel SK U23 → Lommel SK
+- Diego Ceresoli: AlbinoLeffe Primavera → UC AlbinoLeffe
+- Filippo Delcarro: AlbinoLeffe Primavera → UC AlbinoLeffe
+- Andrea Colombi: AlbinoLeffe Primavera → UC AlbinoLeffe
+- Nicolò Gamba: AlbinoLeffe Primavera → UC AlbinoLeffe
+- Lucas Monteiro: RAAL La Louvière U21 → RAAL La Louvière
+- Manu Verbruggen: RAAL La Louvière U21 → RAAL La Louvière
+- Timéo Kerckhofs: RAAL La Louvière U21 → RAAL La Louvière
+- Noah Makembo-Ntemo: RAAL La Louvière U21 → RAAL La Louvière
+- Anthony Philips: KV Kortrijk U21 → KV Kortrijk
+- Jaime Acosta: Barranquilla FC → Junior FC
+- Franciszek Golański: Widzew Lodz II → Widzew Lodz
+- Jaime Acosta: Barranquilla FC → Junior FC
+- Ksawery Semik: Gornik Zabrze U19 → Górnik Zabrze
+- Rafał Mamla: Korona Kielce II → Korona Kielce
+- Michał Mikielewicz: Korona Kielce II → Korona Kielce
+- Franciszek Panek: Korona Kielce II → Korona Kielce
+- Igor Chmielewski: Korona Kielce II → Korona Kielce
+- Konrad Ciszek: Korona Kielce II → Korona Kielce
+- Kacper Minuczyc: Korona Kielce II → Korona Kielce
+- Kornel Toboła: Korona Kielce II → Korona Kielce
+- Patryk Letkiewicz: Wisla Krakow II → Wisla Kraków
+- Jakub Stępak: Wisla Krakow II → Wisla Kraków
+- Bartosz Neugebauer: Wisla Krakow II → Wisla Kraków
+- Mariusz Kutwa: Wisla Krakow II → Wisla Kraków
+- Rafał Mikulec: Wisla Krakow II → Wisla Kraków
+- Maksym Tsymbalyuk: Wisla Krakow II → Wisla Kraków
+- Oliwier Pławiński: Wisla Krakow II → Wisla Kraków
+- Karol Tokarczyk: Wisla Krakow II → Wisla Kraków
+- Kacper Zagrodzki: Wieczysta Kraków II → Wieczysta Krakow
+- Nikola Knezevic: Wieczysta Kraków II → Wieczysta Krakow
+- Thomas Cereceres: Club León U19 → Club León U21
+- Alan Hernández: Club León U19 → Club León U21
+- Diego Galván: Club León U19 → Club León U21
+- Michael Corona: Club León U19 → Club León U21
+- Donovan Suárez: Club León U19 → Club León U21
+- Luis Rangel: Club León U19 → Club León U21
+- Issac Espinosa: Club León U19 → Club León U21
+- Karín Hernández: Club León U19 → Club León U21
+- Santiago Cisneros: Club León U19 → Club León U21
+- Pedro Budib: CF Pachuca → CF Pachuca U21
+- Ian Zavala: CF Pachuca U19 → CF Pachuca U21
+- Jonatan Ramírez: CF Pachuca U19 → CF Pachuca U21
+- Yaro Martínez: CF Pachuca U19 → CF Pachuca U21
+- Emmanuel Ochoa: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Bruno Salgado: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Eric Villegas: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Víctor Velázquez: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Kelvin Palacios: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Mateo Levy: CD Cruz Azul → CD Cruz Azul U21
+- Emiliano Castañeda: CD Cruz Azul U19 → CD Cruz Azul U21
+- Derek Hernández: CF Monterrey U19 → CF Monterrey U21
+- César Bustos: CF Monterrey → CF Monterrey U21
+- Ícaro da Conceição: CF América → CF América U21
+- Diego Arriaga: CF América → CF América U21
+- Alejandro Cárdenas: CF América → CF América U21
+- Gabriel Beltrán: Club Necaxa U19 → Club Necaxa U21
+- Israel Tello: Club Necaxa → Club Necaxa U21
+- Leonardo Arvizo: Club Necaxa U19 → Club Necaxa U21
+- Sergio Garcia Brothers: Querétaro FC → Querétaro FC U21
+- Emilio Albarran: Querétaro FC U19 → Querétaro FC U21
+- Érik Dueñas: Querétaro FC → Querétaro FC U21
+- Álex Alcalá: Querétaro FC → Querétaro FC U21
+- Jesús Arellano: Querétaro FC → Querétaro FC U21
+- Álex Valencia: Santos Laguna U19 → Querétaro FC U21
+- Guillermo Santana: UNAM Pumas U19 → UNAM Pumas U21
+- Jonathan Flores: UNAM Pumas U19 → UNAM Pumas U21
+- Diego Villaluz: UNAM Pumas U19 → UNAM Pumas U21
+- Ángel Rico: UNAM Pumas → UNAM Pumas U21
+- Julio Domínguez: UNAM Pumas U19 → UNAM Pumas U21
+- Jaime Obregón: UNAM Pumas U19 → UNAM Pumas U21
+- David Shrem: Deportivo Toluca → Deportivo Toluca U21
+- Diego Vargas: Deportivo Toluca U19 → Deportivo Toluca U21
+- José Estrada: Deportivo Toluca U19 → Deportivo Toluca U21
+- Thomas Cereceres: Club León U19 → Club León U21
+- Alan Hernández: Club León U19 → Club León U21
+- Diego Galván: Club León U19 → Club León U21
+- Michael Corona: Club León U19 → Club León U21
+- Emilio Herrera: Deportivo Toluca U19 → Deportivo Toluca U21
+- Yerevan Barrón: FC Juárez U19 → FC Juárez U21
+- Brayan Molina: FC Juárez U19 → FC Juárez U21
+- Donovan Suárez: Club León U19 → Club León U21
+- Luis Rangel: Club León U19 → Club León U21
+- Issac Espinosa: Club León U19 → Club León U21
+- Karín Hernández: Club León U19 → Club León U21
+- Xavier Madrigal: FC Juárez U19 → FC Juárez U21
+- Santiago Cisneros: Club León U19 → Club León U21
+- Pedro Budib: CF Pachuca → CF Pachuca U21
+- Nelson Cedillo: Santos Laguna → Santos Laguna U21
+- José Manuel Sifuentes: Santos Laguna U19 → Santos Laguna U21
+- Luis Gómez: Santos Laguna → Santos Laguna U21
+- Magnus Francisco López: Santos Laguna U19 → Santos Laguna U21
+- Guillermo Ortega: Puebla FC U19 → Puebla FC U21
+- Ian Zavala: CF Pachuca U19 → CF Pachuca U21
+- Jonatan Ramírez: CF Pachuca U19 → CF Pachuca U21
+- Yaro Martínez: CF Pachuca U19 → CF Pachuca U21
+- Santiago Cruz: Puebla FC U19 → Puebla FC U21
+- Emmanuel Ochoa: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Bruno Salgado: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Eric Villegas: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Antonio Carrera: Tigres UANL → Tigres UANL U21
+- Víctor Velázquez: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Kelvin Palacios: CD Cruz Azul Hidalgo → CD Cruz Azul U21
+- Mateo Levy: CD Cruz Azul → CD Cruz Azul U21
+- Emiliano Castañeda: CD Cruz Azul U19 → CD Cruz Azul U21
+- Bryan Salazar: Tigres UANL U19 → Tigres UANL U21
+- Aldo Torres: Tigres UANL U19 → Tigres UANL U21
+- Derek Hernández: CF Monterrey U19 → CF Monterrey U21
+- César Bustos: CF Monterrey → CF Monterrey U21
+- Diego Ramírez: Tigres UANL U19 → Tigres UANL U21
+- Erick Aguilar: Deportivo Guadalajara U19 → Deportivo Guadalajara U21
+- Gerson Gutiérrez: Deportivo Guadalajara U19 → Deportivo Guadalajara U21
+- Leonel Calderón: CD Tapatío → Deportivo Guadalajara U21
+- Ícaro da Conceição: CF América → CF América U21
+- Diego Arriaga: CF América → CF América U21
+- Alejandro Cárdenas: CF América → CF América U21
+- Gabriel Beltrán: Club Necaxa U19 → Club Necaxa U21
+- Alberto Castillo: Club Tijuana U19 → Club Tijuana U21
+- Israel Tello: Club Necaxa → Club Necaxa U21
+- Leonardo Arvizo: Club Necaxa U19 → Club Necaxa U21
+- Luis Valencia: Atlas Guadalajara U19 → Atlas Guadalajara U21
+- Sergio Garcia Brothers: Querétaro FC → Querétaro FC U21
+- Emilio Albarran: Querétaro FC U19 → Querétaro FC U21
+- Ada Yüzgeç: Galatasaray U19 → Galatasaray
+- Érik Dueñas: Querétaro FC → Querétaro FC U21
+- Álex Alcalá: Querétaro FC → Querétaro FC U21
+- Jesús Arellano: Querétaro FC → Querétaro FC U21
+- Álex Valencia: Santos Laguna U19 → Querétaro FC U21
+- Azem Yortaç: Besiktas JK U19 → Beşiktaş JK
+- Guillermo Santana: UNAM Pumas U19 → UNAM Pumas U21
+- Jonathan Flores: UNAM Pumas U19 → UNAM Pumas U21
+- Diego Villaluz: UNAM Pumas U19 → UNAM Pumas U21
+- Ángel Rico: UNAM Pumas → UNAM Pumas U21
+- Julio Domínguez: UNAM Pumas U19 → UNAM Pumas U21
+- Kuzey Sapaz: Fenerbahce U19 → Fenerbahce
+- Jaime Obregón: UNAM Pumas U19 → UNAM Pumas U21
+- David Shrem: Deportivo Toluca → Deportivo Toluca U21
+- Diego Vargas: Deportivo Toluca U19 → Deportivo Toluca U21
+- Alaettin Ekici: Fenerbahce U19 → Fenerbahce
+- Çağrı Balta: Fenerbahce U19 → Fenerbahce
+- José Estrada: Deportivo Toluca U19 → Deportivo Toluca U21
+- Emilio Herrera: Deportivo Toluca U19 → Deportivo Toluca U21
+- Yerevan Barrón: FC Juárez U19 → FC Juárez U21
+- Brayan Molina: FC Juárez U19 → FC Juárez U21
+- Luca Stancic: Basaksehir FK U19 → Basaksehir FK
+- Ege Öztürk: Basaksehir FK U19 → Basaksehir FK
+- Xavier Madrigal: FC Juárez U19 → FC Juárez U21
+- Nelson Cedillo: Santos Laguna → Santos Laguna U21
+- José Manuel Sifuentes: Santos Laguna U19 → Santos Laguna U21
+- Nevzat Üzel: Göztepe U19 → Göztepe
+- Luis Gómez: Santos Laguna → Santos Laguna U21
+- Magnus Francisco López: Santos Laguna U19 → Santos Laguna U21
+- Guillermo Ortega: Puebla FC U19 → Puebla FC U21
+- Santiago Cruz: Puebla FC U19 → Puebla FC U21
+- Ege Yıldırım: Göztepe U19 → Göztepe
+- Antonio Carrera: Tigres UANL → Tigres UANL U21
+- Bryan Salazar: Tigres UANL U19 → Tigres UANL U21
+- Furkan Çetinkaya: Corum FK U19 → Corum FK
+- Aldo Torres: Tigres UANL U19 → Tigres UANL U21
+- Diego Ramírez: Tigres UANL U19 → Tigres UANL U21
+- Efe Yiğit Üstün: Samsunspor U19 → Samsunspor
+- Erick Aguilar: Deportivo Guadalajara U19 → Deportivo Guadalajara U21
+- Gerson Gutiérrez: Deportivo Guadalajara U19 → Deportivo Guadalajara U21
+- Hasan Yağız Döne: Caykur Rizespor U19 → Caykur Rizespor
+- Leonel Calderón: CD Tapatío → Deportivo Guadalajara U21
+- Yakup Ayan: Caykur Rizespor U19 → Caykur Rizespor
+- Alberto Castillo: Club Tijuana U19 → Club Tijuana U21
+- Ege Albayrak: Kasimpasa U19 → Kasimpasa
+- Salih Arıcı: Kasimpasa U19 → Kasimpasa
+- Luis Valencia: Atlas Guadalajara U19 → Atlas Guadalajara U21
+- Egemen Aydın: Konyaspor U19 → Konyaspor
+- Emir Gündoğdu: Konyaspor U19 → Konyaspor
+- Ata Yanık: Konyaspor U19 → Konyaspor
+- Yakup Girişen: Amed SK U19 → Amed SK
+- Cemilhan Aslan: Gaziantep FK U19 → Gaziantep FK
+- Ali Osman Kalın: Gaziantep FK U19 → Gaziantep FK
+- Berk Deniz Çukurcu: Genclerbirligi Ankara U19 → Genclerbirligi Ankara
+- Hamza Aydar: Genclerbirligi Ankara U19 → Genclerbirligi Ankara
+- Ayaz Özcan: Genclerbirligi Ankara U19 → Genclerbirligi Ankara
+- Arda Özyar: Kocaelispor U19 → Kocaelispor
+- Jose Kohler: SpVgg Unterhaching → SpVgg Unterhaching II
+- Samuel Krenzer: SpVgg Unterhaching → SpVgg Unterhaching II
+- Lapo Klee: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Philipp Knörchen: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Luis Hasenstab: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Niklas Pfeiffer: SpVgg Unterhaching → SpVgg Unterhaching II
+- David Babic: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Nick Kaulfers: SpVgg Unterhaching → SpVgg Unterhaching II
+- Daris Ibrakovic: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Marinus Spann: SpVgg Unterhaching → SpVgg Unterhaching II
+- Samuel Weiß: SpVgg Unterhaching → SpVgg Unterhaching II
+- Luis Lemke: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Felix Müller: SpVgg Unterhaching U19 → SpVgg Unterhaching II
+- Thiago Pitarch: Real Madrid Castilla → Real Madrid
+- Jorge Cestero: Real Madrid Castilla → Real Madrid
+- Jesse Bisiwu: FC Barcelona Atlètic → FC Barcelona
+- Jorge Domínguez: Atlético Madrileño → Atlético de Madrid
+- Nízar El Jmili: Villarreal CF B → Villarreal CF
+- Alexander Ordal: Vålerenga Fotball Elite → Vålerenga Fotball II
+- Mario Gomes: Vålerenga Fotball Elite → Vålerenga Fotball II
+- Even Forcha: Vålerenga Fotball Elite → Vålerenga Fotball II
+- Lorents Apold-Aasen: Vålerenga Fotball Elite → Vålerenga Fotball II
+- Hugo Burcio: RC Celta Fortuna → Celta de Vigo
+- Andrés D'Agostino: Estudiantes de Mérida → Deportivo Lara
+- Marko Vuckovic: KFUM-Kameratene Oslo → KFUM-Kameratene Oslo II
+- Isaiah Skovsgaard: KFUM-Kameratene Oslo → KFUM-Kameratene Oslo II
+- Daniel Carvajal: Без клуба → Getafe CF
+- Roko Mijatovic: FC Bayern Munich U19 → FC Bayern Munich II
+- Robin Lisewski: 1.FC Nuremberg → 1.FC Nuremberg II
+- Khalid Abu El Haija: 1.FC Nuremberg → 1.FC Nuremberg II
+- Eric Porstner: 1.FC Nuremberg → 1.FC Nuremberg II
+- Tobias Heß: 1.FC Nuremberg → 1.FC Nuremberg II
+- Winners Osawe: 1.FC Nuremberg → 1.FC Nuremberg II
+- Marc Kornwachs Barjuan: 1.FC Nuremberg → 1.FC Nuremberg II
+- Marko Soldic: 1.FC Nuremberg → 1.FC Nuremberg II
+- Can Moustfa: 1.FC Nuremberg → 1.FC Nuremberg II
+- Piet Scobel: 1.FC Nuremberg → 1.FC Nuremberg II
+- Jan Bienduga: Legia Warszawa → Legia Warsaw II
+- Mateusz Lauryn: Legia Warszawa → Legia Warsaw II
+- Bartosz Korżynski: Legia Warszawa → Legia Warsaw II
+- Tom Wisbereit: FC Augsburg → FC Augsburg II
+- Filip Przybyłko: Legia Warszawa → Legia Warsaw II
+- Erik Mikanovich: Legia Warszawa → Legia Warsaw II
+- Samuel Kovacik: Legia Warszawa → Legia Warsaw II
+- Mateusz Szczepaniak: Legia Warszawa → Legia Warsaw II
+- Franciszek Stępniewski: Legia Warszawa → Legia Warsaw II
+- Tim Schnitzer: FC Augsburg → FC Augsburg II
+- Faik Sakar: FC Augsburg → FC Augsburg II
+- Dominik Klint: Slask Wroclaw → Slask Wroclaw II
+- Hubert Śliczniak: Slask Wroclaw → Slask Wroclaw II
+- Adrian Żulewski: Slask Wroclaw → Slask Wroclaw II
+- Ludwig Estermann: TSV 1860 München U19 → TSV 1860 Munich
+- Edon Krasniqi: TSV 1860 München U19 → TSV 1860 Munich
+- Patryk Sokołowski: Slask Wroclaw → Slask Wroclaw II
+- Przemyslaw Mazan: Slask Wroclaw → Slask Wroclaw II
+- Dominik Kleczewski: Slask Wroclaw U19 → Slask Wroclaw II
+- Adam Ciućka: Slask Wroclaw → Slask Wroclaw II
+- Elia Di Salvo: SpVgg Unterhaching U19 → SpVgg Unterhaching
+- Maksymilian Stangret: Slask Wroclaw → Slask Wroclaw II
+- Moritz Bronner: SpVgg Unterhaching U19 → SpVgg Unterhaching
+- Ferdinand Borne: SpVgg Unterhaching U19 → SpVgg Unterhaching
+- Tarik Cirak: SpVgg Unterhaching U19 → SpVgg Unterhaching
+- Fadl Kamal: SpVgg Greuther Fürth U19 → SpVgg Greuther Fürth II
+- Dominik Spath: SpVgg Greuther Fürth U19 → SpVgg Greuther Fürth II
+- Henri Rothkegel: SpVgg Greuther Fürth U19 → SpVgg Greuther Fürth II
+- Kaelen Dougan: SpVgg Greuther Fürth U19 → SpVgg Greuther Fürth II
+- Marvin Walter: TSV Aubstadt II → TSV Aubstadt
+- Noah Djalek: TSV Aubstadt II → TSV Aubstadt
+- Jannik Reubelt: TSV Aubstadt II → TSV Aubstadt
+- Max Scheuermann: FSV Dörnberg → USC Paloma Hamburg II
+- Zhiliang Li: Shanghai Port B → Shanghai Port
+- Yuhang Zhang: Shanghai Port B → Shanghai Port
+- Dongcheng Wang: Shanghai Port B → Shanghai Port
+- Ruilong Li: Shanghai Port B → Shanghai Port
+- Zhezhe Cao: Shanghai Port B → Shanghai Port
+- Junjie Zhang: Shanghai Port B → Shanghai Port
+- Juncheng Cui: Shanghai Port B → Shanghai Port
+- Junxiang Wen: Shanghai Port B → Shanghai Port
+- Qiwei Liu: Shandong Taishan B → Shandong Taishan
+- Fubo Hao: Shandong Taishan B → Shandong Taishan
+- Qiancheng Qi: Shandong Taishan B → Shandong Taishan
+- Imran Memet: Shandong Taishan B → Shandong Taishan
+- Zeshi Chen: Shandong Taishan B → Shandong Taishan
+- Shuaijun Mei: Shandong Taishan B → Shandong Taishan
+- Yixiang Peng: Shandong Taishan B → Shandong Taishan
+- Junwei Lu: Shandong Taishan B → Shandong Taishan
+- Yuxuan Wang: Shandong Taishan B → Shandong Taishan
+- Haochen Peng: Chengdu Rongcheng B → Chengdu Rongcheng
+- Siliang Chen: Chengdu Rongcheng B → Chengdu Rongcheng
+- Ziteng Wang: Chengdu Rongcheng B → Chengdu Rongcheng
+- Moyu Li: Chengdu Rongcheng B → Chengdu Rongcheng
+- Ezimet Qeyser: Chengdu Rongcheng B → Chengdu Rongcheng
+- Weihao Shuai: Chengdu Rongcheng B → Chengdu Rongcheng
+- Jianqiu He: Wuhan Three Towns B → Wuhan Three Towns
+- Tianle Yu: Wuhan Three Towns B → Wuhan Three Towns
+- Kang Wang: Wuhan Three Towns B → Wuhan Three Towns
+- Zihao Xia: Wuhan Three Towns B → Wuhan Three Towns
+- Zixi Min: Wuhan Three Towns B → Wuhan Three Towns
+- Lixun Jiang: Wuhan Three Towns B → Wuhan Three Towns
+- Junhao Zeng: Dalian Yingbo B → Dalian Yingbo
+- Shunjie Peng: Dalian Yingbo B → Dalian Yingbo
+- Chengrui Zhang: Dalian Yingbo B → Dalian Yingbo
+- Mingrui Yang: Dalian Yingbo B → Dalian Yingbo
+- Lirong Xiao: Dalian Yingbo B → Dalian Yingbo
+- Jonas Urbig: Bayern Munich → FC Bayern Munich
+- Manuel Neuer: Bayern Munich → FC Bayern Munich
+- Sven Ulreich: Bayern Munich → FC Bayern Munich
+- Dayot Upamecano: Bayern Munich → FC Bayern Munich
+- Jonathan Tah: Bayern Munich → FC Bayern Munich
+- Min-jae Kim: Bayern Munich → FC Bayern Munich
+- Hiroki Ito: Bayern Munich → FC Bayern Munich
+- Nathaniel Brown: Bayern Munich → FC Bayern Munich
+- Alphonso Davies: Bayern Munich → FC Bayern Munich
+- Josip Stanisic: Bayern Munich → FC Bayern Munich
+- Konrad Laimer: Bayern Munich → FC Bayern Munich
+- Sacha Boey: Bayern Munich → FC Bayern Munich
+- Aleksandar Pavlovic: Bayern Munich → FC Bayern Munich
+- Joshua Kimmich: Bayern Munich → FC Bayern Munich
+- Tom Bischof: Bayern Munich → FC Bayern Munich
+- Bara Sapoko Ndiaye: Bayern Munich → FC Bayern Munich
+- Jamal Musiala: Bayern Munich → FC Bayern Munich
+- Lennart Karl: Bayern Munich → FC Bayern Munich
+- Ismael Saibari: Bayern Munich → FC Bayern Munich
+- Luis Díaz: Bayern Munich → FC Bayern Munich
+- Michael Olise: Bayern Munich → FC Bayern Munich
+- Serge Gnabry: Bayern Munich → FC Bayern Munich
+- Harry Kane: Bayern Munich → FC Bayern Munich
+- Silas Ostrzinski: Borussia Dortmund II → Borussia Dortmund
+- Mussa Kaba: Borussia Dortmund II → Borussia Dortmund
+- Benno Kaltefleiter: RB Leipzig U19 → RB Leipzig
+- José Neto: SL Benfica B → SL Benfica
+- João Trovisco: SC Braga B → SC Braga
+- Vojin Serafimovic: FC Famalicão U23 → FC Famalicão
+- Matheus Mattara: FC Famalicão U23 → FC Famalicão
+- Mathis Jangéal: FC Famalicão U23 → FC Famalicão
+- Josiah Borkwei: USC Paloma Hamburg II → USC Paloma Hamburg
+- Martin James: 1.FC Köln II → 1.FC Köln
+- Henrique Poniewas: CF Estrela Amadora U23 → CF Estrela Amadora
+- Gil Neves: 1.FC Köln II → 1.FC Köln
+- Malek El Mala: 1.FC Köln II → 1.FC Köln
+- Mathieu Nguefack: Borussia Mönchengladbach II → Borussia Mönchengladbach
+- Fritz Fleck: Borussia Mönchengladbach II → Borussia Mönchengladbach
+- Iaia Manco Danfa: Borussia Mönchengladbach II → Borussia Mönchengladbach
+- Samuel Alves: Rio Ave FC U23 → Rio Ave FC
+- Janderson: Moreirense FC Sub-23 → Moreirense FC
+- Johannes Siebeking: FC Schalke 04 II → FC Schalke 04
+- Afonso Assis: Moreirense FC Sub-23 → Moreirense FC
+- Miguel Silva: Moreirense FC Sub-23 → Moreirense FC
+- Afonso Vieira: Moreirense FC Sub-23 → Moreirense FC
+- Michael Dacosta: Moreirense FC Sub-23 → Moreirense FC
+- Tiago Ferreira: Gil Vicente U23 → Gil Vicente FC
+- Elias Etringer: SV 07 Elversberg II → SV 07 Elversberg
+- Gonçalo Maia: Gil Vicente U23 → Gil Vicente FC
+- Neneca: CD Santa Clara U23 → CD Santa Clara
+- Henrique Silva: CD Santa Clara U23 → CD Santa Clara
+- Florian Pruhs: SC Paderborn 07 II → SC Paderborn 07
+- Kamika: CD Santa Clara U23 → CD Santa Clara
+- Fredy: CD Santa Clara U23 → CD Santa Clara
+- Afonso Duarte: CD Santa Clara U23 → CD Santa Clara
+- Tristan Zobel: SC Paderborn 07 II → SC Paderborn 07
+- Lasse Eickel: SC Paderborn 07 II → SC Paderborn 07
+- Francisco Silva: CS Marítimo U23 → CS Marítimo
+- Nélio Batista: CS Marítimo U23 → CS Marítimo
+- Mannou Berger: Feyenoord U21 → Feyenoord Rotterdam
+- Tijme Wessels: Feyenoord U21 → Feyenoord Rotterdam
+- Jivayno Zinhagel: Feyenoord U21 → Feyenoord Rotterdam
+- Jerayno Schaken: Feyenoord U21 → Feyenoord Rotterdam
+- Theodoros Delianidis: Feyenoord U21 → Feyenoord Rotterdam
+- Bruno Katz: VfL Wolfsburg U19 → VfL Wolfsburg
+- Nicolas Peter: Eintracht Frankfurt U19 → Eintracht Frankfurt II
+- Pedro Guimaraes: Eintracht Frankfurt U19 → Eintracht Frankfurt II
+- Christian Prenaj: Eintracht Frankfurt U19 → Eintracht Frankfurt II
+- Niko Ilicevic: Eintracht Frankfurt U19 → Eintracht Frankfurt II
+- Yannick Gerritsen: FC Twente Enschede U21 → FC Twente Enschede
+- Marwin Schmitz: FC St. Pauli II → FC St. Pauli
+- Batu Akgöz: SV Sandhausen U19 → SV Sandhausen
+- Luka Vukoja: SV Sandhausen U19 → SV Sandhausen
+- Nick Schmidt: FC St. Pauli II → FC St. Pauli
+- Enis Kamga: 1.FC Kaiserslautern II → 1.FC Kaiserslautern
+- David Schramm: 1.FC Kaiserslautern II → 1.FC Kaiserslautern
+- Dion Hofmeister: 1.FC Kaiserslautern II → 1.FC Kaiserslautern
+- Kian Scheer: 1.FC Kaiserslautern II → 1.FC Kaiserslautern
+- Owen Gibs: 1.FC Kaiserslautern II → 1.FC Kaiserslautern
+- Ben Jungfleisch: 1.FC Kaiserslautern II → 1.FC Kaiserslautern
+- Erik Müller: 1.FC Kaiserslautern II → 1.FC Kaiserslautern
+- Jesper Mosselaar: FC Groningen U21 → FC Groningen
+- Jismerai Dillema: FC Groningen U21 → FC Groningen
+- Jahelille Hall: FC Groningen U21 → FC Groningen
+- Pascal Kuiper: Sparta Rotterdam U21 → Sparta Rotterdam
+- Mateo Mrden: SSV Ulm 1846 U19 → SSV Ulm 1846
+- Konstantin Heide: Hertha BSC II → Hertha BSC
+- Burak Özkanlı: Hertha BSC II → Hertha BSC
+- Jadiel Pereira da Gama: PEC Zwolle U21 → PEC Zwolle
+- Givaro Rahajaän: PEC Zwolle U21 → PEC Zwolle
+- Jerome Diallo: Hertha BSC U19 → Hertha BSC
+- Mayson Grothe: Hertha BSC U19 → Hertha BSC
+- Kian Todorovic: Hertha BSC II → Hertha BSC
+- Gilles van der Wal: PEC Zwolle U21 → PEC Zwolle
+- Niklas Hildebrandt: Hertha BSC II → Hertha BSC
+- Jonas Schwanke: Hannover 96 II → Hannover 96
+- Joschua Siewert: Hannover 96 II → Hannover 96
+- Asuma Ikari: Hannover 96 II → Hannover 96
+- Noah Engelbreth: Hannover 96 II → Hannover 96
+- Théodore Pizarro: SC Freiburg U19 → SC Freiburg II
+- Emilio Schiertz: SC Freiburg U19 → SC Freiburg II
+- Thomas Hulleman: Go Ahead Eagles Deventer U21 → Go Ahead Eagles
+- Terence Lantveld: Go Ahead Eagles Deventer U21 → Go Ahead Eagles
+- Jasper Reinhold: Hannover 96 U19 → Hannover 96
+- Alexander Vogel: Hannover 96 II → Hannover 96
+- Yunus Ünal: Hannover 96 II → Hannover 96
+- Taycan Kurt: Hannover 96 II → Hannover 96
+- Tammo Schiertz: SC Freiburg U19 → SC Freiburg II
+- Jannik Veit: SC Freiburg U19 → SC Freiburg II
+- Mladen Mijajlovic: SC Freiburg U19 → SC Freiburg II
+- Chrisdy Dianzenza: SC Freiburg U19 → SC Freiburg II
+- Ofosu Boakye: Go Ahead Eagles Deventer U21 → Go Ahead Eagles
+- Jens Mathijsen: Willem II Tilburg U21 → Willem II Tilburg
+- Tom Hobrecht: Hannover 96 II → Hannover 96
+- Robert Kampa: 1.FC Magdeburg II → 1.FC Magdeburg
+- Tarek Chahed: 1.FC Magdeburg II → 1.FC Magdeburg
+- Eldin Dzogovic: 1.FC Magdeburg II → 1.FC Magdeburg
+- Magnus Baars: 1.FC Magdeburg II → 1.FC Magdeburg
+- Kevin Manthey: 1.FC Magdeburg II → 1.FC Magdeburg
+- Hugo Rölleke: VfL Bochum II → VfL Bochum
+- Leon Sawas: VfL Bochum II → VfL Bochum
+- Philipp Licht: Stuttgarter Kickers U19 → Stuttgarter Kickers
+- Luis Pick: VfL Bochum II → VfL Bochum
+- Lirijon Abdullahu: Stuttgarter Kickers U19 → Stuttgarter Kickers
+- Leandro Mendes: Stuttgarter Kickers U19 → Stuttgarter Kickers
+- Caleb Kramer: ADO Den Haag U21 → ADO Den Haag
+- Benedikt Börner: SV Darmstadt 98 II → SV Darmstadt 98
+- Max Pfister: SV Darmstadt 98 II → SV Darmstadt 98
+- Dani van Loenen: ADO Den Haag U21 → ADO Den Haag
+- Gani Büyükhan: Fortuna Sittard U21 → Fortuna Sittard
+- Till Wegener: Arminia Bielefeld U19 → Arminia Bielefeld
+- Daniel Richter: Arminia Bielefeld U19 → Arminia Bielefeld
+- Vincent Ocansey: Arminia Bielefeld II → Arminia Bielefeld
+- Aaron Reschke: FC Energie Cottbus U19 → FC Energie Cottbus
+- Jassem Nasraoui: VfR Mannheim II → VfR Mannheim
+- Luis Baumert: FC-Astoria Walldorf II → FC-Astoria Walldorf
+- Dimitrios Monastirlis: PAOK Thessaloniki → PAOK Thessaloniki B
+- Dimitrios Bataoulas: PAOK Thessaloniki → PAOK Thessaloniki B
+- Georgios Kosidis: PAOK Thessaloniki → PAOK Thessaloniki B
+- Dimitrios Tsopouroglou: PAOK Thessaloniki → PAOK Thessaloniki B
+- Dimitrios Berdos: PAOK Thessaloniki U19 → PAOK Thessaloniki B
+- Georgios Konstantakopoulos: Iraklis Thessaloniki → AE Larisa
+- Anastasios Kabagiovanis: Olympiacos Piraeus U19 → Olympiacos Piraeus B
+- Iason Georgakopoulos: Olympiacos Piraeus U19 → Olympiacos Piraeus B
+- Nikolaos Avramoulis: Olympiacos Piraeus U19 → Olympiacos Piraeus B
+- Vasilios Karkatsalis: Olympiacos Piraeus U19 → Olympiacos Piraeus B
+- Georgios Siozios: Olympiacos Piraeus U19 → Olympiacos Piraeus B
+- Theodoros Venetis: Olympiacos Piraeus U19 → Olympiacos Piraeus B
+- Theofanis Bakoulas: Olympiacos Piraeus → Olympiacos Piraeus B
+- Christos Filis: Olympiacos Piraeus → Olympiacos Piraeus B
+- Christos Kapellas: Olympiacos Piraeus U19 → Olympiacos Piraeus B
+- Petros Kolokotronis: Olympiacos Piraeus U19 → Olympiacos Piraeus B
+- Vasilios Chatziemmanouil: Asteras Aktor → Asteras Aktor B
+- Theofilos Kakadiaris: Asteras Aktor → Asteras Aktor B
+- Konstantinos Pomonis: Asteras Aktor → Asteras Aktor B
+- Matias Zogu: Asteras Aktor U19 → Asteras Aktor B
+- Haakon Sørum: Rosenborg BK → Rosenborg BK II
+- Håkon Volden: Rosenborg BK → Rosenborg BK II
+- Ulrik Hald-Hernes: Rosenborg BK → Rosenborg BK II
+- Aleksander Borgersen: Rosenborg BK → Rosenborg BK II
+- Maciej Soboczynski: Rosenborg BK → Rosenborg BK II
+- Abdul Majeed Al-Yahmadi: Sohar SC → Al-Shabab SC (Oman)
+- John Provido: Ranheim IL → Ranheim IL II
+- Leander Skammelsrud: Ranheim IL → Ranheim IL II
+- Maurice Sylva: Ranheim IL → Ranheim IL II
+- Mohamed Al-Habsi: Al-Nahda Club → Dhofar Club
+- Khalifa Al-Marzouei: Fanja SC → Sohar SC
+- Mouhameth Diop: Al-Fujairah SC → Sohar SC
+- Ilya Gorbachev: Rodina-3 Moscow → Rodina 2 Moscow
+- Aleksandr Andreev: Rodina-3 Moscow → Rodina 2 Moscow
+- Magomed Omarov: Rodina-3 Moscow → Rodina 2 Moscow
+- Mohammed Al-Hinai: Saham Club → Bahla Club
+- Basil Al-Ruqadi: Fanja SC → Sur SC
+- Ruslan Dzhioev: Akademia Dinamo Moskau U16 → Dynamo 2 Moscow
+- Tobias Leikanger: Aalesunds FK → Aalesunds FK II
+- Yaser Al-Balushi: Al-Shabab SC (Oman) → Fanja SC
+- Jonathan Fugelsnes: Molde FK → Molde FK II
+- Iván Morel: Club Sol de América → Deportivo Capiatá
+- Sabir Bougrine: Без клуба → KACM Marrakech
+- Amirhossein Mousazadeh: Shahrdari Nowshahr → Saipa FC
+- Mikhail Aleksandrov: Dinamo Minsk → Dinamo-BGUFK Minsk
+- Aldhy Valencia: Universidad César Vallejo II → Universidad César Vallejo
+- Ernesto Pinillos: Universidad César Vallejo II → Universidad César Vallejo
+- Bryan Córdova: Universidad César Vallejo II → Universidad César Vallejo
+- Julinho Astudillo: Universidad César Vallejo II → Universidad César Vallejo
+- Paulo Mesías: Universidad César Vallejo II → Universidad César Vallejo
+- Joel Quispe: Universidad César Vallejo II → Universidad César Vallejo
+- Fernando Paiva: Universidad César Vallejo II → Universidad César Vallejo
+- Guillermo Espinel: Ucayali FC → Universidad César Vallejo
+- Jailson Mathey: Universidad César Vallejo II → Universidad César Vallejo
+- Diego Ulloa: Universidad César Vallejo II → Universidad César Vallejo
+- Joseph de la Cruz: Universidad César Vallejo II → Universidad César Vallejo
+- Diether Vásquez: Universidad César Vallejo II → Universidad César Vallejo
+- Guillermo Grández: Universidad César Vallejo II → Universidad César Vallejo
+- Matías Canahualpa: Universidad César Vallejo II → Universidad César Vallejo
+- Rodrigo Gómez: Universidad César Vallejo II → Universidad César Vallejo
+- Angelo Valiente: Universidad César Vallejo II → Universidad César Vallejo
+- Massimo Campana: Universidad César Vallejo II → Universidad César Vallejo
+- Eduardo Urtecho: Universidad César Vallejo II → Universidad César Vallejo
+- Alireza Hemmati: Dena Yasuj → Naft va Gaz Gachsaran
+- Seyed Reza Darvishi: FC Nassaji Mazandaran → Shahin Bandar Ameri
+- Mehdi Tahmasebi: FC Nassaji Mazandaran → Shahin Bandar Ameri
+- Abbas Bakhtiari: Navad Urmia FC → Fard Alborz
+- Nikolaos Gidopoulos: TSV Eller → TSV Eller 04
+- Hiroyuki Horii: TSV Eller → TSV Eller 04
+- Ioannis Latrovalis: TSV Eller → TSV Eller 04
+- Jan-Eric Heydn: TSV Eller → TSV Eller 04
+- Sascha Bechert: TSV Eller → TSV Eller 04
+- Adnan Hotic: TSV Eller → TSV Eller 04
+- Yoshiki Urata: TSV Eller → TSV Eller 04
+- Julien Augarde: TSV Eller → TSV Eller 04
+- Noah Karthaus: TSV Eller → TSV Eller 04
+- Koray Temiz: TSV Eller → TSV Eller 04
+- Fabrizio Leone: TSV Eller → TSV Eller 04
+- Shinji Kojima: TSV Eller → TSV Eller 04
+- Noah Karczewski: TSV Eller → TSV Eller 04
+- Lejs Zenuni: TSV Eller → TSV Eller 04
+- Takumi Miyata: TSV Eller → TSV Eller 04
+- Keyvan Mataji: Malavan Bushehr → Fard Alborz
+- Ryo Matsutaka: TSV Eller → TSV Eller 04
+- Edon Haskaj: TSV Eller → TSV Eller 04
+- Nabil Abdoun: TSV Eller → TSV Eller 04
+- Antonio Marinovic: TSV Eller → TSV Eller 04
+- Niklas Harth: TSV Eller → TSV Eller 04
+- Celal Can Yücel: TSV Eller → TSV Eller 04
+- Kevin Lobato: TSV Eller → TSV Eller 04
+- Fabian Stutz: TSV Eller → TSV Eller 04
+- Nico Stracke: TSV Eller → TSV Eller 04
+- Anas El-Rifai: TSV Eller → TSV Eller 04
+- Moubarak Abdousamadou: TSV Eller → TSV Eller 04
+- Matvey Sukharenko: FK Minsk → FC Minsk 2
+- Konstantin Malitskiy: FK Minsk → FC Minsk 2
+- Ivan Volchok: FK Minsk → FC Minsk 2
+- Kian Shahroei: FC Arka City → Naft Masjed Soleyman FC
+- Platon Kolosovskiy: BATE Borisov → BATE 2 Borisov
+- Erfan Ghorbani: Palayesh Naft Bandar Abbas → Foolad B FC
+- Aleksandr Ryzhchenko: FK Gomel → FC Gomel 2
+- Alessandro Stein: Estudiantil CNI → Club Unión Minas
+- Dmitriy Emeljanov: FK Gomel → FC Gomel 2
+- Adrian Damasiewicz: Jagiellonia Bialystok → Jagiellonia Bialystok II
+- Jakub Rabiczko: Jagiellonia Bialystok → Jagiellonia Bialystok II
+- Krzysztof Lewczuk: Jagiellonia Bialystok U19 → Jagiellonia Bialystok II
+- Aleksander Śliwiński: Jagiellonia Bialystok U19 → Jagiellonia Bialystok II
+- Dawid Biernacik: Jagiellonia Bialystok U19 → Jagiellonia Bialystok II
+- Sebastian Łukaszuk: Jagiellonia Bialystok U19 → Jagiellonia Bialystok II
+- Krystian Tymoszczuk: Jagiellonia Bialystok U19 → Jagiellonia Bialystok II
+- Szymon Pankiewicz: Jagiellonia Bialystok → Jagiellonia Bialystok II
+- Maciej Kuczyński: Jagiellonia Bialystok → Jagiellonia Bialystok II
+- Cezary Kuprianowicz: Jagiellonia Bialystok U19 → Jagiellonia Bialystok II
+- Eryk Kozłowski: Jagiellonia Bialystok → Jagiellonia Bialystok II
+- Patryk Łukasiewicz: Jagiellonia Bialystok U19 → Jagiellonia Bialystok II
+- Zachary Zalewski: Jagiellonia Bialystok → Jagiellonia Bialystok II
+- Bartosz Pieczka: Jagiellonia Bialystok U19 → Jagiellonia Bialystok II
+- Paweł Pakieła: Jagiellonia Bialystok → Jagiellonia Bialystok II
+- Maksim Kononov: Jagiellonia Bialystok → Jagiellonia Bialystok II
+- Jakub Burek: Wisla Plock → Wisla Plock II
+- Szymon Wadas: Wisla Plock → Wisla Plock II
+- Przemysław Misiak: Wisla Plock → Wisla Plock II
+- Matvey Bokhno: Wisla Plock → Wisla Plock II
+- Marcin Więckowski: Wisla Plock → Wisla Plock II
+- Nikodem Rogowski: Wisla Plock → Wisla Plock II
+- Kacper Błaszkiewicz: Wisla Plock → Wisla Plock II
+- Marcin Kościelecki: Wisla Plock → Wisla Plock II
+- Jan Krzywański: Widzew Lodz → Widzew Lodz II
+- Paweł Czułowski: Jagiellonia Bialystok II → KTS Weszlo Warszawa
+- Marcel Szurgut: Polonia Warsaw U19 → Mazovia Minsk Mazowiecki
+- Simone Iuliano: FC Sarnese 1926 → Sarnese 1926
+- Danilo Russo: FC Sarnese 1926 → Sarnese 1926
+- Luca Rocco: FC Sarnese 1926 → Sarnese 1926
+- Checa: FC Sarnese 1926 → Sarnese 1926
+- Milos Milicevic: FC Sarnese 1926 → Sarnese 1926
+- Paride Pinna: FC Sarnese 1926 → Sarnese 1926
+- Kevin Magri: FC Sarnese 1926 → Sarnese 1926
+- Salvatore Monaco: FC Sarnese 1926 → Sarnese 1926
+- Francesco Cinque: FC Sarnese 1926 → Sarnese 1926
+- Matteo Rianna: FC Sarnese 1926 → Sarnese 1926
+- Sulaiman Oyewale: FC Sarnese 1926 → Sarnese 1926
+- Rocco Casiello: FC Sarnese 1926 → Sarnese 1926
+- Marco Armellino: FC Sarnese 1926 → Sarnese 1926
+- Aldo Bezzon: FC Sarnese 1926 → Sarnese 1926
+- Andrea Mancino: FC Sarnese 1926 → Sarnese 1926
+- Matteo Gerbaudo: AS Ostiamare Lido Calcio → Sarnese 1926
+- Carmine Giorgione: FC Sarnese 1926 → Sarnese 1926
+- Vasilios Emmanouil: FC Sarnese 1926 → Sarnese 1926
+- Steeve-Mike Eyango: FC Sarnese 1926 → Sarnese 1926
+- Aristidi Kolaj: FC Sarnese 1926 → Sarnese 1926
+- Eleoenai Tompte: FC Sarnese 1926 → Sarnese 1926
+- Debajit Sarkar: FC Sarnese 1926 → Sarnese 1926
+- Simone Addessi: FC Sarnese 1926 → Sarnese 1926
+- Michele Vrenna: FC Sarnese 1926 → Sarnese 1926
+- Mario Aprea: FC Sarnese 1926 → Sarnese 1926
+- Patrick Odendo: FC Sarnese 1926 → Sarnese 1926
+- Domenico Tempre: FC Sarnese 1926 → Sarnese 1926
+- Ciro Foggia: FC Sarnese 1926 → Sarnese 1926
+- Domenico Maggio: FC Sarnese 1926 → Sarnese 1926
+- Facundo Márquez: FC Sarnese 1926 → Sarnese 1926
+- Luca Arrighi: US Follonica Gavorrano → Calcio Budoni
+- Luca Tronci: Varese FC → Calcio Budoni
+- Cristian Norelli: Cremonese Under 17 → Cremonese Primavera
+- Ludovico Gori: US Recanatese → Albalonga
+- Gabriel Santoni: Albalonga → Atletico Lodigiani
+- Lamine Tall: AC Bra → Atletico Lodigiani
+- Alessio Bartolotta: Calcio Budoni → Anzio Calcio 1924
+- Filippo Galafassi: Atalanta Primavera → Pro Sesto 1913
+- Elia Mondino: Südtirol Under 17 → Südtirol Primavera
+- Xavier Mina: Südtirol Under 17 → Südtirol Primavera
+- Jannik Leitner: Südtirol Under 17 → Südtirol Primavera
+- Stefano Samaden: Aurora Pro Patria → USD Castellanzese 1921
+- Giacomo Parolin: Padova Under 17 → Padova Primavera
+- Tobiasz Mras: Wieczysta Krakow → Wieczysta Kraków II
+- Konrad Mayer: SpVgg Bayreuth → SpVgg Bayreuth II
+- Moritz Gindel: SpVgg Bayreuth → SpVgg Bayreuth II
+- Nick Karnitzschky: SpVgg Bayreuth → SpVgg Bayreuth II
+- Louis Stöcker: SpVgg Bayreuth → SpVgg Bayreuth II
+- Lachie Charles: Melbourne City FC U23 (VPL1) → Oakleigh Cannons FC
+- Arion Sulemani: Perth Glory → Oakleigh Cannons FC
+- Guglielmo Arcadipane: Valenzana Mado SSD → AC Prato
+- Emanuele Occhipinti: Oltrepò FBC → ASD Tau Calcio Altopascio
+- Eneo Gjonaj: Fidelis Andria 2018 → US Follonica Gavorrano
+- Anthony Lesiotis: Heidelberg United FC → Avondale FC
+- Harry Van der Saag: Rockdale Ilinden FC → Avondale FC
+- Emanuele Galli: Correggese Calcio 1948 → Sasso Marconi 1924
+- Raymundo Rubio: CD Cruz Azul Hidalgo → CD Cruz Azul
+- Rogelio González: CD Cruz Azul Hidalgo → CD Cruz Azul
+- Bryan Gamboa: CD Cruz Azul Hidalgo → CD Cruz Azul
+- Sebastián Liceaga: CD Tapatío → Deportivo Guadalajara
+- Paxon Ruffin: CF Monterrey U19 → CF Monterrey
+- Leonardo Rodríguez: FC Juárez U21 → FC Juárez
+- Giuseppe Verduci: Reggina 1914 → Nuova Igea Virtus
+- Patrik Berka: SK Sigma Olomouc B → SK Sigma Olomouc
+- Jindrich Musil: FC Slovan Liberec B → FC Slovan Liberec
+- Francesco Nardella: Città di Gela → FC Trapani 1905
+- José Ordóñez: Vigor Lamezia Calcio → FC Trapani 1905
+- Kayro Flores Heatley: ASD Modica Calcio → Città di Gela
+- Krystof Karban: FK Jablonec B → FK Jablonec
+- Ho-Man Mak: Central & Western District → Tsuen Wan
+- Filip Vecera: FC Zbrojovka Brno B → FC Zbrojovka Brno
+- Emmanuel Nanapere: Città di Gela → ASD Digiesse PraiaTortora
+- Paul Marti Kern: Sportfreunde Seligenstadt → SG Bornheim/GW
+- Dawid Jankowski: Polonia Warsaw → Polonia Warsaw U19
+- Mikołaj Gorzędowski: Polonia Warsaw → Polonia Warsaw U19
+- Damian Poczwardowski: Polonia Warsaw → Polonia Warsaw U19
+- Emmanuel Ochoa: CD Cruz Azul Hidalgo → CD Cruz Azul
+- Raymundo Rubio: CD Cruz Azul Hidalgo → CD Cruz Azul
+- Antoni Kapusta: Polonia Warsaw → Polonia Warsaw U19
+- Kacper Ziółkowski: Polonia Warsaw → Polonia Warsaw U19
+- Nikodem Gimiński: Legia Warsaw II → Legia Warsaw U19
+- Rogelio González: CD Cruz Azul Hidalgo → CD Cruz Azul
+- Oskar Krakowiak: Legia Warsaw II → Legia Warsaw U19
+- Igor Owczarczyk: Legia Warsaw II → Legia Warsaw U19
+- Bartosz Korżynski: Legia Warszawa → Legia Warsaw U19
+- Mateusz Lauryn: Legia Warszawa → Legia Warsaw U19
+- Oskar Putrzyński: Legia Warsaw II → Legia Warsaw U19
+- Daniel Foks: Legia Warsaw II → Legia Warsaw U19
+- Bryan Gamboa: CD Cruz Azul Hidalgo → CD Cruz Azul
+- Sebastián Liceaga: CD Tapatío → Deportivo Guadalajara
+- Marcel Laszczyk: Legia Warsaw II → Legia Warsaw U19
+- Norbert Merchel: Legia Warsaw II → Legia Warsaw U19
+- Jakub Gliwa: Legia Warsaw II → Legia Warsaw U19
+- Szymon Piasta: Legia Warsaw II → Legia Warsaw U19
+- Franciszek Stępniewski: Legia Warszawa → Legia Warsaw U19
+- Edouard Etchemendigaray: Legia Warsaw II → Legia Warsaw U19
+- Wiktor Obremski: Lech Poznań → Lech Poznan U19
+- Aleks Olsztyn: Lech Poznań → Lech Poznan U19
+- Ignacy Zakrzewski: Lech Poznan II → Lech Poznan U19
+- Jeremi Ciach: Lech Poznan II → Lech Poznan U19
+- Marcello Trippel: Borussia Mönchengladbach U19 → Borussia Mönchengladbach II
+- Artem Muradyan: Borussia Mönchengladbach U19 → Borussia Mönchengladbach II
+- Joseph Bellahsen: Borussia Mönchengladbach U19 → Borussia Mönchengladbach II
+- Jakub Falkiewicz: Lech Poznan II → Lech Poznan U19
+- Aleksander Klimkiewicz: Lech Poznan II → Lech Poznan U19
+- Piotr Bartczak: Lech Poznań → Lech Poznan U19
+- Xawier Koral: Lech Poznan II → Lech Poznan U19
+- Alan Majewski: Lech Poznan II → Lech Poznan U19
+- Antoni Klecha: Lech Poznan II → Lech Poznan U19
+- Marlon Siebert: Borussia Mönchengladbach U19 → Borussia Mönchengladbach II
+- Marcel Mischke: Lech Poznan II → Lech Poznan U19
+- Serafim Bakhno: Lech Poznan II → Lech Poznan U19
+- Eryk Śledziński: Lech Poznań → Lech Poznan U19
+- Miłosz Noski: Lech Poznan II → Lech Poznan U19
+- Wojciech Szymczak: Lech Poznan II → Lech Poznan U19
+- Igor Owczarek: Lech Poznan II → Lech Poznan U19
+- Oliwier Latosi: Lech Poznan II → Lech Poznan U19
+- Olaf Osowski: Lech Poznan II → Lech Poznan U19
+- Hubert Siniecki: Miedz Legnica → Miedz Legnica U19
+- Mateusz Węzik: Miedz Legnica II → Miedz Legnica U19
+- Bartosz Wlazło: Miedz Legnica II → Miedz Legnica U19
+- Borys Hucaluk: Miedz Legnica II → Miedz Legnica U19
+- Daniel Kwak: Miedz Legnica II → Miedz Legnica U19
+- Patryk Szuba: Miedz Legnica II → Miedz Legnica U19
+- Marceli Żwan: Miedz Legnica → Miedz Legnica U19
+- Krystian Różycki: Miedz Legnica II → Miedz Legnica U19
+- Paxon Ruffin: CF Monterrey U19 → CF Monterrey
+- Mikolaj Jasinski: Miedz Legnica II → Miedz Legnica U19
+- Filip Wiśniewski: Miedz Legnica II → Miedz Legnica U19
+- Sebastian Herbut: Miedz Legnica → Miedz Legnica U19
+- Dawid Gacki: Miedz Legnica II → Miedz Legnica U19
+- Marcel Schabowski: Miedz Legnica II → Miedz Legnica U19
+- Mateusz Dubrowski: Zaglebie Lubin II → Zaglebie Lubin U19
+- Igor Kaftanowicz: Zaglebie Lubin II → Zaglebie Lubin U19
+- Luke Fahrenhorst: Borussia Dortmund U19 → Borussia Dortmund II
+- Fadi Zarqelain: Borussia Dortmund U19 → Borussia Dortmund II
+- Jakub Fogt: Zaglebie Lubin II → Zaglebie Lubin U19
+- Maciej Toporowski: Zaglebie Lubin II → Zaglebie Lubin U19
+- Kajetan Feliks: Zaglebie Lubin II → Zaglebie Lubin U19
+- Filip Kołodziejski: Zaglebie Lubin II → Zaglebie Lubin U19
+- Bartosz Bondziul: Zaglebie Lubin II → Zaglebie Lubin U19
+- Dominik Nowak: Slask Wroclaw II → Slask Wroclaw U19
+- Mikołaj Słodkowski: Slask Wroclaw II → Slask Wroclaw U19
+- Oliwier Czyzio: Slask Wroclaw II → Slask Wroclaw U19
+- Mateusz Cegliński: Slask Wroclaw II → Slask Wroclaw U19
+- Jakub Kaszub: Slask Wroclaw II → Slask Wroclaw U19
+- Łukasz Zajączkowski: Slask Wroclaw II → Slask Wroclaw U19
+- Aleksander Wołosowski: Slask Wroclaw II → Slask Wroclaw U19
+- Mateusz Moskaluk: Slask Wroclaw II → Slask Wroclaw U19
+- Przemyslaw Mazan: Slask Wroclaw → Slask Wroclaw U19
+- Bartosz Sadłocha: Slask Wroclaw II → Slask Wroclaw U19
+- Konrad Sokołowski: Slask Wroclaw II → Slask Wroclaw U19
+- Mateusz Sokół: Stal Rzeszow → Stal Rzeszow U19
+- Leonardo Rodríguez: FC Juárez U21 → FC Juárez
+- Javier Orantes: Club Necaxa U21 → Club Necaxa
+- Jason Schneider: VfL Bochum U19 → VfL Bochum II
+- Moritz Göttlicher: VfL Bochum U19 → VfL Bochum II
+- Lukas van Ingen: SV Rödinghausen II → SV Rödinghausen
+- Max Koch: SV Rödinghausen II → SV Rödinghausen
+- Noah-Henry Köse: SV Rödinghausen II → SV Rödinghausen
+- Moritz Brasas: SV Rödinghausen II → SV Rödinghausen
+- Allan Firmino Dantas: SV Rödinghausen II → SV Rödinghausen
+- Lasse Zumdieck: SV Rödinghausen II → SV Rödinghausen
+- Ansgar Kuhlmann: SV Rödinghausen II → SV Rödinghausen
+- Niklas Burlage: SV Rödinghausen II → SV Rödinghausen
+- Szymon Wajszczyk: Raków Częstochowa II → Rakow Czestochowa U19
+- Hubert Szulc: Raków Częstochowa II → Rakow Czestochowa U19
+- Kamil Małota: Raków Częstochowa II → Rakow Czestochowa U19
+- Maksym Pluta: Raków Częstochowa II → Rakow Czestochowa U19
+- Reece Dziedziński: Raków Częstochowa II → Rakow Czestochowa U19
+- Franciszek Nowak: Zaglebie Lubin → Zaglebie Lubin II
+- Maciej Urbański: Zaglebie Lubin → Zaglebie Lubin II
+- Mateusz Dziewiatowski: Zaglebie Lubin → Zaglebie Lubin II
+- Szymon Lyczko: Zaglebie Lubin → Zaglebie Lubin II
+- Kamil Nowogoński: Zaglebie Lubin → Zaglebie Lubin II
+- Cyprian Popielec: Zaglebie Lubin → Zaglebie Lubin II
+- Jakub Ligocki: Zaglebie Lubin → Zaglebie Lubin II
+- Seweryn Marek: Zaglebie Lubin → Zaglebie Lubin II
+- Krzysztof Narożny: Miedz Legnica → Miedz Legnica II
+- Hubert Siniecki: Miedz Legnica → Miedz Legnica II
+- Igor Maliszewski: Miedz Legnica → Miedz Legnica II
+- Wojciech Rezacz: Miedz Legnica → Miedz Legnica II
+- Szymon Pączek: Miedz Legnica → Miedz Legnica II
+- Sebastian Herbut: Miedz Legnica → Miedz Legnica II
+- Nikodem Całko: Raków Częstochowa → Raków Częstochowa II
+- Louis Lemke: Hamburger SV → Hamburger SV II
+- Jasper Reinhold: Hannover 96 U19 → Hannover 96 II
+- Stefan Smarkalev: SV Werder Bremen → SV Werder Bremen II
+- Darwin Soylu: SV Werder Bremen → SV Werder Bremen II
+- Louis Grobauer: 1.FC Phönix Lübeck II → 1.FC Phönix Lübeck
+- Christen Mensah: 1.FC Phönix Lübeck II → 1.FC Phönix Lübeck
+- Mika Meyer: 1.FC Phönix Lübeck II → 1.FC Phönix Lübeck
+- Mattia Vitale: FC Sarnese 1926 → Ischia Isola Verde
+- Henry Jeschonek: VfB Lübeck II → VfB Lübeck
+- Torben Sachau: VfB Lübeck II → VfB Lübeck
+- Jaromir Grimm: VfB Lübeck II → VfB Lübeck
+- Elias Al Sadi: VfB Lübeck II → VfB Lübeck
+- Yanel Zézé: FC Nantes B → FC Nantes
+- Massimiliano Montuori: Santegidiese 1948 → Gladiator 1924
+- Álvaro Lezcano: Real Madrid C → Real Madrid Castilla
+- Manex Rezola: Real Madrid C → Real Madrid Castilla
+- Yvan Djemba Mbappé: Montpellier HSC B → Montpellier HSC
+- Noah Vidal-Cartoux: Montpellier HSC B → Montpellier HSC
+- Javi Aznar: Atlético Madrid C → Atlético Madrileño
+- Mario Vilardi: FBC Gravina → FC Francavilla 1931
+- Álvaro Vega: Atlético Madrid C → Atlético Madrileño
+- Alessio Leveque: FC Trapani 1905 → Real Forio 2014
+- Onesime Tembe: Ragusa Calcio → Real Forio 2014
+- Zaid Seha: SC Aubagne Air Bel → USL Dunkerque
+- Noa Kotto Kotto Mouyema: FC Sochaux-Montbéliard B → FC Sochaux-Montbéliard
+- Boubacar Diallo: Dijon FCO B → Dijon FCO
+- Florian Rombogouera: Dijon FCO B → Dijon FCO
+- Tyrese Noubissie: Racing Strasbourg B → RC Strasbourg Alsace
+- Lassine Diarra: Olympique Lyon B → Olympique Lyon
+- Olsi Shiba: TuS Blau-Weiß Königsdorf → SV Blau-Weiß Dingden
+- Alexi Koum: Olympique de Marseille B → Olympique Marseille
+- Kelyann Bezahaf: Olympique de Marseille B → Olympique Marseille
+- Nouhoum Kamissoko: Olympique de Marseille B → Olympique Marseille
+- Mamoudou Cissokho: AJ Auxerre B → AJ Auxerre
+- Andrija Milicevic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Milos Soprenic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Maksim Cavaric: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Andrija Milasinovic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Maël Gernigon: Angers SCO U19 → Angers SCO
+- Stefan Tomovic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Uros Mihailovic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Vahid Gicic: FK TSC Backa Topola U19 → FK TSC Backa Topola
+- Savo Radanovic: Red Star Belgrade U19 → Graficar Belgrad
+- Strahinja Baucal: Red Star Belgrade U19 → Graficar Belgrad
+- Ognjen Matanovic: Red Star Belgrade U19 → Graficar Belgrad
+- Dimitrije Saric: Red Star Belgrade U19 → Graficar Belgrad
+- Luka Avramovic: FK Spartak Subotica U19 → FK Spartak Subotica
+- Strahinja Vasilic: FK Spartak Subotica U19 → FK Spartak Subotica
+- David Angelevski: FK Spartak Subotica U19 → FK Spartak Subotica
+- Nikola Karaklajic: FC Imishli → FK Spartak Subotica
+- Nemanja Zaric: FK Zeleznicar Pancevo → FK Smederevo 1924
+- Aleksandar Kahriman: FK Vozdovac U19 → FK Vozdovac
+- Filip Pavlovic: FK Vozdovac U19 → FK Vozdovac
+- Nikola Cejovic: FK Vozdovac U19 → FK Vozdovac
+- Ahmed Skrijelj: FK Vozdovac U19 → FK Vozdovac
+- Luka Maksimovic: FK Vozdovac U19 → FK Vozdovac
+- Mateo Kesikj: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Djordje Todoric: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Nenad Grujic: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Uros Damnjanovic: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Islam Mohammed Kpare: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Matija Budjevac: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Jakov Jovanovic: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Nikola Paunovic: FK Jedinstvo Ub U19 → FK Jedinstvo Ub
+- Tom Kelly: Brora Rangers FC → Strathspey Thistle FC
+- Matheus Machado: Elgin City FC → Strathspey Thistle FC
+- Facinet Conte: BSC Young Boys → BSC Young Boys U21
+- Gabriel Roskovic: FC Zürich U19 → FC Zürich U21
+- Thomas Heller: FC Lugano U19 → FC Lugano II
+- Andrea Riva: FC Lugano U19 → FC Lugano II
+- Yassine Ourais: FC Lugano U19 → FC Lugano II
+- Kenan Jakupovic: FC Lugano U19 → FC Lugano II
+- Grant Moroney: Formartine United FC → Deveronvale FC
+- Jamie MacLellan: Deveronvale FC → Fraserburgh FC
+- Fraser Mackie: Peterhead FC → Fraserburgh FC
+- Sylvain Djoho: Servette FC U21 → FC Grand-Saconnex
+- Archie Kerr: Brora Rangers FC → Nairn County FC
+- Fraser Robertson: Buckie Thistle FC → Nairn County FC
+- Aaron Nicolson: Buckie Thistle FC → Nairn County FC
+- Liam MacDonald: Elgin City FC → Buckie Thistle FC
+- Callum Murray: Huntly FC → Buckie Thistle FC
+- Antonello Serra: Campobasso FC → Ancona Calcio
+- Alek Matczak: Huntly FC → Lossiemouth FC
+- Brodie Allen: Huntly FC → Lossiemouth FC
+- Damiano Menna: Ascoli Calcio → Teramo Calcio 1913
+- Julian Schmutz: FC Basel 1893 U19 → FC Basel 1893 U21
+- Abdulmanaf Kerim: FC Basel 1893 U19 → FC Basel 1893 U21
+- Josh Bolton: Inverurie Loco Works FC → Turriff United FC
+- Jack Robertson: Banks O' Dee FC → Inverurie Loco Works FC
+- Cole Taylor: Elgin City FC → Rothes FC
+- Simone Tardini: FC Vigor Senigallia → SS Maceratese 1922
+- Alioune Mbaye: US Recanatese → SS Maceratese 1922
+- Gian Marco Falocco: ASD Angelana 1930 → Angelana 1930
+- Tomoki Okawa: aries Toshima → Briobecca Urayasu-Ichikawa
+- Mohamed Ayman Sanat: SEF Torres 1903 → ASD K-Sport Montecchio
+- Giacomo Benvenuti: Fidelis Andria 2018 → Santegidiese 1948
+- Leonardo Vitali: Polisportiva Pietralunghese → Pietralunghese
+- Daniele D'Angelo: Polisportiva Pietralunghese → Pietralunghese
+- Jacopo Naticchi: Polisportiva Pietralunghese → Pietralunghese
+- Nicolò De Benetti: Polisportiva Pietralunghese → Pietralunghese
+- Tommaso Martinelli: Polisportiva Pietralunghese → Pietralunghese
+- Lorenzo Schiaroli: Polisportiva Pietralunghese → Pietralunghese
+- Filippo Barboni: Polisportiva Pietralunghese → Pietralunghese
+- Stefano Tersini: Polisportiva Pietralunghese → Pietralunghese
+- Leonardo Bocci: Polisportiva Pietralunghese → Pietralunghese
+- Filippo Amantini: Polisportiva Pietralunghese → Pietralunghese
+- Walter Cozza: Polisportiva Pietralunghese → Pietralunghese
+- Diego Giambi: Polisportiva Pietralunghese → Pietralunghese
+- Francesco Cecilioni: Polisportiva Pietralunghese → Pietralunghese
+- Christian Roselli: Polisportiva Pietralunghese → Pietralunghese
+- Alessandro Massai: Polisportiva Pietralunghese → Pietralunghese
+- Valerio Conti: Polisportiva Pietralunghese → Pietralunghese
+- Alessandro Locchi: Polisportiva Pietralunghese → Pietralunghese
+- Francesco Esposito: Polisportiva Pietralunghese → Pietralunghese
+- Riccardo Piccioli: Polisportiva Pietralunghese → Pietralunghese
+- Giacomo Mancini: Polisportiva Pietralunghese → Pietralunghese
+- Elio Calderini: Polisportiva Pietralunghese → Pietralunghese
+- Joseph Mangiaratti: Polisportiva Pietralunghese → Pietralunghese
+- Mattia Gagliardi: Polisportiva Pietralunghese → Pietralunghese
+- Matteo Boriosi: Polisportiva Pietralunghese → Pietralunghese
+- Sacha Cori: Polisportiva Pietralunghese → Pietralunghese
+- Alessandro Rossi: Polisportiva Pietralunghese → Pietralunghese
+- Ali Loune: Без клуба → FC Erzgebirge Aue
+- Stefan Musa: TSV 1860 Munich → TSV 1860 München II
+- Luca Scholl: TSV 1860 München U19 → TSV 1860 München II
+- Alexander Coenen: SpVgg Unterhaching II → TSV 1860 München II
+- Ludwig Estermann: TSV 1860 München U19 → TSV 1860 München II
+- Arda Efe: TSV 1860 München U19 → TSV 1860 München II
+- Edon Krasniqi: TSV 1860 München U19 → TSV 1860 München II
+- Jahi Osmani: TSV 1860 München U19 → TSV 1860 München II
+- Maximilian Riedelsberger: TSV 1860 München U19 → TSV 1860 München II
+- Oskar Lindemann: TSV 1860 München U19 → TSV 1860 München II
+- Xaver Lippmann: TSV 1860 München U19 → TSV 1860 München II
+- Mathew Collins: TSV 1860 Munich → TSV 1860 München II
+- Brahim Moumou: TSV 1860 Munich → TSV 1860 München II
+- Efe Karakoç: TSV 1860 München U19 → TSV 1860 München II
+- Paul Sturm: TSV 1860 München U19 → TSV 1860 München II
+- Valentin Bannert: TSV 1860 München U19 → TSV 1860 München II
+- Janek Reetz: FSV 63 Luckenwalde II → FSV 63 Luckenwalde
+- Finn Sauer: KSV Hessen Kassel → KSV Hessen Kassel II
+- Luke Schneider: KSV Hessen Kassel → KSV Hessen Kassel II
+- Silas Hagemann: KSV Hessen Kassel → KSV Hessen Kassel II
+- Leo Seiler: SV Rot-Weiss Walldorf II → SV Rot-Weiss Walldorf
+- Si-hyeon Gong: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Ji-wan Jeon: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Han-gyeol Lee: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Dae-young Chung: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Ju-hyeong Kim: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Sang-myung Lee: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Jin-woong Choi: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Jae-bin Han: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Su-hyung Kim: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Jun-yeong Kim: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Jeong-hyeok Seo: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Seung-jun Hwang: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Nam-ung Jang: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Jun-hyuk Moon: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Hyun-soo Woo: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Geon-hee Lee: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Tae-young Kim: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Seung-min Han: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Hee-byeok Kwak: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Seok-jin Han: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Hyun-min Park: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Gyo-bin Koo: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Hyun-seok Yoon: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Chang-hoon Kim: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Seung-min Um: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Tae-hun An: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Sang-woon Jeong: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Jun-hwi Lim: Jeonbuk Hyundai Motors → Jeonbuk Hyundai Motors Reserves
+- Yaroslav Vladimirov: Akademia Zenit St. Petersburg U17 → Zenit St. Petersburg II
+- Aleksandr Shirov: Dynamo 2 Moscow → Dynamo Moscow II
+- Danil Avramenko: Dynamo 2 Moscow → Dynamo Moscow II
+- Artem Shpinkov: Dynamo 2 Moscow → Dynamo Moscow II
+- Arseniy Khvalko: Dynamo 2 Moscow → Dynamo Moscow II
+- Ivan Lisovskiy: Dynamo 2 Moscow → Dynamo Moscow II
+- Vladislav Stepanov: Dynamo 2 Moscow → Dynamo Moscow II
+- Andrey Mikhaylenko: Dynamo 2 Moscow → Dynamo Moscow II
+- Vyacheslav Yarosh: Dynamo 2 Moscow → Dynamo Moscow II
+- Danil Roslyakov: Rodina-3 Moscow → Rodina Moscow II
+- Ilya Gorbachev: Rodina-3 Moscow → Rodina Moscow II
+- Aleksandr Lazarev: Rodina 2 Moscow → Rodina Moscow II
+- Magomed Omarov: Rodina-3 Moscow → Rodina Moscow II
+- Artem Kriulskiy: Rodina-3 Moscow → Rodina Moscow II
+- Ivan Makarov: Rodina-3 Moscow → Rodina Moscow II
+- Ivan Vozrastov: Rodina 2 Moscow → Rodina Moscow II
+- Matvey Minets: Akademia Lokomotiv Moskau U17 → Lokomotiv Moscow II
+- Valeriy Gorbach: FC Rostov 2 → FC Rostov II
+- Vadim Vlasov: FC Rostov 2 → FC Rostov II
+- Nikita Levnikov: FC Rostov 2 → FC Rostov II
+- Artem Logvinenko: FC Rostov 2 → FC Rostov II
+- Bogdan Borisenko: FC Rostov 2 → FC Rostov II
+- Alim Alimov: FC Rostov 2 → FC Rostov II
+- Maksim Vanidovskiy: FC Rostov 2 → FC Rostov II
+- Maksim Gorbunov: FC Rostov 2 → FC Rostov II
+- Saveliy Galyuta: FC Rostov 2 → FC Rostov II
+- Dmitriy Shantaliy: FC Rostov 2 → FC Rostov II
+- Kristian Mikhailov: FC Rostov 2 → FC Rostov II
+- Vadim Rassadin: FC Rostov 2 → FC Rostov II
+- Ruslan Pichienko: Spartak 2 Moscow → Spartak Moskow II
+- Pavel Egorov: Spartak 2 Moscow → Spartak Moskow II
+- Georgiy Khanin: Spartak 2 Moscow → Spartak Moskow II
+- Nikita Zakharov: Spartak 2 Moscow → Spartak Moskow II
+- Egor Maksimov: Spartak 2 Moscow → Spartak Moskow II
+- Noé Carrillo: Deportivo A Coruña → RC Deportivo Fabril
+- Fedor Vinokurenkov: Spartak 2 Moscow → Spartak Moskow II
+- Pavel Pelevin: Spartak 2 Moscow → Spartak Moskow II
+- Aleksandr Konkin: Spartak 2 Moscow → Spartak Moskow II
+- Vadim Tsygankov: Spartak 2 Moscow → Spartak Moskow II
+- Arseniy Tolstov: Rubin 2 Kazan → Rubin Kazan II
+- Adel Gaynulin: Rubin 2 Kazan → Rubin Kazan II
+- Rival Gumerov: Rubin 2 Kazan → Rubin Kazan II
+- Vladislav Postrigan: Akron-2 Togliatti → Akron Akademia Konoplev
+- Matvey Bezrogov: Akron-2 Togliatti → Akron Akademia Konoplev
+- Prince Chinedu: UD Logroñés Promesas → UD Logroñés
+- Marat Khametov: Akron-2 Togliatti → Akron Akademia Konoplev
+- Kirill Simonov: Akron-2 Togliatti → Akron Akademia Konoplev
+- Kirill Bazhukhin: Akron-2 Togliatti → Akron Akademia Konoplev
+- Georgiy Gablia: Akron-2 Togliatti → Akron Akademia Konoplev
+- Ruslan Metkalov: Akron-2 Togliatti → Akron Akademia Konoplev
+- Nikita Generalov: FC Nizhniy Novgorod → FC Nizhny Novgorod II
+- Denis Gazhalov: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Nikita Lyzlov: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Artem Akhmedyanov: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Arman Manukyan: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Tigran Arabachyan: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Oleg Karagodin: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Ivan Metin: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Artem Martirosyan: Academia Ural Ekaterinburg U17 → Ural Ekaterinburg II
+- Danil Zheludkov: Ural 2 Ekaterinburg → Ural Ekaterinburg II
+- Aleksey Osipov: Chertanovo Moscow → Chertanovo Moskau II
+- Danila Manyak: Chertanovo Moscow → Chertanovo Moskau II
+- Zakhar Evdachev: Chertanovo Moscow → Chertanovo Moskau II
+- Lev Akimov: Chertanovo Moscow → Chertanovo Moskau II
+- Danil Puzanov: Chertanovo Moscow → Chertanovo Moskau II
+- Umakhan Gamzalaev: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Gadzhi Ibragimov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Vagab Budaykhanov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Niyaz Gyulmagomedov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Ali Gulin: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Kamal Abdurashidov: Akademia Dynamo Moscow U17 → Dinamo Makhachkala II
+- Abdulla Ashurov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Khabib Agalarov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Gamid Shamkhalov: Dinamo-2 Makhachkala → Dinamo Makhachkala II
+- Abdullah Al-Oaisher: Al-Adalah FC → Al-Wehda FC
+- Tomas Kalinauskas: Без клуба → Maccabi Bnei Reineh
+- Theo Yolou: NK Hrvace → Al-Zulfi SFC
+- Matheo Graf: SV 07 Elversberg U19 → SV 07 Elversberg II
+- Marlon Ambos: SV 07 Elversberg U19 → SV 07 Elversberg II
+- Ori Malka: FC Ashdod → Maccabi Ironi Kiryat Gat
+- Anas Al-Qahtani: Al-Wehda FC → Al-Anwar Club
+- Ashraf Rabah: SC Kiryat Yam → Maccabi Ahi Nazareth
+- Ben Kieffer: SSV Jahn Regensburg → SSV Jahn Regensburg II
+- Zsombor Ráki: SSV Jahn Regensburg U19 → SSV Jahn Regensburg II
+- Besmir Bilali: SSV Jahn Regensburg U19 → SSV Jahn Regensburg II
+- Niklas Schicha: SSV Jahn Regensburg U19 → SSV Jahn Regensburg II
+- Felix Walther: FC Ingolstadt 04 U19 → FC Ingolstadt 04 II
+- Noel Lakatos: FC Ingolstadt 04 → FC Ingolstadt 04 II
+- Lorenzo Riboli: Solbiatese Calcio 1911 → Club Milano
+- Eymen Laghrissi: Karlsruher SC → Karlsruher SC II
+- Luca Mariotti: Club Milano → US Fiorenzuola 1922
+- Samuel Schneider: TSG Balingen II → TSG Balingen
+- Silas Bader: TSG Balingen II → TSG Balingen
+- Noel Feher: TSG Balingen II → TSG Balingen
+- Simone Bramante: Sant'Angelo → Tritium Calcio 1908
+- Rooney Troya: San Antonio FC → CD Universidad Católica
+- Saenddy Yánez: San Antonio FC → CD Universidad Católica
+- Dixon Gaspar: Barcelona SC Guayaquil U19 → Barcelona SC Guayaquil
+- Soo-bin Lee: Gimcheon Sangmu → Jeonbuk Hyundai Motors
+- Byung-kwan Jeon: Gimcheon Sangmu → Jeonbuk Hyundai Motors
+- Hyeon-ho Moon: Gimcheon Sangmu → Ulsan HD FC
+- Jung-taek Lee: Gimcheon Sangmu → Daejeon Hana Citizen
+- Myeong-kwan Seo: Ulsan HD FC → Gimcheon Sangmu
+- Jeong-won Eo: Pohang Steelers → Gimcheon Sangmu
+- Seung-hyeon Cha: Cheonan City → Gimcheon Sangmu
+- Min-gyu Jang: Jeju SK → Gimcheon Sangmu
+- Yi-seok Kim: Gimcheon Sangmu → Gangwon FC
+- Mun-ki Hwang: Pyeongchang United → Gangwon FC
+- Jong-beom Baek: Gimcheon Sangmu → FC Seoul
+- Israel Tello: Club Necaxa → Club Necaxa U19
+- Jeong-wan Yu: Sejong SA FC → FC Anyang
+- Tae-hwan Kim: Gimcheon Sangmu → Jeju SK
+- Gun-hee Lee: Gimcheon Sangmu → Jeju SK
+- Cameron Matthews: Mtarfa FC → Sirens FC
+- Samuel Noireau-Dauriat: SM Caen → US Orléans
+- Ibrahima Diakité: EA Guingamp B → SC Aubagne Air Bel
+- Simon Schwarz: FK Pirmasens → FK Pirmasens II
+- Benedikt Stratmann: FK Pirmasens → FK Pirmasens II
+- Noah Stilb: FK Pirmasens → FK Pirmasens II
+- Till Decker: FK Pirmasens → FK Pirmasens II
+- Teo Hupfauf: AKA Red Bull Salzburg U18 → FC Liefering
+- Alexander Hillebrand: UFC Hallein → FC Liefering
+- Ifeanyichukwu Onwuzulike: AKA Red Bull Salzburg U18 → FC Liefering
+- Rafael Feldinger: AKA Red Bull Salzburg U18 → FC Liefering
+- Josh O'Dwyer: AKA Red Bull Salzburg U18 → FC Liefering
+- Christoph Schaider: AKA Red Bull Salzburg U18 → FC Liefering
+- Said Nisic: AKA Red Bull Salzburg U18 → FC Liefering
+- Raphael Kosakiewic: TSV St. Johann → FC Liefering
+- Kenan Jusic: Austria Vienna → Young Violets Austria Wien
+- Marcel Alphonsus: AKA Austria Wien U18 → Young Violets Austria Wien
+- Elhadj Bah: AKA Austria Wien U18 → Young Violets Austria Wien
+- Jonas Feddersen: Austria Vienna → Young Violets Austria Wien
+- Valentin Toifl: Austria Vienna → Young Violets Austria Wien
+- Daniel Nnodim: Austria Vienna → Young Violets Austria Wien
+- Romeo Mörth: Austria Vienna → Young Violets Austria Wien
+- Devran Gündük: AKA Austria Wien U18 → Young Violets Austria Wien
+- Can Danis: AKA Austria Wien U18 → Young Violets Austria Wien
+- Hasan Deshishku: Austria Vienna → Young Violets Austria Wien
+- Silas Schoppitsch: AKA Austria Wien U18 → Young Violets Austria Wien
+- Elias Lorenz: SK Sturm Graz → SK Sturm Graz II
+- Nico Knezevic: AKA Steiermark - Sturm Graz U18 → SK Sturm Graz II
+- Paul Lechner: AKA Steiermark - Sturm Graz U18 → SK Sturm Graz II
+- Janne Gratzei: AKA Steiermark - Sturm Graz U18 → SK Sturm Graz II
+- Connor Hönlein: AKA Steiermark - Sturm Graz U18 → SK Sturm Graz II
+- Peter Moser: AKA Steiermark - Sturm Graz U18 → SK Sturm Graz II
+- Timo Petritsch: AKA Steiermark - Sturm Graz U18 → SK Sturm Graz II
+- Dijon Shala: AKA Steiermark - Sturm Graz U18 → SK Sturm Graz II
+- Lukas Limbeck: Admira Wacker Panthers → Admira Wacker
+- August Tscheppe: SV Lafnitz → Admira Wacker
+- Julian Juric: Admira Wacker Panthers → Admira Wacker
+- Tim Jagersberger: Admira Wacker Panthers → Admira Wacker
+- Denis Lorint: Admira Wacker Panthers → Admira Wacker
+- Aleksandar Djordjevic: SV Lafnitz → Admira Wacker
+- Moritz Loschy: First Vienna FC II → First Vienna FC
+- Laurenz Orgler: Rapid Vienna → SK Rapid Wien II
+- Ferenc Lányi: AKA Rapid Wien U18 → SK Rapid Wien II
+- Danko Filipovic: AKA Rapid Wien U18 → SK Rapid Wien II
+- Edin Jakupi: AKA Rapid Wien U18 → SK Rapid Wien II
+- Muhammed Tazı: AKA Rapid Wien U18 → SK Rapid Wien II
+- Marcel Kurz: SKN St. Pölten Juniors → SKN St. Pölten
+- Erik Baranyai-Ulvestad: SKN St. Pölten Juniors → SKN St. Pölten
+- Julian Halmich: AKA St. Pölten U18 → SKN St. Pölten
+- Yanis Traun: SKN St. Pölten Juniors → SKN St. Pölten
+- Patrizio Rupp: SKN St. Pölten Juniors → SKN St. Pölten
+- Marek Kolodziejczyk: SKN St. Pölten Juniors → SKN St. Pölten
+- Dorian-Peter Kasparek: SKN St. Pölten Juniors → SKN St. Pölten
+- Valentin Ferstl: SKN St. Pölten Juniors → SKN St. Pölten
+- David Schweinberger: SKN St. Pölten Juniors → SKN St. Pölten
+- Koloman Koppelhuber: Floridsdorfer AC II → Floridsdorfer AC
+- Zion Amon: Floridsdorfer AC II → Floridsdorfer AC
+- Nico Six: Floridsdorfer AC II → Floridsdorfer AC
+- Benjamin Hrustanovic: Floridsdorfer AC II → Floridsdorfer AC
+- Zareh Kaynak: Floridsdorfer AC II → Floridsdorfer AC
+- Andrija Vasic: Floridsdorfer AC II → Floridsdorfer AC
+- Inaki Suarez Caballero: TS Woltmershausen → KSV Vatan Sport
+- Jaziel Martínez: Без клуба → Club Atlético Morelia
+- Bernhard Scherz: SKU Amstetten II → SKU Amstetten
+- Raphael Maierhofer: SKU Amstetten II → SKU Amstetten
+- Gabriel Sykora: SKU Amstetten II → SKU Amstetten
+- Jonas Ablinger: SKU Amstetten II → SKU Amstetten
+- Valentino Massimiani: SKU Amstetten II → SKU Amstetten
+- Paul Grandl: SKU Amstetten II → SKU Amstetten
+- Laurenz Lanthaler: SKU Amstetten II → SKU Amstetten
+- Maximilian Baumgartner: SKU Amstetten II → SKU Amstetten
+- Michael Oberwinkler: SKU Amstetten II → SKU Amstetten
+- Tolga Öztürk: SKU Amstetten II → SKU Amstetten
+- Felix Schönegger: SKU Amstetten II → SKU Amstetten
+- Nico Zellhofer: SKU Amstetten II → SKU Amstetten
+- Ricardo Rodríguez: CD Cruz Azul → CD Cruz Azul Hidalgo
+- Jonathan Sánchez: Без клуба → Tepatitlán FC
+- Jaziel Martínez: Без клуба → Club Atlético Morelia
+- Ard Ragnar Sundal: Sogndal IL → Sogndal IL II
+- Emil Lunde Hillestad: Sogndal IL → Sogndal IL II
+- Elias Flo: Sogndal IL → Sogndal IL II
+- Tristan Nilsson: Lyngby Boldklub U19 → AC Amager Academy U19
+- Håkon Hellesøy: SK Brann → SK Brann II
+- Chinedu Cyprain Ononogbo: SK Brann → SK Brann II
+- Jonathan Sánchez: Без клуба → Tepatitlán FC
+- Ilya Gorbachev: Rodina-3 Moscow → Rodina 2 Moscow
+- Aleksandr Andreev: Rodina-3 Moscow → Rodina 2 Moscow
+- Magomed Omarov: Rodina-3 Moscow → Rodina 2 Moscow
+- Ruslan Dzhioev: Akademia Dinamo Moskau U16 → Dynamo 2 Moscow
+- Ante Utrobicic: NK Lokomotiva Zagreb → NK Sesvete
+- Petar Zvonimir Kostelac: NK Lokomotiva Zagreb → NK Sesvete
+- Anes Huskic: NK Lokomotiva Zagreb → NK Sesvete
+- Bartol Kardum: HNK Gorica → NK Sesvete
+- Amad Keita: NK Lokomotiva Zagreb → NK Sesvete
+- Vito Medic: Slaven Belupo Koprivnica → NK Hrvace
+- Roko Valincic: HNK Rijeka → HNK Orijent Rijeka
+- Talib Sibi: HNK Rijeka → HNK Orijent Rijeka
+- Domagoj Begonja: NK Varazdin → NK Kustosija Zagreb
+- Lovro Dukic: HNK Gorica → NK Kustosija Zagreb
+- Medin Gashi: HNK Gorica → NK Kustosija Zagreb
+- Filipe Jose Quissequel: NK Varazdin → NK Kustosija Zagreb
+- David Nwolokor: HNK Rijeka → NK Opatija
+- Roko Gabric: HNK Hajduk Split → NK Croatia Zmijavci
+- Duje Milisic: HNK Hajduk Split → NK Croatia Zmijavci
+- Raymond Anthony: HNK Hajduk Split → NK Croatia Zmijavci
+- Ivano Ora: HNK Hajduk Split → NK Croatia Zmijavci
+- Sebastijan Kajtazi: HNK Hajduk Split → NK Croatia Zmijavci
+- Peter Nnaemeka Ugwuodo: HNK Hajduk Split → NK Croatia Zmijavci
+- Lautaro Ultra: GNK Dinamo Zagreb → GNK Dinamo Zagreb II
+- Egor Molchan: GNK Dinamo Zagreb → GNK Dinamo Zagreb II
+- Noa Godec: NK Lokomotiva Zagreb → HNK Segesta Sisak
+- Alexis Weber: ASC Biesheim → SC Bettembourg
+- Lennart Stollenwerk: SC Fortuna Köln → SC Fortuna Köln U23
+- Oleksandr Dyedov: Karpaty Lviv U21 → Karpaty Lviv
+- Ali Hamdar: FC Rottenburg → Calcio Leinfelden-Echterdingen
+- Christos Gitonas: Panathinaikos U19 → Panathinaikos
+- Dustin Fritz: TSG Balingen → TSG Balingen II
+- Vasilios Lavdas: Panathinaikos U19 → Panathinaikos
+- Panagiotis Biniaris: Panathinaikos U19 → Panathinaikos
+- Iason Nebis: Panathinaikos U19 → Panathinaikos
+- Dimitrios Berdos: PAOK Thessaloniki U19 → PAOK Thessaloniki
+- Zois Karargyris: AEK Athens U19 → AEK Athens
+- Matar Thiam: Aris Thessaloniki U19 → Aris Thessaloniki
+- Christos Kamtsis: Aris Thessaloniki U19 → Aris Thessaloniki
+- Sarafianos Papasarafianos: Aris Thessaloniki U19 → Aris Thessaloniki
+- Konstantinos Charoupas: Aris Thessaloniki U19 → Aris Thessaloniki
+- Konstantinos Lagoudakis: OFI Crete U19 → OFI Crete
+- Pavlos Kenourgiakis: OFI Crete U19 → OFI Crete
+- Emmanouil Chnaris: OFI Crete U19 → OFI Crete
+- Athanasios Sitmalidis: OFI Crete U19 → OFI Crete
+- Mohamed Ndiaye: Levadiakos U19 → Levadiakos
+- Petros Tsagdis: Atromitos Athens U19 → Atromitos Athens
+- Anastasios Kotsis: Atromitos Athens U19 → Atromitos Athens
+- Vangelis Paliouras: Atromitos Athens U19 → Atromitos Athens
+- Fabio Refatllari: Volos FC U19 → Volos FC
+- Alexandros Garavelas: Volos FC U19 → Volos FC
+- Efthymios Papazois: Panetolikos U19 → Panetolikos
+- Endri Goxhaj: Panetolikos U19 → Panetolikos
+- Antor Ali: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Md Rubel Hossain: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Tamim Ahammed: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Mezbahul Haque Zisan: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Raficul Islam: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Yeasin Mia: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Mohammad Riyad: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Md Mosharaf Hossain Shanto: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Md Rakib Rahman: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Merajul Islam: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Mohamed Fofana: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Rifath Hossain: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Muhammad Salman Farchi: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Jintu Mia: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Sohel Rana: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Dosso Sidik: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Sagor Hossain: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Shiblal Desh Tudu: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Emon Mia: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Rafiqul Islam: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Md. Ridoy Hawladar: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Sharif Islam: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Proshanto Roy: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Sabbir Hossen: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Tamim Hossain Anik: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Md Seim: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Suleiman Sillah: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Hossen Ali: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Diuk Murmu: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Ben Ibrahim Ouattara: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Mehedi Hasan Polash: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Saif Hossain: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Md. Hafizur Rahman: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Jiaul Hasan: Fakirapool Young Men's Club → Fakirerpool Young Men's Club
+- Matias Zogu: Asteras Aktor U19 → Asteras Aktor
+- Pavlos Varelas: Kalamata FC U19 → Kalamata FC
+- Ivan Sorokin: Spartak 2 Moscow → Spartak Moscow
+- Anton Zinkovskiy: Spartak 2 Moscow → Spartak Moscow
+- Pavel Polekh: Spartak 2 Moscow → Spartak Moscow
+- Karim Madrakhimov: FC Rostov 2 → FC Rostov
+- Ivan Ivashchenko: FC Orenburg-2 → FC Orenburg
+- Mikhail Pykhcheev: FC Orenburg-2 → FC Orenburg
+- Omar Minatulaev: FC Orenburg-2 → FC Orenburg
+- Stephen Ojonugwa Eikwu-Ojo: Mosta FC → San Gwann FC
+- Bop Guèye: Sarpsborg 08 FF → Sarpsborg 08 FF II
+- Fredrik Sjåtil: Lyn 1896 FK → Lyn 1896 FK II
+- Isaac Barnett: Lyn 1896 FK → Lyn 1896 FK II
+- Fallou Sock: Lyn 1896 FK → Lyn 1896 FK II
+- Alf Lukas Grønneberg: Sandefjord Fotball → Sandefjord Fotball II
+- Nico Guillén: Sevilla FC → Sevilla Atlético
+- Nazar Domchak: SK Slavia Prague → SK Slavia Prague B
+- David Barcot: SK Slavia Prague U20 → SK Slavia Prague B
+- Jakub Kolísek: SK Slavia Prague → SK Slavia Prague B
+- Elias Pitak: SK Slavia Prague → SK Slavia Prague B
+- Victor Uduebo: SK Slavia Prague U20 → SK Slavia Prague B
+- Jordy Balu: SG Barockstadt Fulda-Lehnerz → SG Barockstadt Fulda-Lehnerz II
+- Denis Zamazal: FK Dukla Prague B → FK Dukla Prague
+- Lukas Kostka: FK Dukla Prague B → FK Dukla Prague
+- Michal Kroupa: FK Dukla Prague B → FK Dukla Prague
+- Ondrej Schovanec: MFK Karvina B → MFK Karvina
+- Adam Vodicka: MFK Karvina B → MFK Karvina
+- Lukas Rajtmajer: MFK Karvina B → MFK Karvina
+- Adama Kone: MFK Karvina B → MFK Karvina
+- Yahaya Lawali: MFK Karvina B → MFK Karvina
+- James Bello: MFK Karvina B → MFK Karvina
+- Nikolas Horinek: FC Banik Ostrava U19 → FC Banik Ostrava B
+- David Latal: FC Banik Ostrava → FC Banik Ostrava B
+- Elias Barteska: Slezsky FC Opava U19 → Slezsky FC Opava
+- Ondrej Bleha: FK Pribram B → FK Pribram
+- Roger Faye: FK Pribram B → FK Pribram
+- Filip Zapotocny: FK Pribram B → FK Pribram
+- Alexandr Barta: FK Pribram B → FK Pribram
+- Daniel Rousar: FK Pribram B → FK Pribram
+- Adam Cadek: FK Pribram B → FK Pribram
+- Danyil Dolechek: FK Pribram B → FK Pribram
+- Zekinho Apea: FK Pribram B → FK Pribram
+- Savo Radanovic: Red Star Belgrade U19 → Red Star Belgrade
+- Andrej Sibinovic: Red Star Belgrade U19 → Red Star Belgrade
+- Matej Strika: Graficar Belgrad → Red Star Belgrade
+- Dimitrije Saric: Red Star Belgrade U19 → Red Star Belgrade
+- Vojin Marinkovic: FK Teleoptik Zemun → FK Partizan Belgrade
+- Dusan Makevic: FK Teleoptik Zemun → FK Partizan Belgrade
+- Dusan Jovanovic: FK Teleoptik Zemun → FK Partizan Belgrade
+- Matija Ninic: FK Teleoptik Zemun → FK Partizan Belgrade
+- Andrej Pivas: OFK Vrsac → FK Vojvodina Novi Sad
+- Jovan Ostojic: FK Vojvodina Novi Sad U19 → FK Vojvodina Novi Sad
+- Novak Gojkov: OFK Vrsac → FK Vojvodina Novi Sad
+- Vuk Barlov: OFK Beograd U19 → OFK Beograd
+- Jovan Mrvaljevic: OFK Beograd U19 → OFK Beograd
+- Aleksa Vasilic: OFK Beograd U19 → OFK Beograd
+- Jovan Miladinovic: FK Bor 1919 → FK Zeleznicar Pancevo
+- Stefan Mitrovic: FK Smederevo 1924 → FK Zeleznicar Pancevo
+- Strahinja Andjelic: FK Čukarički U19 → FK Cukaricki
+- Veljko Zuric: FK Čukarički U19 → FK Cukaricki
+- Andrej Ilic: FK Čukarički U19 → FK Cukaricki
+- Nemanja Radonjic: Без клуба → FK Cukaricki
+- Nebojsa Grujic: FK Čukarički U19 → FK Cukaricki
+- Danilo Fekete: FK Čukarički U17 → FK Cukaricki
+- Haris Alic: FK Novi Pazar U19 → FK Novi Pazar
+- Bakir Bilalovic: FK Novi Pazar U19 → FK Novi Pazar
+- Hamad Sacirovic: FK Novi Pazar U19 → FK Novi Pazar
+- Ersan Mavric: FK Novi Pazar U19 → FK Novi Pazar
+- Ahmed Ljajic: FK Novi Pazar U19 → FK Novi Pazar
+- Matej Pribisic: FK IMT Belgrad U19 → FK IMT Belgrad
+- Andrej Milanovic: FK IMT Belgrad U19 → FK IMT Belgrad
+- Blagoje Uzunovski: FK IMT Belgrad U19 → FK IMT Belgrad
+- Konstantinos Toursounidis: PAOK Thessaloniki B → PAOK Thessaloniki U19
+- Vangelis Gravvanis: PAOK Thessaloniki B → PAOK Thessaloniki U19
+- Tadija Cojic: FK IMT Belgrad U19 → FK IMT Belgrad
+- Djordje Radivojevic: FK IMT Belgrad U19 → FK IMT Belgrad
+- Aleksa Mitic: FK IMT Belgrad U19 → FK IMT Belgrad
+- Lazar Cvijetic: FK IMT Belgrad U19 → FK IMT Belgrad
+- Daniel Aghahowa: FK IMT Belgrad U19 → FK IMT Belgrad
+- Otabek Shukurov: Без клуба → FK Radnik Surdulica
+- Aleksa Milosevic: FK Mladost Lucani U19 → FK Mladost Lucani
+- Nenad Radic: FK Mladost Lucani U19 → FK Mladost Lucani
+- Jagos Djurkovic: FK Mladost Lucani U19 → FK Mladost Lucani
+- David Djokic: FK Mladost Lucani U19 → FK Mladost Lucani
+- Ognjen Alempijevic: FK Borac 1926 Cacak → FK Mladost Lucani
+- Louis Van Aubel: KAS Eupen → KAS Eupen U23
+- Sofiane Sitou: RFC Lüttich U21 → KAS Eupen U23
+- Diego Baudon: KAS Eupen → KAS Eupen U23
+- Sacha Bescond: KAS Eupen → KAS Eupen U23
+- Victor Tihon: KAS Eupen → KAS Eupen U23
+- Raphael Di Matteo: KAS Eupen → KAS Eupen U23
+- Jaden Malhage: KAS Eupen → KAS Eupen U23
+- Matteo Filorizzo: KAS Eupen → KAS Eupen U23
+- Hugo Hanson: RFC Lüttich U21 → RFCU Kelmis
+- Vetle Auklend: Viking FK → Viking FK II
+- Toms Petrovics: SK Super Nova → SK Super Nova II
+- Alens Grikovs: SK Super Nova → SK Super Nova II
+- Aram Baghdasaryan: SK Super Nova → SK Super Nova II
+- Georgijs Bombans: SK Super Nova → SK Super Nova II
+- Marcis Kazainis: Riga FC → Riga FC II
+- Eriks Maurs-Boks: Riga FC → Riga FC II
+- Alekss Kuprins: FK Tukums 2000 → FK Tukums 2000 II
+- Kristofers Minajevs: FK Tukums 2000 → FK Tukums 2000 II
+- Kristaps Uzis: FK Tukums 2000 → FK Tukums 2000 II
+- Ilja Atligins: FK Tukums 2000 → FK Tukums 2000 II
+- Savelijs Boroviks: FC RFS → FC RFS II
+- Cristóbal Zambrano: Universidad de Concepción → Deportes Concepción
+- Kevin Felida: FC Den Bosch → Ha Noi FC
+- Georgi Chorbadzhiyski: CSKA Sofia → CSKA Sofia II
+- Phuoc Sang Dinh: Champasak HAGL Avenir FC → Hoang Anh Gia Lai FC
+- Huy Kiet Le: Champasak HAGL Avenir FC → Hoang Anh Gia Lai FC
+- Stefan Hagerup: Lillestrøm SK → Lillestrøm SK II
+- Seun Akanji: Lillestrøm SK → Lillestrøm SK II
+- Øystein Norheim: Tromsø IL → Tromsø IL II
+- Aleksander Elvebu: Tromsø IL → Tromsø IL II
+- Hamza Abdelkarim: FC Barcelona → FC Barcelona Atlètic
+- Aytuar Token: FC Astana-M → FC Astana
+- Timur Tokenov: FC Astana-M → FC Astana
+- Ruslan Valikhan: FC Astana-M → FC Astana
+- Mauro Furtado: Girona FC → Girona FC B
+- Amanzhol Bakitzhanov: Tobol-M Kostanay → Tobol Kostanay
+- Azamat Zinadin: Tobol-M Kostanay → Tobol Kostanay
+- Nurdaulet Toregali: FC Aktobe II → FC Aktobe
+- Alisher Kenzhegulov: FC Aktobe II → FC Aktobe
+- Sherkhan Kalmurza: Kairat-Zhas → Kairat Almaty
+- Danila Buch: Kairat-Zhas → Kairat Almaty
+- Daniyar Tashpulatov: Kairat-Zhas → Kairat Almaty
+- Adlan Nurgaliev: Kairat-Zhas → Kairat Almaty
+- Azamat Tuyakbaev: Kairat-Zhas → Kairat Almaty
+- Mukhamedali Abish: Kairat-Zhas → Kairat Almaty
+- Ismail Bekbolat: Kairat-Zhas → Kairat Almaty
+- Mansur Birkurmanov: Kairat-Zhas → Kairat Almaty
+- Sanzhar Sansyzbaev: Yelimay-M Semey → Yelimay Semey
+- Ermek Abdulla: Yelimay-M Semey → Yelimay Semey
+- Artem Zhilin: Yelimay-M Semey → Yelimay Semey
+- Alizhan Baygaliev: Yelimay-M Semey → Yelimay Semey
+- Asan Baygaliev: Yelimay-M Semey → Yelimay Semey
+- Björn Hedlöf: Hammarby TFF → Hammarby IF
+- Beybarys Kaldybay: Kaspiy-M Aktau → Kaspiy Aktau
+- Mukhammed Kuanysh: Kaspiy-M Aktau → Kaspiy Aktau
+- Erlan Kadyrbaev: Kaspiy-M Aktau → Kaspiy Aktau
+- Isaac Yawe Höök: IF Karlstad Fotboll → IK Sirius
+- Myroslav Babyak: Kisvárda FC → Kazincbarcikai SC
+- Magzum Zholaman: Kaspiy Aktau U18 → Kaspiy Aktau
+- Almas Armenov: Kaspiy-M Aktau → Kaspiy Aktau
+- György Ottucsák: Vasas FC → Mezőkövesd Zsóry FC
+- Patrik Kovács: Vasas FC → Mezőkövesd Zsóry FC
+- Krisztián László: MTK Budapest → Kozármisleny FC
+- Noel Csorba: ETO FC → FC Ajka
+- Ádám Décsy: ETO FC → FC Ajka
+- Elias Younan: Skövde AIK → GAIS
+- Dániel Radnóti: Ferencvárosi TC → Soroksár SC
+- Csongor Lakatos: Ferencvárosi TC → Soroksár SC
+- Ádám Bagi: Ferencvárosi TC → Soroksár SC
+- Szilárd Szabó: Ferencvárosi TC → Soroksár SC
+- Benjámin Gólik: Ferencvárosi TC → Soroksár SC
+- Musab Abdi Mohamud: Enköpings SK → Västerås SK
+- Bálint Tuska: Debreceni VSC → Karcagi SC
+- Dénes Szakál: Debreceni VSC → Karcagi SC
+- Máté Kohut: Debreceni VSC → Karcagi SC
+- János Galambos: Paksi FC → Szentlőrinc SE
+- Mirkó Bozó: Puskás Akadémia FC → Aqvital FC Csákvár
+- Barna Pál: Puskás Akadémia FC → Aqvital FC Csákvár
+- Bence Somfalvi: Puskás Akadémia FC → Aqvital FC Csákvár
+- Máté Rózsa: Zalaegerszegi TE FC → FC Nagykanizsa
+- Zétény Garai: Zalaegerszegi TE FC → FC Nagykanizsa
+- Máté Kiss: Zalaegerszegi TE FC → FC Nagykanizsa
+- Ruslan Bystritskiy: Spartak Moskow II → Akademia Spartak Moskau U16
+- Azamat Tebiev: FC Rostov II → Akademia FC Rostov U16
+- Stepan Safronov: FC Rostov 2 → Akademia FC Rostov U16
+- Anthony Pavlesic: SK Sigma Olomouc → SK Sigma Olomouc B
+- Vaclav Zahradnicek: SK Sigma Olomouc → SK Sigma Olomouc B
+- Jiri Psenica: SK Sigma Olomouc U19 → SK Sigma Olomouc B
+- Filip Urica: SK Sigma Olomouc → SK Sigma Olomouc B
+- Richard Kasik: SK Artis Brno → SK Artis Brno B
+- Danijel Kolaric: SK Artis Brno → SK Artis Brno B
+- Ismael Sylla: SK Artis Brno → SK Artis Brno B
+- Stepan Bachurek: FC Zlin → FC Zlin B
+- David Grygera: FC Zlin → FC Zlin B
+- Jiri Stefan: FC Zlin → FC Zlin B
+- Tomas Hellebrand: FC Zlin → FC Zlin B
+- Tomas Fojtu: FC Zlin → FC Zlin B
+- Filip Dornak: FC Zlin → FC Zlin B
+- Moustapha Toure: FC Zlin → FC Zlin B
+- Alexandr Urban: 1.FC Slovacko → 1.FC Slovacko B
+- Jakub Hastik: 1.FC Slovacko U19 → 1.FC Slovacko B
+- Adam Alabi: 1.FC Slovacko → 1.FC Slovacko B
+- Jakub Zemanek: 1.FC Slovacko U19 → 1.FC Slovacko B
+- Tadeas Tichanek: 1.FC Slovacko U19 → 1.FC Slovacko B
+- Filip Hruska: 1.FC Slovacko → 1.FC Slovacko B
+- Roman Horny: 1.FC Slovacko U19 → 1.FC Slovacko B
+- Martin Uhrovic: 1.FC Slovacko U19 → 1.FC Slovacko B
+- Ousman Ceesay: 1.FC Slovacko → 1.FC Slovacko B
+- Lukas Bernatik: 1.FC Slovacko U19 → 1.FC Slovacko B
+- Krystof Kostelny: FC Zbrojovka Brno U19 → FC Zbrojovka Brno B
+- Ondrej Prodelal: FC Zbrojovka Brno → FC Zbrojovka Brno B
+- Oliver Adametz: FC Zbrojovka Brno U19 → FC Zbrojovka Brno B
+- Ruben Ferlay: FC Zbrojovka Brno U19 → FC Zbrojovka Brno B
+- Jan Krivanek: FC Zbrojovka Brno U19 → FC Zbrojovka Brno B
+- Louis Daems: K Lierse SK U21 → K Lierse SK
+- Willem Van Clemen: K Lierse SK U21 → K Lierse SK
+- Daan De Peuter: K Lierse SK U21 → K Lierse SK
+- Saïf-Eddine Boutkabout: K Lierse SK U21 → K Lierse SK
+- Virgil Bachy: K Lierse SK U21 → K Lierse SK
+- Paul Tilloy: Francs Borains U21 → Francs Borains
+- Lars Geluykens: Sporting Hasselt U21 → Sporting Hasselt
+- Robbe Haven: Sporting Hasselt U21 → Sporting Hasselt
+- Yani Rutkowski: RFC Seraing U21 → RFC Seraing
+- Lucas Brulmans: RFC Seraing U21 → RFC Seraing
+- Valerio Di Crescenzo: RFC Seraing U21 → RFC Seraing
+- Feroz Baharudin: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Junior Eldstal: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Dani Bolt: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Syahmi Safari: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Syamer Kutty: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Hong Wan: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Daniesh Amirruddin: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Mohamadou Sumareh: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Jon Yeabsera: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Celso Bermejo: Johor Darul Ta'zim → Johor Darul Ta'zim II
+- Zainal Abidin Jamil: Negeri Sembilan FC → Negeri Sembilan FC II
+- Filip Andersen: Negeri Sembilan FC → Negeri Sembilan FC II
+- Zuryhakim Zafran: Negeri Sembilan FC → Negeri Sembilan FC II
+- Raimi Shamsul: Negeri Sembilan FC → Negeri Sembilan FC II
+- Afiq Fitri: Negeri Sembilan FC → Negeri Sembilan FC II
+- Haiqal Haqeemi: Negeri Sembilan FC → Negeri Sembilan FC II
+- Wan Kuzri: Negeri Sembilan FC → Negeri Sembilan FC II
+- Adam Haikal Azizol: Negeri Sembilan FC → Negeri Sembilan FC II
+- Anuar Ceesay: Negeri Sembilan FC → Negeri Sembilan FC II
+- Izrin Ibrahim: Negeri Sembilan FC → Negeri Sembilan FC II
+- Rahman Daud: Negeri Sembilan FC → Negeri Sembilan FC II
+- Nick Bodon: Eintracht Braunschweig → Eintracht Braunschweig II
+- Damjan Kovacevic: Eintracht Braunschweig → Eintracht Braunschweig II
+- Sanoussy Ba: Eintracht Braunschweig → Eintracht Braunschweig II
+- Muhammad Abu Khalil: Selangor FC → Selangor FC II
+- Jakob Sieve: Blau-Weiß Lohne II → Blau-Weiß Lohne
+- Niklas Vocks: Blau-Weiß Lohne II → Blau-Weiß Lohne
+- Mats Wegner: Blau-Weiß Lohne II → Blau-Weiß Lohne
+- Mats Günther: Blau-Weiß Lohne II → Blau-Weiß Lohne
+- Timo Schmitz: SV Meppen → SV Meppen II
+- Kristians Feldmanis: SV Meppen U19 → SV Meppen II
+- Jonas Goldenstein: SV Meppen → SV Meppen II
+- Henrik Wittrock: SV Meppen → SV Meppen II
+- Mika Herrmann: SV Meppen → SV Meppen II
+- Devin Gregoraci: SSV Vorsfelde II → SSV Vorsfelde
+- Leander Borchers: SSV Vorsfelde II → SSV Vorsfelde
+- Hrachya Sargsyan: FC Pyunik Yerevan II → Olympia Erewan
+- Bernardo Folha: Без клуба → Aris Limassol
+- Chrysis Evangelou: Omonia Nicosia → Nea Salamina Famagusta
+- Wilmer Bustamante: Real Santander → Dvo. Rayo Zuliano
+- Yegor Rogach: FK Tauras Taurage → UCSA Tarasivka
+- Denys Gryshkevych: Polissya Zhytomyr → Polissya-2 Zhytomyr
+- Kiril Kobernyuk: Polissya Zhytomyr → Polissya-2 Zhytomyr
+- Ismail Omar Ally: Polissya Zhytomyr U21 → Polissya-2 Zhytomyr
+- Svyatoslav Cherchukan: Polissya Zhytomyr U21 → Polissya-2 Zhytomyr
+- Raymond Adjetey: Polissya Zhytomyr U21 → Polissya-2 Zhytomyr
+- Artem Korzh: Polissya Zhytomyr U21 → Polissya-2 Zhytomyr
+- Rostyslav Chovgalenko: Polissya Zhytomyr U21 → Polissya-2 Zhytomyr
+- Yaroslav Karaman: Polissya Zhytomyr → Polissya-2 Zhytomyr
+- Béni Makouana: Polissya Zhytomyr → Polissya-2 Zhytomyr
+- Tymur Kulmaliyev: Polissya Zhytomyr U21 → Polissya-2 Zhytomyr
+- Owen Konama: LOSC Lille U17 → LOSC Lille U19
+- Kassim Nyabenda: LOSC Lille U17 → LOSC Lille U19
+- Enzo Somon: Amiens SC → Amiens SC U19
+- Rylès Trouba: AC Le Havre U17 → AC Le Havre U19
+- Raphaël Mendes: LB Châteauroux B → LB Châteauroux
+- Arthur Bar: Paris Saint-Germain U17 → Paris Saint-Germain U19
+- Tristàn Burkart: FCO St. Gallen U19 → FC St. Gallen 1879 U21
+- Noah Brogli: FC Winterthur → FC Winterthur U21
+- Mickaël Leroy: Racing Club de France → Racing Club de France U19
+- Tobias Okafor: FC Winterthur → FC Winterthur U21
+- Giuliano Foro: FC Winterthur → FC Winterthur U21
+- Arda Yildirim: AAS Sarcelles U17 → Racing Club de France U19
+- Muhamed Dreca: FK Radnik Hadzici → FK Sarajevo Academy U19
+- Anes Mehmedovic: FK Radnik Hadzici → FK Sarajevo Academy U19
+- Emanuel Primorac: HSK Zrinjski Mostar U17 → HSK Zrinjski Mostar U19
+- Emil Bujak: FK Zeljeznicar Sarajevo U17 → FK Zeljeznicar Sarajevo U19
+- Benjamin Zulovic: FK Velez Mostar → FK Velez Mostar U19
+- Erik Maurer: FC Hansa Rostock → FC Hansa Rostock II
+- Robin Falk: FC Hansa Rostock → FC Hansa Rostock II
+- Fiete Bock: FC Hansa Rostock → FC Hansa Rostock II
+- Henri Sørlie: Stabæk Fotball II → Stabæk Fotball
+- Lucas Myklebust: Stabæk Fotball II → Stabæk Fotball
+- Oskar Oppedal: Stabæk Fotball II → Stabæk Fotball
+- Frank Stople: FK Haugesund II → FK Haugesund
+- Pål Engseth Lie: FK Haugesund II → FK Haugesund
+- Vegard Solheim: FK Haugesund II → FK Haugesund
+- Almar Grindhaug: FK Haugesund II → FK Haugesund
+- Fabian André Jakobsen: FK Haugesund II → FK Haugesund
+- Ismaël Seone: FK Haugesund II → FK Haugesund
+- Godwill Ambrose: Odds BK II → Odds BK
+- Mukhtar Adamu: Odds BK II → Odds BK
+- Kristian Rodgers Holte: Odds BK II → Odds BK
+- Abduljeleel Abdulateef: Odds BK II → Odds BK
+- Stefan Furundzic: Grasshopper Club Zürich U19 → Grasshopper Club Zürich U21
+- Oskar Cotton: IF Brommapojkarna → IK Oddevold
+- Enis Kovacevic: AKA Tirol U18 → Völser SV
+- Noah Schreter: AKA Tirol U18 → SV Telfs
+- Niko Horvat: Zulte Waregem → Jong Essevee
+- Chris Pantillon: Team BEJUNE U19 → FC Portalban/Gletterens
+- Noel Lundgren: Falkenbergs FF → Tvååkers IF
+- Milo Pereira: FC La Chaux-de-Fonds → Team BEJUNE U19
+- Benjamin Dautovic: FC Basel 1893 U17 → FC Basel 1893 U19
+- Jon Ajvazi: FC Basel 1893 U17 → FC Basel 1893 U19
+- Mateja Sevic: FC Red Star Zürich → FC Zürich U19
+- Elia Calvi: FC Seefeld Zürich → FC Zürich U19
+- Lukas Salkovic: Slovan Bratislava U19 → Slovan Bratislava B
+- Diego Berger: FC Schaffhausen II → FC Winterthur U19
+- Donik Musaj: FC Winterthur U17 → FC Winterthur U19
+- Johan Remoundos: Panathinaikos U19 → FCO St. Gallen U19
+- Flavio Moor: FC Aarau U17 → FC Aarau U19
+- Samir Alili: FC Aarau U17 → FC Aarau U19
+- Felix Stuber: BSC Young Boys U17 → BSC Young Boys U19
+- Edison Berisha: FC Sion U21 → FC Sion U19
+- Leon Sylejmani: Servette FC U21 → Servette FC U19
+- Houdjy Reinhart: Servette FC U21 → Servette FC U19
+- Dean Michiels: KVV Thes Sport → AS Verbroedering Geel
+- Yassine Badaoui: Olympique de Marseille B → Olympique Marseille U19
+- Yanno Vanwelkenhuysen: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Michiel Decoopman: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Jesse Claessens: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Axel Swerten: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Stijn Rouma: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Barend Winkels: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Daan Matterne: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Zion Buekers: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Niel Bourguignon: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Beau Schodts: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Nicolas Robin: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Senne Brugmans: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Tim Peters: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Jasper Lambrecht: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Daimy Deflem: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Siegerd Degeling: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Tony Cinti: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Ardjouma Junior Diomandé: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Jamal Aabbou: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Gilles Lemmens: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Koray Kaplan: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Dylan Vanwelkenhuysen: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Andy Dauwe: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- Bradley Mbenza-Kuti: KVV Zepperen Brustem → KVV Zepperen-Brustem
+- David Osifo: AKA LASK OÖ U18 → LASK Amateure OÖ
+- Batyrkhan Serikbay: Kairat Almaty U18 → Kairat-Zhas
+- Rayimbek Kenesbekov: Kairat Almaty U18 → Kairat-Zhas
+- Sanat Nurbolat: Kairat Almaty U18 → Kairat-Zhas
+- Aliden Musaipov: Kairat Almaty U18 → Kairat-Zhas
+- Evgeniy Petrik: Kairat Almaty U18 → Kairat-Zhas
+- Tore Ismagulov: Kairat Almaty U18 → Kairat-Zhas
+- Abylay Zhilkaydar: Kairat Almaty U18 → Kairat-Zhas
+- Abylay Toleukhan: Kairat Almaty U18 → Kairat-Zhas
+- Daulet Orynbasar: Kairat Almaty U18 → Kairat-Zhas
+- Thomas Lamster: SG ASV Neudorf/Parndorf II → SC/ESV Parndorf
+- Nurkhan Kagazbaev: Shakhter Karaganda U18 → Shakhter Karaganda
+- Daniyal Nazarov: Shakhter Karaganda U18 → Shakhter Karaganda
+- Michael Böhm: AKA Burgenland U16 → SV Oberwart
+- Alen Pak: Shakhter Karaganda U18 → Shakhter Karaganda
+- Adilet Sabyrov: FC Aktobe U18 → FC Aktobe II
+- Rinat Beybitov: FC Aktobe U18 → FC Aktobe II
+- Azamat Musaev: FC Aktobe U18 → FC Aktobe II
+- Dalen Usik: FC Aktobe U18 → FC Aktobe II
+- Zhasnur Zheksenbay: FC Aktobe U18 → FC Aktobe II
+- Bikzhan Zhanaev: FC Aktobe U18 → FC Aktobe II
+- Nikita Lisokhmar: Tobol Kostanay U18 → Tobol-M Kostanay
+- Roman Gavrilyuk: Tobol Kostanay U18 → Tobol-M Kostanay
+- Tamerlan Zhanabergenov: FC Astana U18 → FC Astana-M
+- Mansur Alikhan: FC Astana U18 → FC Astana-M
+- Ali Askerbekov: FC Astana U18 → FC Astana-M
+- Meyrzhan Serik: FC Astana U18 → FC Astana-M
+- Sanzhar Kuandyk: FC Astana U18 → FC Astana-M
+- Niclas Zefferer: AKA Burgenland U18 → Mattersburger SV 2020
+- Benjamin Sinanovic: AKA Burgenland U18 → Mattersburger SV 2020
+- Aryn Kanat: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Amaniyaz Oryngaliev: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Magzum Zholaman: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Alikhan Zhumabay: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Abilkayir Zharmukhamet: Kaspiy Aktau U18 → Kaspiy-M Aktau
+- Julian Halmich: AKA St. Pölten U18 → SKN St. Pölten Juniors
+- Matthias Döller: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Markus Haubenwallner: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Daniel Glitia: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Riad Islamaj: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Elias Vollnhofer: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Filip Sikleski: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Amel Duran: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Ben Wieselthaler: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Nico Elbl: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Abul Hossaini: AKA Admira Wacker U18 → Admira Wacker Panthers
+- David Wallner: AKA Admira Wacker U18 → Admira Wacker Panthers
+- Denis Avdeev: Lokomotiv Moscow II → Akademia Lokomotiv Moskau U17
+- Egor Potapenko: Zenit St. Petersburg II → Akademia Zenit St. Petersburg U17
+- Nikita Ivchenko: Zenit St. Petersburg II → Akademia Zenit St. Petersburg U17
+- Yaroslav Gorislov: Akademia ZSKA Moskau U16 → Akademia CSKA Moscow U17
+- Petr Malikov: Akademia ZSKA Moskau U16 → Akademia CSKA Moscow U17
+- Branko Curdo: HSK Zrinjski Mostar → NK GOSK Gabela
+- Hamza Ljukovac: HSK Zrinjski Mostar → NK GOSK Gabela
+- Antonio Arapovic: HSK Zrinjski Mostar → NK GOSK Gabela
+- Leonid Salikhov: CSKA Moscow II → Akademia CSKA Moscow U17
+- Dmitriy Shalenko: FC Krasnodar II → Akademia FC Krasnodar U17
+- Arseniy Gurevich: Akademia FC Krasnodar U16 → Akademia FC Krasnodar U17
+- Stepan Safronov: FC Rostov 2 → FC Rostov Academy U17
+- Valeriy Gorbach: FC Rostov 2 → FC Rostov Academy U17
+- Aleksandr Borzenko: Akademia FC Rostov U16 → FC Rostov Academy U17
+- Timur Aduev: FC Rostov II → FC Rostov Academy U17
+- Aleksandr Belukha: FC Rostov 2 → FC Rostov Academy U17
+- Ilya Tuniev: FC Rostov II → FC Rostov Academy U17
+- Eduard Akopyan: FC Rostov II → FC Rostov Academy U17
+- Mukhamad Safarov: Akademia FC Rostov U16 → FC Rostov Academy U17
+- Maksim Prokopjev: Spartak Moskow II → Akademia Spartak Moscow U17
+- Ivan Meriakri: Spartak Moskow II → Akademia Spartak Moscow U17
+- Timur Norbaev: Akademia Spartak Moskau U16 → Akademia Spartak Moscow U17
+- Nikita Zakharov: Spartak 2 Moscow → Akademia Spartak Moscow U17
+- Semen Chukhleb: Spartak Moskow II → Akademia Spartak Moscow U17
+- Marat Shayakhmetov: Spartak Moskow II → Akademia Spartak Moscow U17
+- Fedor Vinokurenkov: Spartak 2 Moscow → Akademia Spartak Moscow U17
+- Vladimir Pavlov: Spartak Moskow II → Akademia Spartak Moscow U17
+- Gleb Pritulenko: Akademia FC Krasnodar U17 → Akron Akademia Konoplev U17
+- Artem Kozub: Rubin Kazan II → Akademia Rubin Kazan U17
+- Haris Mujanic: FK Sarajevo → FK Radnik Hadzici
+- Daris Dizdarevic: FK Sarajevo → FK Radnik Hadzici
+- Petar Miskovic: FK Sarajevo → FK Radnik Hadzici
+- Albert Mendy: FK Sarajevo → FK Radnik Hadzici
+- Amar Ceric: FK Sarajevo → FK Radnik Hadzici
+- Andreja Ristic: FK Sarajevo → FK Radnik Hadzici
+- Egor Kavtrev: Chertanovo Moscow → Akademia Chertanovo Moscow U17
+- Faruk Setic: FK Velez Mostar → FK Igman Konjic
+- Faris Dzevahiric: FK Velez Mostar → FK Igman Konjic
+- Aleksandr Shirov: Dynamo 2 Moscow → Akademia Dynamo Moscow U17
+- Ivan Lisovskiy: Dynamo 2 Moscow → Akademia Dynamo Moscow U17
+- Ilya Starodubtsev: Akademia Dinamo Moskau U16 → Akademia Dynamo Moscow U17
+- Artem Lisovskiy: Dynamo Moscow II → Akademia Dynamo Moscow U17
+- Daniil Golovskoy: Dynamo Moscow II → Akademia Dynamo Moscow U17
+- Ivan Zhunaev: Dynamo Moscow II → Akademia Dynamo Moscow U17
+- Vyacheslav Yarosh: Dynamo 2 Moscow → Akademia Dynamo Moscow U17
+- Lev Zherebyatjev: Akademia Rodina Moskau U16 → Akademia Rodina Moskau U17
+- Ivan Makarov: Rodina-3 Moscow → Akademia Rodina Moskau U17
+- Vedad Spahic: NK Celik Zenica → FK Rudar Kakanj
+- Kerim Beganovic: NK Celik Zenica → FK Rudar Kakanj
+- Michael Zunder: VST Völkermarkt → FC Lendorf
+- Nando Lupar: ATUS Velden → SC St. Veit
+- Elias Pitterka: SV Seekirchen → SV Seekirchen II
+- Tobias Feldinger: SV Seekirchen → SV Seekirchen II
+- Elias Schaurecker: SV Seekirchen → SV Seekirchen II
+- Simon Braun: SV Seekirchen → SV Seekirchen II
+- Marcel Arrich: ATUS Velden → ASKÖ Köttmannsdorf
+- Sacha Inquel: US Concarneau → Aviron Bayonnais
+- Quentin Enold: SG Dynamo Dresden → Dynamo Dresden II
+- Amrinder Singh: Odisha FC → Kerala Blasters FC
+- Sahil Tavora: FC Goa → Kerala Blasters FC
+- Joel Lalramengmawia: Chanmari FC → Kerala Blasters FC
+- Mohammed Yasir: FC Goa → Kerala Blasters FC
+- Ramhlunchhunga: Sporting Club Delhi → Kerala Blasters FC
+- Eli Dasa: Без клуба → Maccabi Haifa
+- Bruno Valko: MSK Zilina B → MSK Zilina U19
+- Michal Kopal: MSK Zilina B → MSK Zilina U19
+- Guy Hadida: Без клуба → Maccabi Petah Tikva
+- Lukas Zilincik: MSK Zilina B → MSK Zilina U19
+- Dominik Pecsuk: MSK Zilina B → MSK Zilina U19
+- Anuj Kumar: Odisha FC → Churchill Brothers FC
+- Mario Charamza: MSK Zilina B → MSK Zilina U19
+- Marco Prekop: MSK Zilina B → MSK Zilina U19
+- Konstantinos Oikonomou: Zemplin Michalovce → Zemplin Michalovce U19
+- Dattaraj Gaonkar: Sporting Club de Goa → Churchill Brothers FC
+- Sebastián Gutiérrez: Dempo SC → Churchill Brothers FC
+- Wayde Lekay: Siwelele Football Club → Churchill Brothers FC
+- John Okoli: Al-Hilal SC → Churchill Brothers FC
+- Peter Iuhanyak: Slovan Bratislava B → Slovan Bratislava U19
+- Nishchal Chandan: Punjab FC → Inter Kashi FC
+- Gursimrat Singh Gill: Rajasthan United → Inter Kashi FC
+- Sajad Hussain Parray: Mohammedan SC (Kolkata) → Inter Kashi FC
+- Lukas Fedor: Tatran Liptovsky Mikulas → Tatran Liptovsky Mikulas U19
+- Hitesh Sharma: Odisha FC → Inter Kashi FC
+- Ashangbam Aphaoba Singh: Odisha FC → Inter Kashi FC
+- Enzo Flament: LOSC Lille U17 → GFC Ajaccio U17
+- Taavi Taalikka: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura II
+- Tuomas Koponen: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura II
+- Valtteri Salo: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura II
+- Jesper Johansson: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura II
+- Oskari Blommendahl: Vantaan Jalkapalloseura → Vantaan Jalkapalloseura II
+- Olsen Djédjé: Oud-Heverlee Leuven U18 → Oud-Heverlee Leuven U23
+- Ryane Redouane: Oud-Heverlee Leuven U18 → Oud-Heverlee Leuven U23
+- Lukas Cakoni: Oud-Heverlee Leuven U18 → Oud-Heverlee Leuven U23
+- Mohamed Amine Moustache: Oud-Heverlee Leuven U18 → Oud-Heverlee Leuven U23
+- Albion Avdijaj: SC YF Juventus Zürich → Zürich City SC
+- Anton Bojenko: KVC Westerlo U18 → KFC Houtvenne
+- Nderim Nuhiu: FC Bern 1894 → AS Italiana Bern
+- Lowie Piselé: Royal Antwerp FC → Young Reds
+- Niels Devalckeneer: Royal Antwerp FC → Young Reds
+- Aaron Ibrahim: Royal Antwerp FC → Young Reds
+- Lennox Vanhelmont: Royal Antwerp FC U18 → Young Reds
+- Yanis Ngoy: Sint-Truidense VV → STVV Youth
+- Bryan Dignef: VV St. Truiden U18 → STVV Youth
+- Ferre Van Herck: VV St. Truiden U18 → STVV Youth
+- Rune Verheyden: Sint-Truidense VV → STVV Youth
+- Illyès Benachour: Sint-Truidense VV → STVV Youth
+- Mustafa Sihlaroglu: VfR Mannheim II → TSG Weinheim
+- Alessandro Pandian: Hellas Verona Under 18 → Hellas Under 17
+- Abdou Seye: Milan Under 18 → Milan Under 17
+- Emanuele Carbone: Milan Under 18 → Milan Under 17
+- Nicolas Blaj: Monza Under 18 → Monza Under 17
+- Andrea D'Avanzo: Monza Under 18 → Monza Under 17
+- Emanuele Mazzola: Monza Under 18 → Monza Under 17
+- Alberto Spagnolo: Monza Under 18 → Monza Under 17
+- Francesco Chiaracane: Palermo Primavera → Palermo Under 17
+- Marvin Nasnas: FC Copenhagen → FC Copenhagen U19
+- Danilo Koljcevic: Red Star Belgrade U17 → Red Star Belgrade U19
+- Luka Trpevski: Red Star Belgrade U17 → Red Star Belgrade U19
+- Filip Lazovic: Red Star Belgrade U17 → Red Star Belgrade U19
+- Mihajlo Radovic: Red Star Belgrade U17 → Red Star Belgrade U19
+- Sergej Manovic: FK Mladost Lucani U17 → FK Mladost Lucani U19
+- Vuk Bradic: FK Mladost Lucani U17 → FK Mladost Lucani U19
+- Vasilije Guberinic: FK Mladost Lucani U17 → FK Mladost Lucani U19
+- Nemanja Mirkovic: FK Cukaricki → FK Čukarički U19
+- Mateja Prokopijevic: FK Cukaricki → FK Čukarički U19
+- Danilo Fekete: FK Čukarički U17 → FK Čukarički U19
+- Mateo Maravic: FK Cukaricki → FK Čukarički U19
+- Leon Ivanovic: OFK Beograd → OFK Beograd U19
+- Nenad Miranovic: FK Spartak Subotica → FK Spartak Subotica U19
+- Dusan Kostadinovic: FK Vojvodina Novi Sad U17 → FK Vojvodina Novi Sad U19
+- Dusan Cupara: FK Vojvodina Novi Sad U17 → FK Vojvodina Novi Sad U19
+- Pavle Ilic: FK Vojvodina Novi Sad U17 → FK Vojvodina Novi Sad U19
+- Julen Carrasco: FC Stade-Lausanne-Ouchy → FC Stade-Lausanne-Ouchy II
+- Davud Jusic: NK Rudar Velenje → NK Rudar Velenje U19
+- Luka Pek: NK Rudar Velenje → NK Rudar Velenje U19
+- Jure Bernjak: NK Rudar Velenje → NK Rudar Velenje U19
+- Jonathan Dula: FC Stade-Lausanne-Ouchy → FC Stade-Lausanne-Ouchy II
+- Lan Husejnovic: NK Rudar Velenje → NK Rudar Velenje U19
+- Adel Avdic: NK Dekani → NK Dekani U19
+- Marko Cvijetic: NK Dekani → NK Dekani U19
+- Enej Jurinčič: NK Dekani → NK Dekani U19
+- Matija Grmek: NK Dekani → NK Dekani U19
+- Tim Istenic: NK Triglav Kranj → NK Triglav Kranj U19
+- Blaz Jemec: NK Triglav Kranj → NK Triglav Kranj U19
+- Anej Doric: NK Triglav Kranj → NK Triglav Kranj U19
+- Bor Bergant: NK Triglav Kranj → NK Triglav Kranj U19
+- Alen Abdic: ND Ilirija 1911 → ND Ilirija 1911 U19
+- Gabriel Pevc Carrera: ND Ilirija 1911 → ND Ilirija 1911 U19
+- Jan Nikolic: ND Ilirija 1911 → ND Ilirija 1911 U19
+- Alen Muminovic: ND Ilirija 1911 → ND Ilirija 1911 U19
+- Lukas Dikic: ND Ilirija 1911 → ND Ilirija 1911 U19
+- Rafael Markulin: NK Brezice 1919 → NK Brezice 1919 U19
+- Jaka Baznik: NK Brezice 1919 → NK Brezice 1919 U19
+- Petar Bilicic: NK Brezice 1919 → NK Brezice 1919 U19
+- Miha Bajs: NK Brezice 1919 → NK Brezice 1919 U19
+- Mihailo Zobenica: ND Beltinci → ND Beltinci U19
+- Nejc Vöröš: ND Beltinci → ND Beltinci U19
+- Anej Mihajlovic: ND Beltinci → ND Beltinci U19
+- Tomé Sousa: CD Santa Clara U23 → CD Santa Clara B
+- Rodrigo Dias: CD Santa Clara U23 → CD Santa Clara B
+- Zé Franco: CD Santa Clara U23 → CD Santa Clara B
+- João Vilela: CD Santa Clara U23 → CD Santa Clara B
+- Edgar Antunes: CD Santa Clara U23 → CD Santa Clara B
+- Cristiano Fructuoso: CD Santa Clara U23 → CD Santa Clara B
+- Seydou Fofana: CD Santa Clara U23 → CD Santa Clara B
+- Kamika: CD Santa Clara U23 → CD Santa Clara B
+- Martim Madeira: CD Santa Clara U23 → CD Santa Clara B
+- Tiago Duarte: CD Santa Clara U23 → CD Santa Clara B
+- Osvaldo Miranda: CD Santa Clara U23 → CD Santa Clara B
+- João Barros: CD Santa Clara U23 → CD Santa Clara B
+- Youcef Atal: Без клуба → Al-Sadd SC
+- Gonçalo Pereira: AC Malveira → GD Portel
+- Mohammed Muntari: Al-Gharafa SC → Al-Sadd SC
+- Sami Beldi: Al-Rayyan NextGen → Al-Rayyan SC
+- Sami Mazen Dauleh: Al-Rayyan NextGen → Al-Rayyan SC
+- Youssef Ayman: Al-Rayyan NextGen → Al-Rayyan SC
+- Mohammed Saleh: Al-Rayyan NextGen → Al-Rayyan SC
+- Hassan Mohammed Al-Ghareeb: Al-Rayyan NextGen → Al-Rayyan SC
+- Hazem Ahmed: Al-Rayyan NextGen → Al-Rayyan SC
+- Mostafa Osama Abouelela: Al-Rayyan NextGen → Al-Rayyan SC
+- Jassem Al-Sharshani: Al-Rayyan NextGen → Al-Rayyan SC
+- Ali Al-Qahtani: Al-Rayyan NextGen → Al-Rayyan SC
+- Mostafa El Sayed: Al-Rayyan NextGen → Al-Rayyan SC
+- Ahmed Kone: Eithad Al-Gharafa → Al-Gharafa SC
+- Hamad Kahiout: Eithad Al-Gharafa → Al-Gharafa SC
+- Mahmood Gamal: Eithad Al-Gharafa → Al-Gharafa SC
+- Mason Holgate: Eithad Al-Gharafa → Al-Gharafa SC
+- Mostafa Essam: Eithad Al-Gharafa → Al-Gharafa SC
+- Chalpan Abdulnasir: Eithad Al-Gharafa → Al-Gharafa SC
+- Yousef Al-Khalif: Eithad Al-Gharafa → Al-Gharafa SC
+- Ibrahim Tamer: Eithad Al-Gharafa → Al-Gharafa SC
+- Jamil Friakh: Eithad Al-Gharafa → Al-Gharafa SC
+- Amjad Nassar Mohamed: Eithad Al-Gharafa → Al-Gharafa SC
+- Yousef Saaed Ahmed: Eithad Al-Gharafa → Al-Gharafa SC
+- Ali Mohammed: Al-Shamal Future → Al-Shamal SC
+- Youssouf Sabaly: Al-Shamal Future → Al-Shamal SC
+- Adel Bader: Al-Shamal Future → Al-Shamal SC
+- Riyad Mahrez: Без клуба → Al-Shamal SC
+- Tamer Seyam: Al-Shamal SC → Al-Wakrah SC
+- Andrej Stojanovic: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Michael Maleschek: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Andreas Ekhator: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Felix Neuhäuser: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Diego Lobos: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Jakob Gauglhofer: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Lennard Kavakebi: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Michael Habisohn: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Aldin Delimehic: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Ahmet Can Poyraz: AKA Red Bull Salzburg U16 → AKA Red Bull Salzburg U18
+- Nikola Vasic: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Robert Takacs: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Sinan Federmair: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Adrian Stankovic: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Mirac Seckin: AKA Rapid Wien U16 → AKA Rapid Wien U18
+- Yannick Saurer: AKA St. Pölten U16 → AKA St. Pölten U18
+- Milos Tesanovic: AKA St. Pölten U16 → AKA St. Pölten U18
+- Agon Wang: AKA St. Pölten U16 → AKA St. Pölten U18
+- Tobias Gössler: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Gasper Jesenko: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Theodor Fürpaß: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Aldin Sandal: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Niko Mezga: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Augustin Konstantiniuk: AKA Steiermark - Sturm Graz U16 → AKA Steiermark - Sturm Graz U18
+- Christof Katzmayr: LASK Amateure OÖ → AKA LASK OÖ U18
+- Nathan Simo: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Aldino Turbic: LASK Amateure OÖ → AKA LASK OÖ U18
+- Nico Cakic: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Gikho Sagardzhiev: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Luca Ortner: LASK Amateure OÖ → AKA LASK OÖ U18
+- Jakob Wansch: LASK Amateure OÖ → AKA LASK OÖ U18
+- Ryan Rodriguez German: LASK Amateure OÖ → AKA LASK OÖ U18
+- Luca Miksch: LASK Amateure OÖ → AKA LASK OÖ U18
+- Matteo Simmel: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Pedro Ataíde: Selangor FC II → Selangor FC
+- Paul Krapf: LASK Amateure OÖ → AKA LASK OÖ U18
+- Eray Bakar: AKA LASK OÖ U16 → AKA LASK OÖ U18
+- Lukas Bozsoki: LASK Amateure OÖ → AKA LASK OÖ U18
+- Matthias Hartl: LASK Amateure OÖ → AKA LASK OÖ U18
+- Peyton Presson: LASK Amateure OÖ → AKA LASK OÖ U18
+- Anilberk Eliacik: AKA Vorarlberg U16 → AKA Vorarlberg U18
+- Semih Kaan Ucar: AKA Vorarlberg U16 → AKA Vorarlberg U18
+- Matthias Nemetschek: AKA Austria Wien U16 → AKA Austria Wien U18
+- Felix Ahorn: AKA Austria Wien U16 → AKA Austria Wien U18
+- Daniel Vulovic: AKA Austria Wien U16 → AKA Austria Wien U18
+- Kayra Sahinbaz: AKA Austria Wien U16 → AKA Austria Wien U18
+- Nenad Petric: AKA Austria Wien U16 → AKA Austria Wien U18
+- Emilio Orman: AKA Austria Wien U16 → AKA Austria Wien U18
+- Julian Vogt: Wolfsberger AC II → AKA Wolfsberger AC U18
+- Fabio Orieschnig: Wolfsberger AC II → AKA Wolfsberger AC U18
+- Luca Käfel: AKA Wolfsberger AC U16 → AKA Wolfsberger AC U18
+- Jakob Lechner: AKA Wolfsberger AC U16 → AKA Wolfsberger AC U18
+- David Pötsch: Wolfsberger AC II → AKA Wolfsberger AC U18
+- Niklas Petschnig: AKA Wolfsberger AC U16 → AKA Wolfsberger AC U18
+- Aras Sen: AKA Wolfsberger AC U16 → AKA Wolfsberger AC U18
+- Chris Jazbar: Wolfsberger AC II → AKA Wolfsberger AC U18
+- Sebastian Herrnhofer: Wolfsberger AC II → AKA Wolfsberger AC U18
+- Moritz Korak: Wolfsberger AC II → AKA Wolfsberger AC U18
+- Lionel Zotz: AKA Tirol U16 → AKA Tirol U18
+- Michael Maurer: AKA Tirol U16 → AKA Tirol U18
+- Fabian Halder: AKA Tirol U16 → AKA Tirol U18
+- Sejran Sejrani: AKA Tirol U16 → AKA Tirol U18
+- Matthias Duregger: AKA Tirol U16 → AKA Tirol U18
+- Albin Nicklas: AKA Tirol U16 → AKA Tirol U18
+- Danilo Matovic: SV Ried II → AKA SV Ried U18
+- Valentin Holzer: SV Ried II → AKA SV Ried U18
+- Gregor Indrist: SV Ried II → AKA SV Ried U18
+- Stefan Strauß: AKA SV Ried U16 → AKA SV Ried U18
+- Leon Gruber: SV Ried II → AKA SV Ried U18
+- Fabian Rodriguez De Medici: SV Ried II → AKA SV Ried U18
+- Alexander Müller: AKA SV Ried U16 → AKA SV Ried U18
+- Julian Schmidt: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Amar Ahmetovic: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Konstantin Kaufmann: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Mateo Duric: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Bilal Yilmaz: AKA Admira Wacker U16 → AKA Admira Wacker U18
+- Daniel Nunhardt: AKA Burgenland U16 → AKA Burgenland U18
+- Samuel Weinzettl: AKA Burgenland U16 → AKA Burgenland U18
+- Daniel Janitsch: AKA Burgenland U16 → AKA Burgenland U18
+- Nickoy Christian: Dunbeholden FC → Tru Juice FC
+- Eliot Davoine-Coupry: Angers SCO U17 → Angers SCO U19
+- Madi Tandia: Angers SCO U17 → Angers SCO U19
+- Noa Gnaly: Angers SCO U17 → Angers SCO U19
+- Sanah Camara: FC Nantes B → FC Nantes U19
+- Heloim Drawakana Ndongala: EA Guingamp U19 → US Sainte-Anne de Vertou U19
+- Emil Özelt: AKA Burgenland U18 → SC Bad Sauerbrunn
+- Artur Fernandes: CD Santa Clara U23 → FC Alverca B
+- Elton Jesus: Académico Viseu FC U23 → FC Alverca B
+- Gennadiy Szikszai: Kazincbarcikai SC → Kisvárda FC
+- Diogo Rodrigues: Portimonense SAD U23 → O Elvas CAD
+- João Araújo: Cuiabá Esporte Clube (MT) → FC Oliveira do Hospital
+- Francisco Enes: AC Malveira → AD Fazendense
+- Noë Tschanz: BSC Young Boys U21 → BSC Young Boys
+- Bennett Hoch: FC Basel 1893 U21 → FC Basel 1893
+- Diego Mina: FC Lugano II → FC Lugano
+- Carbone: FC Lugano II → FC Lugano
+- Jason Parente: FC Lugano II → FC Lugano
+- Christian Raffa: FC Lugano II → FC Lugano
+- Ian Tiraboschi: FC Lugano II → FC Lugano
+- Nicolò Puddu: FC Lugano II → FC Lugano
+- Bryan Zurmühle: FC Lugano II → FC Lugano
+- Simon Caillet: FC Sion U21 → FC Sion
+- Nevio Biner: FC Sion U21 → FC Sion
+- Damien Möschinger: FC Sion U21 → FC Sion
+- Jason Almeida: FC Sion U21 → FC Sion
+- Altin Shala: FC Sion U21 → FC Sion
+- Adrien Llukes: FC Sion U21 → FC Sion
+- Rayan Stoll: FC Sion U21 → FC Sion
+- Emilien Grosso: FC Lausanne-Sport II → FC Lausanne-Sport
+- Rodolfo Lippo: FC Lausanne-Sport II → FC Lausanne-Sport
+- Alexis Blin: Без клуба → FC Lausanne-Sport
+- Souleymane N'Diaye: FC Lausanne-Sport II → FC Lausanne-Sport
+- Jérôme Bieler: FC Luzern U21 → FC Luzern
+- Louis Rieder: Servette FC U21 → Servette FC
+- Benoît Sida: Servette FC U21 → Servette FC
+- Dario Wälti: FC Thun U21 → FC Thun
+- Leo Stucki: FC Thun U21 → FC Thun
+- Louis Passavant: FC Thun U21 → FC Thun
+- Mats Seiler: FC Thun U21 → FC Thun
+- Adam Ilic: FC Thun U21 → FC Thun
+- Eron Avdullahu: Grasshopper Club Zürich U21 → Grasshopper Club Zurich
+- Yannick Bettkober: Grasshopper Club Zürich U21 → Grasshopper Club Zurich
+- Denis Sahin: Grasshopper Club Zürich U21 → Grasshopper Club Zurich
+- Demis Fiechter: Grasshopper Club Zürich U21 → Grasshopper Club Zurich
+- Diego Ferrazza: Grasshopper Club Zürich U21 → Grasshopper Club Zurich
+- Doron Lichtenstein: FC Zürich U21 → FC Zürich
+- Mario Greco: FC Zürich U21 → FC Zürich
+- Nico Leccadito: FC Schaffhausen → FC Schaffhausen II
+- Granit Islami: FC Schaffhausen → FC Schaffhausen II
+- Sekou Diawara: FC Zürich U21 → FC Zürich
+- Boris Babic: FC Schaffhausen → FC Schaffhausen II
+- Hans Jørgensen: B36 Tórshavn → B36 Tórshavn II
+- Rói Hansen: B36 Tórshavn → B36 Tórshavn II
+- Tórur Eliasen: B36 Tórshavn → B36 Tórshavn II
+- Tobias Hansen: B36 Tórshavn → B36 Tórshavn II
+- Ingi Arngrímsson: Víkingur Gøta → Víkingur Göta II
+- Jónatan Lervig: Víkingur Gøta → Víkingur Göta II
+- Áki Magnussen: Víkingur Gøta → Víkingur Göta II
+- Rani Hansen: Víkingur Gøta → Víkingur Göta II
+- Fayo Kruse: EB/Streymur → EB/Streymur II
+- Thomas Bjørn Miezan: EB/Streymur → EB/Streymur II
+- Ábraham Joensen: EB/Streymur → EB/Streymur II
+- Tóki Johannesen: EB/Streymur → EB/Streymur II
+- Jákup Hummeland: EB/Streymur → EB/Streymur II
+- Sverri Mariusarson: EB/Streymur → EB/Streymur II
+- Hans Pauli á Bö: EB/Streymur → EB/Streymur II
+- Jón Petur Thomsen: NSÍ Runavík → NSÍ Runavík II
+- Benadiktus Olsen: NSÍ Runavík → NSÍ Runavík II
+- Tróndur Sjúrdarson: HB Tórshavn → HB Tórshavn II
+- Jógvan í Lon: HB Tórshavn → HB Tórshavn II
+- Silas Joensen: HB Tórshavn → HB Tórshavn II
+- Jógvan í Skála: HB Tórshavn → HB Tórshavn II
+- Charbel Assaf: Shabab Al-Sahel → Safa Beirut SC
+- Dánjal Reginsson: HB Tórshavn → HB Tórshavn II
+- Mohammad Fakih: Nejmeh SC → Safa Beirut SC
+- Issa Ndiaye: Akhaa Al-Ahly SC → Sagesse SC
+- Shibriko: Nejmeh SC → AC Tripoli
+- Ahmad Manaa: Tadamon Sour → Al-Abbassieh FC
+- Nuno Patrício: SC Braga U23 → SC Braga B
+- Wael Youssef: Al-Abbassieh FC → Tadamon Sour
+- Chukwudi Nwaodu: Barau Football Club → Chabab Ghazieh SC
+- Felix Gfrerer: AKA Admira Wacker U18 → AKA Admira Wacker U16
+- Maximilian Brillmann: AKA Admira Wacker U18 → AKA Admira Wacker U16
+- Ramsanga: East Bengal FC → Gokulam Kerala FC
+- Ahmet Yayla: Racing Strasbourg U19 → AS Nancy-Lorraine U19
+- Leonardo Silva: CD Tondela → UD Sousense
+- Giuseppe Pipitò: Juventus Under 18 → Juventus Under 17
+- Francesco Carbonella: Pisa Primavera → Pisa Under 17
+- Yazid Tifrani: Racing Strasbourg U17 → Racing Strasbourg U19
+- David Aguy: Racing Strasbourg B → Racing Strasbourg U19
+- Jovan Djalovic: FK Sloga Meridian → FK Kozara Gradiska
+- Andrija Losic: FK Radnik Bijeljina → FK Drina Zvornik
+- Matej Kitic: FK Zvijezda 09 U19 → FK Zvijezda 09
+- Milijan Kovacevic: FK BSK Banja Luka → FK Potkozarje Aleksandrovac
+- Kristijan Gagovic: FK Sutjeska Foca → FK Potkozarje Aleksandrovac
+- Srdjan Nedic: FK Radnik Bijeljina → FK Majevica
+- Malik Chamseddine: FK Radnik Bijeljina → FK Majevica
+- Andrej Krstic: FK Radnik Bijeljina → FK Majevica
+- Marko Bardak: FK Radnik Bijeljina → FK Majevica
+- Adam Stejskal: Без клуба → SK Sturm Graz
+- David Skubl: Wolfsberger AC II → Wolfsberger AC
+- Adama Dramé: Wolfsberger AC II → Wolfsberger AC
+- Michael Schweiger: Wolfsberger AC II → Wolfsberger AC
+- Harald Postl: TSV Hartberg II → TSV Hartberg
+- Simon Freund: TSV Hartberg II → TSV Hartberg
+- Paul Bratschko: TSV Hartberg II → TSV Hartberg
+- Jonas Karner: TSV Hartberg II → TSV Hartberg
+- Chilohem Onuoha: TSV Hartberg II → TSV Hartberg
+- David Korherr: TSV Hartberg II → TSV Hartberg
+- Matthias Postl: TSV Hartberg II → TSV Hartberg
+- Paul Piffer: SCR Altach Juniors → SCR Altach
+- Henrique Bell: SCR Altach Juniors → SCR Altach
+- Adrian Vonbrül: SCR Altach Juniors → SCR Altach
+- Michael Neuner: WSG Tirol II → WSG Tirol
+- David Falkner: WSG Tirol II → WSG Tirol
+- Frederic Flatz: SC Austria Lustenau II → SC Austria Lustenau
+- Novak Rajic: SC Austria Lustenau II → SC Austria Lustenau
+- Melih Akbulut: SC Austria Lustenau II → SC Austria Lustenau
+- Timéo Raffourt: Racing Strasbourg U19 → Racing Strasbourg B
+- Yaya Diémé: RC Strasbourg Alsace → Racing Strasbourg B
+- Mohamed Chennah: US Orléans U19 → Racing Strasbourg B
+- Nathan Samuel: US Torcy → FC Sochaux-Montbéliard B
+- Rubin Hebeja: KF Oriku → KF Korabi
+- Alan Bikoumou: FC Sochaux-Montbéliard B → Jeanne d'Arc de Drancy
+- Ben Trenberth: Wellington Phoenix FC Reserves → Wellington Phoenix
+- Leo Hofstädter: Slovan Bratislava B → Slovan Bratislava
+- Matus Tomasko: Slovan Bratislava B → Slovan Bratislava
+- Manasse Kianga: Slovan Bratislava B → Slovan Bratislava
+- Tamas Tarcsi: MSK Zilina B → MSK Zilina
+- Filip Kalanin: FC Kosice U19 → FC Kosice
+- Lubomir Malik: Zemplin Michalovce U19 → Zemplin Michalovce
+- Oleg Zahradnik: Zemplin Michalovce U19 → Zemplin Michalovce
+- Nikolas Kubala: MFK Dukla Banska Bystrica U19 → MFK Dukla Banska Bystrica
+- Noah Rossi: IF Gnistan U18 → IF Gnistan
+- Samuel Heikari: IF Gnistan U18 → IF Gnistan
+- Jeff Selenge: IF Gnistan U18 → IF Gnistan
+- Kosmo Launiala: IF Gnistan U18 → IF Gnistan
+- Eino Ehrnrooth: Vaasan Palloseura U18 → Vaasan Palloseura
+- Alex Myntti: Vaasan Palloseura U18 → Vaasan Palloseura
+- Veikka Rättö: FC Lahti U18 → FC Lahti
+- Wille Nuñez: IFK Mariehamn II → IFK Mariehamn
+- Henrik Asula: Turun Palloseura U18 → Turun Palloseura
+- Andreas Hansen: FC Nordsjaelland → FC Nordsjælland
+- Carljohan Eriksson: FC Nordsjaelland → FC Nordsjælland
+- Jakob Busk: FC Nordsjaelland → FC Nordsjælland
+- Andreas Søndenbroe: FC Nordsjaelland → FC Nordsjælland
+- Victor Nelsson: FC Nordsjaelland → FC Nordsjælland
+- Noah Markmann: FC Nordsjaelland → FC Nordsjælland
+- Stephen Acquah: FC Nordsjaelland → FC Nordsjælland
+- Tobias Salquist: FC Nordsjaelland → FC Nordsjælland
+- Markus Walker: FC Nordsjaelland → FC Nordsjælland
+- Villads Rutkjær: FC Nordsjaelland → FC Nordsjælland
+- Matej Tuka: FC Nordsjaelland → FC Nordsjælland
+- Runar Norheim: FC Nordsjaelland → FC Nordsjælland
+- Peter Ankersen: FC Nordsjaelland → FC Nordsjælland
+- Victor Gustafsen: FC Nordsjaelland → FC Nordsjælland
+- Justin Janssen: FC Nordsjaelland → FC Nordsjælland
+- Mark Brink: FC Nordsjaelland → FC Nordsjælland
+- Malte Heyde: FC Nordsjaelland → FC Nordsjælland
+- Nicklas Røjkjær: FC Nordsjaelland → FC Nordsjælland
+- Lamine Sadio: FC Nordsjaelland → FC Nordsjælland
+- Juho Lähteenmäki: FC Nordsjaelland → FC Nordsjælland
+- Prince Amoako Junior: FC Nordsjaelland → FC Nordsjælland
+- Ibrahim Adel: FC Nordsjaelland → FC Nordsjælland
+- Mouekeinga Kone: FC Nordsjaelland → FC Nordsjælland
+- Ola Solbakken: FC Nordsjaelland → FC Nordsjælland
+- Hjalte Boe Rasmussen: FC Nordsjaelland → FC Nordsjælland
+- Alexander Lind: FC Nordsjaelland → FC Nordsjælland
+- Villum Berthelsen: FC Nordsjaelland → FC Nordsjælland
+- Souleymane Alio: FC Nordsjaelland → FC Nordsjælland
+- William Faber: FC Nordsjaelland → FC Nordsjælland
+- Rabbi Matondo: Без клуба → Hibernian FC
+- Nico Mantl: Без клуба → Kilmarnock FC
+- Dave Richards: Kidderminster Harriers → Kilmarnock FC
+- Kingsley Bimpong: AC Horsens U19 → AC Horsens
+- Domagoj Ivan Maric: HNK Orijent Rijeka → HNK Rijeka
+- Emil Papikyan: FC Shirak Gyumri II → FC Shirak Gyumri
+- Ernest Kacou: FC Ararat Yerevan II → FC Ararat Yerevan
+- Alen Mkrtchyan: FC Ararat Yerevan II → FC Ararat Yerevan
+- Gagik Simonyan: FC Ararat Yerevan II → FC Ararat Yerevan
+- Artyom Davidov: BKMA Yerevan II → BKMA Yerevan
+- Sergey Harutyunyan: BKMA Yerevan II → BKMA Yerevan
+- Artur Manukyan: BKMA Yerevan II → BKMA Yerevan
+- Matej Mitrovic: Без клуба → NK Lokomotiva Zagreb
+- Jack Brady: Treaty United → Treaty United (- 2026)
+- Dylan Ashman: Treaty United → Treaty United (- 2026)
+- Kevin Fitzpatrick: Treaty United → Treaty United (- 2026)
+- Eric Yoro: Treaty United → Treaty United (- 2026)
+- Kilian Cantwell: Treaty United → Treaty United (- 2026)
+- Richkov Boevi: Treaty United → Treaty United (- 2026)
+- Billy Regan: Treaty United → Treaty United (- 2026)
+- Darren Nwankwo: Treaty United → Treaty United (- 2026)
+- Mark Walsh: Treaty United → Treaty United (- 2026)
+- Robbie Lynch: Treaty United → Treaty United (- 2026)
+- Ben Lynch: Treaty United → Treaty United (- 2026)
+- Kyle Foley: Treaty United → Treaty United (- 2026)
+- Bobby Amadasun: Treaty United → Treaty United (- 2026)
+- James Rochford: Treaty United → Treaty United (- 2026)
+- Colin Conroy: Treaty United → Treaty United (- 2026)
+- Steven Healy: Treaty United → Treaty United (- 2026)
+- Matt Jones: Treaty United → Treaty United (- 2026)
+- Mark Murphy: Treaty United → Treaty United (- 2026)
+- Ronan Manning: Treaty United → Treaty United (- 2026)
+- Roy Lawlor: Treaty United → Treaty United (- 2026)
+- Mark Byrne: Treaty United → Treaty United (- 2026)
+- Jason Oyenuga: Treaty United → Treaty United (- 2026)
+- Dare Kareem: Treaty United → Treaty United (- 2026)
+- Cian Curtis: Treaty United → Treaty United (- 2026)
+- Ben Feeney: Treaty United → Treaty United (- 2026)
+- Brian Cunningham: Treaty United → Treaty United (- 2026)
+- Cillian Mulvihill: Treaty United → Treaty United (- 2026)
+- Scott Murphy: Treaty United → Treaty United (- 2026)
+- Tadhg McElligott: Treaty United → Treaty United (- 2026)
+- Colm Whelan: Treaty United → Treaty United (- 2026)
+- Taison Singh: Kerala Blasters FC → Karbi Anglong Morning Star FC
+- Mohamed Izaan Ali: TC Sports Club → New Radiant SC
+- Tobias Backman: Oulun Luistinseura U18 → Oulun Luistinseura
+- Leevi Laru: Oulun Luistinseura U18 → Oulun Luistinseura
+- Ilari Arvola: Oulun Luistinseura U18 → Oulun Luistinseura
+- Hugo Taumberger: Oulun Luistinseura U18 → Oulun Luistinseura
+- Lenni Teppo: Oulun Luistinseura U18 → Oulun Luistinseura
+- Aaron Korkala: Oulun Luistinseura U18 → Oulun Luistinseura
+- Eemeli Eronen: Oulun Luistinseura U18 → Oulun Luistinseura
+- Miio Höglund: FC Inter Turku U18 → FC Inter Turku II
+- Albion Rashica: FC Inter Turku U18 → FC Inter Turku II
+- Paavo Aalto: FC Inter Turku U18 → FC Inter Turku II
+- Nestori Meltoranta: FC Inter Turku U18 → FC Inter Turku II
+- Niilo Kopperoinen: FC Inter Turku U18 → FC Inter Turku II
+- Riham Abdul Ghanee: New Radiant SC → Odi SC
+- Rasmus Mendolin: FC Inter Turku U18 → FC Inter Turku II
+- Konsta Kauppinen: Kuopion Palloseura U18 → Kuopion Palloseura II
+- Kevin Haarma: Kuopion Palloseura U18 → Kuopion Palloseura II
+- Tatu Hukkanen: Kuopion Palloseura U18 → Kuopion Palloseura II
+- Reko Ronkainen: Kuopion Palloseura U18 → Kuopion Palloseura II
+- Roopert Tahkola: Kuopion Palloseura U18 → Kuopion Palloseura II
+- Veikko Lahtela: Kuopion Palloseura U18 → Kuopion Palloseura II
+- Volkan Mutlu: Kuopion Palloseura U18 → Kuopion Palloseura II
+- Arne Vesa: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- William Mikkola: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Waltteri Koivisto: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Matias Åberg: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Juho Pirkkalainen: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Ahnaf Mohamed Thasnym: TC Sports Club → Biss Buru SC
+- Ibrahim Atheeg: Odi SC → Biss Buru SC
+- Johannes Moilanen: Kokkolan Pallo-Veikot II → Kokkolan Pallo-Veikot
+- Atte Salmi: JJK Jyväskylä U18 → JJK Jyväskylä
+- Yaish Mohamed Nasir: New Radiant SC → Club Eagles
+- Lauri Suutarinen: JJK Jyväskylä U18 → JJK Jyväskylä
+- Veikko Ojala: JJK Jyväskylä U18 → JJK Jyväskylä
+- Samuel Kähäri: JJK Jyväskylä U18 → JJK Jyväskylä
+- Daniel Wacklin: JJK Jyväskylä U18 → JJK Jyväskylä
+- Nikolas Liimatainen: JJK Jyväskylä U18 → JJK Jyväskylä
+- Lenni Rainerma: JJK Jyväskylä U18 → JJK Jyväskylä
+- Valtteri Holopainen: Pallokerho Keski-Uusimaa U18 → Pallokerho Keski-Uusimaa
+- Ossi Niemi: Pallokerho Keski-Uusimaa U18 → Pallokerho Keski-Uusimaa
+- Nehir Aydin: Euran Pallo → FC Jazz
+- Aku Ahla: Vantaan Jalkapalloseura U18 → Vantaan Jalkapalloseura
+- Lenni-Elias Aalto: Vantaan Jalkapalloseura U18 → Vantaan Jalkapalloseura
+- Elias Hannula: Vantaan Jalkapalloseura U18 → Vantaan Jalkapalloseura
+- Mico Syrjälä: Tampereen Pallo-Veikot II → Tampereen Pallo-Veikot
+- Vikke-Valtteri Anttila: Tampereen Pallo-Veikot II → Tampereen Pallo-Veikot
+- Lamin Jadama: Tampereen Pallo-Veikot II → Tampereen Pallo-Veikot
+- Louis Mezerette: AJ Auxerre → AJ Auxerre B
+- Alvin Petit Dol: AJ Auxerre → AJ Auxerre B
+- Ryan Rodin: AJ Auxerre → AJ Auxerre B
+- Keziah Bassila: US Sainte-Anne de Vertou → CS Brétigny Football
+- Cyril Fogacci: GFC Ajaccio → Gazélec Ajaccio
+- Alane Bedfian: GFC Ajaccio → Gazélec Ajaccio
+- Luca Serra: GFC Ajaccio → Gazélec Ajaccio
+- Corentin Cal: GFC Ajaccio → Gazélec Ajaccio
+- Diougou Traoré: GFC Ajaccio → Gazélec Ajaccio
+- Laurent Makali Nzazi: GFC Ajaccio → Gazélec Ajaccio
+- Enzo Thelemaque: GFC Ajaccio U19 → Gazélec Ajaccio
+- Lucas Alves: GFC Ajaccio → Gazélec Ajaccio
+- Valentin Michau: GFC Ajaccio → Gazélec Ajaccio
+- Hassein Mersni: GFC Ajaccio → Gazélec Ajaccio
+- Mathis Fiori: GFC Ajaccio → Gazélec Ajaccio
+- Baah Owusu: GFC Ajaccio → Gazélec Ajaccio
+- Jason Buaillon: GFC Ajaccio → Gazélec Ajaccio
+- Laurent Fogacci: GFC Ajaccio → Gazélec Ajaccio
+- Paul-Antoine Finidori: GFC Ajaccio → Gazélec Ajaccio
+- Tom Fragassi: GFC Ajaccio → Gazélec Ajaccio
+- Francescu Colonna: GFC Ajaccio → Gazélec Ajaccio
+- Isaiah Osei-Prempeh: GFC Ajaccio → Gazélec Ajaccio
+- Kaïs Djellal: GFC Ajaccio → Gazélec Ajaccio
+- Nolan Dangoumau: GFC Ajaccio → Gazélec Ajaccio
+- Amir Bouzazi: GFC Ajaccio → Gazélec Ajaccio
+- Krys Foleu Téné: GFC Ajaccio → Gazélec Ajaccio
+- Kévin Schur: GFC Ajaccio → Gazélec Ajaccio
+- Rakine Bouhadjar: GFC Ajaccio → Gazélec Ajaccio
+- Jules Vitoux: GFC Ajaccio → Gazélec Ajaccio
+- Vassancy Diomandé: GFC Ajaccio → Gazélec Ajaccio
+- Siny Guèye: Paris FC U19 → Paris FC B
+- Mohamed-Anouar Hmamouch: FC Lorient B → EA Guingamp B
+- Parfait Mandanda: SM Caen → SM Caen B
+- Boubacar Diallo: R Charleroi SC U18 → SM Caen B
+- Lassana Diomandé: SM Caen U19 → SM Caen B
+- Sofiane Gomis: SM Caen U19 → SM Caen B
+- Mathis Daffot Zagui: SM Caen U19 → SM Caen B
+- Brahim Mahamat: Canet Roussillon FC → USC Corte
+- Meïvyn Agesilas: AS Saint-Étienne B → Thonon Évian Grand Genève FC
+- Maksimilian Skvortsov: FCI Levadia → Levadia Tallinn U19
+- Paul Selter: FC Nomme United U19 → FC Flora Tallinn U19
+- Sam Fraipont: Standard Liège U18 → Standard de Liège 16 FC
+- Ange-Gabriel Kokora: Standard Liège U18 → Standard de Liège 16 FC
+- Yanis Malamba: Standard Liège U18 → Standard de Liège 16 FC
+- Yhanis Onehese: Standard Liège U18 → Standard de Liège 16 FC
+- Luca Rousseaux: R Charleroi SC U18 → Zébra Élites
+- Sacha Miantezila: R Charleroi SC U18 → Zébra Élites
+- Oscar Latteur: R Charleroi SC U18 → Zébra Élites
+- Battiste Crévieaux: Francs Borains U21 → Zébra Élites
+- Leandro Diaz Rodriguez: R Charleroi SC U18 → Zébra Élites
+- Elvin Camalov: Neftchi PFK → FK Gabala
+- Thierno Ndour: Thimphu City FC → Paro FC
+- Kwadwo Acquah: Royal Thimphu College → Paro FC
+- Riku Ichimura: Royal Thimphu College → Paro FC
+- Abayomi Fakunle: Transport United → Paro FC
+- David Djédjé: SC Bastia → SC Bastia B
+- Antonny Monreal: Inter de San Carlos → Inter San Carlos
+- Aaron Cruz: Inter de San Carlos → Inter San Carlos
+- Guido Jiménez: Inter de San Carlos → Inter San Carlos
+- Berny Rojas: Inter de San Carlos → Inter San Carlos
+- Adriel Ramos: Inter de San Carlos → Inter San Carlos
+- Jonathan Chacón: Inter de San Carlos → Inter San Carlos
+- Armando Rodríguez: Inter de San Carlos → Inter San Carlos
+- Juan Luis Pérez: Inter de San Carlos → Inter San Carlos
+- Wilson González: Inter de San Carlos → Inter San Carlos
+- Joel Ramos: Inter de San Carlos → Inter San Carlos
+- José Arias: Inter de San Carlos → Inter San Carlos
+- Carlos Martínez: Inter de San Carlos → Inter San Carlos
+- Daniel Vargas: Inter de San Carlos → Inter San Carlos
+- Sebastián Castro: Inter de San Carlos → Inter San Carlos
+- Yamir Villan: Inter de San Carlos → Inter San Carlos
+- Nendali Mendoza: Inter de San Carlos → Inter San Carlos
+- Wilmer Azofeifa: Inter de San Carlos → Inter San Carlos
+- Samuel Román: Inter de San Carlos → Inter San Carlos
+- Glen Casanova: Inter de San Carlos → Inter San Carlos
+- Óscar Leal: Inter de San Carlos → Inter San Carlos
+- Kendall Porras: Inter de San Carlos → Inter San Carlos
+- Rachid Chirino: Inter de San Carlos → Inter San Carlos
+- Jefferson Sánchez: Inter de San Carlos → Inter San Carlos
+- Carlos Villegas: Inter de San Carlos → Inter San Carlos
+- Yamil Leal: Inter de San Carlos → Inter San Carlos
+- Joseph Bolaños: Inter de San Carlos → Inter San Carlos
+- Randy Vega: Inter de San Carlos → Inter San Carlos
+- Andrés Gómez: Inter de San Carlos → Inter San Carlos
+- Joel Campbell: Inter de San Carlos → Inter San Carlos
+- Érick Torres: Inter de San Carlos → Inter San Carlos
+- Fabricio Alemán: Inter de San Carlos → Inter San Carlos
+- Chaïb Lahmer: FC Versailles 78 B → Red Star FC B
+- Gassimou Sylla: RSCA Futures → RSC Anderlecht U18
+- Bas Evers: Jong KAA Gent → KAA Gent U18
+- Noa Vandenabeele: Jong KAA Gent → KAA Gent U18
+- Mikelis Menniks: Jong KAA Gent → KAA Gent U18
+- Samuli Alanko: Pallokerho Keski-Uusimaa → FC Futura
+- Kaapo Mantere: Lahden Reipas → FC Lahti II
+- Joel Viljanen: Lahden Reipas → FC Lahti II
+- Stefan Ostoici: Club NXT → Club Brugge U18
+- Mateo Haesaert: Club NXT → Club Brugge U18
+- Emmanuel Fejokwu: Club NXT → Club Brugge U18
+- Vic Debusschere: Jong Genk → KRC Genk U18
+- Daan Van Laere: Jong Genk → KRC Genk U18
+- Lander Borgers: Jong Genk → KRC Genk U18
+- Prince N'Salambi: Jong Genk → KRC Genk U18
+- Shakhmurat Dauletov: Jong Genk → KRC Genk U18
+- Daylen Trakosopoulos: Lija Athletic FC → Gzira United FC
+- Abdoul Diop: KV Kortrijk → KV Kortrijk U21
+- Jarne Lafosse: KFC Houtvenne → KVC Westerlo U21
+- Robbe Van Diest: KFC Houtvenne → KVC Westerlo U21
+- Yassin Aouriaghel: K Lierse SK → K Lierse SK U21
+- Antoine Lommel: RFC Seraing → RFC Seraing U21
+- Nils Velleuer: RFC Seraing → RFC Seraing U21
+- Jérémie Mugabo: Sporting Hasselt → Sporting Hasselt U21
+- Kindo Suma: Beerschot VA → Beerschot VA U21
+- Bilal Sousou: RAAL La Louvière U21 → RWDM Brussels U21
+- Waisea Henry: Christchurch United → Wellington Phoenix FC Reserves
+- Altin Azemi: Team BEJUNE U19 → Neuchâtel Xamax FCS
+- Tristan Nunez: Servette FC → Etoile Carouge FC
+- Oscar Renovales: FC Lausanne-Sport II → Etoile Carouge FC
+- Miguel Peralta: Independiente del Valle → Independiente del Valle U19
+- Paulo Uruchima: Deportivo Cuenca → Deportivo Cuenca U19
+- Bolívar Tobar: CS Emelec → CS Emelec U19
+- Luis Godoy: Vinotinto FC → Vinotinto FC U19
+- Eelis Taavettila: JS Hercules U18 → JS Hercules II
+- Aaron Siivikko: JS Hercules U18 → JS Hercules II
+- Lukas Siika-Aho: JS Hercules U18 → JS Hercules II
+- Santeri Holappa: JS Hercules U18 → JS Hercules II
+- Nikolas Romppainen: JS Hercules U18 → JS Hercules II
+- Kasper Lindgren: JS Hercules U18 → JS Hercules II
+- Thatsaphone Xaiyasone: GB Football Club → BIS Football Club
+- Zan Luka Sega: NK Celje U19 → NK Celje
+- Sengathid Prichayana: BIS Master FC → Pinkeo 2010 Chanthabouly Pakse
+- Vaithaya Sisongkham: BIS Football Club → Pinkeo 2010 Chanthabouly Pakse
+- Souliyo Inthavong: Lao Army FC → Pinkeo 2010 Chanthabouly Pakse
+- Dejan Suhovrsnik: NK Celje U19 → NK Celje
+- Luka Bele: NK Olimpija Ljubljana U19 → NK Olimpija Ljubljana
+- Artur Vinicius: NK Olimpija Ljubljana U19 → NK Olimpija Ljubljana
+- Jan Jurgec: NK Olimpija Ljubljana U19 → NK Olimpija Ljubljana
+- Saikham Sirivongsa: BIS Master FC → Pinkeo 2010 Chanthabouly Pakse
+- Job Brecelj: NK Olimpija Ljubljana U19 → NK Olimpija Ljubljana
+- Andria Chkhaidze: FC Gagra → FC Kolkheti-1913 Poti
+- Matej Tadic: NK Maribor U19 → NK Maribor
+- Mark Kavrecic: FC Koper U19 → FC Koper
+- Nejc Antonic: NS Mura U19 → NS Mura
+- Samo Seckar: NS Mura U19 → NS Mura
+- Luka Svjetlanovic: NS Mura U19 → NS Mura
+- Val Bislimaj: NS Mura U19 → NS Mura
+- David Buvac: NK Radomlje U19 → NK Radomlje
+- Vid Chinoso Juvancic: NK Radomlje U19 → NK Radomlje
+- Enej Kramberger: NK Aluminij Kidricevo U19 → NK Aluminij Kidricevo
+- Filip Pongracic: NK Aluminij Kidricevo U19 → NK Aluminij Kidricevo
+- Rrezon Gashi: FC Vushtrria → KF Dukagjini
+- Carlos Luht: Atlantis FC II → Atlantis FC
+- Ilias Matsiev: Atlantis FC II → Atlantis FC
+- Oskari Karttunen: Atlantis FC II → Atlantis FC
+- Arashdeep Singh: Atlantis FC II → Atlantis FC
+- Hermanni Nykänen: FC Lahti U18 → Lahden Reipas
+- Jussi Mynttinen: FC Lahti U18 → Lahden Reipas
+- Miika Vatanen: FC Lahti U18 → Lahden Reipas
+- Emeraude Ndabawedje: FC Lahti U18 → Lahden Reipas
+- Leevi Järvinen: FC Lahti U18 → Lahden Reipas
+- Oliver Helttunen: FC Lahti U18 → Lahden Reipas
+- Eliel Salmensuu: FC Lahti U18 → Lahden Reipas
+- Waisea Henry: Christchurch United → Wellington Phoenix FC Reserves
+- Musa Hietakangas: FC Honka U18 → FC Honka
+- Casper Langhoff: FC Honka U18 → FC Honka
+- Veikko Karppinen: FC Honka U18 → FC Honka
+- Daniel Vadell: FC Honka U18 → FC Honka
+- Mustafa Mahmood: FC Honka U18 → FC Honka
+- Veikka Koistinen: FC Honka U18 → FC Honka
+- Anton Ljungqvist: Ilves Tampere U18 → Ilves Tampere II
+- Melvin Dahlbom: FC Inter Turku II → Ilves Tampere II
+- Elias Veijonen: Ilves Tampere U18 → Ilves Tampere II
+- Miska Laaksonen: Ilves Tampere U18 → Ilves Tampere II
+- Touko Vento: Ilves Tampere U18 → Ilves Tampere II
+- Aaro Salo: Ilves Tampere U18 → Ilves Tampere II
+- Niilo Kyllönen: Ilves Tampere U18 → Ilves Tampere II
+- Rasmus Halonen: Ilves Tampere U18 → Ilves Tampere II
+- Aaro Sinkkilä: Ilves Tampere U18 → Ilves Tampere II
+- Viljami Valkealahti: Ilves Tampere U18 → Ilves Tampere II
+- Valtteri Lehtomäki: Ilves Tampere U18 → Ilves Tampere II
+- Rasmus Rautavirta: Ilves Tampere U18 → Ilves Tampere II
+- Luka Lehtonen: Ilves Tampere U18 → Ilves Tampere II
+- Lauri Koski: Grankulla IFK U18 → Grankulla IFK
+- August Andersson: Grankulla IFK II → Grankulla IFK
+- Tuukka Pekkala: Grankulla IFK II → Grankulla IFK
+- Ville Mäkelä: Grankulla IFK II → Grankulla IFK
+- Kosti Laaksonen: Grankulla IFK II → Grankulla IFK
+- Sisu Saarinen: Grankulla IFK U18 → Grankulla IFK
+- Jami Bergman: Grankulla IFK II → Grankulla IFK
+- Emil Frondelius: Grankulla IFK U18 → Grankulla IFK
+- Samuel Tuuva: Grankulla IFK U18 → Grankulla IFK
+- Adam Alomari: Grankulla IFK U18 → Grankulla IFK
+- Joni Mustalampi: Grankulla IFK U18 → Grankulla IFK
+- Harly Ollin: Harju JK Laagri U19 → Harju JK Laagri
+- Steven Kangur: Harju JK Laagri U19 → Harju JK Laagri
+- Freteliano: Santa Cruz FC → Karketu Dili FC
+- Abraham Hobley: FC City Escaldes → Club Esportiu Carroi
+- Tomas Švedkauskas: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Deividas Mikelionis: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Joris Aliukonis: FK Kauno Zalgiris B → FK Kauno Žalgiris
+- Anton Tolordava: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Aldayr Hernández: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Luka Racic: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Rokas Lekiatas: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Marko Konatar: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Nosa Iyobosa Edokpolor: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Joris Moutachy: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Lirim Kastrati: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Tautvydas Burdzilauskas: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Yukiyoshi Karashima: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Franco Baldassarra: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Gratas Sirgėdas: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Vykintas Slivka: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Amine Benchaib: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Anthony Kalik: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Leon Krekovic: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Fabien Ourega: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Fedor Černych: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Motiejus Burba: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Ivan Fiolić: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Léo Ribeiro: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Gabriel Debeljuh: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Renan Oliveira: FK Kauno Zalgiris → FK Kauno Žalgiris
+- Dominykas Čekavičius: FK Zalgiris Vilnius B → FK Zalgiris Vilnius
+- Patrik Matyžonok: FK Zalgiris Vilnius B → FK Zalgiris Vilnius
+- Martynas Šetkus: FK Zalgiris Vilnius B → FK Zalgiris Vilnius
+- Gustas Jarusevičius: FK Zalgiris Vilnius B → FK Zalgiris Vilnius
+- Kajus Bička: FK Zalgiris Vilnius B → FK Zalgiris Vilnius
+- Vilius Šivickas: FA Siauliai B → FA Siauliai
+- Gustas Geštautas: FA Siauliai B → FA Siauliai
+- Gabijus Micevičius: FA Siauliai B → FA Siauliai
+- Ugnius Vaitiekaitis: FA Siauliai B → FA Siauliai
+- Augustas Tamaševičius: FK TransINVEST B → FK TransINVEST
+- Nojus Petkus: FK TransINVEST B → FK TransINVEST
+- Rokas Bagdonavičius: FC Hegelmann B → FC Hegelmann
+- Lukas Kolendo: FC Hegelmann B → FC Hegelmann
+- Dominykas Pašilys: FC Hegelmann B → FC Hegelmann
+- Lukas Jonaitis: FC Hegelmann B → FC Hegelmann
+- Domas Sinkevičius: FC Hegelmann B → FC Hegelmann
+- Erkka Oikarinen: Jippo Joensuu II → Jippo Joensuu
+- Verneri Vainikainen: Jippo Joensuu II → Jippo Joensuu
+- Eeli Kinnunen: Jippo Joensuu II → Jippo Joensuu
+- Terrence Smith: Jippo Joensuu II → Jippo Joensuu
+- Axel Sandbacka: Ekenäs IF II → Ekenäs IF
+- August Björklund: Ekenäs IF II → Ekenäs IF
+- Arttu Sivonen: Ekenäs IF II → Ekenäs IF
+- Samuel Friday James: SJK Seinäjoki → SJK Seinäjoki II
+- Walter Berts: Vaasan Palloseura U18 → Vaasan Palloseura II
+- Aleksi Ahonen: Vaasan Palloseura U18 → Vaasan Palloseura II
+- Jaapo Antila: Vaasan Palloseura U18 → Vaasan Palloseura II
+- Alexander Wik: Vaasan Palloseura U18 → Vaasan Palloseura II
+- Lari Piiroinen: Vaasan Palloseura U18 → Vaasan Palloseura II
+- Arttu Matilainen: Vaasan Palloseura U18 → Vaasan Palloseura II
+- Oskar Sparv: Vaasan Palloseura U18 → Vaasan Palloseura II
+- Aaro Lakso: Vaasan Palloseura U18 → Vaasan Palloseura II
+- Timi Heikkinen: Mikkelin Palloilijat II → Mikkelin Palloilijat
+- Ville Laiho: Mikkelin Palloilijat II → Mikkelin Palloilijat
+- Oliver Häyhänen: Mikkelin Palloilijat II → Mikkelin Palloilijat
+- Lucas Huttunen: SJK Seinäjoki U18 → SJK Seinäjoki III
+- Eeli Mäkelä: SJK Seinäjoki U18 → SJK Seinäjoki III
+- Jaakko Matinlauri: SJK Seinäjoki U18 → SJK Seinäjoki III
+- Oliver Eteläaho: SJK Seinäjoki U18 → SJK Seinäjoki III
+- Arvo Asumus: SJK Seinäjoki U18 → SJK Seinäjoki III
+- Luka Kuusisto: SJK Seinäjoki U18 → SJK Seinäjoki III
+- Daniel Mbumba: SJK Seinäjoki U18 → SJK Seinäjoki III
+- Hermanni Honkola: SJK Seinäjoki U18 → SJK Seinäjoki III
+- Eelis Taavettila: JS Hercules U18 → JS Hercules
+- Santeri Vaihoja: JS Hercules U18 → JS Hercules
+- Eetu Keskitalo: JS Hercules U18 → JS Hercules
+- Verneri Henttunen: JS Hercules II → JS Hercules
+- Ahti Karppelin: JS Hercules U18 → JS Hercules
+- Sakari Lehtosaari: JS Hercules U18 → JS Hercules
+- Robert Duffy: Stirling Albion FC → Airdrieonians FC
+- Jesse Hautanen: JJK Jyväskylä U18 → Äänekosken Huima
+- Kahro Randma: FC Tallinn U18 → FC Tallinn U17
+- Kirill Lepmets: FC Tallinn U19 → FC Tallinn U17
+- Frank Pihela: FC Tallinn U19 → FC Tallinn U17
+- Daniil Maltsev: FC Tallinn U18 → FC Tallinn U17
+- Riko Vorobjov: FC Tallinn U18 → FC Tallinn U17
+- Damian Adamson: FC Tallinn U18 → FC Tallinn U17
+- Maksim Ivanov: FC Tallinn U18 → FC Tallinn U17
+- Artem Lyeshchov: FC Tallinn U18 → FC Tallinn U17
+- Denys Vasylenko: FC Tallinn U19 → FC Tallinn U17
+- Denys Ostrivets: FC Tallinn U18 → FC Tallinn U17
+- Artjom Klimenko: FC Tallinn U19 → FC Tallinn U17
+- Denis Lipnikov: FC Tallinn U19 → FC Tallinn U17
+- Martin Limarev: FC Tallinn U18 → FC Tallinn U17
+- Aleksandr Valeniek: FC Tallinn U19 → FC Tallinn U17
+- Daniel Dragoljuk: FC Tallinn U18 → FC Tallinn U17
+- Jan Maramzin: FC Tallinn U18 → FC Tallinn U17
+- Artjom Hohlov: FC Tallinn U18 → FC Tallinn U17
+- Ernest Golovatjuk: FC Tallinn U19 → FC Tallinn U17
+- Artjom Koparev: FC Tallinn U19 → FC Tallinn U17
+- Oliver Berezjuk: Kalju FC U21 → Kalju FC U17
+- Andres Kiisel: Kalju FC U21 → Kalju FC U17
+- Kaspar Vahepold: Kalju FC U19 → Kalju FC U21
+- Artemi Provodin: Kalju FC U19 → Kalju FC U21
+- Alexander Meyer: FC Ingolstadt 04 II → FC Ingolstadt 04 U19
+- Kaarel Ruus: Levadia Tallinn U19 → FCI Levadia U21
+- Daniil Abramenko: Levadia Tallinn U19 → FCI Levadia U21
+- Teodor Sibul: Levadia Tallinn U19 → FCI Levadia U21
+- Tristan Zahovaiko: Levadia Tallinn U19 → FCI Levadia U21
+- Hubert Liiv: Levadia Tallinn U19 → FCI Levadia U21
+- Jan Hamburg: Levadia Tallinn U19 → FCI Levadia U21
+- Alexey Sazin: Levadia Tallinn U19 → FCI Levadia U21
+- Karl Kompus: Levadia Tallinn U19 → FCI Levadia U21
+- Mohamed Ouertani: Levadia Tallinn U19 → FCI Levadia U21
+- Artem Fesenko: Levadia Tallinn U19 → FCI Levadia U21
+- Andreas Kompus: Levadia Tallinn U19 → FCI Levadia U21
+- Hugo Sonitsar: Levadia Tallinn U19 → FCI Levadia U21
+- Vjatseslav Pavlovits: Levadia Tallinn U19 → FCI Levadia U21
+- Nikita Muravljov: Levadia Tallinn U19 → FCI Levadia U21
+- Fjodor Rodionov: Levadia Tallinn U19 → FCI Levadia U21
+- Artjom Timakov: Levadia Tallinn U19 → FCI Levadia U21
+- Patrik Polda: FC Nomme United U19 → FC Nomme United U21
+- Robin Ortega: FC Nomme United U19 → FC Nomme United U21
+- Jakob Käis: FC Nomme United U19 → FC Nomme United U21
+- Karl Zilmer: FC Nomme United U19 → FC Nomme United U21
+- Mark Marmei: FC Nomme United U19 → FC Nomme United U21
+- Ottomar Rootsma: FC Nomme United U19 → FC Nomme United U21
+- Karl-Kaspar Piht: FC Nomme United U19 → FC Nomme United U21
+- Silver Veske: FC Nomme United U19 → FC Nomme United U21
+- Sten Mihelson: FC Nomme United U19 → FC Nomme United U21
+- Ricardo Kranberg: FC Nomme United U19 → FC Nomme United U21
+- Romet Leppik: FC Nomme United U19 → FC Nomme United U21
+- Ken Mölder: FC Nomme United U19 → FC Nomme United U21
+- Lars Ossep: FC Nomme United U19 → FC Nomme United U21
+- Steven Tamm: FC Nomme United U19 → FC Nomme United U21
+- Kaspar Anton: FC Nomme United U19 → FC Nomme United U21
+- Bruno Ounapuu: FC Nomme United U19 → FC Nomme United U21
+- Kert Tomingas: FC Nomme United U19 → FC Nomme United U21
+- Nico Biedermann: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Maximilian Theuer: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Finn Sherlock: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Krystof Cizek: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Zain Biazid: TSG 1899 Hoffenheim II → TSG 1899 Hoffenheim U19
+- Samuel Passariello: TSG 1899 Hoffenheim U17 → TSG 1899 Hoffenheim U19
+- Felix Mark: 1.FC Heidenheim 1846 → 1.FC Heidenheim 1846 U19
+- Ethan Mitchell: Dalbeattie Star FC → Annan Athletic FC
+- Sean McKenzie: Gretna FC 2008 → Annan Athletic FC
+- Sem Eekhout: ADO Den Haag → ADO Den Haag U21
+- Xiang-Yu Yang: Kaohsiung Attackers Reserves → Kaohsiung Attackers
+- Yuu Yamada: Kaohsiung Attackers Reserves → Kaohsiung Attackers
+- Ping-En Liu: Kaohsiung Attackers Reserves → Kaohsiung Attackers
+- Meng-Kuang Tsai: Athletic Club Taipei Reserves → Athletic Club Taipei
+- Hayato Takayama: Athletic Club Taipei Reserves → Athletic Club Taipei
+- Yi-Lei Hsu: Athletic Club Taipei Reserves → Athletic Club Taipei
+- Hsuan-An Yang: Athletic Club Taipei Reserves → Athletic Club Taipei
+- Jui-Yang Tung: Hang Yuan FC Reserves → Hang Yuan FC
+- Yen-Ju Lee: Hang Yuan FC Reserves → Hang Yuan FC
+- Wen-Hsiang Chang: Hang Yuan FC Reserves → Hang Yuan FC
+- Carlo Finotti: Hang Yuan FC Reserves → Hang Yuan FC
+- Pin-Tse Lin: Hang Yuan FC Reserves → Hang Yuan FC
+- Hao-Lin Wang: Hang Yuan FC Reserves → Hang Yuan FC
+- Ding-Rui Fu: Hang Yuan FC Reserves → Hang Yuan FC
+- Je-Wei Chiuan: Hang Yuan FC Reserves → Hang Yuan FC
+- Linus Güther: 1.FC Union Berlin → 1.FC Union Berlin U19
+- Colin Kurz: 1.FC Heidenheim 1846 U19 → 1.FC Heidenheim 1846 U17
+- Jakob Ott: 1.FC Heidenheim 1846 U19 → 1.FC Heidenheim 1846 U17
+- Till Wiese: Holstein Kiel II → Holstein Kiel U19
+- Mark Richter Monserrat: Holstein Kiel II → Holstein Kiel U19
+- Tjark Möbius: 1.FC Magdeburg → 1.FC Magdeburg U19
+- Rick Lemke: 1.FC Magdeburg II → 1.FC Magdeburg U19
+- Leander Beimborn: 1.FC Magdeburg II → 1.FC Magdeburg U19
+- Felikss Sprogis: FC Hansa Rostock → FC Hansa Rostock U19
+- Elias Lahti: Hamburger SV → Hamburger SV U19
+- Levi Haps: Feyenoord U21 → Feyenoord U19
+- Gérard Sambou: ASC Saloum → AS Cambérène
+- Pape Sèye: AS Cambérène → ASC Sonacos
+- Brent Jonkers: PSV Eindhoven U21 → PSV Eindhoven U19
+- Cheikh Bèye: AS Dakar Sacré Cœur → Guelwaars FC
+- Pape Cham: Stade de Mbour → Jamono Fatick FC
+- Baye Diop: AS Cambérène → Jamono Fatick FC
+- Souleymane Sarr: ASCE La Linguère → Amitié FC
+- Mor Djitté: AS Pikine → Amitié FC
+- Abo Ka: Stade de Mbour → AS des Douanes
+- Jean Gomis: Teungueth FC → AS des Douanes
+- Mouhamed Sene: ASC Sonacos → Dakar FC
+- Cheikh Diop: ASC HLM Dakar → AS Kaffrine
+- Seydou Bodian: Casa Sports → AS Kaffrine
+- Bonaparte Mendes: Casa Sports → AS Kaffrine
+- Duncan Lindhout: Sparta Rotterdam U21 → Sparta Rotterdam U19
+- Mame Jallow: ASC HLM Dakar → AS Kaffrine
+- Waly Kamara: Casa Sports → ASC Saloum
+- Racine Badiane: Guédiawaye FC → ASC Saloum
+- Marlon Silva Neves: Sparta Rotterdam U21 → Sparta Rotterdam U19
+- Ibrahima Delgado: AS Dakar Sacré Cœur → ASFA Dakar
+- Talla Gueye: Wally Daan FC → ASFA Dakar
+- Pape Pène: Guédiawaye FC → ASC Niarry-Tally
+- Assimboulol Badiane: Casa Sports → UCST Port Autonome
+- Pape Chaw: US Gorée → AS Bambey
+- Jannis Link: Hannover 96 U17 → Hannover 96 U19
+- Konstantin Sommer: SC Paderborn 07 II → SC Paderborn 07 U19
+- Paul Wollenberg: SC Paderborn 07 II → SC Paderborn 07 U19
+- Vigo Wernet: SC Paderborn 07 II → SC Paderborn 07 U19
+- Haruto Miura: SV Darmstadt 98 II → SV Darmstadt 98 U19
+- Leonardo Kraft: 1.FC Kaiserslautern II → 1.FC Kaiserslautern U19
+- Enzo dos Santos: Borussia Dortmund → Borussia Dortmund U19
+- Edi Hajredini: FC Viktoria Köln U19 → FC Viktoria Köln U17
+- Shevin-Heinz Matondo: FC Viktoria Köln U17 → FC Viktoria Köln U19
+- Adams Dreimanis: FS Jelgava → FS Jelgava U19
+- Karlis Jansons: FK Tukums 2000 II → FK Tukums 2000 U19
+- Yegor Kulyk: FK Tukums 2000 II → FK Tukums 2000 U19
+- Marcis Susts: FK Tukums 2000 → FK Tukums 2000 U19
+- Valters Vaza: FK Tukums 2000 II → FK Tukums 2000 U19
+- Aksels Maulins: FK Tukums 2000 II → FK Tukums 2000 U19
+- Sora Masuda: FK Tukums 2000 II → FK Tukums 2000 U19
+- Nahel Achemaoui: RC Joinville U17 → RC Lens U17
+- Janis Francbergs: FK Tukums 2000 II → FK Tukums 2000 U19
+- Daniels Huberts Kaira: FK Tukums 2000 II → FK Tukums 2000 U19
+- Eduards Mamis: FK Tukums 2000 II → FK Tukums 2000 U19
+- Martins Abolins: FK Tukums 2000 II → FK Tukums 2000 U19
+- Marko Kere: FK Tukums 2000 II → FK Tukums 2000 U19
+- Janis Grinfogels: FK Tukums 2000 II → FK Tukums 2000 U19
+- Rauls Steponavicus: FK Tukums 2000 II → FK Tukums 2000 U19
+- Haralds Kolesnikovics: FK Tukums 2000 II → FK Tukums 2000 U19
+- Alekss Vanags: FK Tukums 2000 II → FK Tukums 2000 U19
+- Alekss Petrovskis: FK Tukums 2000 II → FK Tukums 2000 U19
+- Markuss Ivanovs: FK Tukums 2000 II → FK Tukums 2000 U19
+- Amin Mukaev: JFK Ventspils → JFK Ventspils U19
+- Marats Zascerinskis: JFK Ventspils → JFK Ventspils U19
+- Patriks Bruns: JFK Ventspils → JFK Ventspils U19
+- Janis Gaisins: JFK Ventspils → JFK Ventspils U19
+- Valters Liepajnieks: JFK Ventspils → JFK Ventspils U19
+- Arturs Udrins: JFK Ventspils → JFK Ventspils U19
+- Ernests Mekss: JFK Ventspils → JFK Ventspils U19
+- Matvejs Markovs: JFK Ventspils → JFK Ventspils U19
+- Vladislavs Bojaruns: JFK Ventspils → JFK Ventspils U19
+- Rainers Veidemanis: JFK Ventspils → JFK Ventspils U19
+- Andrejs Rungis: JFK Ventspils → JFK Ventspils U19
+- Artjoms Jurcenko: JFK Ventspils → JFK Ventspils U19
+- Kasiuss Kosovs: JFK Ventspils → JFK Ventspils U19
+- Iļja Kicigins: JFK Ventspils → JFK Ventspils U19
+- Miks Zakis: JFK Ventspils → JFK Ventspils U19
+- Leo Andersons: JFK Ventspils → JFK Ventspils U19
+- Markuss Lengvenis: JFK Ventspils → JFK Ventspils U19
+- Roberts Psenicins: JFK Ventspils → JFK Ventspils U19
+- Andrejs Karpekins: JDFS Alberts → JDFS Alberts U19
+- Arturs Linins: Skanstes SK → Skanstes SK U19
+- Miks Sevels: Skanstes SK → Skanstes SK U19
+- Oskars Likas: FK Metta → Skanstes SK U19
+- Kristers Jaunitis: Skanstes SK → Skanstes SK U19
+- Pauls Pinkulis: Skanstes SK → Skanstes SK U19
+- Kipras Mašanauskas: Skanstes SK → Skanstes SK U19
+- Emils Gauris: Skanstes SK → Skanstes SK U19
+- Mohammed Lampty: Skanstes SK → Skanstes SK U19
+- Daniels Petersons: FK Metta → Skanstes SK U19
+- Ardis Abelkalns: Skanstes SK → Skanstes SK U19
+- Patriks Pukitis: Skanstes SK → Skanstes SK U19
+- Maksim Kletskiy: Skanstes SK → Skanstes SK U19
+- Kristers Silins: Skanstes SK → Skanstes SK U19
+- Ricards Celitans: Skanstes SK → Skanstes SK U19
+- Markuss Salijums: Skanstes SK → Skanstes SK U19
+- Deivids Baltrusaitis: Skanstes SK → Skanstes SK U19
+- Martins Rozitis: Skanstes SK → Skanstes SK U19
+- Mikus Berzins: Skanstes SK → Skanstes SK U19
+- Aleks Scerbinskis: Skanstes SK → Skanstes SK U19
+- Vladislavs Vareiko: Skanstes SK → Skanstes SK U19
+- Leonards Livcans: Skanstes SK → Skanstes SK U19
+- Kehinde Abdulraheem: FK Metta → Skanstes SK U19
+- Julian Wenta: RB Leipzig U17 → RB Leipzig U19
+- Gennaro Wijks: RB Leipzig U17 → RB Leipzig U19
+- Henk Hartisch: FC Erzgebirge Aue U17 → FC Erzgebirge Aue U19
+- Mohamed-James Sacko: FC Nantes U17 → Toulouse FC U17
+- Martín Campos: Club Ferro Carril Oeste → Club Ferro Carril Oeste II
+- Lucas Acosta: CA San Martín (San Juan) → CA San Martín (San Juan) II
+- Francisco Romero: AA Estudiantes (Río Cuarto) → CA Atlanta
+- Andrey Ostrovskiy: Enisey Krasnoyarsk → Enisey 2 Krasnoyarsk
+- Vladislav Kravtsov: Enisey Krasnoyarsk → Enisey 2 Krasnoyarsk
+- Alexis Devesa: CA Aldosivi II → CB Ramón Santamarina
+- Martín Campos: Club Ferro Carril Oeste → Club Ferro Carril Oeste II
+- Lucas Acosta: CA San Martín (San Juan) → CA San Martín (San Juan) II
+- Arttu Virtanen: Tampereen Pelitoverit → Euran Pallo
+- Arttu Lampinen: SJK Seinäjoki U18 → SJK-j Seinäjoki
+- Matías Rojas: Club Libertad Asunción → Без клуба
+- Issiaga Sylla: Asteras Aktor → Без клуба
+- Munas Dabbur: Shabab Al-Ahli Club → Без клуба
+- Jorge Guzmán: FK Zeljeznicar Sarajevo → Без клуба
+- Santiago Ramírez: Tlaxcala FC → Без клуба
+- Viv Solomon-Otabor: Al-Orooba FC → Без клуба
+- Mohammadreza Soleimani: Duhok SC → Без клуба
 
-## Изменился контракт — 840
+## Изменился контракт — 8857
 
-- Moatasem Al-Musrati (Al-Ahli SC): 31/08/2026 → 30/06/2028
-- Danny Ings (Wycombe Wanderers): 01/07/2026 → -
-- João Mendes (Kayserispor): 01/07/2026 → 30/06/2027
-- David Alaba (Udinese Calcio): 01/07/2026 → 30/06/2027
-- Elias Arden (Fortuna Düsseldorf): 30/06/2027 → 30/06/2029
-- Kian Speidel (VfB Stuttgart II): 30/06/2027 → -
-- Dominik Martinovic (SC Verl): - → 30/06/2027
-- Mark Diemers (De Graafschap Doetinchem): 01/07/2026 → 30/06/2028
-- Frederico Namora (FC Felgueiras 1932): 01/07/2026 → 30/06/2027
-- Youssef Hamdaoui (Royal Antwerp FC): 30/06/2027 → 30/06/2029
-- Arthur Cremer (Royal Charleroi SC): - → 30/06/2028
-- Isaac Cissé (Royal Charleroi SC): - → 30/06/2030
-- Boubakar Dembaga (Royal Charleroi SC): - → 30/06/2029
-- Silvere Ganvoula (Wydad Casablanca): 08/09/2026 → 30/06/2027
-- Mohamed Zrida (COD Meknès): 13/02/2026 → -
-- Mahmoud Dahoud (United FC (UAE)): 01/07/2026 → -
-- Norbert Gyömbér (Levadiakos): 01/07/2026 → 30/06/2027
-- Kelvin Ofori (Atromitos Athens): 16/09/2026 → 30/06/2028
-- Eddie Salcedo (Rubin Kazan): 01/07/2026 → 30/06/2027
-- Igor Silva (Rodina Moscow): 01/07/2026 → 30/06/2028
-- Daler Kuzyaev (Dinamo Makhachkala): 01/07/2026 → 30/06/2027
-- Rayan Yaakoubi (Jong KAA Gent): - → 30/06/2027
-- Tomás Mendes (Deportivo Alavés B): 01/07/2026 → 30/06/2027
-- Stefan Cvetkovic (HSK Zrinjski Mostar): 01/07/2026 → 30/06/2027
-- Kian Speidel (VfB Stuttgart U19): 30/06/2027 → -
-- Christian Eriksen (Без клуба): 30/06/2027 → 23/09/2026
 - Ezequiel Centurión (CA River Plate): 31/12/2026 → 31/12/2029
 - Ignacio Ovando (CA Rosario Central): 31/12/2029 → -
 - Valentín Carboni (Racing Club): 31/12/2026 → 31/12/2027
@@ -4846,9 +9443,8052 @@ _собрано 2026-10-12 10:40 UTC_
 - Allan Campbell (Без клуба): 31/05/2026 → 01/06/2026
 - Jeison Lucumí (Без клуба): 31/12/2026 → 28/09/2026
 - Brayton Vázquez (Без клуба): - → 01/09/2026
+- Lucky Jimoh (Rangers International FC): 30/06/2026 → -
+- Joel Odoh (Rangers International FC): 30/06/2026 → -
+- Kenechukwu Agu (Rangers International FC): 30/06/2026 → -
+- Ugwuoke Ugochukwu (Rangers International FC): 30/06/2026 → -
+- Emmanuel Essine (Rangers International FC): 30/06/2026 → -
+- Anthony Chinemerem (Rangers International FC): 30/06/2026 → -
+- Chinedu Onah (Rangers International FC): 30/06/2026 → -
+- Godwin Obaje (Rangers International FC): 30/06/2026 → -
+- Ani Ozoemena Henry (Rivers United FC): 30/06/2026 → -
+- Stephen Manyo (Rivers United FC): 30/06/2026 → -
+- Ochobi Elias (Rivers United FC): 30/06/2026 → -
+- Imo Obot (Rivers United FC): 30/06/2027 → -
+- Wasiu Falolu (Rivers United FC): 30/06/2026 → -
+- Bello Martins (Rivers United FC): 30/06/2026 → -
+- Timothy Zachariah (Rivers United FC): 30/06/2026 → -
+- Handsome Surveyor (Rivers United FC): 30/06/2026 → -
+- Denis Chigozie (Bendel Insurance): 30/06/2026 → -
+- Julius Emiloju Junior (Bendel Insurance): 30/06/2026 → -
+- Adewale John Adebayo (Bendel Insurance): 30/06/2026 → -
+- Stanley Okorom (Bendel Insurance): 30/06/2026 → -
+- Henry Onyia (Bendel Insurance): 30/06/2026 → -
+- Emmanuel Akpan (Bendel Insurance): 30/06/2026 → -
+- Wisdom Udom (Bendel Insurance): 30/06/2026 → -
+- Onochie Chukwu (Bendel Insurance): 30/06/2026 → -
+- Chinedu Nwosu (Bendel Insurance): 30/06/2026 → -
+- Emmanuel Dung (Bendel Insurance): 30/06/2026 → -
+- Efe Ubiomo (Bendel Insurance): 30/06/2026 → -
+- Isaac Omijie (Bendel Insurance): 30/06/2026 → -
+- Victor Torisheju (Bendel Insurance): 30/06/2026 → -
+- Mustapha Lawal (Shooting Stars Sports Club): 30/06/2026 → -
+- Christian Dawariomi (Shooting Stars Sports Club): 30/06/2026 → -
+- Emmanuel Ndubueze (Shooting Stars Sports Club): 31/07/2026 → -
+- Gbolagade Adelowo (Shooting Stars Sports Club): 30/06/2026 → -
+- Desmond Ojietefian (Shooting Stars Sports Club): 30/06/2026 → -
+- Ismail Ghali Falke (Shooting Stars Sports Club): 30/06/2026 → -
+- Justice Apaingolo (Shooting Stars Sports Club): 30/06/2026 → -
+- Joshua John (Shooting Stars Sports Club): 30/06/2027 → -
+- Promise Awosanmi (Shooting Stars Sports Club): 30/06/2026 → -
+- Lucky Emmanuel (Shooting Stars Sports Club): 31/07/2026 → -
+- Adam Mustapha (Shooting Stars Sports Club): 30/06/2026 → -
+- Sodiq Ibrahim (Shooting Stars Sports Club): 30/06/2026 → -
+- Alade Muyiwa Balogun (Shooting Stars Sports Club): 31/07/2026 → -
+- Abuidun Adegoke (Shooting Stars Sports Club): 30/06/2026 → -
+- Imrana Ahmed (Kano Pillars): 30/06/2026 → -
+- Fahad Usman (Kano Pillars): 30/06/2026 → -
+- Ismaila Nasir (Kano Pillars): 30/06/2026 → -
+- Aminu Sani (Kano Pillars): 30/06/2026 → -
+- Abdullahi Shehu (Kano Pillars): 30/06/2026 → -
+- Umar Sani (Kano Pillars): 30/06/2026 → -
+- Ahmed Musa (Kano Pillars): 30/06/2026 → -
+- Alimi Sikiru (Kano Pillars): 30/06/2026 → -
+- Sheban Muhammad (Kano Pillars): 30/06/2026 → -
+- Emeka Nwabulu (Barau Football Club): 30/06/2026 → -
+- Najib Yusuf (Barau Football Club): 30/06/2026 → -
+- Orji Kalu Okagbue (Barau Football Club): 30/06/2026 → -
+- Yusuf Umar (Barau Football Club): 30/06/2026 → -
+- Adamu Umar (Barau Football Club): 30/06/2026 → -
+- Matthew Samuel (Barau Football Club): 30/06/2026 → -
+- Sunday Anthony (Barau Football Club): 30/06/2026 → -
+- Samuel Mathias (Barau Football Club): 30/06/2026 → -
+- Kabiru Abdullahi (Barau Football Club): 30/06/2026 → -
+- Adamu Husseini (Barau Football Club): 30/06/2026 → -
+- Michael Enaruna (Barau Football Club): 30/06/2026 → -
+- Stanley Oganbor (Barau Football Club): 30/06/2026 → -
+- Saidu Salisu (Barau Football Club): 30/06/2026 → -
+- Joseph Kemin (Barau Football Club): 30/06/2026 → -
+- Domnan Panse (Plateau United FC): 30/06/2026 → -
+- Favour Aputaziem (Plateau United FC): 30/06/2026 → -
+- Amietimi Enewarikpemi (Plateau United FC): 30/06/2026 → -
+- Valentín Carboni (Racing Club): 31/12/2027 → 30/06/2027
+- Jonathan Davou (Plateau United FC): 30/06/2026 → -
+- Umar Ahmed (Plateau United FC): 30/06/2026 → -
+- Gift Osadebe (Plateau United FC): 30/06/2026 → -
+- Jonathan Okechukwu (Plateau United FC): 30/06/2026 → -
+- Mafeng Pam (Plateau United FC): 30/06/2026 → -
+- Promise Damala (Plateau United FC): 30/06/2026 → -
+- Gideon Monday (Plateau United FC): 30/06/2026 → -
+- Samuel Kalu (Plateau United FC): 30/06/2026 → -
+- Habib Ojulari (Plateau United FC): 30/06/2026 → -
+- Joaquín Tobio Burgos (Club Estudiantes de La Plata): 31/12/2026 → 31/12/2028
+- Solomon Ogberahwe (Enyimba Aba): 30/06/2026 → -
+- Joel Ezra (Enyimba Aba): 30/06/2026 → -
+- Augustine Nwaorisa (Enyimba Aba): 30/06/2026 → -
+- Stanley Dimgba (Enyimba Aba): 30/06/2026 → -
+- Mujeeb Odufeso (Enyimba Aba): 30/06/2026 → -
+- Justice Torbira (Ikorodu City FC): - → 30/06/2029
+- Gift Udoh (Ikorodu City FC): 30/06/2026 → -
+- Goodluck Anuba (Ikorodu City FC): 30/06/2026 → -
+- Adeoye Adeshola (Ikorodu City FC): - → 30/06/2028
+- Adam Abdulramon (Ikorodu City FC): - → 30/06/2028
+- Ibifubara Dagogo (Ikorodu City FC): 30/06/2026 → -
+- Umar Danazumi (Ikorodu City FC): - → 30/06/2029
+- Shodiende Moses (Ikorodu City FC): 30/06/2026 → -
+- Maliq Musa (Ikorodu City FC): 30/06/2027 → -
+- Samuel Ezekiel (Ikorodu City FC): 30/06/2026 → -
+- David Andrew Kagbat (Ikorodu City FC): 30/06/2026 → -
+- Somiari Alalibo (Abia Warriors FC): 30/06/2026 → -
+- Emmanuel Ogbuagu (Abia Warriors FC): 30/06/2026 → -
+- Israel Joseph (Abia Warriors FC): 30/06/2026 → -
+- Maxwell Kangeshima (Abia Warriors FC): 30/06/2026 → -
+- Shedrack Asiegbu (Abia Warriors FC): 30/06/2026 → -
+- Yakub Hameed (Abia Warriors FC): 30/06/2026 → -
+- Samuel Ogunjimi (Abia Warriors FC): 30/06/2026 → -
+- Idris Alonge (Abia Warriors FC): 30/06/2026 → -
+- Omoge Ebenezer Sogo (Abia Warriors FC): 30/06/2026 → -
+- Chukwuemeka Obioma (Abia Warriors FC): 30/06/2026 → -
+- Ikenna Ogu (Abia Warriors FC): 30/06/2026 → -
+- Sani Sanusi Chana (Katsina United FC): 30/06/2026 → -
+- Ahmed Kabeer Yallilo (Katsina United FC): 30/06/2026 → -
+- Abubakar Isyaku (Katsina United FC): 30/06/2026 → -
+- Nafiu Ibrahim Kangiwa (Katsina United FC): 30/06/2026 → -
+- Kabir Muhammad (Katsina United FC): 30/06/2026 → -
+- Muhammed Ibrahim (Katsina United FC): 30/06/2026 → -
+- Abdulrahman Garba (Katsina United FC): 30/06/2026 → -
+- Abba Dali (Katsina United FC): 30/06/2026 → -
+- Usman Sadiq (Katsina United FC): 30/06/2026 → -
+- Santino Gianini (AA Argentinos Juniors): - → 31/12/2028
+- Gift Subi Ebitimi (Warri Wolves FC): - → 30/06/2027
+- Qudus Olayinola (Warri Wolves FC): 30/06/2026 → -
+- Ameh Godwin (Nasarawa United): 30/06/2026 → -
+- Joshua Oladeji (Nasarawa United): 30/06/2026 → -
+- Abbey Benson (Nasarawa United): 30/06/2026 → -
+- Abubakar Abdullahi (Nasarawa United): 30/06/2026 → -
+- Benjamin Oloche (Nasarawa United): 30/06/2026 → -
+- Suleiman Dauda (Nasarawa United): 30/06/2026 → -
+- Moyi Hassan (Nasarawa United): 30/06/2026 → -
+- Chidera Nduka (Nasarawa United): 30/06/2026 → -
+- Akanni Lawal (Nasarawa United): 30/06/2026 → -
+- Leonard Ugochukwu (Nasarawa United): 30/06/2026 → -
+- Sunday Akinmoladun (Niger Tornadoes): 30/06/2026 → -
+- Jonathan De Irastorza (CA Independiente): 31/12/2026 → 31/12/2027
+- Abba Khalid (Niger Tornadoes): 30/06/2026 → -
+- Matthew Etim (Niger Tornadoes): 30/06/2026 → -
+- Victor Okoro (Niger Tornadoes): 30/06/2026 → -
+- Ifeanyi Okoye (Niger Tornadoes): 30/06/2026 → -
+- Godfrey Joseph (Niger Tornadoes): 30/06/2026 → -
+- Akintunde Azeez (Niger Tornadoes): 30/06/2026 → -
+- Rickson Theophilus Mendos (Niger Tornadoes): 30/06/2026 → -
+- Tasiu Lawal (Niger Tornadoes): 30/06/2026 → -
+- Ismail Sarki (Niger Tornadoes): 30/06/2026 → -
+- Kufre Ebong (Niger Tornadoes): 30/06/2026 → -
+- Najeeb Ibrahim (Niger Tornadoes): 30/06/2026 → -
+- Aliyu Hussaini (Niger Tornadoes): 30/06/2026 → -
+- Obinna Akuchie (Kun Khalifat Football Club): - → 30/06/2028
+- Prince Ndubuisi (Kun Khalifat Football Club): 30/06/2026 → -
+- Kolawole Sunday (Kun Khalifat Football Club): 30/06/2026 → -
+- Peter Ikechukwu (Kun Khalifat Football Club): 30/06/2026 → -
+- Jerry Ogu (Kun Khalifat Football Club): 30/06/2026 → -
+- Emmanuel Onuawuchi (Kun Khalifat Football Club): - → 30/06/2028
+- Alex Sunday Amaefula (Kun Khalifat Football Club): 30/06/2026 → -
+- Stanley Nnanna Otu (Kun Khalifat Football Club): 30/06/2027 → 30/06/2028
+- Badmus Nurudeen (Kwara United FC): 30/06/2026 → -
+- Suraj Ayeleso (Kwara United FC): 30/06/2026 → -
+- Kolawole Sheriffdeen (Kwara United FC): 30/06/2026 → -
+- Jamiu Suleiman (Kwara United FC): 30/06/2026 → -
+- Olaniyi Saheed (Kwara United FC): 30/06/2026 → -
+- Somtochukwu Ezenabo (Kwara United FC): 30/06/2026 → -
+- Akeem Akanni (Kwara United FC): 30/06/2026 → -
+- Philip Ozor (Kwara United FC): 30/06/2026 → -
+- Mohammed Alao (Kwara United FC): 30/06/2026 → -
+- Alege Mahee Mohammed (Kwara United FC): 30/06/2026 → -
+- Toyeeb Gidado (Kwara United FC): 30/06/2026 → -
+- Chisom Ngomere (Kwara United FC): 30/06/2026 → -
+- Adeshina Gata (Kwara United FC): 30/06/2026 → -
+- Emmanuel Okon (Kwara United FC): 30/06/2026 → -
+- Brandon Oviedo (CA Banfield): 31/12/2027 → 31/12/2029
+- Santiago Esquivel (CA Banfield): 31/12/2027 → 31/12/2028
+- Tomás Romero (New York City FC): 31/12/2026 → 30/06/2028
+- Greg Ranjitsingh (New York City FC): 31/12/2026 → 30/06/2028
+- Tayvon Gray (New York City FC): 31/12/2026 → 30/06/2029
+- Peter Molinari (New York City FC): 31/12/2026 → 31/12/2028
+- Kevin Gbamblé (Columbus Crew): 31/12/2026 → 30/06/2029
+- Eddie Segura (Los Angeles FC): 31/12/2026 → 30/06/2030
+- Juan Jose Arias (Real Salt Lake City): 31/07/2026 → 30/06/2029
+- Lukas Engel (Real Salt Lake City): 31/12/2028 → 30/06/2028
+- Antonio Riquelme (Real Salt Lake City): 31/12/2026 → 31/12/2029
+- Chance Cowell (Real Salt Lake City): 31/12/2027 → 31/12/2028
+- Ronald Hernández (Portland Timbers): 31/12/2026 → 30/06/2027
+- Diego Chará (Portland Timbers): 31/12/2026 → 30/06/2027
+- Neil Pierre (Philadelphia Union): 31/12/2028 → 30/06/2031
+- Nathan Harriel (Philadelphia Union): 31/12/2026 → 30/06/2029
+- Stefan Frei (Seattle Sounders FC): 31/12/2027 → 30/06/2027
+- Kalani Kossa-Rienzi (Seattle Sounders FC): 31/12/2026 → 30/06/2030
+- Albert Rusnák (Seattle Sounders FC): 31/12/2026 → 30/06/2029
+- Pablo Sisniega (San Diego FC): 31/12/2027 → 30/06/2027
+- Anders Dreyer (San Diego FC): 31/12/2029 → 30/06/2029
+- Dániel Gazdag (New England Revolution): 30/06/2027 → 31/12/2027
+- William Yarbrough (Toronto FC): 31/12/2026 → 30/06/2027
+- Antone Bossenberry (Toronto FC): 31/12/2026 → 30/06/2029
+- Dániel Sallói (Toronto FC): 31/12/2026 → 31/12/2027
+- Theo Corbeanu (Toronto FC): 31/12/2027 → 31/12/2028
+- Jeison Palacios (Nashville SC): 31/12/2026 → 30/06/2028
+- Jaziel Orozco (St. Louis CITY SC): 31/12/2026 → 30/06/2029
+- Carlo Holse (St. Louis CITY SC): 31/12/2028 → 30/06/2029
+- Alexandru Matan (St. Louis CITY SC): 31/12/2029 → 30/06/2029
+- Rafael Navarro (St. Louis CITY SC): 31/12/2030 → 30/06/2030
+- Morris Duggan (Minnesota United FC): 31/12/2026 → 30/06/2030
+- Jefferson Díaz (Minnesota United FC): 31/12/2026 → 30/06/2031
+- Cherrion Valerius (Minnesota United FC): 30/06/2027 → 31/12/2026
+- Peter Stroud (Minnesota United FC): 31/12/2026 → 30/06/2030
+- Christian Ramirez (Austin FC): 31/12/2026 → 30/06/2028
+- Sébastian Breza (CF Montréal): 31/12/2027 → 31/12/2026
+- Daniel Pereira (CF Montréal): 31/12/2028 → 30/06/2028
+- Noah Streit (CF Montréal): 31/12/2029 → 30/06/2029
+- Jordan Farr (D.C. United): 30/11/2026 → 31/12/2026
+- Greig Stewart (Caledonian Braves FC): 31/05/2026 → -
+- Brad McKay (Brechin City FC): 31/05/2026 → -
+- Euan Spark (Brechin City FC): 30/06/2026 → -
+- Paul Watson (Brechin City FC): 30/06/2026 → -
+- Fraser MacLeod (Brechin City FC): 30/06/2026 → -
+- Spencer Moreland (Brechin City FC): 31/05/2026 → -
+- Stuart Douglas (Gretna FC 2008): 31/05/2026 → -
+- Dougie Simpson (Gretna FC 2008): 31/05/2026 → -
+- Robbie Ivison (Gretna FC 2008): 31/05/2026 → -
+- Adam Strain (Largs Thistle FC): - → 30/06/2027
+- Shaun Rutherford (Bo'ness United FC): 31/05/2026 → -
+- Michael Gemmell (Bo'ness United FC): 31/05/2026 → -
+- Ryan Schiavone (Bo'ness United FC): 31/05/2026 → -
+- Calum Brodie (Lochee United FC): - → 31/05/2027
+- Carter Jenkins (University of Stirling FC): 31/05/2026 → -
+- Frankie Aitchison (Dunipace FC): - → 31/05/2027
+- Ryan Porteous (Musselburgh Athletic FC): - → 31/10/2026
+- Jack Ogilvie (Linlithgow Rose FC): 31/05/2026 → -
+- Brandon Luke (Hill of Beath Hawthorn): 31/05/2026 → -
+- Jack Fisher (Cowdenbeath FC): 31/05/2026 → -
+- Adam Carnwath (Cowdenbeath FC): 31/05/2027 → 01/01/2027
+- Calum Antell (Berwick Rangers FC): 31/05/2026 → -
+- Jamie Pyper (Berwick Rangers FC): 31/05/2026 → -
+- Alfie Robinson (Berwick Rangers FC): 31/05/2026 → -
+- Kyle Somers (Berwick Rangers FC): 31/05/2026 → -
+- Taylor Hendry (Berwick Rangers FC): 31/05/2026 → -
+- Greg Binnie (Berwick Rangers FC): 31/05/2026 → -
+- Matt Flynn (East Stirlingshire FC): 31/05/2026 → -
+- Fin Malcolm (East Stirlingshire FC): 01/01/2026 → -
+- Liam Allison (Cumbernauld Colts FC): 31/05/2026 → -
+- Farrel O'Sullivan (Dalbeattie Star FC): 30/06/2026 → -
+- Cody McKeeman (Dalbeattie Star FC): 30/06/2026 → -
+- Kenzie Mitchell (Auchinleck Talbot FC): - → 31/05/2027
+- Cameron Eadie (Johnstone Burgh FC): 31/05/2026 → -
+- Valentín Carboni (Racing Club): 31/12/2027 → 30/06/2027
+- Joaquín Tobio Burgos (Club Estudiantes de La Plata): 31/12/2026 → 31/12/2028
+- Nathan Brown (Albion Rovers FC): 31/05/2026 → 31/05/2027
+- Taiki Yamada (Kashima Antlers): 31/01/2026 → -
+- Ikuma Sekigawa (Kashima Antlers): 31/01/2026 → -
+- Koki Anzai (Kashima Antlers): 31/01/2026 → -
+- Ryuta Koike (Kashima Antlers): 31/01/2026 → -
+- Kento Misao (Kashima Antlers): 30/06/2026 → -
+- Yuta Higuchi (Kashima Antlers): 31/01/2026 → -
+- Gaku Shibasaki (Kashima Antlers): 31/01/2026 → -
+- Yuta Matsumura (Kashima Antlers): 31/01/2026 → -
+- Élber (Kashima Antlers): 30/06/2026 → -
+- Yuki Hayasaka (Kawasaki Frontale): 30/06/2026 → -
+- Yuichi Maruyama (Kawasaki Frontale): 30/06/2026 → -
+- Santino Gianini (AA Argentinos Juniors): - → 31/12/2028
+- Yuto Matsunagane (Kawasaki Frontale): 30/06/2026 → -
+- Yudai Tanaka (Sanfrecce Hiroshima): 31/01/2026 → -
+- Taichi Yamasaki (Sanfrecce Hiroshima): 31/01/2026 → -
+- Sho Sasaki (Sanfrecce Hiroshima): 31/01/2026 → -
+- Tsukasa Shiotani (Sanfrecce Hiroshima): 31/01/2026 → -
+- Daiki Suga (Sanfrecce Hiroshima): 31/01/2026 → -
+- Shun Ayukawa (Sanfrecce Hiroshima): 30/06/2026 → -
+- Mutsuki Kato (Sanfrecce Hiroshima): 31/01/2026 → -
+- Kenta Matsumoto (Kashiwa Reysol): 31/01/2026 → -
+- Daiki Sugioka (Kashiwa Reysol): 31/01/2026 → -
+- Hiromu Mitsumaru (Kashiwa Reysol): 31/01/2026 → -
+- Koki Kumasaka (Kashiwa Reysol): 31/01/2026 → -
+- Kohei Tezuka (Kashiwa Reysol): 31/01/2026 → -
+- Sachiro Toshima (Kashiwa Reysol): 30/06/2026 → -
+- Hayato Nakama (Kashiwa Reysol): 31/01/2026 → -
+- Jonathan De Irastorza (CA Independiente): 31/12/2026 → 31/12/2027
+- Rio Omori (FC Tokyo): 30/06/2026 → -
+- Teruhito Nakagawa (FC Tokyo): 31/01/2026 → -
+- Daiya Maekawa (Vissel Kobe): 31/01/2026 → -
+- Shuichi Gonda (Vissel Kobe): 31/01/2026 → -
+- Shota Arai (Vissel Kobe): 31/01/2026 → -
+- Shioki Takayama (Vissel Kobe): 30/06/2026 → -
+- Nanasei Iino (Vissel Kobe): 31/01/2026 → -
+- Yuya Kuwasaki (Vissel Kobe): 31/01/2026 → -
+- Takahiro Ogihara (Vissel Kobe): 31/01/2026 → -
+- Yosuke Ideguchi (Vissel Kobe): 31/01/2026 → -
+- Mitsuki Hidaka (Vissel Kobe): 31/01/2026 → -
+- Juzo Ura (Vissel Kobe): 30/06/2026 → -
+- Rikuto Hashimoto (Vissel Kobe): 30/06/2026 → -
+- Daiju Sasaki (Vissel Kobe): 31/01/2026 → -
+- Haruya Ide (Vissel Kobe): 31/01/2026 → -
+- Yoshinori Muto (Vissel Kobe): 31/01/2026 → -
+- Niina Tominaga (Vissel Kobe): 31/01/2026 → -
+- Tatsuya Morita (Machida Zelvia): 31/01/2026 → -
+- Ibrahim Dresevic (Machida Zelvia): - → 31/12/2026
+- Gen Shoji (Machida Zelvia): 31/01/2026 → -
+- Ryuho Kikuchi (Machida Zelvia): 31/01/2026 → -
+- Hiroyuki Mae (Machida Zelvia): 31/01/2026 → -
+- Hokuto Shimoda (Machida Zelvia): 31/01/2026 → -
+- Keiya Sento (Machida Zelvia): 31/01/2026 → -
+- Chui Hiromu Mayaka (Machida Zelvia): 30/06/2027 → 30/06/2028
+- Takuma Nishimura (Machida Zelvia): 31/01/2026 → -
+- Shota Fukuoka (Gamba Osaka): 31/01/2026 → -
+- Genta Miura (Gamba Osaka): 31/01/2026 → -
+- Shogo Sasaki (Gamba Osaka): 31/01/2026 → -
+- Shinya Nakano (Gamba Osaka): 30/06/2026 → -
+- Takeru Kishimoto (Gamba Osaka): 31/01/2026 → -
+- Tokuma Suzuki (Gamba Osaka): 31/01/2026 → -
+- Ryoya Yamashita (Gamba Osaka): 31/01/2026 → -
+- Daichi Hayashi (Gamba Osaka): 31/01/2026 → -
+- Yuta Miyamoto (Urawa Red Diamonds): 30/06/2026 → -
+- Kaito Yasui (Urawa Red Diamonds): 31/01/2026 → -
+- Yoichi Naganuma (Urawa Red Diamonds): 31/01/2026 → -
+- Shinnosuke Hatanaka (Cerezo Osaka): 31/01/2026 → -
+- Takumi Nakamura (Cerezo Osaka): 31/01/2026 → -
+- Satoki Uejo (Cerezo Osaka): 31/01/2026 → -
+- Shinji Kagawa (Cerezo Osaka): 31/01/2026 → -
+- Reiya Sakata (Cerezo Osaka): 31/01/2026 → -
+- José Suárez (JEF United Chiba): 31/01/2026 → -
+- Ryota Suzuki (JEF United Chiba): 31/01/2026 → -
+- Felix Ewald (Real Monarchs SLC): 31/12/2026 → 30/06/2027
+- Ryota Kuboniwa (JEF United Chiba): 31/01/2026 → -
+- Daisuke Suzuki (JEF United Chiba): 31/01/2026 → -
+- Masaru Hidaka (JEF United Chiba): 31/01/2026 → -
+- Eduardo (JEF United Chiba): 31/01/2026 → -
+- Manato Shinada (JEF United Chiba): 31/01/2026 → -
+- Nolan Anderson (Carolina Core FC): 31/12/2026 → 30/06/2027
+- Yusuke Kobayashi (JEF United Chiba): 31/01/2026 → -
+- Taishi Taguchi (JEF United Chiba): 31/01/2026 → -
+- Takuya Yasui (JEF United Chiba): 30/06/2026 → -
+- Kazuki Tanaka (JEF United Chiba): 31/01/2026 → -
+- Naoki Tsubaki (JEF United Chiba): 31/01/2026 → -
+- Daichi Ishikawa (JEF United Chiba): 31/01/2026 → -
+- Hiroto Goya (JEF United Chiba): 31/01/2026 → -
+- Gakuji Ota (Kyoto Sanga): 31/01/2026 → -
+- Kentaro Kakoi (Kyoto Sanga): 31/01/2026 → -
+- Akira Fantini (Kyoto Sanga): 31/01/2026 → -
+- Yoshinori Suzuki (Kyoto Sanga): 31/01/2026 → -
+- Hisashi Appiah Tawiah (Kyoto Sanga): 31/01/2026 → -
+- Jonathan de la Fuente (Colorado Rapids 2): 31/12/2026 → 30/06/2027
+- Kyo Sato (Kyoto Sanga): 31/01/2026 → -
+- Takuji Yonemoto (Kyoto Sanga): 31/01/2026 → -
+- Temma Matsuda (Kyoto Sanga): 31/01/2026 → -
+- Shun Nagasawa (Kyoto Sanga): 31/01/2026 → -
+- Yuya Oki (Shimizu S-Pulse): 31/01/2026 → -
+- Togo Umeda (Shimizu S-Pulse): 31/01/2026 → -
+- Mateus Brunetti (Shimizu S-Pulse): 30/06/2026 → -
+- Sen Takagi (Shimizu S-Pulse): 31/01/2026 → -
+- Yuji Takahashi (Shimizu S-Pulse): 31/01/2026 → -
+- Yutaka Yoshida (Shimizu S-Pulse): 31/01/2026 → -
+- Masaki Yumiba (Shimizu S-Pulse): 31/01/2026 → -
+- Kai Matsuzaki (Shimizu S-Pulse): 31/01/2026 → -
+- Brandon Oviedo (CA Banfield): 31/12/2027 → 31/12/2029
+- Santiago Esquivel (CA Banfield): 31/12/2027 → 31/12/2028
+- Kazuki Kozuka (Shimizu S-Pulse): 31/01/2026 → -
+- Koya Kitagawa (Shimizu S-Pulse): 31/01/2026 → -
+- Takashi Sawada (V-Varen Nagasaki): 31/01/2026 → -
+- Matheus (Tokyo Verdy): 31/01/2026 → -
+- Yuya Nagasawa (Tokyo Verdy): 31/01/2026 → -
+- Hiroki Mawatari (Tokyo Verdy): 31/01/2026 → -
+- Kaito Suzuki (Tokyo Verdy): 31/01/2026 → -
+- Maaya Sako (Tokyo Verdy): 31/01/2026 → -
+- Koki Morita (Tokyo Verdy): 31/01/2026 → -
+- Yuan Matsuhashi (Tokyo Verdy): 31/01/2026 → -
+- Kosuke Saito (Tokyo Verdy): 31/01/2026 → -
+- Rei Hirakawa (Tokyo Verdy): 31/01/2026 → -
+- Yohei Takeda (Nagoya Grampus): 30/06/2026 → -
+- Teruki Hara (Nagoya Grampus): 31/01/2026 → -
+- Tomoki Takamine (Nagoya Grampus): 30/06/2026 → -
+- Sho Inagaki (Nagoya Grampus): 31/01/2026 → -
+- Katsuhiro Nakayama (Nagoya Grampus): 31/01/2026 → -
+- Ryuji Izumi (Nagoya Grampus): 31/01/2026 → -
+- Masahito Ono (Nagoya Grampus): 31/01/2026 → -
+- Yuya Asano (Nagoya Grampus): 31/01/2026 → -
+- Hidemasa Koda (Nagoya Grampus): 30/06/2026 → -
+- Takuya Uchida (Nagoya Grampus): 31/01/2026 → -
+- Taichi Kikuchi (Nagoya Grampus): 31/01/2026 → -
+- Goro Kawanami (Fagiano Okayama): 30/06/2026 → -
+- Yugo Tatsuta (Fagiano Okayama): 31/01/2026 → -
+- Yoshitake Suzuki (Fagiano Okayama): 31/01/2026 → -
+- Daichi Tagami (Fagiano Okayama): 31/01/2026 → -
+- Ryo Tabei (Fagiano Okayama): 31/01/2026 → -
+- Ibuki Fujita (Fagiano Okayama): 31/01/2026 → -
+- Ryo Takeuchi (Fagiano Okayama): 31/01/2026 → -
+- Takaya Kimura (Fagiano Okayama): 31/01/2026 → -
+- Ataru Esaka (Fagiano Okayama): 31/01/2026 → -
+- Yuta Kamiya (Fagiano Okayama): 31/01/2026 → -
+- Yuma Obata (Avispa Fukuoka): 31/01/2026 → -
+- Masaya Tashiro (Avispa Fukuoka): 31/01/2026 → -
+- Yota Maejima (Avispa Fukuoka): 31/01/2026 → -
+- Masato Yuzawa (Avispa Fukuoka): 31/01/2026 → -
+- Keiya Shiihashi (Avispa Fukuoka): 30/06/2026 → -
+- Hiroki Akino (Avispa Fukuoka): 31/01/2026 → -
+- Masato Shigemi (Avispa Fukuoka): 31/01/2026 → -
+- Yuji Kitajima (Avispa Fukuoka): 31/01/2026 → -
+- Shintaro Nago (Avispa Fukuoka): 31/01/2026 → -
+- Kazuki Fujimoto (Avispa Fukuoka): 31/01/2026 → -
+- Reiju Tsuruno (Avispa Fukuoka): 30/06/2026 → -
+- Shuhei Matsubara (Mito HollyHock): 31/01/2026 → -
+- Koshi Osaki (Mito HollyHock): 31/01/2026 → -
+- Taishi Semba (Mito HollyHock): 30/06/2026 → -
+- Arata Watanabe (Mito HollyHock): 31/01/2026 → -
+- Jan Kopic (FC Viktoria Plzen B): 30/06/2026 → -
+- Ashkan Tavana (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Mani Ataeifar (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Mehran Niknejad (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Amin Haghparast (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Shahin Maleki (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Erfan Tomaj (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Hossein Rajabi (Damash Gilan FC): - → 30/06/2027
+- Ali Rahimi (Damash Gilan FC): 30/06/2026 → -
+- Mostafa Alikhani (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Mohsen Enbesati (Damash Gilan FC): 30/06/2026 → -
+- Amirali Nasirizadeh (Damash Gilan FC): - → 30/06/2027
+- Esmaeil Fetrati (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Mohammad Miri (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Miaad Yazdani (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Mohammadhossein Javdaneh (Damash Gilan FC): - → 30/06/2027
+- Esmaeil Sharifat (Damash Gilan FC): - → 30/06/2027
+- Ali Ramezani (Damash Gilan FC): 30/06/2026 → 30/06/2027
+- Saeed Talebi (Damash Gilan FC): - → 30/06/2027
+- Sajjad Mosayebzadeh (Damash Gilan FC): - → 30/06/2027
+- Erfan Seyedi (Esteghlal B FC): 30/06/2026 → -
+- Alireza Asadi (Esteghlal B FC): - → 30/06/2027
+- Ali Zare (Esteghlal B FC): 30/06/2026 → -
+- Amirhossein Parniaey (Esteghlal B FC): - → 30/06/2027
+- Mohammadreza Shaban (Esteghlal B FC): - → 30/06/2027
+- Ehsan Afchangi (Esteghlal B FC): - → 30/06/2027
+- Kasra Akbari Adib (Esteghlal B FC): - → 30/06/2027
+- Reza Shokri (Esteghlal B FC): 30/06/2026 → -
+- Pouria Najafgholizadeh (Navad Urmia FC): 30/06/2026 → -
+- Farhad Golzari (Navad Urmia FC): 30/06/2026 → -
+- Sina Azadkhah (Navad Urmia FC): 30/06/2026 → -
+- Mohammad Rostamizad (Navad Urmia FC): 30/06/2026 → -
+- Ramin Najafpour (Navad Urmia FC): 30/06/2026 → -
+- Reza Kargar (Rakhsh Khodro): 30/06/2026 → -
+- Mohammad Sadeghi (Rakhsh Khodro): - → 30/06/2027
+- Morteza Kochakkhani (Rakhsh Khodro): 30/06/2026 → -
+- Seyed Mehdi Sabbagh (Rakhsh Khodro): 30/06/2026 → -
+- Ali Navidi (Rakhsh Khodro): 30/06/2026 → 30/06/2027
+- Alireza Bastani (Rakhsh Khodro): 30/06/2026 → -
+- Kia Shamiri (Rakhsh Khodro): 30/06/2026 → 30/06/2027
+- Babak Alizadeh (Rakhsh Khodro): 30/06/2026 → 30/06/2027
+- Amirhossein Azizi (Rakhsh Khodro): - → 30/06/2027
+- Amirhossein Taghizadeh (Rakhsh Khodro): 30/06/2026 → -
+- Ebrahim Sharifat (Rakhsh Khodro): 30/06/2026 → -
+- Mostafa Shakshak (Al-Ahli SC): 30/06/2026 → -
+- Amin Nobakht (Rakhsh Khodro): 30/06/2026 → 30/06/2027
+- Vahid Sheikhveysi (Bargh Shiraz FC): - → 30/06/2027
+- Pouya Jamadi (Bargh Shiraz FC): - → 30/06/2027
+- Hamdou El Houni (Al-Ahli SC): 30/06/2026 → -
+- Anis Mekraz (Al-Ahli SC): 30/06/2026 → -
+- Ahmed Al-Haram (Al-Ahli SC): 30/06/2026 → -
+- Soheil Fekri (Bargh Shiraz FC): - → 30/06/2027
+- Hossein Jafari (Bargh Shiraz FC): - → 30/06/2027
+- Erfan Shirvani (Bargh Shiraz FC): - → 30/06/2027
+- Seyed Ali Hosseini (Bargh Shiraz FC): - → 30/06/2027
+- Eslam Dabiri (Bargh Shiraz FC): - → 30/06/2027
+- Javad Ramezani (Bargh Shiraz FC): 30/06/2026 → 30/06/2027
+- Masoud Ramezani (Bargh Shiraz FC): - → 30/06/2027
+- Hamzeh Behzad (Bargh Shiraz FC): - → 30/06/2027
+- Reza Mousavi (Bargh Shiraz FC): - → 30/06/2027
+- Milad Jafari (Rezvani Esfahan): 30/06/2026 → -
+- Amin Fasaei (Rezvani Esfahan): - → 30/06/2027
+- Al-Sanousi Al-Hadi (Al-Ittihad SC): 30/06/2026 → -
+- Mohammadamin Kaviani (Rezvani Esfahan): 30/06/2026 → 30/06/2027
+- Mohammadreza Fayazi (Rezvani Esfahan): - → 30/06/2027
+- Mehdi Rezvani (Rezvani Esfahan): - → 30/06/2027
+- Moataz Al-Jurnazi (Al-Ahly SC): - → 30/06/2027
+- Santiago Muñoz (Al-Ahly SC): 30/06/2026 → -
+- Hadi Alavi (Malavan Bushehr): 30/06/2026 → -
+- Reza Bakhtiarizadeh (Malavan Bushehr): 30/06/2026 → -
+- Parviz Karimi (Shahid Ghandi Yazd): 30/06/2026 → 30/06/2027
+- Ali Esteghamat (Shahid Ghandi Yazd): 30/06/2026 → 30/06/2027
+- Saad Bguir (Al-Nasr SC): 30/06/2026 → -
+- Pouria Shayesteh (Shahid Ghandi Yazd): - → 30/06/2027
+- Sina Abdollahi (Shahid Ghandi Yazd): - → 30/06/2027
+- Matin Kheradi (Shahid Ghandi Yazd): - → 30/06/2027
+- Reza Valizadeh (Shahid Ghandi Yazd): - → 30/06/2027
+- Mohammadhossein Dehghan (Shahid Ghandi Yazd): 30/06/2026 → 30/06/2027
+- Hesam Taherkhani (Shahid Ghandi Yazd): 30/06/2026 → 30/06/2027
+- Ali Bashiri (Shahid Ghandi Yazd): 30/06/2026 → 30/06/2027
+- Ali Ghesmati (Shahid Ghandi Yazd): 30/06/2026 → 30/06/2027
+- Amirreza Ahmadi (Shahid Ghandi Yazd): 30/06/2026 → 30/06/2027
+- Amirali Arzanesh (Shahid Ghandi Yazd): - → 30/06/2027
+- Meysam Poursoltani (Shahid Ghandi Yazd): 30/06/2026 → 30/06/2027
+- Mor Talla Mbaye (Al-Madina SC): 30/06/2026 → -
+- Mostafa Farhadi (Shahid Ghandi Yazd): 30/06/2026 → 30/06/2027
+- Tooraj Aghayari (Shahid Ghandi Yazd): - → 30/06/2027
+- Mohammadsobhan Rohani (Shahid Ghandi Yazd): 30/06/2026 → -
+- Mohammadhossein Alipour (Shahid Ghandi Yazd): - → 30/06/2027
+- Milad Tavalaei (Shahrvand Bandar Abbas): 30/06/2026 → -
+- Hamid Ebrahimi (Shahrvand Bandar Abbas): 30/06/2026 → -
+- Mohammadfazel Bahreini (Shahrvand Bandar Abbas): 30/06/2026 → -
+- Maziar Shafaei (Shahrvand Bandar Abbas): 30/06/2026 → -
+- Hossein Banzarkian (Shahrvand Bandar Abbas): — → -
+- Shayan Abiar (Pishtazan Sanat Babol): 30/06/2026 → -
+- Andrés Gómez (LDU Quito U19): - → 31/12/2028
+- Kelechi Chimezie (Al-Shomooa SC): 30/06/2026 → -
+- Mehdi Habibi (Naft va Gaz Ilam): 30/06/2026 → -
+- Fathi Al-Talhy (Union Military SC): 30/06/2026 → -
+- Naji Daraa (Union Military SC): 30/06/2026 → -
+- Mohammed Saeed Omar (Union Military SC): 30/06/2026 → -
+- Abbas Kamalinejad (Aseman Golestan FC): - → 30/06/2027
+- Ali Joudaki (Aseman Golestan FC): 30/06/2026 → -
+- Mehdi Asadi (Aseman Golestan FC): - → 30/06/2027
+- Ali Davaran (Aseman Golestan FC): 30/06/2026 → -
+- Ahmed Al-Maghasi (Union Military SC): 30/06/2026 → -
+- Abdulsalam Diga (Union Military SC): 30/06/2026 → -
+- Nima Zakeri (Aseman Golestan FC): - → 30/06/2027
+- Mohammadjavad Molaei (Aseman Golestan FC): - → 30/06/2027
+- Amirali Mirzaeian (Aseman Golestan FC): - → 30/06/2027
+- Abdoulaye Diarra (Union Military SC): 30/06/2026 → -
+- Farshad Khorrami (Dena Yasuj): - → 30/06/2027
+- Rouhollah Mondanipour (Dena Yasuj): - → 30/06/2027
+- Alireza Safaeinejad (Dena Yasuj): - → 30/06/2027
+- Farshid Hamze (Dena Yasuj): - → 30/06/2027
+- Vahid Kheshtan (Dena Yasuj): - → 30/06/2027
+- Pedram Hamidifar (Dena Yasuj): - → 30/06/2027
+- Kianoush Mohammadi (Shahin Tehran): 30/06/2026 → -
+- Milad Sorkhi (Shahin Tehran): 30/06/2026 → -
+- Mohammad Falahati (Parvaz Simorgh): - → 30/06/2027
+- Seyed Hassan Hosseini (Parvaz Simorgh): 30/06/2026 → 30/06/2028
+- Mahmoud Akasha (Olympic Azzawiya SC): 30/06/2026 → -
+- Matarr Ceesay (Olympic Azzawiya SC): 30/06/2026 → -
+- Mamoudou Junior Diakité (Olympic Azzawiya SC): 30/06/2026 → -
+- Mohammadamin Omidifar (Fajr Qazvin): - → 30/06/2027
+- Mohammad Hassani (Fajr Qazvin): - → 30/06/2027
+- Anaane Tidjani (Olympic Azzawiya SC): 30/06/2026 → -
+- Kaporal (Olympic Azzawiya SC): 30/06/2026 → 30/06/2027
+- Hossam Embiya (El Ettihad Al-Misraty SC): 30/06/2026 → -
+- Mehdi Nourizadeh (Fajr Qazvin): 30/06/2026 → 30/06/2027
+- Ashkan Hododi (Fajr Qazvin): 30/06/2027 → 30/06/2028
+- Vahid Nemati (Fajr Qazvin): - → 30/06/2027
+- Mohammad Sabouri (Fajr Qazvin): 30/06/2027 → 30/06/2028
+- Farshad Shaghelani (Fajr Qazvin): - → 30/06/2028
+- Amirhossein Mahjouri (Fajr Qazvin): - → 30/06/2028
+- Mohammad Azimirad (Fajr Qazvin): - → 30/06/2028
+- Hossein Ghazanfari (Fajr Qazvin): - → 30/06/2028
+- Giorgio Viti (El Ettihad Al-Misraty SC): - → 30/06/2027
+- Seyed Ayoub Chaman (Shahrdari Mahshahr): 30/06/2026 → 30/06/2027
+- Hadi Ebrahimpour (Shahrdari Mahshahr): 30/06/2026 → -
+- Meysam Alipour (Shahrdari Mahshahr): 30/06/2026 → -
+- Ebrahim Hayati (Shahrdari Mahshahr): 30/06/2026 → -
+- Richmond Lamptey (El Ettihad Al-Misraty SC): 30/06/2026 → -
+- Komeil Ghorbani (Sepidrood Rasht FC): - → 30/06/2028
+- Pouya Niknam (Sepidrood Rasht FC): - → 30/06/2029
+- Amirhossein Sarvi (Sepidrood Rasht FC): - → 30/06/2027
+- Nima Mehmandoust (Sepidrood Rasht FC): - → 30/06/2029
+- Rastin Tanha (Sepidrood Rasht FC): 30/06/2027 → 30/06/2028
+- Mohammadreza Damadi (Sepidrood Rasht FC): - → 30/06/2027
+- Seyed Mohammad Eslami (Sepidrood Rasht FC): - → 30/06/2027
+- Ali Taghizadeh (Sepidrood Rasht FC): - → 30/06/2029
+- Meysam Ferdousi (Sepidrood Rasht FC): 30/06/2026 → 30/06/2027
+- Amirhossein Salehi (Sepidrood Rasht FC): - → 30/06/2028
+- Arsalan Tafazoli (Sepidrood Rasht FC): - → 30/06/2027
+- Amirmohammad Sirati (Sepidrood Rasht FC): - → 30/06/2029
+- Mohammad Nozhati (Sepidrood Rasht FC): 30/06/2026 → 30/06/2027
+- Ali Parvizi (Sepidrood Rasht FC): - → 30/06/2028
+- Amirabbas Hassani (Sepidrood Rasht FC): - → 30/06/2028
+- Mutassim Al Mahmoudi (Al-Sadaqa Shahat SC): 30/06/2026 → -
+- Hossein Izadpanah (Iranjavan FC): 30/06/2026 → -
+- Mohammadreza Meymedi (Iranjavan FC): 30/06/2026 → -
+- Mohammadreza Keshavarz (Iranjavan FC): 30/06/2026 → -
+- Seyed Ali Hashemi (Iranjavan FC): 30/06/2026 → -
+- Danial Mahini (Iranjavan FC): 30/06/2026 → -
+- Mehdi Zarei (Iranjavan FC): 30/06/2026 → -
+- Hossein Mahini (Iranjavan FC): 30/06/2026 → -
+- Hossein Ahmadi (Iranjavan FC): 30/06/2026 → -
+- Mehdi Ghasemi (Iranjavan FC): 30/06/2026 → -
+- Mohammad Pooladi (Iranjavan FC): 30/06/2026 → -
+- Reza Mehdi (Iranjavan FC): 30/06/2026 → -
+- Mohammadnabi Dorahaki (Iranjavan FC): 30/06/2026 → -
+- Nouh Gouaf (Iranjavan FC): 30/06/2026 → -
+- Mohammadreza Fard (Iranjavan FC): 30/06/2026 → -
+- Mohammad Kazemi Nasrabadi (Iranjavan FC): 30/06/2026 → -
+- Amirhossein Zendehboudi (Iranjavan FC): 30/06/2026 → -
+- Bader Hassan (Al-Ta'awon SC): 30/06/2026 → -
+- Soufian Tcheco (Al-Ta'awon SC): - → 30/06/2027
+- Ali Rizq Abubaker (Al-Ta'awon SC): - → 30/06/2027
+- Vahid Rahimi (Aco Mode Ardabil): 30/06/2026 → -
+- Morteza Hadadi (Aco Mode Ardabil): 30/06/2026 → -
+- Sajjad Taghavi (Aco Mode Ardabil): 30/06/2026 → -
+- Mehran Mostajeran (Aco Mode Ardabil): 30/06/2026 → -
+- Rastin Kharaghani (Keshavarz Robat Karim): 30/06/2026 → 30/06/2027
+- Mehdi Sardarifar (Keshavarz Robat Karim): - → 30/06/2027
+- Vahid Amani (Keshavarz Robat Karim): 30/06/2026 → 30/06/2027
+- Ahmed Yasser (Darnes SC): 30/06/2026 → -
+- Mohammad Gholamreza (Keshavarz Robat Karim): - → 30/06/2028
+- Sina Shamkhani (Keshavarz Robat Karim): - → 30/06/2028
+- Mohammad Gholamian (Shayan Diesel FC): - → 30/06/2027
+- Reza Marvani (Shayan Diesel FC): - → 30/06/2027
+- Alireza Moradi (Foolad Hormozgan): - → 30/06/2027
+- Kaveh Alizadeh (Foolad Hormozgan): 30/06/2026 → 30/06/2027
+- Mozafar Khosroanjam (Foolad Hormozgan): - → 30/06/2027
+- Osama Al-Badawi (Al-Tahaddy SC): 30/06/2026 → -
+- Alireza Salari (Foolad Hormozgan): 30/06/2027 → -
+- Sajjad Khaledi (Foolad Hormozgan): - → 30/06/2027
+- Mehrdad Aalipour (Foolad Hormozgan): 30/06/2026 → -
+- Ali Zahedi (Foolad Hormozgan): - → 30/06/2027
+- Foad Najahi (Foolad Hormozgan): - → 30/06/2027
+- Fariborz Yousefi (Foolad Hormozgan): 30/06/2026 → -
+- Abbas Tahmasebi (Foolad Hormozgan): 30/06/2026 → -
+- Mohammad Ghaderi (Foolad Hormozgan): - → 30/06/2027
+- Mohammadhossein Bazrpach (Foolad Hormozgan): - → 30/06/2027
+- Mehrdad Avakh (Foolad Hormozgan): - → 30/06/2027
+- Iman Ahmadi Tifkani (Foolad Hormozgan): 30/06/2027 → -
+- Milad Pourgholi (Chooka Talesh FC): 30/06/2026 → 30/06/2027
+- Mohammad Jokar (Chooka Talesh FC): - → 30/06/2027
+- Payam Malekian (Chooka Talesh FC): 30/06/2026 → 30/06/2027
+- Hossein Peyghambarzadeh (Chooka Talesh FC): 30/06/2026 → -
+- Hamid Khodabandelou (Chooka Talesh FC): 30/06/2026 → 30/06/2027
+- Alireza Mostafaei (Chooka Talesh FC): 30/06/2026 → 30/06/2027
+- Javad Safari (Chooka Talesh FC): 30/06/2026 → 30/06/2027
+- Amirhossein Navaei (Chooka Talesh FC): 30/06/2028 → 30/06/2027
+- Amir Mokhtari (Sepahan B FC): 30/06/2026 → -
+- Mohammadreza Asgari (Sepahan B FC): 30/06/2026 → -
+- Peyman Dadkhah (Sepahan B FC): 30/06/2026 → -
+- Navid Tajjali (Sepahan B FC): 30/06/2026 → -
+- Mohammadjavad Akbari (Sepahan B FC): 30/06/2026 → -
+- Hossein Abdelahi (Sepahan B FC): 30/06/2026 → -
+- Pouria Gheshlaghi (Sepahan B FC): 30/06/2026 → -
+- Kian Aalipour (Sepahan B FC): 30/06/2026 → -
+- Aimable Nsabimana (Assabah SC): 30/06/2026 → -
+- Bolívar Tobar (CS Emelec U19): 31/12/2026 → 31/12/2028
+- Rosul Ma'arif (Donggala United): 30/06/2026 → -
+- Naldy Renaldy (Donggala United): 30/06/2026 → -
+- Mohamed Abdelsalam (Al-Majd SCC): 30/06/2026 → -
+- Amr Moussa (Al-Majd SCC): 30/06/2026 → -
+- Ousmane Sow (Al-Majd SCC): - → 30/06/2027
+- Pandi Pulu (Donggala United): 30/06/2026 → -
+- Bagus Prasetiyo (Persekat Tegal): 30/04/2026 → -
+- Mourad Zahou (Al-Watan SC): 30/06/2026 → -
+- Ali Timbuktu (Al-Watan SC): 30/06/2026 → -
+- Peter Nworah (Al-Watan SC): 30/06/2026 → -
+- Yaqoub Abdullah (Shabab Al-Ghar Club): 30/06/2026 → -
+- Adem Chabbi (Khaleej Sirte SC): 30/06/2026 → -
+- Mohammed Al-Ati (Khaleej Sirte SC): 30/06/2026 → -
+- Muhammad Mukhlis (Pekanbaru FC): 30/04/2026 → -
+- Hamza Hammami (Khaleej Sirte SC): 30/06/2026 → -
+- Moctar Gacko (Khaleej Sirte SC): 30/06/2026 → -
+- Mohammed El-Mustafa (Al Bashayer Misrata): 30/06/2026 → -
+- Faaris Nurhidayat (Pesik Kuningan): - → 30/06/2027
+- Rahel Radiansyah (Persibo Bojonegoro): 30/04/2026 → -
+- Azka Fauzi (Persibo Bojonegoro): 30/06/2026 → -
+- Aaron Yekti (Persibo Bojonegoro): - → 30/06/2027
+- Aan Aris (Persika Karanganyar): 30/06/2026 → -
+- Adhriansyah Francoies (Persika Karanganyar): 30/06/2026 → -
+- Tri Wibowo (Persika Karanganyar): 30/06/2026 → -
+- Khoirul Hudha (Persipa Pati): 30/04/2026 → -
+- Yosua Yoltuwu (Persipa Pati): - → 30/06/2028
+- Saddam Bani (Persiba Bantul): 30/04/2026 → -
+- Fachrizal Ahnaf (Persiba Bantul): 30/04/2026 → -
+- Bima Ardiansyah (Persiba Bantul): 30/04/2026 → -
+- Samudra Andi (Persiba Bantul): 30/04/2026 → -
+- Akbar Selang (Persiba Bantul): 30/04/2026 → -
+- Khoirul Amin (Persibangga Purbalingga): 30/04/2026 → -
+- Henison Salawala (Persipani Paniai): 30/06/2026 → -
+- Karel Gobai (Persipani Paniai): 30/06/2026 → -
+- Gerson Flassy (Persipani Paniai): 30/06/2026 → -
+- Ergun Arif (Persikutim United): - → 30/06/2027
+- Rareș Mihai (AFC Chindia Targoviste): - → 30/06/2028
+- Cornel Ene (Politehnica Timișoara): 30/06/2026 → -
+- Alin Techereș (Politehnica Timișoara): 30/06/2026 → -
+- Romario Benzar (Politehnica Timișoara): 30/06/2026 → -
+- Edy Wardan (Persekabpas Pasuruan): 30/04/2026 → -
+- Vlad Morar (Politehnica Timișoara): 30/06/2026 → -
+- Mario Bărăitaru (CSM Slatina): 30/06/2026 → -
+- Emilian Pacionel (CSM Slatina): 30/06/2026 → -
+- Faizal Hariyono (Perseden Denpasar): 30/06/2026 → -
+- Komang Adi (Perseden Denpasar): 30/06/2026 → -
+- Firman Assydhiq (Perseden Denpasar): 30/06/2026 → -
+- Gerry Wilson (Perseden Denpasar): 30/06/2026 → -
+- Fadly Surya (Perseden Denpasar): 30/06/2026 → -
+- Larsan Holo (Perseden Denpasar): 30/06/2026 → -
+- Kadek Yoga (Perseden Denpasar): 30/06/2026 → -
+- Made Antha (Perseden Denpasar): 30/06/2026 → -
+- Florin Răsdan (CSA Steaua): 30/06/2026 → -
+- Alin Dudea (ACSM Resita): 30/06/2026 → -
+- Ouadie Salhi (ACSM Resita): 30/06/2026 → -
+- Denis Gurin (ACSM Resita): 30/06/2026 → -
+- Alexandru Negru (ACSM Resita): 30/06/2026 → -
+- Iulian Dinu (AFC Metalul Buzau): 30/06/2026 → -
+- Alberto Olaru (AFC Metalul Buzau): 30/06/2026 → -
+- Dănilă Parfeon (AFC Metalul Buzau): 30/06/2026 → -
+- Florin Opaiț (AFC Metalul Buzau): 30/06/2026 → 30/06/2028
+- Claudiu Borțoneanu (AFC Metalul Buzau): 30/06/2026 → -
+- Yasuhiro Hanada (AFC Metalul Buzau): 30/06/2026 → -
+- Alexandru Saim Tudor (AFC Metalul Buzau): 30/06/2026 → -
+- Adrian Moldovan (AFC Metalul Buzau): 30/06/2026 → -
+- Paul Mitrică (FC Bacau): 30/06/2026 → -
+- Danilson Sá (CD Santa Clara U23): 30/06/2027 → 30/06/2028
+- Kristopher Vida (CSM Olimpia Satu Mare): 30/06/2026 → -
+- João Matos (Moreirense FC Sub-23): 30/06/2027 → 30/06/2028
+- Daniel Benzar (CSC 1599 Selimbar): 30/06/2026 → -
+- Sandro Lopes (FC Felgueiras Sub-23): - → 30/06/2027
+- Branimir Cavar (Gloria Bistrita): 30/06/2026 → -
+- Braidy Connell-Webster (Derby County U18): 30/06/2026 → -
+- Cosmin Tucaliuc (Cetatea 1932 Suceava): 30/06/2026 → -
+- George Caramalău (FC Metaloglobus Bucharest): 30/06/2026 → -
+- Robert Neacșu (FC Metaloglobus Bucharest): 30/06/2026 → -
+- Denis Rusu (AFC Unirea 04 Slobozia): 30/06/2026 → -
+- Florinel Ibrian (AFC Unirea 04 Slobozia): 30/06/2026 → -
+- Robert Miklos (CSC Dumbravita): 30/06/2026 → -
+- Eduardo Baltazar (Portimonense SAD U23): - → 30/06/2027
+- Cristian Pădurariu (CSC Dumbravita): 30/06/2026 → -
+- Arthur Gabriel (Sociedade Esportiva Palmeiras): 31/12/2029 → 31/12/2030
+- Callum Feeney (Burnley FC U18): 17/10/2026 → 30/06/2027
+- Thiago Speroni (Crystal Palace U18): 24/10/2026 → -
+- Iago Machado (Sport Club Corinthians Paulista): - → 16/04/2028
+- Zakaria Labyad (Sport Club Corinthians Paulista): 31/12/2026 → 31/12/2027
+- Dinis Lourenço (Estoril Praia U23): 30/06/2027 → 30/06/2028
+- Guilherme Estrella (Clube de Regatas Vasco da Gama): 31/12/2027 → 31/12/2028
+- Luis Fernando (Fluminense Football Club): - → 31/12/2027
+- Yago Ferreira (Fluminense Football Club): - → 14/04/2027
+- João Fernandes (Santos FC): - → 31/12/2028
+- Willian Arão (Santos FC): 31/12/2026 → 31/12/2027
+- Andrey Quintino (Santos FC): - → 31/12/2026
+- Ryan Augusto (Red Bull Bragantino): - → 31/01/2029
+- Fernando (Red Bull Bragantino): 31/12/2027 → 31/12/2028
+- Lucas Taverna (Coritiba Foot Ball Club): - → 31/12/2028
+- Igor Formiga (Mirassol Futebol Clube (SP)): 31/12/2026 → 10/12/2027
+- Ilijah Paul (Monterey Bay FC): 30/11/2026 → 30/11/2027
+- Tomáš Souček (West Ham United): 30/06/2027 → 30/06/2028
+- Tico (Clube do Remo (PA)): - → 31/12/2028
+- Gabriel Werner (Associação Chapecoense de Futebol): - → 31/03/2027
+- Mancha (Associação Chapecoense de Futebol): 30/04/2026 → 31/12/2026
+- Garven Metusala (Colorado Springs Switchbacks FC): 30/11/2026 → 30/11/2028
+- Nick Scardina (Rhode Island FC): 30/11/2026 → 30/11/2027
+- Osama Galal (Pyramids FC): 30/06/2026 → -
+- Ahmed Fawzi (Pyramids FC): 30/06/2026 → -
+- Amr El Solia (Cleopatra FC): 30/06/2026 → -
+- Ramadan Mostafa (El Sharkia Enppi FC): 30/06/2026 → -
+- Reda El Sayed (El Sharkia Enppi FC): 30/06/2026 → -
+- Ahmed El Agouz (El Sharkia Enppi FC): 30/06/2026 → -
+- Omar Adly (Wadi Degla FC): 30/06/2026 → -
+- Seif Teka (Wadi Degla FC): 30/06/2026 → -
+- Ahmed Reda (Wadi Degla FC): 30/06/2026 → -
+- Kanu (Wadi Degla FC): 30/06/2026 → -
+- Bastos (Fortaleza Esporte Clube): - → 30/11/2026
+- Mahmoud Diasty (Wadi Degla FC): 30/06/2026 → -
+- Youssef Oya (Wadi Degla FC): 30/06/2026 → -
+- Adam Reach (Lincoln City): 30/06/2027 → 30/06/2028
+- Mostafa Gamal (El Mokawloon SC): 30/06/2026 → -
+- Joackiam Ojera (El Mokawloon SC): 30/06/2026 → -
+- Makarona (Smouha SC): 30/06/2026 → -
+- Ahmed Bahbah (Suez Petrojet FC): 30/06/2026 → -
+- Mohamed Ali Okasha (Suez Petrojet FC): 30/06/2026 → -
+- Bassam Walid (Ghazl El Mahalla): 30/06/2026 → -
+- Mahmoud Hersha (Qanah FC): 30/06/2026 → -
+- Kaik Viçoza (Criciúma EC): - → 31/07/2027
+- Hazem Abosena (Qanah FC): 30/06/2026 → -
+- Omar Radwan (Tala'ea El Gaish): 30/06/2026 → -
+- Emad El-Sayed (Tala'ea El Gaish): 30/06/2026 → -
+- Ahmed Alaa (Tala'ea El Gaish): 30/06/2026 → -
+- Khaled Sotohi (Tala'ea El Gaish): 30/06/2026 → -
+- Mostafa El Khawaga (Tala'ea El Gaish): 30/06/2026 → -
+- Islam Mohareb (Tala'ea El Gaish): 30/06/2026 → -
+- Kareem Tarek (Tala'ea El Gaish): 30/06/2026 → -
+- Darlisson (Clube de Regatas Brasil (AL)): - → 31/12/2027
+- Mateus Pureza (Clube de Regatas Brasil (AL)): - → 30/11/2026
+- Lucas Kallyel (Clube de Regatas Brasil (AL)): - → 31/12/2028
+- Riga (Tala'ea El Gaish): 30/06/2026 → -
+- Reda Salah (El Gouna FC): 30/06/2026 → -
+- Rodriguinho (Clube de Regatas Brasil (AL)): - → 30/11/2027
+- Ahmed Shokry (Petrol Asyut): 30/06/2026 → -
+- Mahmoud Okal (Petrol Asyut): 30/06/2026 → -
+- Bakr Fawzi (Petrol Asyut): 30/06/2026 → -
+- Luiz Felipe (Cuiabá Esporte Clube (MT)): - → 10/12/2027
+- Keita Yoshioka (Renofa Yamaguchi): 31/01/2026 → -
+- Ryusei Shimodo (Renofa Yamaguchi): 31/01/2026 → -
+- Takeru Itakura (Renofa Yamaguchi): 31/01/2026 → -
+- Masashi Kamekawa (Renofa Yamaguchi): 31/01/2026 → -
+- Kohei Tanabe (Renofa Yamaguchi): 31/01/2026 → -
+- Yuji Wakasa (Renofa Yamaguchi): 31/01/2026 → -
+- Hikaru Naruoka (Renofa Yamaguchi): 31/01/2026 → -
+- Naoto Misawa (Renofa Yamaguchi): 31/01/2026 → -
+- Joji Ikegami (Renofa Yamaguchi): 31/01/2026 → -
+- Kazuya Noyori (Renofa Yamaguchi): 31/01/2026 → -
+- Seigo Kobayashi (Renofa Yamaguchi): 31/01/2026 → -
+- Shunsuke Yamamoto (Renofa Yamaguchi): 30/06/2026 → -
+- Kazuma Makiguchi (Ehime FC): 30/06/2026 → -
+- Geovane Meurer (Londrina Esporte Clube (PR)): 01/12/2026 → 30/11/2026
+- Shibuki Sato (Roasso Kumamoto): 31/01/2026 → -
+- Hiromu Musha (Roasso Kumamoto): 31/01/2026 → -
+- Yuya Sato (Roasso Kumamoto): 31/01/2026 → -
+- Yuki Omoto (Roasso Kumamoto): 31/01/2026 → -
+- Kohei Kuroki (Roasso Kumamoto): 31/01/2026 → -
+- Ryotaro Onishi (Roasso Kumamoto): 31/01/2026 → -
+- Shohei Mishima (Roasso Kumamoto): 31/01/2026 → -
+- Koya Fujii (Roasso Kumamoto): 31/01/2026 → -
+- Jeong-min Bae (Roasso Kumamoto): 31/01/2026 → -
+- Diogo Mora (Associação Atlética Ponte Preta): 21/04/2026 → -
+- Peu (Associação Atlética Ponte Preta): - → 30/11/2026
+- Kenta Hirose (Kagoshima United): 31/01/2026 → -
+- Brandon Williams (Rotherham United): 03/02/2026 → 23/01/2027
+- Yoshitaka Aoki (Kagoshima United): 31/01/2026 → -
+- Keita Fujimura (Kagoshima United): 31/01/2026 → -
+- Shuto Inaba (Kagoshima United): 31/01/2026 → -
+- Masayoshi Endo (Kagoshima United): 31/01/2026 → -
+- Mikuto Fukuda (Kagoshima United): 31/01/2026 → -
+- Rin Yamazaki (Kagoshima United): 31/01/2026 → -
+- Seiya Take (Kagoshima United): 31/01/2026 → -
+- Keito Kawamura (Kagoshima United): 31/01/2026 → -
+- Issei Kondo (Thespa Gunma): 31/01/2026 → -
+- Ryuya Ohata (Thespa Gunma): 31/01/2026 → -
+- Tatsushi Koyanagi (Thespa Gunma): 31/01/2026 → -
+- Taishi Tamashiro (Thespa Gunma): 31/01/2026 → -
+- Shusuke Yonehara (Thespa Gunma): 31/01/2026 → -
+- Koki Kazama (Thespa Gunma): 31/01/2026 → -
+- Ren Fujimura (Thespa Gunma): 31/01/2026 → -
+- Taiyo Shimokawa (Thespa Gunma): 31/01/2026 → -
+- James Dadge (Northampton Town): 30/06/2026 → -
+- Shota Tanaka (Thespa Gunma): 31/01/2026 → -
+- Taiki Miyabe (Matsumoto Yamaga): 31/01/2026 → -
+- Daiki Higuchi (Matsumoto Yamaga): 31/01/2026 → -
+- Reo Yasunaga (Matsumoto Yamaga): 31/01/2026 → -
+- Kazuaki Saso (Matsumoto Yamaga): 31/01/2026 → -
+- Sora Tanaka (Matsumoto Yamaga): 31/01/2026 → -
+- Go Ito (Giravanz Kitakyushu): 31/01/2026 → -
+- Koki Otani (Giravanz Kitakyushu): 31/01/2026 → -
+- Koki Hasegawa (Giravanz Kitakyushu): 31/01/2026 → -
+- Kota Hoshi (Giravanz Kitakyushu): 31/01/2026 → -
+- Rimpei Okano (Giravanz Kitakyushu): 31/01/2026 → -
+- Haruki Izawa (Giravanz Kitakyushu): 31/01/2026 → -
+- Ryuta Kanzawa (Giravanz Kitakyushu): 30/06/2026 → -
+- Taku Ushinohama (Giravanz Kitakyushu): 31/01/2026 → -
+- Ryuki Hirahara (Giravanz Kitakyushu): 31/01/2026 → -
+- Shuntaro Kawabe (Giravanz Kitakyushu): 31/01/2026 → -
+- Seung-jin Koh (Giravanz Kitakyushu): 31/01/2026 → -
+- Ryo Nagai (Giravanz Kitakyushu): 31/01/2026 → -
+- Raiki Tsubogo (Giravanz Kitakyushu): 31/01/2026 → -
+- Kentaro Kai (FC Gifu): 31/01/2026 → -
+- Ryo Toyama (FC Gifu): 31/01/2026 → -
+- Kodai Hagino (FC Gifu): 31/01/2026 → -
+- Ryoma Kita (FC Gifu): 31/01/2026 → -
+- Akito Fukuta (FC Gifu): 31/01/2026 → -
+- Jin Izumisawa (FC Gifu): 31/01/2026 → -
+- Tomoya Yokoyama (FC Gifu): 31/01/2026 → -
+- Junya Suzuki (Ryukyu Okinawa): 31/01/2026 → -
+- Kaito Kamiya (Ryukyu Okinawa): 31/01/2026 → -
+- Hiroki Fujiharu (Ryukyu Okinawa): 31/01/2026 → -
+- Ryota Araki (Ryukyu Okinawa): 31/01/2026 → -
+- Yu Tomidokoro (Ryukyu Okinawa): 31/01/2026 → -
+- Kazuaki Ihori (Ryukyu Okinawa): 30/06/2026 → -
+- Shunsuke Motegi (Ryukyu Okinawa): 31/01/2026 → -
+- Sho Iwamoto (Ryukyu Okinawa): 31/01/2026 → -
+- Kazuki Sota (Ryukyu Okinawa): 31/01/2026 → -
+- Hiromichi Sugawara (FC Osaka): 31/01/2026 → -
+- Ryoji Yamashita (FC Osaka): 31/01/2026 → -
+- Yuto Minakuchi (FC Osaka): 31/01/2026 → -
+- Takuya Akiyama (FC Osaka): 31/01/2026 → -
+- Shunsuke Tachino (FC Osaka): 31/01/2026 → -
+- Kazuya Mima (FC Osaka): 31/01/2026 → -
+- Sho Sumida (FC Osaka): 31/01/2026 → -
+- Asahi Haga (FC Osaka): 31/01/2026 → -
+- Yamato Natsukawa (FC Osaka): 31/01/2026 → -
+- Rikuto Kubo (FC Osaka): 31/01/2026 → -
+- Takahiro Kitsui (FC Osaka): 31/01/2026 → -
+- Takumi Shimada (FC Osaka): 31/01/2026 → -
+- Vinícius Souza (FC Osaka): 31/01/2026 → -
+- Yuta Terasawa (Gainare Tottori): 31/01/2026 → -
+- Seiya Nikaido (Gainare Tottori): 31/01/2026 → -
+- Masaki Kaneura (Gainare Tottori): 31/01/2026 → -
+- Haruki Oshima (Gainare Tottori): 31/01/2026 → -
+- Hayato Nukui (Gainare Tottori): 31/01/2026 → -
+- Itto Fujita (Gainare Tottori): 31/01/2026 → -
+- Atsuki Tojo (Gainare Tottori): 31/01/2026 → -
+- Naoto Miki (Gainare Tottori): 31/01/2026 → -
+- Ibuki Yoshida (Gainare Tottori): 31/01/2026 → -
+- Yuto Shirai (Zweigen Kanazawa): 31/01/2026 → -
+- Itsuki Ueda (Zweigen Kanazawa): 31/01/2026 → -
+- Norimichi Yamamoto (Zweigen Kanazawa): 31/01/2026 → -
+- Hiroto Hatao (Zweigen Kanazawa): 31/01/2026 → -
+- Hayate Nagakura (Zweigen Kanazawa): 31/01/2026 → -
+- Honoya Shoji (Zweigen Kanazawa): 31/01/2026 → -
+- Daisuke Matsumoto (Zweigen Kanazawa): 31/01/2026 → -
+- Shunya Mori (Zweigen Kanazawa): 31/01/2026 → -
+- Fuga Sakurai (Zweigen Kanazawa): 30/06/2026 → -
+- Keisuke Oyama (Zweigen Kanazawa): 31/01/2026 → -
+- Yuki Nishiya (Zweigen Kanazawa): 31/01/2026 → -
+- Shintaro Shimada (Zweigen Kanazawa): 31/01/2026 → -
+- Taiki Kato (Zweigen Kanazawa): 31/01/2026 → -
+- Ronan Maher (Walsall FC): 24/10/2026 → 30/06/2027
+- Hayato Otani (Zweigen Kanazawa): 31/01/2026 → -
+- Kyohei Sugiura (Zweigen Kanazawa): 31/01/2026 → -
+- Patric (Zweigen Kanazawa): 31/01/2026 → -
+- Daichi Kobayashi (Kochi United): 31/01/2026 → -
+- Konosuke Fukumiya (Kochi United): 31/01/2026 → -
+- Shosei Kozuki (Kochi United): 31/01/2026 → -
+- Ryan Broom (Cheltenham Town): 30/06/2026 → -
+- Yui Takano (Kochi United): 31/01/2026 → -
+- Taiga Sasaki (Kochi United): 31/01/2026 → -
+- Asahi Kanehara (Kochi United): 31/01/2026 → -
+- Reo Sugiyama (Kochi United): 31/01/2026 → -
+- Yudai Okuda (Nara Club): 31/01/2026 → -
+- Kei Ikoma (Nara Club): 31/01/2026 → -
+- Ken Tajiri (Nagano Parceiro): 31/01/2026 → -
+- Yuya Ono (Nagano Parceiro): 31/01/2026 → -
+- Koki Ishii (Nagano Parceiro): 31/01/2026 → -
+- Kohei Tomita (Nagano Parceiro): 31/01/2026 → -
+- Yushi Hasegawa (Nagano Parceiro): 31/01/2026 → -
+- Shuntaro Koga (Nagano Parceiro): 31/01/2026 → -
+- Keisuke Ito (Nagano Parceiro): 31/01/2026 → -
+- George Birch (Exeter City): 30/06/2027 → 30/06/2028
+- Kazuya Ando (Nagano Parceiro): 31/01/2026 → -
+- Kosuke Tanaka (Nagano Parceiro): 31/01/2026 → -
+- Takashi Kondo (Nagano Parceiro): 31/01/2026 → -
+- Reo Yamanaka (Nagano Parceiro): 31/01/2026 → -
+- Kyoji Kutsuna (Nagano Parceiro): 31/01/2026 → -
+- Kakeru Higuchi (Nagano Parceiro): 31/01/2026 → -
+- Kotaro Fujikawa (Nagano Parceiro): 31/01/2026 → -
+- Kohei Shin (Nagano Parceiro): 31/01/2026 → -
+- Sunao Kasahara (Reilac Shiga): 31/01/2026 → -
+- Yuki Motoyoshi (Reilac Shiga): 30/06/2026 → -
+- Shunsuke Hirai (Reilac Shiga): 30/06/2026 → -
+- Masafumi Miyagi (Reilac Shiga): 31/01/2026 → -
+- Keita Ide (Reilac Shiga): 31/01/2026 → -
+- Kenya Onodera (Reilac Shiga): 31/01/2026 → -
+- Shun Tsunoda (Reilac Shiga): 31/01/2026 → -
+- Ryuto Koizumi (Reilac Shiga): 31/01/2026 → -
+- Tomoyuki Maekawa (Reilac Shiga): 31/01/2026 → -
+- So Fujitani (Reilac Shiga): 31/01/2026 → -
+- Tomoyuki Shiraishi (Reilac Shiga): 31/01/2026 → -
+- Yu Tabei (Reilac Shiga): 31/01/2026 → -
+- Kazuki Shoji (Reilac Shiga): 31/01/2026 → -
+- Takuto Minami (Reilac Shiga): 30/06/2026 → -
+- Shota Suzuki (Reilac Shiga): 31/01/2026 → -
+- Kento Nakamura (Reilac Shiga): 31/01/2026 → -
+- Kaito Miyake (Reilac Shiga): 31/01/2026 → -
+- Takuya Hitomi (Reilac Shiga): 31/01/2026 → -
+- Taku Kikushima (Reilac Shiga): 30/06/2026 → -
+- Frank Romero (Reilac Shiga): 31/01/2026 → -
+- Shun Akiyama (Reilac Shiga): 31/01/2026 → -
+- Hiryu Okuda (Reilac Shiga): 30/06/2026 → -
+- Yusuke Imamura (Kamatamare Sanuki): 31/01/2026 → -
+- Keisuke Tao (Kamatamare Sanuki): 31/01/2026 → -
+- Shuto Sago (Kamatamare Sanuki): 31/01/2026 → -
+- Kosei Makiyama (Kamatamare Sanuki): 31/01/2026 → -
+- Shohei Kawakami (Kamatamare Sanuki): 31/01/2026 → -
+- Yuki Morikawa (Kamatamare Sanuki): 31/01/2026 → -
+- Akito Ueno (Kamatamare Sanuki): 31/01/2026 → -
+- Yusuke Goto (Kamatamare Sanuki): 31/01/2026 → -
+- Yohei Ono (Kamatamare Sanuki): 31/01/2026 → -
+- Tyler Walton (Accrington Stanley): 30/06/2026 → -
+- Wubishet Kifle (Sidama Bunna FC): 30/06/2026 → -
+- Blaz Kovac (Lazio U20): - → 30/06/2028
+- Bereket Gizaw (Negele Arsi Town FC): 30/06/2028 → -
+- Mattia Aliprandi (Atalanta Primavera): 30/06/2026 → -
+- Abubeker Nuri (Ethiopia Bunna SC): 30/06/2026 → -
+- Sadiq Abubakar Adamu (Ethiopia Bunna SC): 30/06/2026 → -
+- Mintesnot Ginbo (Hawasa Ketema SC): 30/06/2026 → -
+- Solomon Wodesa (Hawasa Ketema SC): 30/06/2026 → -
+- Kaleab Wubshet (Hawasa Ketema SC): 30/06/2026 → -
+- Dawit Tadessa (Hawasa Ketema SC): 30/06/2026 → -
+- Esrael Eshetu (Hawasa Ketema SC): 30/06/2026 → -
+- Azariyas Abel (Wolayta Dicha SC): 30/06/2026 → -
+- Mesay Nikole (Wolayta Dicha SC): 30/06/2026 → -
+- Anas Yusuf (Wolayta Dicha SC): 31/12/2027 → -
+- Afolayan Peters (Hadia Hosaina FC): 30/06/2026 → -
+- Manafu Wakabayashi (RB Omiya Ardija): 30/06/2026 → -
+- Prince Badu (Hadia Hosaina FC): 30/06/2028 → -
+- Muluken Addisu (Ethiopia Nigd Bank SA): 30/06/2026 → -
+- Tsubasa Umeki (Vegalta Sendai): 30/06/2026 → -
+- Keitaro Nakajima (Júbilo Iwata): 30/06/2026 → -
+- Shunsuke Nishikubo (Júbilo Iwata): 30/06/2026 → -
+- Kensuke Fujiwara (Júbilo Iwata): 30/06/2026 → -
+- Habtamu Shewalem (Ethio Electric SC): 30/06/2026 → -
+- Towa Nishisaka (Tokushima Vortis): 30/06/2026 → -
+- Melese Mishamo (Shagger City FC): 30/06/2026 → -
+- Akito Fukumori (Hokkaido Consadole Sapporo): 30/06/2026 → -
+- Amadou Bakayoko (Hokkaido Consadole Sapporo): 30/06/2026 → -
+- Riita Mori (Albirex Niigata): 30/06/2026 → -
+- Kazuyoshi Shimabuku (Albirex Niigata): 30/06/2026 → -
+- Riku Ochiai (Albirex Niigata): 30/06/2026 → -
+- Rui Yokoyama (Montedio Yamagata): 30/06/2026 → -
+- Adams Abdul Jabal (Medeama SC): 30/06/2026 → -
+- Yussif Mubarik (Medeama SC): 30/06/2026 → -
+- Hayato Sugita (Yokohama FC): 30/06/2026 → -
+- Koshiro Uda (Yokohama FC): 30/06/2026 → -
+- Godknows Dzakpasu (Medeama SC): 30/06/2026 → -
+- Hayase Takashio (Yokohama FC): 30/06/2026 → -
+- Adaílton (Yokohama FC): 30/06/2026 → -
+- Riki Sato (FC Imabari): 30/06/2026 → -
+- Yoshinobu Harada (Tochigi City): 31/01/2026 → -
+- Yoshiki Sato (Tochigi City): 31/01/2026 → -
+- Barimah Baah (Bibiani Gold Stars FC): 30/06/2026 → -
+- Yuki Saneto (Kataller Toyama): 30/06/2026 → -
+- Michael Mensah Awuah (Berekum Chelsea FC): 30/06/2026 → -
+- Nobuyuki Shiina (Kataller Toyama): 31/01/2026 → -
+- Keijiro Ogawa (Kataller Toyama): 30/06/2026 → -
+- Stephen Kwakye (Berekum Chelsea FC): 30/06/2028 → -
+- Riku Nozawa (Ventforet Kofu): 30/06/2026 → -
+- Kofi Patric Ansu (Berekum Chelsea FC): 30/06/2026 → -
+- Hayata Mizuno (Ventforet Kofu): 30/06/2026 → -
+- Yukito Murakami (Ventforet Kofu): 30/06/2026 → -
+- Yuto Misao (Oita Trinita): 30/06/2026 → -
+- Baba Kushibo (FC Samartex): 30/06/2026 → -
+- Koya Handa (Blaublitz Akita): 30/06/2026 → -
+- Darlvin Yeboah (Bechem United FC): 19/08/2026 → -
+- Keigo Hashimoto (Tegevajaro Miyazaki): 31/01/2026 → -
+- Kohei Takahashi (Vanraure Hachinohe): 31/01/2026 → -
+- Evans Osei-Wusu (Karela United FC): 30/06/2026 → -
+- Grant Kekana (Mamelodi Sundowns FC): 30/06/2026 → -
+- Marcelo Allende (Mamelodi Sundowns FC): - → 30/06/2027
+- Themba Zwane (Mamelodi Sundowns FC): 30/06/2026 → -
+- Kabelo Kgositsile (Orlando Pirates): - → 30/06/2030
+- Bruce Bvuma (Kaizer Chiefs): 30/06/2026 → -
+- Brandon Petersen (Kaizer Chiefs): 30/06/2026 → -
+- Dillan Solomons (Kaizer Chiefs): 30/06/2026 → -
+- Sibongiseni Mthethwa (Kaizer Chiefs): 30/06/2026 → -
+- Nkosingiphile Ngcobo (Kaizer Chiefs): 30/06/2026 → -
+- Pule Mmodi (Kaizer Chiefs): 30/06/2026 → -
+- Taariq Fielies (AmaZulu FC): 30/06/2026 → -
+- Salim Magoola (Durban City Football Club): 30/06/2027 → -
+- Vincent Oburu (Richards Bay FC): 30/06/2026 → -
+- Sultan Akbar (RANS Nusantara FC): - → 30/06/2026
+- Refan Nadief (RANS Nusantara FC): - → 30/06/2027
+- Simon Eastwood (Oxford United): 30/06/2026 → -
+- James Golding (Oxford United): 30/06/2026 → -
+- Mark Harris (Oxford United): 30/06/2026 → -
+- Gatlin O'Donkor (Oxford United): 30/06/2026 → -
+- Gethin Jones (Milton Keynes Dons): 30/06/2026 → -
+- Callum McManaman (Wigan Athletic): 30/06/2026 → -
+- Grant Horton (Harrogate Town): 30/06/2026 → -
+- Bryn Morris (Harrogate Town): 30/06/2026 → -
+- George Thomson (Harrogate Town): 30/06/2026 → -
+- Lenell John-Lewis (Boston United): 30/06/2026 → -
+- Ben Whitfield (Barrow AFC): 14/10/2026 → 30/06/2027
+- Will Grigg (Forest Green Rovers): 30/06/2027 → 30/06/2028
+- Sam Lavelle (Hartlepool United): 30/06/2027 → 10/12/2026
+- Daniel Phillips (Stevenage FC): 30/06/2026 → -
+- Harry Chapman (Gateshead FC): 30/06/2026 → -
+- Luke Browne (Notts County): 24/10/2026 → 30/06/2028
+- Ashley Palmer (Southend United): 30/06/2027 → 14/01/2027
+- Rico Browne (Woking FC): 30/06/2028 → 03/01/2027
+- Nathan Patten (Woking FC): - → 15/11/2026
+- Jaiden Putman (Woking FC): 04/11/2026 → 31/05/2027
+- Aaron Blair (Eastleigh FC): 30/06/2026 → -
+- Marvin Johnson (Solihull Moors): - → 31/12/2026
+- Henry Rylah (Solihull Moors): 03/10/2026 → 03/01/2027
+- Kamil Dudek (Burton Albion): 30/06/2027 → 30/06/2029
+- Finn Delap (Burton Albion): 30/06/2027 → 30/06/2029
+- Shaun Hobson (FC Halifax Town): 30/06/2026 → -
+- Dylan Crowe (FC Halifax Town): 30/06/2026 → -
+- Riley Horan (AFC Wimbledon): 31/05/2026 → -
+- Rhys Byrne (Hornchurch FC): 30/06/2026 → -
+- Harry Hedges (AFC Wimbledon): 16/10/2026 → -
+- Michael Cheek (Bromley FC): 30/06/2026 → -
+- Kahrel Reddin (Altrincham FC): 30/06/2026 → -
+- Ross Barrows (Scunthorpe United): 30/06/2026 → -
+- Jean Belehouan (Scunthorpe United): 30/06/2026 → -
+- Olly Tipton (Kidderminster Harriers): 22/10/2026 → -
+- Richard Faakye (Kidderminster Harriers): 30/06/2026 → -
+- Seb Naylor (Yeovil Town): 30/06/2029 → 03/01/2027
+- Luke McCormick (AFC Fylde): 30/06/2026 → 13/01/2027
+- Kyrell Malcolm (AFC Fylde): 30/06/2027 → 13/01/2027
+- Joshua Bailey (Tamworth FC): 30/06/2027 → -
+- Endurance Johnson (Wealdstone FC): 30/06/2026 → -
+- Connor McAvoy (Wealdstone FC): 30/06/2026 → -
+- Jay Bird (Boreham Wood FC): 30/06/2027 → 04/11/2026
+- Toby Byron (Sutton United): 30/06/2026 → -
+- Reuben Egan (Worthing FC): - → 10/11/2026
+- Harry Ransom (Worthing FC): 30/06/2026 → -
+- Oguzhan Özlesen (Muglaspor): 30/06/2027 → 30/06/2028
+- Derrick Ndahiro (Vipers SC): 30/06/2026 → -
+- Sam Kintu (Entebbe UPPC FC): 30/06/2026 → -
+- Peter Magambo (Kampala Capital City Authority FC): 01/07/2026 → -
+- Sammy Ssebaduka (Kampala Capital City Authority FC): 30/06/2026 → -
+- Samson Kiirya (National Enterprise Corporation FC): 30/06/2026 → -
+- George Kasonko (BUL Jinja FC): 30/06/2026 → -
+- Nickolas Alfaro (Sydney FC II): 30/06/2026 → -
+- Lucas Pasquoto (AC Reggiana 1919): - → 30/06/2027
+- Edoardo Cavaliere (AC Reggiana 1919): 30/06/2027 → 30/06/2028
+- Alessandro Murgia (Guidonia Montecelio 1937 FC): - → 30/06/2028
+- Joo-chan Kim (Suwon Samsung Bluewings): 06/10/2026 → -
+- Se-jin Park (Daegu FC): 06/10/2026 → -
+- Jae-hyun Go (Daegu FC): 06/10/2026 → -
+- Cheol-woo Park (Suwon FC): 06/10/2026 → -
+- Nicolò Gigli (US Sambenedettese): - → 30/06/2028
+- Aleksandar Vojnovic (Hwaseong FC): - → 31/12/2026
+- Strahinja Pavlović (AC Milan): 30/06/2028 → 30/06/2031
+- Oliver Provstgaard (SS Lazio): 30/06/2029 → 30/06/2031
+- Chan-wook Lee (Gyeongnam FC): 06/10/2026 → -
+- Cristian Volpato (US Sassuolo): 30/06/2028 → 30/06/2031
+- John Yeboah (Venezia FC): 30/06/2028 → 30/06/2030
+- Anthony Oyono (Frosinone Calcio): 30/06/2027 → 30/06/2029
+- Douglass Lukjanciks (Southport FC): 06/10/2026 → 03/11/2026
+- Adam Moseley (Southport FC): 30/06/2027 → 31/10/2026
+- Ben Jackson (Radcliffe FC): 30/06/2027 → 15/11/2026
+- Finley McAllister (Radcliffe FC): 06/10/2026 → 03/11/2026
+- Frankie McMahon-Brown (Radcliffe FC): - → 31/10/2026
+- Tom Fogarty (Brackley Town): 30/06/2027 → 08/11/2026
+- Alex Whittle (Brackley Town): 30/06/2027 → -
+- Byron Pendleton (Brackley Town): 30/06/2028 → 03/01/2027
+- Joe Emery (South Shields FC): 10/10/2026 → 07/11/2026
+- Danni Anisjko (Bedford Town): 30/06/2027 → 22/11/2026
+- Dan Cameron (Hebburn Town): 31/08/2026 → -
+- Simone Trimboli (Mantova 1911): 30/06/2027 → 30/06/2029
+- Francesco Ruocco (Mantova 1911): 30/06/2028 → 30/06/2029
+- Isaac England (AFC Telford United): 30/06/2028 → 06/12/2026
+- Kian Ryley (AFC Telford United): - → 14/11/2026
+- Mason Bennett (Worksop Town): 30/06/2027 → 15/11/2026
+- Cole Jarvis (Merthyr Town FC): - → 03/01/2027
+- William Merrett (Hereford FC): 30/06/2027 → 31/05/2027
+- Salvatore Molina (FC Südtirol): - → 30/06/2028
+- Niccolò Fontana (Cesena FC): 30/06/2027 → 30/06/2030
+- Antonio David (Cesena FC): - → 30/06/2028
+- Matteo Guidi (Cesena FC): 30/06/2028 → 30/06/2030
+- Arjan Raikhy (Marine FC): 30/06/2027 → 08/11/2026
+- Ethan Moore (Spennymoor Town): - → 15/11/2026
+- Edoardo Biondini (FC Empoli): - → 30/06/2029
+- Max Smith (Oxford City): 01/10/2026 → 31/10/2026
+- Briar Bateman (Oxford City): 14/10/2026 → 15/11/2026
+- Jake Oram (Chorley FC): 30/06/2027 → 24/11/2026
+- Hayden Atkinson (Darlington FC): - → 03/11/2026
+- Jacob Render (Darlington FC): 17/10/2026 → 23/11/2026
+- Ed Leach (King's Lynn Town): - → 03/01/2027
+- Layton Love (King's Lynn Town): - → 30/10/2026
+- Oliver Rose (Spalding United): 30/06/2027 → 27/10/2026
+- Rohan Vaughan (Spalding United): 30/06/2027 → 08/11/2026
+- Freddie Ingram (Dagenham & Redbridge FC): 10/10/2026 → 08/11/2026
+- Mauro Coppolaro (SS Arezzo): 30/06/2027 → 30/06/2028
+- David González (Burgos CF): 30/06/2029 → 30/06/2031
+- Diego Pampín (Granada CF): 30/06/2027 → 30/06/2028
+- Ángelo García (Granada CF): 30/06/2029 → 30/06/2030
+- Josh Taylor (Dorking Wanderers): 30/06/2027 → 30/06/2029
+- Alejandro Marqués (Granada CF): 30/06/2027 → 30/06/2029
+- Alex Walder (Farnborough FC): 31/05/2027 → 03/11/2026
+- Tate Xavier-Jones (Farnborough FC): 17/10/2026 → 16/11/2026
+- Louie Derrick (Weston-super-Mare AFC): 03/10/2026 → 31/10/2026
+- Finley Woodham (Billericay Town): 07/10/2026 → 23/11/2026
+- James Taylor (Hemel Hempstead Town): - → 01/01/2027
+- Harry Webster (Hemel Hempstead Town): 30/06/2027 → 15/11/2026
+- Aidan Stone (Truro City FC): 30/06/2027 → 30/06/2029
+- Will Dean (Truro City FC): 30/06/2027 → 30/06/2028
+- Jorge Rastrojo (CD Eldense): 30/06/2027 → 30/06/2028
+- Makise Evans (Walton & Hersham FC): 21/10/2026 → 31/05/2027
+- Gene Kennedy (Ebbsfleet United): 30/06/2026 → -
+- Mohamed Hedi Gaaloul (CS Sfaxien): 30/06/2026 → -
+- Bright Siaw (Hampton & Richmond Borough): 30/06/2029 → 09/01/2027
+- Hedi Khalfa (Stade Tunisien): 30/06/2026 → -
+- Hazem Khemiri (Stade Tunisien): 30/06/2026 → -
+- Stevie Bausor (Slough Town): 03/10/2026 → 31/10/2026
+- Shay Spencer (Slough Town): 12/10/2026 → 09/11/2026
+- Matias Mancuso (Inter U23): - → 30/06/2031
+- Thameur Oufini (ES Zarzis): 30/06/2026 → -
+- Mohamed Firas Ghouma (ES Zarzis): 30/06/2026 → 30/06/2027
+- Lamjed Rjili (ES Zarzis): 30/06/2026 → -
+- Moatez Chouchane (ES Zarzis): 30/06/2026 → 30/06/2027
+- Yacine El Kassah (ES Zarzis): 30/06/2026 → -
+- Adem Garreb (ES Zarzis): 30/06/2026 → -
+- Rayen Besbes (US Monastir): 30/06/2027 → 30/06/2029
+- Youssef Herch (US Monastir): 30/06/2028 → 30/06/2029
+- Miras Ben Hassan (US Monastir): 30/06/2029 → 30/06/2030
+- Ayoub Ben Mcharek (Union Sportive de Ben Guerdane): 30/06/2026 → -
+- Idriss Mhirsi (Union Sportive de Ben Guerdane): 30/06/2026 → -
+- Borhane Hakimi (Union Sportive de Ben Guerdane): 30/06/2026 → -
+- Rabii Hamri (Olympique Beja): 30/06/2026 → 30/06/2027
+- Gaetano Vitale (Audace Cerignola): 30/06/2028 → 30/06/2029
+- Mohamed Amine Naoui (Progrès Sportif Sakiet Eddaier): 30/06/2026 → -
+- Dhia Maatougui (Progrès Sportif Sakiet Eddaier): 30/06/2026 → -
+- Bechir Mkadem (CS Hammam-Lif): 30/06/2026 → -
+- Khalil Mechergui (ES Hammam Sousse): 30/06/2026 → -
+- Manuele Castorani (Potenza Calcio): 30/06/2027 → 30/06/2028
+- Steven Kangur (Harju JK Laagri U19): 31/12/2026 → 31/12/2027
+- Burhan Tuzun (Etimesgut SK): - → 30/06/2028
+- Tristan Spranger (TSG 1899 Hoffenheim II): 30/06/2027 → 30/06/2030
+- Paul Pöpperl (Rot-Weiss Essen): 01/07/2026 → -
+- Rami Malaeb (Rot-Weiss Essen): 30/06/2028 → -
+- Fadih Vasic (Rot-Weiss Essen): 30/06/2027 → 30/06/2029
+- David Zimmer (SV Waldhof Mannheim): - → 30/06/2028
+- Shuryjano Cornecion (PSV Eindhoven U21): 30/06/2028 → 30/06/2031
+- Abdoulie Kah (Teungueth FC): 30/06/2026 → -
+- Boubacar Coly (Casa Sports): 30/06/2026 → -
+- Sulayman Faal (Casa Sports): 30/06/2026 → -
+- Nouha Coly (ASC Jaraaf): 30/06/2026 → -
+- Barra Fall (AS Pikine): 30/06/2026 → -
+- Boubacar Nguer (Stade de Mbour): 30/06/2026 → -
+- Moussa Ndiaye (Guédiawaye FC): 30/06/2026 → -
+- Niek Munsters (FC Eindhoven): 30/06/2026 → -
+- Famady Traoré (AS Dakar Sacré Cœur): 30/06/2026 → -
+- Cheikhna Sané (AS Dakar Sacré Cœur): 30/06/2028 → -
+- Reinaldo Fontalvo (CD Real Cartagena): 30/06/2026 → -
+- Humberto Acevedo (Unión Magdalena): 30/06/2026 → -
+- Yilberto Palacios Rodriguez (Boyacá Patriotas FC): - → 30/12/2026
+- Neymar Uribe (Barranquilla FC): — → 30/06/2027
+- Samuel Otusanya (Arema FC): - → 30/06/2028
+- Wilmer Bustamante (Real Santander): - → 31/12/2026
+- Samuel Ofori (Persijap Jepara): - → 30/06/2027
+- Timur Bülbül (Samsunspor U19): - → 30/06/2027
+- Iago Santos (Dibba SCC): 30/06/2026 → -
+- Saymon Cabral (Dibba SCC): 30/06/2026 → -
+- Mohammad Jassim (Al-Hamriyah): 30/06/2026 → -
+- Braney Kabala (Al-Hamriyah): 30/06/2026 → -
+- Shahin Surour Al-Dermaki (Al-Orooba FC): 30/06/2026 → -
+- Ibrahim Obaid (Al-Fujairah SC): 30/06/2026 → -
+- Mohamad Salem (Al-Fujairah SC): 30/06/2026 → -
+- Abdelrahman Juma Rabeeh (Al-Fujairah SC): 30/06/2026 → -
+- Sander Benbachir (Al-Fujairah SC): 30/06/2026 → -
+- Seyed Pouriya Miraei (Al-Dhaid SC): 31/05/2026 → -
+- Omar Bohli (Sanremese Calcio): 30/06/2026 → -
+- Matteo Haderbache (Sanremese Calcio): 30/06/2026 → -
+- Andrea Palella (Sanremese Calcio): 30/06/2026 → -
+- Alhusain Saleh (Al-Jazira Al-Hamra Club): 30/06/2026 → -
+- Leonardo Gagliardi Torriero (Derthona FBC): 30/06/2026 → -
+- Filippo Scalzi (Derthona FBC): 30/06/2026 → -
+- Ghanem Ahmed (Al-Jazira Al-Hamra Club): 30/06/2027 → -
+- Mattia Giammarresi (USD Sestri Levante 1919): 30/06/2026 → -
+- Tommaso Sacco (Alessandria Calcio 1912): 30/06/2026 → -
+- Siliang Chen (Chengdu Rongcheng B): 28/02/2026 → -
+- Wenhao Dai (Chengdu Rongcheng B): 31/01/2026 → -
+- Ke Li (Chengdu Rongcheng B): 28/02/2026 → -
+- Pietro Zeni (GSD Lascaris): 30/06/2026 → -
+- Reinaldo Fontalvo (CD Real Cartagena): 30/06/2026 → -
+- Humberto Acevedo (Unión Magdalena): 30/06/2026 → -
+- Yilberto Palacios Rodriguez (Boyacá Patriotas FC): - → 30/12/2026
+- Neymar Uribe (Barranquilla FC): — → 30/06/2027
+- Gonçalo Braga (Vitória Guimarães SC B): 30/06/2028 → 30/06/2027
+- Rodrigo Macedo (Vitória Guimarães SC B): 30/06/2028 → 30/06/2027
+- Hanlin Jia (Beijing IT): 30/03/2026 → -
+- Hao Cui (Beijing IT): 30/03/2026 → -
+- Zehao Zheng (Beijing IT): 30/03/2026 → -
+- Wilmer Bustamante (Real Santander): - → 31/12/2026
+- Nuno Pereira (Leça FC): 30/06/2027 → 30/06/2028
+- Matteo Peruzzi (Perugia Primavera): 30/06/2026 → -
+- Omar Bellali (Perugia Primavera): 30/06/2026 → -
+- Michele Bianco (Avellino Primavera): - → 30/06/2028
+- Cristiano Castellano (Genoa Under 18): 30/06/2026 → -
+- Ivan Anic (Napoli Primavera): 30/06/2026 → -
+- Emanuele Giaretta (Juventus Under 18): - → 30/06/2028
+- Carmine Mennea (Lazio Under 18): - → 30/06/2028
+- Carmine Musacchio (Cosenza Primavera): 30/06/2026 → -
+- Daniele Chittaro (Latina Primavera): 30/06/2027 → -
+- Alessandro Ribaudo (Palermo Primavera): 30/06/2026 → -
+- Angelo Di Gregorio (Palermo Primavera): 30/06/2026 → -
+- Maxim Schirliu (Palermo Primavera): 30/06/2026 → -
+- Luigi Gabriel Barba (Salernitana Primavera): 30/06/2026 → -
+- Josué Kongolo (KRC Genk): 30/06/2028 → 30/06/2030
+- Ibrahima Sory Bangoura (KRC Genk): 30/06/2028 → 30/06/2030
+- Aaron Bibout (KRC Genk): 30/06/2029 → 30/06/2030
+- Kjell Peersman (KAA Gent): 30/06/2028 → 30/06/2030
+- Aaron Ibrahim (Royal Antwerp FC): - → 30/06/2028
+- Philippe Bibout (KVC Westerlo): - → 30/06/2030
+- Ahmad Abu Rasen (Sint-Truidense VV): - → 30/06/2028
+- Shogo Taniguchi (Sint-Truidense VV): - → 30/06/2027
+- Nelson Ishiwatari (Sint-Truidense VV): - → 30/06/2030
+- Ryotaro Araki (Sint-Truidense VV): - → 30/06/2031
+- Arbnor Muja (Sint-Truidense VV): - → 30/06/2029
+- Samed Bazdar (Sint-Truidense VV): - → 30/06/2030
+- Kai Erschens (SV Curslack-Neuengamme): 30/06/2026 → -
+- Leon Muharemi (SV Curslack-Neuengamme): 30/06/2026 → -
+- Marcel Damaschke (SV Curslack-Neuengamme): 30/06/2026 → -
+- Hendrik Bombek (SV Curslack-Neuengamme): 30/06/2026 → -
+- Jonas Holz (SV Curslack-Neuengamme): 30/06/2026 → -
+- Marvin Schalitz (SV Curslack-Neuengamme): 30/06/2026 → -
+- Mark Obeng Boateng (SV Curslack-Neuengamme): 30/06/2026 → -
+- Witalij Wilhelm (SV Curslack-Neuengamme): 30/06/2026 → -
+- Robert Pallasch (SV Curslack-Neuengamme): 30/06/2026 → -
+- Mike Beldzik (SV Curslack-Neuengamme): 30/06/2026 → -
+- Maurice Witte (SV Curslack-Neuengamme): 30/06/2026 → -
+- Tim Schmidt (SV Curslack-Neuengamme): 30/06/2026 → -
+- Anton Geffert (SV Curslack-Neuengamme): 30/06/2026 → -
+- Linus Feldpausch (SV Curslack-Neuengamme): 30/06/2026 → -
+- Jim Franke (SV Curslack-Neuengamme): 30/06/2026 → -
+- Nathamiel Schade (SV Curslack-Neuengamme): 30/06/2026 → -
+- Agatino Indulto (SV Curslack-Neuengamme): 30/06/2026 → -
+- Yanis Asghir (KV Mechelen): - → 30/06/2028
+- Stjepan Brkic (SV Curslack-Neuengamme): 30/06/2026 → -
+- Arwid Dykier (SV Curslack-Neuengamme): 30/06/2026 → -
+- Martin Werner (SV Curslack-Neuengamme): 30/06/2026 → -
+- Marcio Johannsen (SV Curslack-Neuengamme): 30/06/2026 → -
+- Maximilian Zoch (SV Curslack-Neuengamme): 30/06/2026 → -
+- Ubai El-Kahil (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Sahin Taflan (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Oguz Koras (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Metekaan Yilmaz (FC Türkiye Wilhelmsburg): 30/06/2026 → 30/06/2027
+- Arnold Hoeling (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Enes Aksoy (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Albin Bektesi (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Filippo Viganò (AC Renate): - → 30/06/2028
+- Beraat Sarikaya (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Niklas Golke (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Yigit Yagmur (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Adahan Özgül (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Vítor Cadilhe (FC Türkiye Wilhelmsburg): 30/06/2026 → -
+- Tobias Grubba (Bramfelder SV): 30/06/2026 → -
+- Lennart Kaiser (Bramfelder SV): 30/06/2026 → -
+- Viggo Martens (Cercle Brugge): 30/06/2028 → 30/06/2029
+- Lennard Uhlhorn (Bramfelder SV): 30/06/2026 → -
+- Onur Altunel (Bramfelder SV): 30/06/2026 → -
+- Ali Fauad Sultani (Bramfelder SV): 30/06/2026 → -
+- Lorenz Lahmann-Lammert (Bramfelder SV): 30/06/2026 → -
+- Leon Zschätzsch (Bramfelder SV): 30/06/2026 → -
+- Miles Tafese (Bramfelder SV): 30/06/2026 → -
+- Max Hermann (Bramfelder SV): 30/06/2026 → -
+- Robert Gidion (Bramfelder SV): 30/06/2026 → -
+- Rafaël Teugels (Royal Charleroi SC): - → 30/06/2027
+- Kevin Van Den Kerkhof (Royal Charleroi SC): 30/06/2028 → 30/06/2029
+- Amine Boukamir (Royal Charleroi SC): 30/06/2027 → 30/06/2030
+- Owen Bomke (Bramfelder SV): 30/06/2026 → -
+- Kirk Akko (Bramfelder SV): 30/06/2026 → -
+- Luca Assemien (Bramfelder SV): 30/06/2026 → -
+- Yassine Khalifi (Royal Charleroi SC): 30/06/2027 → 30/06/2029
+- Tobias Steddin (SC Condor): 30/06/2026 → -
+- Max Asmuß (SC Condor): 30/06/2026 → -
+- Zinedine Hukporti (SC Condor): 30/06/2026 → -
+- Johann Juckenack (SC Condor): 30/06/2026 → -
+- Óscar Gil (Oud-Heverlee Leuven): 30/06/2026 → 30/06/2027
+- Luis Hoefert (SC Condor): 30/06/2026 → -
+- Diyar Asif (SC Condor): 30/06/2026 → -
+- Tarek Abdalla (SC Condor): 30/06/2026 → -
+- Kevin Ferchen (SC Condor): 30/06/2026 → -
+- Marco Fedgenhäuer (SV Altengamme): 30/06/2026 → -
+- Nick Kiesling (SV Altengamme): 30/06/2026 → -
+- Marco Reksidler (SV Altengamme): 30/06/2026 → -
+- Jan Kohlepp (SV Altengamme): 30/06/2026 → -
+- Simon Seidel (SV Altengamme): 30/06/2026 → -
+- Luca Coccolo (FC Pro Vercelli 1892): 30/06/2027 → 30/06/2029
+- Abdoul Traoré (Oud-Heverlee Leuven): 30/06/2028 → 30/06/2029
+- Max Böttcher (SV Altengamme): 30/06/2026 → -
+- Daniel Wulff (SV Altengamme): 30/06/2026 → -
+- Niko Reimers (SV Altengamme): 30/06/2026 → -
+- Leon Kahl (SV Altengamme): 30/06/2026 → -
+- Ole Dabelow (SV Altengamme): 30/06/2026 → -
+- Erik Wegner (SV Altengamme): 30/06/2026 → -
+- Peer Wegner (SV Altengamme): 30/06/2026 → -
+- Christopher Kleinert (SV Altengamme): 30/06/2026 → -
+- Marc Ohl (SV Altengamme): 30/06/2026 → -
+- David Toth (SV Altengamme): 30/06/2026 → -
+- Marvin Heitbrink (SV Altengamme): 30/06/2026 → -
+- Florian Van Bever (Zulte Waregem): - → 30/06/2028
+- Marvin Berghahn (SV Altengamme): 30/06/2026 → -
+- Laurin Pax (SV Altengamme): 30/06/2026 → -
+- Lasse Thielen (VfL Lohbrügge): 30/06/2026 → -
+- Shadrack Hoffmann (VfL Lohbrügge): 30/06/2026 → -
+- Desmond Richter (VfL Lohbrügge): 30/06/2026 → -
+- Ali Karoglan (VfL Lohbrügge): - → 30/06/2027
+- Tim Ewald (VfL Lohbrügge): 30/06/2026 → 30/06/2027
+- Tadiwanashe Carlton Garise (VfL Lohbrügge): 30/06/2026 → -
+- Benedict Rockson (VfL Lohbrügge): 30/06/2026 → -
+- Melvin Ramundo (Lommel SK): - → 30/06/2027
+- Joey Pelupessy (Lommel SK): 30/06/2026 → 30/06/2027
+- Sebastian Kalk (FC Voran Ohe): 30/06/2026 → -
+- Leon-Noel Rosenberger (FC Voran Ohe): 30/06/2026 → -
+- Tom-Philipp Müller (FC Voran Ohe): 30/06/2026 → -
+- Daniel Gläser (FC Voran Ohe): 30/06/2026 → -
+- Tom Schweißing (FC Voran Ohe): 30/06/2026 → -
+- Max Grablewski (FC Voran Ohe): 30/06/2026 → -
+- Philipp Lorenzen (FC Voran Ohe): 30/06/2026 → -
+- Oguzhan Acar (FC Voran Ohe): 30/06/2026 → -
+- Giani Bălașa (FC Voran Ohe): 30/06/2026 → -
+- Colin Herlemann (FC Voran Ohe): 30/06/2026 → -
+- Max Tautz (FC Voran Ohe): 30/06/2026 → -
+- Bless Dapaah (FC Voran Ohe): 30/06/2026 → -
+- Max Lindemann (FC Voran Ohe): 30/06/2026 → -
+- Elias Kegel (FC Voran Ohe): 30/06/2026 → -
+- Quincy Barrow (FC Voran Ohe): 30/06/2026 → -
+- Ole König (FC Voran Ohe): 30/06/2026 → -
+- Muhammed Özalp (FC Voran Ohe): 30/06/2026 → -
+- Darijo Kramer (FC Voran Ohe): 30/06/2026 → -
+- Fabrizio Paghera (FC Lumezzane): 30/06/2027 → 30/06/2028
+- Marvin Dose (Rahlstedter SC): 30/06/2026 → -
+- Jonathan-Raphael Annor (Rahlstedter SC): 30/06/2026 → -
+- Michel Niehoff (Rahlstedter SC): 30/06/2026 → -
+- Tom Bläsius (Rahlstedter SC): 30/06/2026 → -
+- Gideon Owusu (Rahlstedter SC): 30/06/2026 → -
+- Chisom Luke (Rahlstedter SC): 30/06/2026 → -
+- Edmund Baafi (Rahlstedter SC): 30/06/2026 → -
+- Mattia Rolando (FC Lumezzane): 30/06/2027 → 30/06/2028
+- Paul Jarmes (Rahlstedter SC): 30/06/2026 → -
+- Samed Aksoy (Rahlstedter SC): 30/06/2026 → -
+- Liam Trierweiler (Rahlstedter SC): 30/06/2026 → -
+- Davin Vardavardi (Rahlstedter SC): 30/06/2026 → -
+- Parssa Rezaei (Rahlstedter SC): 30/06/2026 → -
+- Lionel Helbig (Rahlstedter SC): 30/06/2026 → -
+- Danny Cyganek (Rahlstedter SC): 30/06/2026 → -
+- Mel Bremer (Rahlstedter SC): 30/06/2026 → -
+- Timo Grandt (ASV Hamburg): 30/06/2026 → -
+- Nick Gyateng (ASV Hamburg): 30/06/2026 → -
+- Amévi Olivier Sossou (ASV Hamburg): 30/06/2026 → -
+- Godfred Kotei (ASV Hamburg): 30/06/2026 → -
+- William Wachowski (ASV Hamburg): 30/06/2026 → -
+- Vedat Barlak (ASV Hamburg): 30/06/2026 → -
+- Aron Pauels (ASV Hamburg): 30/06/2026 → -
+- Lamin Jawla (ASV Hamburg): 30/06/2026 → -
+- Serhat Cayir (ASV Hamburg): 30/06/2026 → -
+- Florian Klein (ASV Hamburg): 30/06/2026 → -
+- Rathwan Al-Radi (ASV Hamburg): 30/06/2026 → -
+- Jose Adulai Balde (ASV Hamburg): 30/06/2026 → -
+- Ardnan Fricke (ASV Hamburg): 30/06/2026 → -
+- Moheb Saldjuki (ASV Hamburg): 30/06/2026 → -
+- Nikolas Steinbeck (ASV Hamburg): 30/06/2026 → -
+- Sulieman Omar (ASV Hamburg): 30/06/2026 → -
+- Hischem Metidji (ASV Hamburg): 30/06/2026 → -
+- Youcef Madadi (ASV Hamburg): 30/06/2026 → -
+- Mike Niedermeyer (ASV Hamburg): 30/06/2026 → -
+- Collins Baafi (ASV Hamburg): 30/06/2026 → -
+- Abdul Farahi (ASV Hamburg): 30/06/2026 → -
+- Rafael Joel (Barsbütteler SV): 30/06/2026 → -
+- Julian Frahm (Barsbütteler SV): 30/06/2026 → -
+- Finn Stempelmann (Barsbütteler SV): 30/06/2026 → -
+- Yannik Wilde (Barsbütteler SV): 30/06/2026 → -
+- Immanuel Banning Nkrumah (Barsbütteler SV): 30/06/2026 → -
+- Jonas Homann (Barsbütteler SV): 30/06/2026 → -
+- Dennis Joseph Boakye (Barsbütteler SV): 30/06/2026 → -
+- Alberto Rizzi (Calcio Desenzano): 30/06/2027 → -
+- Filippo Bastianoni (Calcio Desenzano): - → 30/06/2027
+- Lukas Klück (Barsbütteler SV): 30/06/2026 → -
+- Christopher Hoff (Barsbütteler SV): 30/06/2026 → -
+- Bilal Kondo (Barsbütteler SV): 30/06/2026 → -
+- Mert Delireisoglu (Barsbütteler SV): 30/06/2026 → -
+- Cenk Cicek (Barsbütteler SV): 30/06/2026 → -
+- Joshua Jan Lemke (Barsbütteler SV): 30/06/2026 → -
+- Can Basak (Barsbütteler SV): 30/06/2026 → -
+- Lukas-Tobias Jäckel (Barsbütteler SV): 30/06/2026 → -
+- Lasse Riege (SC Vier- und Marschlande): 30/06/2026 → -
+- Lio Schmid (SC Vier- und Marschlande): 30/06/2026 → -
+- Dosu Joshua Tehua (SC Vier- und Marschlande): 30/06/2026 → -
+- Hyeong-seok Hwang (SC Vier- und Marschlande): 30/06/2026 → -
+- Hasan Cengiz (SC Vier- und Marschlande): 30/06/2026 → -
+- Niklas Hintelmann (SC Vier- und Marschlande): 30/06/2026 → -
+- Paul Bardowicks (SC Vier- und Marschlande): 30/06/2026 → -
+- Yanneck Schlufter (SC Vier- und Marschlande): 30/06/2026 → -
+- Bosse Finck (SC Vier- und Marschlande): 30/06/2026 → -
+- Daniel Grimling (SC Vier- und Marschlande): 30/06/2026 → -
+- Lukas Marks (SC Vier- und Marschlande): 30/06/2026 → -
+- Lars Vollrath (SC Vier- und Marschlande): 30/06/2026 → -
+- Lenny Mydlach (SC Vier- und Marschlande): 30/06/2026 → -
+- Jakob Marquardt (SC Vier- und Marschlande): 30/06/2026 → -
+- Abiola Dilem Sanni (SC Vier- und Marschlande): 30/06/2026 → -
+- Flemming Polster (SC Vier- und Marschlande): 30/06/2026 → -
+- Noah Hendrik Goes (SC Vier- und Marschlande): 30/06/2026 → -
+- Paul Klie (SC Vier- und Marschlande): 30/06/2026 → -
+- Maximilian Bernth (SC Vier- und Marschlande): 30/06/2026 → -
+- Sharon Tehua (SC Vier- und Marschlande): 30/06/2026 → -
+- Jerome Martin Stärker (SC Vier- und Marschlande): 30/06/2026 → -
+- Liam Polster (SC Vier- und Marschlande): 30/06/2026 → -
+- Mustafa Abd El Aal Ali (SC Vier- und Marschlande): 30/06/2026 → -
+- Hamdi Hajaiej (Hamm United FC): 30/06/2026 → -
+- Aljoscha Bachert (Hamm United FC): 30/06/2026 → -
+- Sohrab Mohabatzadeh (Hamm United FC): 30/06/2026 → -
+- Sajad Mohabatzadeh (Hamm United FC): 30/06/2026 → -
+- Malik Sawaneh (Hamm United FC): 30/06/2026 → -
+- Emmanuel Ogbeide (Hamm United FC): 30/06/2026 → -
+- Filippo Doldi (US Pergolettese 1932): 30/06/2027 → 30/06/2028
+- Bent Rathjens (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Tom Jahnke (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Gustav Balzer (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Lukas Ernesti (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Daniel Zeh (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Fynn Völzer (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Constantin Hohenegger (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Alwin Huremovic (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Dominik Siemer (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Simon Marklin (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Alex Napierala (HSV Barmbek-Uhlenhorst II): 30/06/2026 → -
+- Till Lennart Rathjens (Meiendorfer SV): 30/06/2026 → -
+- Yannick Rathje (Meiendorfer SV): 30/06/2026 → -
+- Kindness Lawrence Osei (Meiendorfer SV): 30/06/2026 → -
+- Yannick Hess (Meiendorfer SV): 30/06/2026 → -
+- Sebastian Wien (Meiendorfer SV): 30/06/2026 → -
+- Maximilian Hartrampf (Meiendorfer SV): 30/06/2026 → -
+- Chidebraiy Nnate Peters (Meiendorfer SV): 30/06/2026 → -
+- Benjamin Hartrampf (Meiendorfer SV): 30/06/2026 → -
+- Kwesie Essel (Meiendorfer SV): 30/06/2026 → -
+- Ismaila Ceesay (Meiendorfer SV): 30/06/2026 → -
+- Cai Louis Hess (Meiendorfer SV): 30/06/2026 → -
+- Jonathan Alejandro Torres Meza (Meiendorfer SV): 30/06/2026 → -
+- Justin Pinkawa (Meiendorfer SV): 30/06/2026 → -
+- Leon Baulecke (Meiendorfer SV): 30/06/2026 → -
+- Artur Blum (Meiendorfer SV): 30/06/2026 → 30/06/2027
+- Leonard Imeri (Meiendorfer SV): 30/06/2026 → -
+- Tom Elijah Busacker (Meiendorfer SV): 30/06/2026 → -
+- Dmytro Pylypchuk (Meiendorfer SV): 30/06/2026 → -
+- Niklas Runge (SC Wentorf): 30/06/2026 → -
+- Calvin Huß (SC Wentorf): 30/06/2026 → -
+- Marc Stroh (SC Wentorf): 30/06/2026 → -
+- Frederik Wulff-Hodt (SC Wentorf): 30/06/2026 → -
+- Kristoffer Karkosch (SC Wentorf): 30/06/2026 → -
+- Anil Karabey (SC Wentorf): 30/06/2026 → -
+- Thorben Erik Lübcke (SC Wentorf): 30/06/2026 → -
+- Thore Runge (SC Wentorf): 30/06/2026 → -
+- Robert Renner (SC Wentorf): 30/06/2026 → -
+- Philip Fröck (SC Wentorf): 30/06/2026 → -
+- Levy Rogowski (SC Wentorf): 30/06/2026 → -
+- Justin Rönnau (SC Wentorf): 30/06/2026 → -
+- Dennis Reckstadt (SC Wentorf): 30/06/2026 → -
+- Marc Mauersberger (SC Wentorf): 30/06/2026 → -
+- Raul Elyan Kolaly (SC Wentorf): 30/06/2026 → -
+- Nis Jonathan Petersen (SC Wentorf): 30/06/2026 → -
+- Leon Rönnau (SC Wentorf): 30/06/2026 → -
+- Jannik Krienke (SC Wentorf): 30/06/2026 → -
+- Marlon Liem (SC Wentorf): 30/06/2026 → -
+- Gürkan Tunc (SC Wentorf): 30/06/2026 → -
+- Denis Trunov (Dersimspor Hamburg): 30/06/2026 → -
+- Hajrudin Hajrovic (Dersimspor Hamburg): 30/06/2026 → -
+- Medeni Kaya (Dersimspor Hamburg): 30/06/2026 → -
+- Francis Amoah (Dersimspor Hamburg): 30/06/2026 → -
+- Kevin Biedermann (Dersimspor Hamburg): 30/06/2026 → -
+- Sergio Mosquera (Millonarios FC): 30/06/2026 → -
+- Andrés Carreño (Rionegro Águilas): - → 30/06/2027
+- Mateo Rodas (Internacional de Bogotá): 30/06/2026 → -
+- Sebastián Támara (Cúcuta Deportivo): 30/06/2026 → -
+- Sergio Mosquera (Millonarios FC): 30/06/2026 → -
+- Hervin Goyes (Asociación Deportivo Pasto): 30/06/2027 → 31/12/2026
+- Francisco Meza (Llaneros FC): 30/06/2026 → -
+- Szymon Pankiewicz (Jagiellonia Bialystok): 30/06/2026 → -
+- Sebastián Acosta (Deportivo Pereira): 30/06/2026 → -
+- Marco Pérez (Deportivo Pereira): 30/06/2026 → -
+- Nikodem Całko (Raków Częstochowa): - → 30/06/2029
+- Sander Navarro (Boyacá Chicó FC): 30/06/2026 → -
+- Andrés Carreño (Rionegro Águilas): - → 30/06/2027
+- Alan Siwek (LKS Lodz): 30/06/2027 → 30/06/2028
+- Mateo Rodas (Internacional de Bogotá): 30/06/2026 → -
+- Mikołaj Molga (Bruk-Bet Termalica Nieciecza): 30/06/2026 → -
+- Sebastián Támara (Cúcuta Deportivo): 30/06/2026 → -
+- Nikodem Leśniak-Paduch (Ruch Chorzow): 30/06/2027 → 30/06/2028
+- Patryk Sikora (Ruch Chorzow): 30/06/2026 → -
+- Darijo Grujcic (Wisla Kraków): 30/06/2027 → 30/06/2028
+- Hervin Goyes (Asociación Deportivo Pasto): 30/06/2027 → 31/12/2026
+- Oliwier Madej (Stal Rzeszow): - → 30/06/2029
+- Szymon Salamon (Stal Rzeszow): 30/06/2026 → -
+- Julius Ertlthaler (Wisla Kraków): 30/06/2027 → 30/06/2029
+- Francisco Meza (Llaneros FC): 30/06/2026 → -
+- Alan Czerwiński (GKS Katowice): 30/06/2027 → 30/06/2028
+- Sebastián Acosta (Deportivo Pereira): 30/06/2026 → -
+- Marco Pérez (Deportivo Pereira): 30/06/2026 → -
+- Igor Pieprzyca (Puszcza Niepolomice): 30/06/2026 → -
+- Marko Dijakovic (Slask Wroclaw): 30/06/2026 → -
+- Sander Navarro (Boyacá Chicó FC): 30/06/2026 → -
+- Igor Kornobis (Warta Poznan): 30/06/2026 → -
+- Marcel Zylla (Warta Poznan): 30/06/2026 → -
+- Michael Wyparlo (Stal Mielec): - → 30/06/2027
+- Damian Jakubik (Pogon Siedlce): 30/06/2026 → -
+- Bartłomiej Poczobut (Pogon Siedlce): 30/06/2026 → -
+- Cezary Demianiuk (Pogon Siedlce): 30/06/2026 → -
+- Nikodem Zielonka (Pogon Siedlce): 30/06/2026 → -
+- Leon Doll (1.FC Kleve): 30/06/2026 → -
+- Elidon Bilali (1.FC Kleve): 30/06/2026 → -
+- Isaác Gómez (Atlético de San Luis U21): 31/05/2026 → -
+- Luca Thuyl (1.FC Kleve): 30/06/2026 → -
+- Darnell Jeron Weidemann (SV Biemenhorst): 30/06/2026 → -
+- Jannis Schmitz (SV Biemenhorst): 30/06/2026 → -
+- Jan Weibring (SV Biemenhorst): 30/06/2026 → -
+- Luca Leandro Höffken (SV Budberg): 30/06/2026 → -
+- Luis Weyhofen (SV Budberg): 30/06/2026 → -
+- Alessandro Hochbaum (SV Budberg): 30/06/2026 → -
+- Mustafa Eskihellaç (Trabzonspor): 30/06/2027 → 30/06/2029
+- Finn Berg (SV Budberg): 30/06/2026 → -
+- Fynn Jansen (SV Budberg): 30/06/2026 → -
+- Jens Lonny (ASV Süchteln): 30/06/2026 → -
+- Maurice Bock (ASV Süchteln): 30/06/2026 → -
+- Lennart Mehler (ASV Süchteln): 30/06/2026 → -
+- Toni Weis (ASV Süchteln): 30/06/2026 → -
+- Justin Coenen (ASV Süchteln): 30/06/2026 → -
+- Philipp Kremer (ASV Süchteln): 30/06/2026 → -
+- Luca Mikail Kovacevic (ASV Süchteln): 30/06/2026 → -
+- Felipe Burkhardt (ASV Süchteln): 30/06/2026 → -
+- Lennard Brüster (ASV Süchteln): 30/06/2026 → -
+- Timur Enes (ASV Süchteln): 30/06/2026 → -
+- Paul Fröhling (ASV Süchteln): 30/06/2026 → -
+- Malte Thesenvitz (ASV Süchteln): 30/06/2026 → -
+- Finn Theißen (ASV Süchteln): 30/06/2026 → -
+- Leon Falter (ASV Süchteln): 30/06/2026 → -
+- Bora Kat (ASV Süchteln): 30/06/2026 → -
+- Leonit Popova (ASV Süchteln): 30/06/2026 → -
+- Janpeter Zaum (ASV Süchteln): 30/06/2026 → -
+- Dacy Akanju Akwa Orock (VfB Bottrop): 30/06/2026 → -
+- Niklas Felix Böhm (VfB Bottrop): 30/06/2026 → -
+- Labinot Kryeziu (VfB Bottrop): 30/06/2026 → -
+- Samir Ismailov (VfB Bottrop): 30/06/2026 → -
+- Anil Özgen (VfB Bottrop): 30/06/2026 → -
+- Stefan Hüpen (VfB Speldorf): 30/06/2026 → -
+- Fabian Maik Faulhaber (VfB Speldorf): 30/06/2026 → -
+- Karim El Moumen (VfB Speldorf): 30/06/2026 → -
+- Florian Meyer (VfB Speldorf): 30/06/2026 → -
+- Robin Tschierske (VfB Speldorf): 30/06/2026 → -
+- Leon Barghorn (VfB Speldorf): 30/06/2026 → -
+- Yassin Merzagua (VfB Speldorf): 30/06/2026 → -
+- Destine Chidubem Onyemere (VfB Speldorf): 30/06/2026 → -
+- Jan Ziebell (1.FC Lintfort 1914/26): 30/06/2026 → -
+- Simeon Louma (1.FC Lintfort 1914/26): 30/06/2026 → -
+- Thorsten Kogel (1.FC Lintfort 1914/26): 30/06/2026 → -
+- Marcel Goretzki (1.FC Lintfort 1914/26): 30/06/2026 → -
+- Abdoulaye Sall (1.FC Lintfort 1914/26): 30/06/2026 → -
+- Marvin Hitzek (SV Viktoria Goch): 30/06/2026 → -
+- Elias Koenen (SV Viktoria Goch): 30/06/2026 → -
+- Ilias El Moumen (SV Viktoria Goch): 30/06/2026 → -
+- Luca Plum (SV Viktoria Goch): 30/06/2026 → -
+- Luca Palla (SV Viktoria Goch): 30/06/2026 → -
+- Maximilian Fuchs (SV Viktoria Goch): 30/06/2026 → -
+- Niklas Zaß (SV Viktoria Goch): 30/06/2026 → -
+- Jacob Falkhofen (SV Viktoria Goch): 30/06/2026 → -
+- Tolga Arslan (VSF Amern): 30/06/2026 → -
+- Johannes Hamacher (VSF Amern): 30/06/2026 → -
+- Nick-Tijan Kleine (VSF Amern): 30/06/2026 → -
+- Hajime Yokota (VSF Amern): 30/06/2026 → -
+- Maximilian Gotzen (VSF Amern): 30/06/2026 → -
+- Selman Sevinc (VSF Amern): 30/06/2026 → -
+- Omar Boudoudou (VSF Amern): 30/06/2026 → -
+- Niklas Thobrock (VSF Amern): 30/06/2026 → -
+- Ömer Bayram (Kasimpasa): - → 30/06/2027
+- Malte Knop (VSF Amern): 30/06/2026 → -
+- Adam El Edghiri (VSF Amern): 30/06/2026 → -
+- Moritz Kosfeld (SC Union Nettetal): 30/06/2026 → -
+- Tobias Schriddels (SC Union Nettetal): 30/06/2026 → -
+- Maurits Kerkman (SC Union Nettetal): 30/06/2026 → -
+- Florian Heise (SC Union Nettetal): 30/06/2026 → -
+- Florian Wolters (SC Union Nettetal): 30/06/2026 → -
+- Archil Ismaili (SC Union Nettetal): 30/06/2026 → -
+- Reo Yoshida (SC Union Nettetal): 30/06/2026 → -
+- Jan Pöhler (SC Union Nettetal): 30/06/2026 → -
+- Hauke Winkens (SC Union Nettetal): 30/06/2026 → -
+- Pascal Schellhammer (SC Union Nettetal): 30/06/2026 → -
+- Chisato Suda (SC Union Nettetal): 30/06/2026 → -
+- Mats Platen (SC Union Nettetal): 30/06/2026 → -
+- Noel Gergorec (SC Union Nettetal): 30/06/2026 → -
+- Mykyta Kryukov (SC Victoria Mennrath): 30/06/2026 → -
+- David Platen (SC Victoria Mennrath): 30/06/2026 → -
+- Julius Benders (SC Victoria Mennrath): 30/06/2026 → -
+- Jacob Küppers (SC Victoria Mennrath): 30/06/2026 → -
+- Lukas Heller (SC Victoria Mennrath): 30/06/2026 → -
+- Philipp Preckel (SC Victoria Mennrath): 30/06/2026 → -
+- Malte Renner (SC Victoria Mennrath): 30/06/2026 → -
+- Arda Usluoğlu (Alanyaspor): 30/06/2027 → 30/06/2029
+- Sefa Caprak (SC Victoria Mennrath): 30/06/2026 → -
+- Konstantin Xenidis (SC Victoria Mennrath): 30/06/2026 → -
+- Maurice Passage (SC Victoria Mennrath): 30/06/2026 → -
+- Simon Littges (SC Victoria Mennrath): 30/06/2026 → -
+- Nasser El Aboussi (SC Victoria Mennrath): 30/06/2026 → -
+- Noah Kubawitz (SC Victoria Mennrath): 30/06/2026 → -
+- Wadim Kuliew (SC Victoria Mennrath): 30/06/2026 → -
+- Erjon Durbiqi (SC Victoria Mennrath): 30/06/2026 → -
+- Jonah Tiskens (SC Victoria Mennrath): 30/06/2026 → -
+- Alex Alexandrov (SC Victoria Mennrath): 30/06/2026 → -
+- Isaác Gómez (Atlético de San Luis U21): 31/05/2026 → -
+- Arif Boşluk (Konyaspor): - → 30/06/2029
+- Paul Szymanski (SC Victoria Mennrath): 30/06/2026 → -
+- Isa Özel (SC Victoria Mennrath): 30/06/2026 → -
+- Miguel Werner (SC Victoria Mennrath): 30/06/2026 → -
+- Paul Trützschler (SC Victoria Mennrath): 30/06/2026 → -
+- Elmin Mujezinovic (Mülheimer FC 97): 30/06/2026 → -
+- Mirza Cihan (Gaziantep FK): - → 30/06/2028
+- Serhat Öztaşdelen (Kocaelispor): 30/06/2027 → 30/06/2030
+- Ertuğrul Taşkıran (Erzurumspor FK): - → 30/06/2027
+- Atakan Ege (Türkgücü München): 30/06/2026 → -
+- Sahin Bahadir (Türkgücü München): 30/06/2026 → -
+- Gyrano Kerk (Erzurumspor FK): - → 30/06/2029
+- Jawad El Yamiq (Eyüpspor): - → 30/06/2027
+- Zak Jules (Eyüpspor): - → 30/06/2028
+- David Costa (Eyüpspor): - → 30/06/2029
+- Abdelhamid Sabiri (Eyüpspor): - → 30/06/2027
+- Konrad Michalak (Eyüpspor): - → 30/06/2028
+- Mete Demir (Eyüpspor): - → 30/06/2027
+- Ahmed Abdullahi (Eyüpspor): - → 30/06/2028
+- Mustafa Bilgin (VfB Hallbergmoos): 30/06/2026 → -
+- Valentin Thalmeier (VfB Hallbergmoos): 30/06/2026 → -
+- Andreas Kostorz (VfB Hallbergmoos): 30/06/2026 → -
+- Carl Opitz (VfB Hallbergmoos): 30/06/2026 → -
+- Christian Wimmer (VfB Hallbergmoos): 30/06/2026 → -
+- Daniel Müller (VfB Hallbergmoos): 30/06/2026 → -
+- Yannick Sassmann (VfB Hallbergmoos): 30/06/2026 → -
+- Jonas Mayr (VfB Hallbergmoos): 30/06/2026 → -
+- David Küttner (VfB Hallbergmoos): 30/06/2026 → -
+- Simon Werner (VfB Hallbergmoos): 30/06/2026 → -
+- Moritz Sassmann (VfB Hallbergmoos): 30/06/2026 → -
+- Valentin Bamberger (VfB Hallbergmoos): 30/06/2026 → -
+- Arian Kurmehaj (VfB Hallbergmoos): 30/06/2026 → -
+- Dominik Stanić (TSV Grünwald): 30/06/2026 → -
+- Milan Zargar (TSV Grünwald): 30/06/2026 → -
+- Michael Hutterer (TSV Grünwald): 30/06/2026 → -
+- David Lucksch (TSV Grünwald): 30/06/2026 → -
+- Yannick Frey (TSV Grünwald): 30/06/2026 → -
+- Samuel Reichel (Kirchheimer SC): 30/06/2026 → -
+- Gonzalo Lopez Guerena (Kirchheimer SC): 30/06/2026 → -
+- Marko Ereiz (Kirchheimer SC): 30/06/2026 → -
+- Marinus Bachleitner (Kirchheimer SC): 30/06/2026 → -
+- Thomas Branco de Brito (Kirchheimer SC): 30/06/2026 → -
+- Jan Köhler (Kirchheimer SC): 30/06/2026 → -
+- Denis Zabolotnyi (Kirchheimer SC): 30/06/2026 → -
+- Marco Flohrs (Kirchheimer SC): 30/06/2026 → -
+- Luis Sako (Kirchheimer SC): 30/06/2026 → -
+- Roman Prokoph (Kirchheimer SC): 30/06/2026 → -
+- Luca Mauerer (Kirchheimer SC): 30/06/2026 → -
+- Peter Schmöller (Kirchheimer SC): 30/06/2026 → -
+- Niklas Tatzer (FC Schwabing): 30/06/2026 → -
+- Bendix Kruse (FC Schwabing): 30/06/2026 → -
+- Andreas Peller (TSV Kastl): 30/06/2026 → -
+- Martin Göppinger (TSV Kastl): 30/06/2026 → -
+- Clemens Greifenstein (TSV Kastl): 30/06/2026 → -
+- Hannes Langenecker (TSV Kastl): 30/06/2026 → -
+- Manuel Kellermann (TSV Kastl): 30/06/2026 → -
+- Samuel Stutz (TSV Kastl): 30/06/2026 → -
+- Anton Kriner (TSV Kastl): 30/06/2026 → -
+- Lukas Auberger (TSV Kastl): 30/06/2026 → -
+- Dominik Grothe (TSV Kastl): 30/06/2026 → -
+- Marco Unterholzner (TSV Kastl): 30/06/2026 → -
+- Philipp Grothe (TSV Kastl): 30/06/2026 → -
+- Philipp Hofmann (TSV Kastl): 30/06/2026 → -
+- Timo Oberreiter (TSV Kastl): 30/06/2026 → -
+- Jonas Berreiter (TSV Kastl): 30/06/2026 → -
+- Michael Renner (TSV Kastl): 30/06/2026 → -
+- Nevio Pichler (TSV Kastl): 30/06/2026 → -
+- Fabian Guerra Weindl (SB Chiemgau Traunstein): 30/06/2026 → -
+- Lennard Schweder (SB Chiemgau Traunstein): 30/06/2026 → -
+- Genti Krasniqi (SB Chiemgau Traunstein): 30/06/2026 → -
+- Simon Schlosser (ESV Freilassing): 30/06/2026 → -
+- Moritz Seybold (ESV Freilassing): 30/06/2026 → -
+- Timo Portenkirchner (ESV Freilassing): 30/06/2026 → -
+- Darius Awoudja (FC Unterföhring): 30/06/2026 → -
+- Moritz Erbs (FC Unterföhring): 30/06/2026 → -
+- Tivadar Filotas (FC Unterföhring): 30/06/2026 → -
+- Jonas Näther (FC Unterföhring): 30/06/2026 → -
+- Florian Orth (FC Unterföhring): 30/06/2026 → -
+- Nils Larisch (FC Unterföhring): 30/06/2026 → -
+- Clovis Tokoro (FC Unterföhring): 30/06/2026 → -
+- Marvin Kretzschmar (FC Unterföhring): 30/06/2026 → -
+- Maick Antonio (FC Unterföhring): 30/06/2026 → -
+- Osman Akbulut (FC Wacker München): 30/06/2026 → -
+- Matija Abazovic (FC Wacker München): 30/06/2026 → -
+- Noah Kotb (FC Wacker München): 30/06/2026 → -
+- Nam Max Nguyen (FC Wacker München): 30/06/2026 → -
+- Adrian Lahi (FC Wacker München): 30/06/2026 → -
+- Anes Ziljkic (FC Wacker München): 30/06/2026 → -
+- Matthias Petermann (SSV Eggenfelden): 30/06/2026 → -
+- Dominik Schäffler (SSV Eggenfelden): 30/06/2026 → -
+- Simon Schie (SSV Eggenfelden): 30/06/2026 → -
+- Ajlan Arifovic (VfB Forstinning): 30/06/2026 → -
+- Miguel Carrasco (Barquisimeto SC): - → 31/12/2026
+- Thaiderson Durán (Barquisimeto SC): - → 31/12/2026
+- Daniel Carvajal (Getafe CF): 01/07/2026 → 30/06/2027
+- Deivis Perez (Monagas SC B): 31/12/2026 → 30/07/2029
+- Victor Rivero (Aragua FC): 31/12/2026 → 31/12/2028
+- Mohamed Mustafa (Al-Hilal Club (Omdurman)): 30/06/2026 → -
+- Luis El Khuffash (Mineros de Guayana): - → 31/12/2026
+- Obino Chisala (Al-Merrikh SC): 30/06/2026 → -
+- Nizar Üstel (1.FC Nuremberg II): 30/06/2026 → -
+- Dawid Kiedrowicz (Legia Warsaw II): 30/06/2026 → -
+- Alessio Höcker (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Roman Romaniuk (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Martin Jakubietz (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Jakub Kokoc (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Simon Bernitt (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Linus Lehment (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Luka Ninkovic (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Frederik Plötz (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Martin Schauer (SV Halstenbek-Rellingen): 30/06/2026 → -
+- Ludwig Estermann (TSV 1860 Munich): 30/06/2027 → 30/06/2028
+- Edon Krasniqi (TSV 1860 Munich): 30/06/2027 → 30/06/2028
+- Damjan Dordan (TSV 1860 Munich): 30/06/2027 → 30/06/2028
+- Daniel Göbel (FC Alsterbrüder): 30/06/2026 → -
+- Jakob Kollotzek (FC Alsterbrüder): 30/06/2026 → -
+- Jasper Brinkmann (FC Alsterbrüder): 30/06/2026 → -
+- Julius-Maximilian Becker (FC Alsterbrüder): 30/06/2026 → -
+- Philipp Dechow (FC Alsterbrüder): 30/06/2026 → -
+- Tjorven Ole Bruns (FC Alsterbrüder): 30/06/2026 → -
+- Alex Hartmann (FC Alsterbrüder): 30/06/2026 → -
+- Lorenz Hertwig (FC Alsterbrüder): 30/06/2026 → -
+- Mert Erdal (FC Alsterbrüder): 30/06/2026 → -
+- Gianluca de Ponte (FC Alsterbrüder): 30/06/2026 → -
+- Malte Nickelsen (FC Alsterbrüder): 30/06/2026 → -
+- Joel Sia (FC Alsterbrüder): 30/06/2026 → -
+- Yakub Said Cinar (FC Alsterbrüder): 30/06/2026 → -
+- Mika Gesewsky (FC Alsterbrüder): 30/06/2026 → -
+- Chris Pfeifer (FC Alsterbrüder): 30/06/2026 → -
+- Konrad Janta (FC Alsterbrüder): 30/06/2026 → -
+- Petr Rejf (FC Alsterbrüder): 30/06/2026 → -
+- Tom Liefländer (FC Alsterbrüder): 30/06/2026 → -
+- Lasse Lahrtz (FC Alsterbrüder): 30/06/2026 → -
+- Abdul Ankaoglu (FC Alsterbrüder): 30/06/2026 → -
+- Mats Lahrtz (FC Alsterbrüder): 30/06/2026 → -
+- Peter Göring (FC Alsterbrüder): 30/06/2026 → -
+- Tim Algner (FC Alsterbrüder): 30/06/2026 → -
+- Jannik Burkhardt (FC St. Pauli III): 30/06/2026 → -
+- Jaron Eliah Beuthien (FC St. Pauli III): 30/06/2026 → -
+- Simon Yücel (FC St. Pauli III): 30/06/2026 → -
+- Frederik Olek Arndt (FC St. Pauli III): 30/06/2026 → -
+- Julian Schakat (FC St. Pauli III): 30/06/2026 → -
+- Sung-wook Hwang (FC St. Pauli III): - → 30/06/2027
+- Bastian Gaube (FC St. Pauli III): 30/06/2026 → -
+- Raphael Wolf (FC St. Pauli III): 30/06/2026 → -
+- David Gabrysch (FC St. Pauli III): 30/06/2026 → -
+- Oliver Nana Kwasi Aboagye (FC St. Pauli III): 30/06/2026 → -
+- Mahmoud Mohamed Hassan Mitwalli (FC St. Pauli III): 30/06/2026 → -
+- Rüchan Öz (FC St. Pauli III): 30/06/2026 → -
+- Patrick Hartmann (SV Rugenbergen): - → 30/06/2027
+- Mikael Großmann (SV Rugenbergen): 30/06/2026 → -
+- Henry Koeberer (SV Rugenbergen): 30/06/2026 → -
+- Marlon Stannis (SV Rugenbergen): 30/06/2026 → -
+- Daniel Dreisow (SC Nienstedten): 30/06/2026 → -
+- Kevin Rathje (SC Nienstedten): 30/06/2026 → -
+- Moritz Rosemeier (SC Nienstedten): 30/06/2026 → 30/06/2027
+- Yannick Reutter (SC Nienstedten): 30/06/2026 → -
+- Leo-Nando Bomboma (SC Nienstedten): 30/06/2026 → -
+- Morris Wernecke (SC Nienstedten): 30/06/2026 → -
+- Samuel Culeca (SC Nienstedten): 30/06/2026 → -
+- Kristijan Jozic (SC Nienstedten): 30/06/2026 → -
+- Levi Richter (SC Nienstedten): 30/06/2026 → -
+- Paul Kötz (SC Nienstedten): 30/06/2026 → 30/06/2027
+- Heinz Gielnik (SC Nienstedten): 30/06/2026 → 30/06/2027
+- Filip Zimmermann (SC Nienstedten): 30/06/2026 → 30/06/2027
+- Niklas Fuchs (SC Nienstedten): 30/06/2026 → -
+- Tim Butenschön (SC Nienstedten): 30/06/2026 → -
+- Moritz Albrecht (SC Nienstedten): - → 30/06/2027
+- Nick Holzer (SC Nienstedten): 30/06/2026 → -
+- Pelle Allgaier (SC Nienstedten): - → 30/06/2027
+- Albert Conzen (SC Nienstedten): - → 30/06/2027
+- Glenn Lentvogt (SC Nienstedten): 30/06/2026 → -
+- Nemo Philipp (SC Nienstedten): 30/06/2026 → -
+- Zackary Cheng (SC Nienstedten): - → 30/06/2027
+- Nicklas Dühring (SC Nienstedten): 30/06/2026 → 30/06/2027
+- Daniel Frercksen (SC Nienstedten): 30/06/2026 → -
+- Merlic Suhn (FC Union Tornesch): 30/06/2026 → -
+- Arne Lohmann (FC Union Tornesch): 30/06/2026 → -
+- Linus Kistenmacher (FC Union Tornesch): 30/06/2026 → -
+- Jesse Schmahl (FC Union Tornesch): 30/06/2026 → -
+- Jari Maack (FC Union Tornesch): 30/06/2026 → -
+- Jannik Ahrens (FC Union Tornesch): 30/06/2026 → -
+- Sergey Haag (FC Union Tornesch): 30/06/2026 → -
+- Jean Patrice Meyer (FC Union Tornesch): 30/06/2026 → -
+- Christoph Sievers (FC Union Tornesch): 30/06/2026 → -
+- Philipp Werning (FC Union Tornesch): 30/06/2026 → -
+- Mats Johänning (FC Union Tornesch): 30/06/2026 → -
+- Finn Krupski (FC Union Tornesch): 30/06/2026 → -
+- Jannik Ruhser (FC Union Tornesch): 30/06/2026 → -
+- Jan-Pascale Krah (FC Union Tornesch): 30/06/2026 → -
+- Maximilian Konetzny (FC Union Tornesch): 30/06/2026 → -
+- Morris von Winckelmann (FC Union Tornesch): 30/06/2026 → -
+- Yannik Kurowski (FC Union Tornesch): 30/06/2026 → -
+- Tim Leon Witte (FC Union Tornesch): 30/06/2026 → -
+- Hannes Rudek (FC Union Tornesch): 30/06/2026 → -
+- Justin Elling (FC Union Tornesch): 30/06/2026 → -
+- Janko Behrs (FC Union Tornesch): 30/06/2026 → -
+- Tim Eberle (FC Union Tornesch): 30/06/2026 → -
+- Julius Bleckmann (HSV Barmbek-Uhlenhorst): 30/06/2026 → -
+- Cristopher Rieder (HSV Barmbek-Uhlenhorst): - → 30/06/2027
+- Benjamin Baffour (HSV Barmbek-Uhlenhorst): 30/06/2026 → -
+- Niklas Doll (SpVgg Bayreuth): - → 30/06/2027
+- Noah Ghahreman (HSV Barmbek-Uhlenhorst): 30/06/2026 → -
+- Christian Ayim (HSV Barmbek-Uhlenhorst): 30/06/2026 → -
+- Jonas Burose (USC Paloma Hamburg II): 30/06/2026 → -
+- Serhat Büyükkeskin (USC Paloma Hamburg II): - → 30/06/2027
+- Max Scheuermann (USC Paloma Hamburg II): 30/06/2027 → -
+- Noah Trigonis (USC Paloma Hamburg II): 30/06/2026 → -
+- Jon Goedeke (USC Paloma Hamburg II): 30/06/2026 → -
+- Niklas Rochow (USC Paloma Hamburg II): 30/06/2026 → -
+- Jonas Tandioy Chasoy (USC Paloma Hamburg II): - → 30/06/2027
+- Julian Strelow (USC Paloma Hamburg II): - → 30/06/2027
+- Jan-Philipp Kainzberger (USC Paloma Hamburg II): - → 30/06/2027
+- Ilias Kinay (USC Paloma Hamburg II): 30/06/2026 → -
+- Mika Urbanski (USC Paloma Hamburg II): 30/06/2026 → -
+- LaSean Wendt (USC Paloma Hamburg II): - → 30/06/2027
+- Malik Kramer (USC Paloma Hamburg II): 30/06/2026 → -
+- Emil Alfons Appel (USC Paloma Hamburg II): 30/06/2026 → -
+- Tjorven Foerste (TuS Osdorf): 30/06/2026 → -
+- Dennis Werth (TuS Osdorf): 30/06/2026 → -
+- Tcherno Queita (TuS Osdorf): 30/06/2026 → -
+- Marlon Golinski (TuS Osdorf): 30/06/2026 → -
+- Lukas Schikowski (TuS Osdorf): 30/06/2026 → -
+- Furkan Demir (TuS Osdorf): 30/06/2026 → -
+- Felix Woldt (TuS Osdorf): 30/06/2026 → -
+- Oguzhan Senol (TuS Osdorf): 30/06/2026 → -
+- Marcel Peters (TuS Osdorf): 30/06/2026 → -
+- Yalcin Kasret (TuS Osdorf): 30/06/2026 → -
+- Aleksander Nadolski (Znicz Pruszkow): 30/06/2026 → -
+- Oskar Garbiński (Znicz Pruszkow): 30/06/2026 → -
+- Kevin Blume (TuS Osdorf): 30/06/2026 → -
+- Ahmad Alamour (TuS Osdorf): 30/06/2026 → -
+- Maurice Schwäbe (TuS Osdorf): 30/06/2026 → -
+- Haress Awis (TuS Osdorf): 30/06/2026 → -
+- Luca Hinze (TuS Osdorf): 30/06/2026 → -
+- Felix Valera Rojas (TuS Osdorf): 30/06/2026 → -
+- Theo Bastian Kollar (TuS Osdorf): 30/06/2026 → -
+- Josip Dilber (TuS Osdorf): 30/06/2026 → -
+- Luca D'Agata (TuS Osdorf): 30/06/2026 → -
+- Antonio Ude (TuS Osdorf): 30/06/2026 → -
+- Glen Liebscher (TuS Osdorf): 30/06/2026 → -
+- Daniel Rechni (TuS Osdorf): 30/06/2026 → -
+- Adriano Manuel Joost (TuS Osdorf): 30/06/2026 → -
+- Kirubel Tadesse (TuS Osdorf): 30/06/2026 → -
+- Jeremy Wachter (TuS Osdorf): 30/06/2026 → -
+- Dominik Bergmann (Eintracht Lokstedt): 30/06/2026 → -
+- Milan Gäde (Eintracht Lokstedt): 30/06/2026 → -
+- Enes Malla (Eintracht Lokstedt): 30/06/2026 → -
+- Kaihan Momand (Eintracht Lokstedt): 30/06/2026 → -
+- Jasper Gäde (Eintracht Lokstedt): 30/06/2026 → -
+- Jakob Meyer-Abich (Eintracht Lokstedt): 30/06/2026 → -
+- Finn Rataj (Eintracht Lokstedt): 30/06/2026 → -
+- Kevin Fischer (Eintracht Lokstedt): 30/06/2026 → -
+- Malte-Christian Heisler (Eintracht Lokstedt): 30/06/2026 → -
+- Blessing Agyare (Eintracht Lokstedt): 30/06/2026 → -
+- Marek Meyer (Eintracht Lokstedt): 30/06/2026 → -
+- Philipp Jacobs (Eintracht Lokstedt): 30/06/2026 → -
+- Ben Kutschke (Eintracht Lokstedt): 30/06/2026 → -
+- Robert Norf (Eintracht Lokstedt): 30/06/2026 → -
+- Noah Fary (Eintracht Lokstedt): 30/06/2026 → -
+- Bibie Njie (Eintracht Lokstedt): 30/06/2026 → -
+- Omar Boutrif (Eintracht Lokstedt): 30/06/2026 → -
+- Chinedu Peters (Eintracht Lokstedt): 30/06/2026 → -
+- Marc Rößner (Eintracht Lokstedt): 30/06/2026 → -
+- Paul von Blücher (Eimsbütteler TV II): 30/06/2026 → -
+- Christof Adubofour (Eimsbütteler TV II): 30/06/2026 → -
+- Leon Weber (Eimsbütteler TV II): 30/06/2026 → -
+- Alexander Brunotte (Eimsbütteler TV II): 30/06/2026 → -
+- Paul Trier (Eimsbütteler TV II): 30/06/2026 → -
+- Ramis Mickael Amedon (Eimsbütteler TV II): 30/06/2026 → -
+- Filip Mosek (Chojniczanka Chojnice): - → 30/06/2028
+- Niklas Gohr (SSV Rantzau): 30/06/2026 → -
+- Jorrit Thieme (SSV Rantzau): 30/06/2026 → -
+- Pepe Hartlieb (SSV Rantzau): 30/06/2026 → -
+- Johannes von Saldern (SSV Rantzau): 30/06/2026 → -
+- Kaan Bilgin (SSV Rantzau): 30/06/2026 → -
+- Jannik Reimer (SSV Rantzau): 30/06/2026 → -
+- Jakub Oleksiewicz (Chojniczanka Chojnice): - → 31/12/2027
+- Pasquale Longo (SSV Rantzau): 30/06/2026 → -
+- Adnan El-Tahan (SSV Rantzau): 30/06/2026 → -
+- Rui Tsubakihara (SSV Rantzau): 30/06/2026 → -
+- Till Bruns (SSV Rantzau): 30/06/2026 → -
+- Niklas Hoffmann (Hetlinger MTV): 30/06/2026 → -
+- Milan Adamovic (Hetlinger MTV): 30/06/2026 → -
+- Benjamin Dodd (Hetlinger MTV): 30/06/2026 → -
+- Tyron Kastner (Hetlinger MTV): 30/06/2026 → -
+- Caleb Gyema (Hetlinger MTV): 30/06/2026 → -
+- Carlo Peter Surma (Hetlinger MTV): 30/06/2026 → -
+- Rajvir Singh Gill (Hetlinger MTV): - → 30/06/2027
+- Nino Saka (Hetlinger MTV): 30/06/2026 → -
+- Yil Balde (Hetlinger MTV): 30/06/2026 → -
+- Stephen Osei (Hetlinger MTV): 30/06/2026 → -
+- Adnan Kubat (Hetlinger MTV): 30/06/2026 → -
+- Semih Tokay (Hetlinger MTV): 30/06/2026 → -
+- Ziart Ferataj (Hetlinger MTV): 30/06/2026 → -
+- Kai Haishima (Hetlinger MTV): 30/06/2026 → -
+- Okan Ahmet Gülec (Hetlinger MTV): 30/06/2026 → -
+- Ebenezer Gati (Hetlinger MTV): 30/06/2026 → -
+- Enrique Ordonez (Hetlinger MTV): 30/06/2026 → -
+- Enis Ay (Hetlinger MTV): 30/06/2026 → -
+- Fabian Kljucevic (TSV Landsberg): 30/06/2026 → -
+- Fangze Ning (Zhejiang FC): 31/03/2026 → -
+- Emmanuel Kontor (Hetlinger MTV): 30/06/2026 → -
+- Jason Döhler (Hetlinger MTV): 30/06/2026 → -
+- Derrick Frimpong (Hetlinger MTV): 30/06/2026 → -
+- Anton Matthäi (Altona 93 II): 30/06/2026 → -
+- Arien Abazi (Altona 93 II): - → 30/06/2027
+- Niclas Pischel (Altona 93 II): 30/06/2026 → -
+- Philip Everth (Altona 93 II): 30/06/2026 → -
+- Markus Wagner (Altona 93 II): 30/06/2026 → -
+- Mika Klein (Altona 93 II): 30/06/2026 → -
+- Davit Arakelyan (Altona 93 II): 30/06/2026 → -
+- Modou Camara (Altona 93 II): 30/06/2026 → -
+- Yegor Malytskyi (Altona 93 II): 30/06/2026 → -
+- Mateusz Zientarski (Lechia Zielona Góra): 30/06/2027 → 30/06/2028
+- Julian Böcker (Altona 93 II): - → 30/06/2027
+- Bent Oesert (Altona 93 II): 30/06/2026 → -
+- Liridon Komani (Altona 93 II): 30/06/2026 → -
+- Ahmadu Bah (Altona 93 II): 30/06/2026 → -
+- Wendelin Wolf (Altona 93 II): 30/06/2026 → -
+- Fabiano Folly-Bebey (Altona 93 II): 30/06/2026 → -
+- Marcel Kloster (Altona 93 II): - → 30/06/2027
+- Hoang Anh Doan (Altona 93 II): - → 30/06/2027
+- Lamin Jadama (Altona 93 II): 30/06/2026 → -
+- Anton Rudolph (Altona 93 II): 30/06/2026 → -
+- Marijo Saric (Altona 93 II): 30/06/2026 → -
+- Maseh Hashimi (FC Elmshorn): 30/06/2026 → -
+- Ümit Karakaya (FC Elmshorn): 30/06/2026 → -
+- Sammel Lloyd Kwateng (FC Elmshorn): 30/06/2026 → -
+- Max Kleim (FC Elmshorn): 30/06/2026 → -
+- Jakub Łukowski (Zawisza Bydgoszcz): - → 30/06/2029
+- Xiao Peng (Shandong Taishan): 31/03/2026 → -
+- Songchen Shi (Shandong Taishan): 31/03/2026 → -
+- Mustapha Saidy Khan (FC Elmshorn): 30/06/2026 → -
+- Yixiang Peng (Shandong Taishan): 27/05/2026 → -
+- Nick Drenkhahn (TuS Germania Schnelsen): 30/06/2026 → -
+- Wilim Simic (TuS Germania Schnelsen): 30/06/2026 → -
+- Leon Sommer (TuS Germania Schnelsen): 30/06/2026 → -
+- Viktor Lee Kallenberg (TuS Germania Schnelsen): 30/06/2026 → -
+- Marko Antonio Condric (TuS Germania Schnelsen): 30/06/2026 → -
+- Nils Friedrich Wagner (TuS Germania Schnelsen): 30/06/2026 → -
+- Siliang Chen (Chengdu Rongcheng): 28/02/2026 → -
+- Yang Li (Chengdu Rongcheng): 04/01/2026 → -
+- Chao Gan (Chengdu Rongcheng): 24/01/2026 → -
+- Murahmetjan Muzepper (Chengdu Rongcheng): 24/01/2026 → -
+- Shihao Wei (Chengdu Rongcheng): 20/02/2026 → -
+- Ishmael Schubert-Abubakari (ETSV Hamburg): - → 30/06/2027
+- Mohammad Amir Mohammadi (ETSV Hamburg): 30/06/2026 → -
+- Terje Scheffel (ETSV Hamburg): 30/06/2026 → -
+- Eyke Kleine (TuS Dassendorf): 30/06/2026 → -
+- Fabian Graudenz (TuS Dassendorf): 30/06/2026 → -
+- Jens Wollesen (TuS Dassendorf): - → 30/06/2027
+- Nino Dhrami (TuS Dassendorf): 30/06/2026 → -
+- Hendrik Rabe (SC Victoria Hamburg): 30/06/2026 → 30/06/2027
+- Pepe Bensch (SC Victoria Hamburg): 30/06/2026 → -
+- Max Kahr (SC Victoria Hamburg): 30/06/2026 → -
+- Julian Pötzinger (SC Victoria Hamburg): 30/06/2026 → -
+- Mamudou Cole (SC Victoria Hamburg): - → 30/06/2027
+- Marc Pichelmann (SC Victoria Hamburg): 30/06/2026 → -
+- Brian Jungjohann (SC Victoria Hamburg): 30/06/2026 → -
+- Richard Arndt (SC Victoria Hamburg): 30/06/2026 → -
+- Darijo Maksimovic (SC Victoria Hamburg): 30/06/2026 → -
+- Jan-Ole Eggers (SC Victoria Hamburg): 30/06/2026 → -
+- Tom Wittig (SC Victoria Hamburg): 30/06/2026 → -
+- Luis Gleich (SC Victoria Hamburg): - → 30/06/2027
+- Moritz Erichsen (SC Victoria Hamburg): 30/06/2026 → -
+- Yago Heider (SC Victoria Hamburg): 30/06/2026 → -
+- Max Woithe (USC Paloma Hamburg): - → 30/06/2027
+- Vedat Düzgüner (USC Paloma Hamburg): - → 30/06/2027
+- Lennart Merkle (USC Paloma Hamburg): - → 30/06/2027
+- Bünyamin Bulanik (HT 16 Hamburg): 30/06/2026 → -
+- Justyn Schmidt (HT 16 Hamburg): 30/06/2026 → -
+- Arash Omari (HT 16 Hamburg): 30/06/2026 → -
+- Jesse Obeng Boateng (HT 16 Hamburg): 30/06/2026 → -
+- Taufeeq Fousseni (HT 16 Hamburg): 30/06/2026 → -
+- Joshua Freude (HT 16 Hamburg): 30/06/2026 → -
+- Pascal Gerber (HT 16 Hamburg): 30/06/2026 → -
+- Aaron Nkansah (HT 16 Hamburg): 30/06/2026 → -
+- Merdan Kaya (HT 16 Hamburg): 30/06/2026 → -
+- Deran Toksöz (HT 16 Hamburg): 30/06/2026 → -
+- Chris Tabi Bandoh (HT 16 Hamburg): 30/06/2026 → -
+- Rouven Treu (HT 16 Hamburg): 30/06/2026 → -
+- Elyesa Pekin (HT 16 Hamburg): 30/06/2026 → -
+- Nico Gerber (HT 16 Hamburg): 30/06/2026 → -
+- Burak Keskin (HT 16 Hamburg): 30/06/2026 → -
+- Leonel Monteiro (HT 16 Hamburg): 30/06/2026 → -
+- Rael Nakuzola (1.FSV Mainz 05): 30/06/2028 → -
+- Jeffrey Adu (HT 16 Hamburg): 30/06/2026 → -
+- Phil Kolvenbach (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Henning Staerkenberg (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Mustafa Efe Aktürk (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Arsen Kusyi (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Jesse Keller (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Eris Ibrahimi (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Oleg Demchuk (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Soleiman Touny (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Efekan Calikoglu (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Pascal Srougbo (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Segun Steven Adedeji (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Elias Assiaw (FC Teutonia 05 Ottensen): 30/06/2026 → -
+- Kaito Oinishi (FC Süderelbe): - → 30/06/2027
+- Can Yildiz (FC Süderelbe): 30/06/2026 → -
+- Maximilian Arlt (FC Süderelbe): 30/06/2026 → -
+- Joscha Oguazu (FC Süderelbe): 30/06/2026 → -
+- Adrian Apau (FC Süderelbe): 30/06/2026 → -
+- Dayo Richardt (FC Süderelbe): 30/06/2026 → -
+- Marcel Andrijanic (FC Süderelbe): 30/06/2026 → -
+- Alexander Koval (FC Süderelbe): 30/06/2026 → -
+- Andrés Muñoz (FC Süderelbe): 30/06/2026 → -
+- Jephtah Asare (FC Süderelbe): 30/06/2026 → -
+- Elijah Molina (FC Süderelbe): 30/06/2026 → -
+- Tyrese Boakye (FC Süderelbe): 30/06/2026 → -
+- Osman Güraltunkeser (FC Süderelbe): 30/06/2026 → -
+- Lars Kuchenbecker (Niendorfer TSV): 30/06/2026 → -
+- Jesse Petri (Niendorfer TSV): 30/06/2026 → -
+- Ammat Janha (Niendorfer TSV): 30/06/2026 → 30/06/2027
+- Tim Krüger (Niendorfer TSV): 30/06/2026 → -
+- Daniel Brückner (Niendorfer TSV): 30/06/2026 → -
+- Fynn Huneke (Niendorfer TSV): 30/06/2026 → -
+- Leandro de los Santos Korth (Niendorfer TSV): 30/06/2026 → -
+- Lennard Speck (Niendorfer TSV): 30/06/2026 → -
+- Maurice Lüllemann (Niendorfer TSV): 30/06/2026 → -
+- Linus Meyer (Niendorfer TSV): 30/06/2026 → -
+- Pascal Ayene (Niendorfer TSV): 30/06/2026 → -
+- Ante Kutschke (Niendorfer TSV): 30/06/2026 → -
+- Leon Meyer (Niendorfer TSV): 30/06/2026 → 30/06/2027
+- Leon Neumann (Niendorfer TSV): 30/06/2026 → 30/06/2027
+- Bruno von Schönermark (TSV Sasel): 30/06/2026 → -
+- Dominik Silz (TSV Sasel): 30/06/2026 → -
+- Sinotando Thurow (TSV Sasel): 30/06/2026 → -
+- Nick Peters (TSV Sasel): 30/06/2026 → -
+- Leonard Mai (TSV Sasel): 30/06/2026 → -
+- Marc-Oliver Timm (TSV Sasel): 30/06/2026 → -
+- Alexander Kay (TSV Sasel): 30/06/2026 → -
+- Lennard Wallner (TSV Sasel): 30/06/2026 → -
+- Samir Amiri (TSV Sasel): 30/06/2026 → -
+- Michael Janssen (TSV Sasel): 30/06/2026 → -
+- Lasse Lüttgen (TSV Sasel): 30/06/2026 → -
+- Mohamed Nassar (TSV Sasel): 30/06/2026 → -
+- Ayaz Al Derwisch (TSV Sasel): 30/06/2026 → -
+- Niklas Grünitz (TuRa Harksheide): 30/06/2026 → -
+- Nicholas Zuppa (TuRa Harksheide): 30/06/2026 → -
+- Nguafac Joel Anou (TuRa Harksheide): 30/06/2026 → -
+- Mika Wulf (TuRa Harksheide): 30/06/2026 → -
+- Luca Freese (TuRa Harksheide): 30/06/2026 → -
+- Brian Appiah (TuRa Harksheide): 30/06/2026 → -
+- Julian Gebhardt (TuRa Harksheide): 30/06/2026 → -
+- Falk Schmidt (TuRa Harksheide): 30/06/2026 → -
+- Tammo Mölck (TuRa Harksheide): 30/06/2026 → -
+- Moses Wu (TuRa Harksheide): 30/06/2026 → -
+- Felix Möller (TuRa Harksheide): 30/06/2026 → -
+- Tim Günther (TuRa Harksheide): 30/06/2026 → -
+- Jan Hartmann (TuRa Harksheide): 30/06/2026 → -
+- Tim Schröder (TuRa Harksheide): 30/06/2026 → -
+- Maximilian Vollstädt (TuRa Harksheide): 30/06/2026 → -
+- Niko Hasselbusch (TuRa Harksheide): 30/06/2026 → -
+- Chris Heuermann (TuRa Harksheide): 30/06/2026 → -
+- Blerton Leci (TuRa Harksheide): 30/06/2026 → -
+- Tim Burgemeister (TSV Buchholz 08): 30/06/2026 → -
+- Samed Skrijelj (TSV Buchholz 08): 30/06/2026 → -
+- Tizian Backhaus (TSV Buchholz 08): 30/06/2026 → -
+- Jonas Fritz (TSV Buchholz 08): 30/06/2026 → -
+- Torben Rembacz (TSV Buchholz 08): 30/06/2026 → -
+- Till Strohbehn (TSV Buchholz 08): 30/06/2026 → -
+- Patrick Böhmker (TSV Buchholz 08): 30/06/2026 → -
+- Jakob Schulz (TSV Buchholz 08): 30/06/2026 → -
+- Milaim Buzhala (TSV Buchholz 08): 30/06/2026 → -
+- Ye-kang Jin (TSV Buchholz 08): - → 30/06/2027
+- Robin Tzinevrakis (TSV Buchholz 08): 30/06/2026 → -
+- Nils Ahmann (HEBC Hamburg): 30/06/2026 → -
+- Jannik Schoon (HEBC Hamburg): 30/06/2026 → -
+- Kalle Plöchinger (HEBC Hamburg): 30/06/2026 → 30/06/2027
+- Muhammet Ali Aktürk (HEBC Hamburg): 30/06/2026 → -
+- Janek Wrede (HEBC Hamburg): 30/06/2026 → -
+- Julius Stegemann (HEBC Hamburg): 30/06/2026 → -
+- Lionel von Zitzewitz (HEBC Hamburg): 30/06/2026 → -
+- Laurel Aug (HEBC Hamburg): 30/06/2026 → -
+- Semir Demirovic (HEBC Hamburg): 30/06/2026 → -
+- Piet Oldag (HEBC Hamburg): 30/06/2026 → -
+- Luca Garcia (HEBC Hamburg): 30/06/2026 → -
+- Hammed Nawaz (HEBC Hamburg): 30/06/2026 → -
+- Malte Wilhelm (HEBC Hamburg): 30/06/2026 → -
+- Fabian Lemke (HEBC Hamburg): 30/06/2026 → -
+- Oliver Doege (SC V/W Billstedt): 30/06/2026 → -
+- Tidjany Touré (Gil Vicente FC): 30/06/2027 → 30/06/2029
+- Eudel Monteiro (SC V/W Billstedt): 30/06/2026 → -
+- Joschua Rönnau (SC V/W Billstedt): 30/06/2026 → -
+- Andranik Ghubasaryan (SC V/W Billstedt): 30/06/2026 → -
+- Alamsa Cone (SC V/W Billstedt): 30/06/2026 → -
+- Moritz Kühn (SC V/W Billstedt): 30/06/2026 → -
+- Elian Clasen (SSG Nikola Tesla Hamburg): 30/06/2026 → -
+- Josiah Basoah (SSG Nikola Tesla Hamburg): 30/06/2026 → -
+- Zisimos Dimakis (SSG Nikola Tesla Hamburg): 30/06/2026 → -
+- Fatih Umurhan (SSG Nikola Tesla Hamburg): 30/06/2026 → -
+- Gökhan Gülcemal (SSG Nikola Tesla Hamburg): 30/06/2026 → -
+- Mustafa Ercetin (SSG Nikola Tesla Hamburg): 30/06/2026 → -
+- Kaan Cankaya (SSG Nikola Tesla Hamburg): 30/06/2026 → -
+- Alex Rieseler (Eintracht Norderstedt II): 30/06/2026 → -
+- Ulrich Anou (Eintracht Norderstedt II): 30/06/2026 → -
+- Christian Gojani (Eintracht Norderstedt II): 30/06/2026 → -
+- Philip Owusu (Eintracht Norderstedt II): 30/06/2026 → -
+- Nic Kretschmar (Eintracht Norderstedt II): 30/06/2026 → -
+- Nikita Levichev (Concordia Hamburg): 30/06/2026 → -
+- Alexandros Tatsis (Concordia Hamburg): 30/06/2026 → -
+- Kevin Asante (Concordia Hamburg): 30/06/2026 → -
+- Lennard Sowah (Concordia Hamburg): 30/06/2026 → -
+- Dennis Baffour (Concordia Hamburg): 30/06/2026 → -
+- Steven Kröner (Concordia Hamburg): 30/06/2026 → -
+- Onur Saglam (Concordia Hamburg): 30/06/2026 → -
+- Emmanuel Addington (Concordia Hamburg): 30/06/2026 → -
+- Justice Jacob (Concordia Hamburg): 30/06/2026 → -
+- Viktor Weber (TBS Pinneberg): 30/06/2026 → -
+- Enes Özmen (TBS Pinneberg): 30/06/2026 → -
+- Alpay Dobrucali (TBS Pinneberg): 30/06/2026 → -
+- Tjorben Uphoff (TBS Pinneberg): 30/06/2026 → -
+- Raoul Cissé (TBS Pinneberg): 30/06/2026 → -
+- Mohamed Kaba (TBS Pinneberg): 30/06/2026 → -
+- Hendrik Müller (TBS Pinneberg): 30/06/2026 → -
+- Seymen Durkut (TBS Pinneberg): 30/06/2026 → -
+- Oba Prince Akomedi (TBS Pinneberg): 30/06/2026 → -
+- Omar Nabizada (TBS Pinneberg): 30/06/2026 → -
+- Levin Erik (TBS Pinneberg): 30/06/2026 → -
+- Vincent Boock (TBS Pinneberg): 30/06/2026 → -
+- Marvin Wiedemann (TBS Pinneberg): 30/06/2026 → -
+- Nick Scharkowski (TBS Pinneberg): 30/06/2026 → -
+- Robbie Schlichting (TBS Pinneberg): 30/06/2026 → -
+- Yoshiki Iizuka (TBS Pinneberg): 30/06/2026 → -
+- Ali Alou (ATSV Sebaldsbrück): 30/06/2026 → -
+- Safa Kilic (ATSV Sebaldsbrück): 30/06/2026 → -
+- Cem Ali Görgör (ATSV Sebaldsbrück): 30/06/2026 → -
+- Fabian Becker (ATSV Sebaldsbrück): 30/06/2026 → -
+- Niclas Ochse (ATSV Sebaldsbrück): 30/06/2026 → -
+- Simon Cakir (ATSV Sebaldsbrück): 30/06/2026 → -
+- Steffen Prüße (ATSV Sebaldsbrück): 30/06/2026 → -
+- Pascal Tusin (1.FC Burg): 30/06/2026 → -
+- Cebrail Finke (1.FC Burg): 30/06/2026 → -
+- Ömer Aydogdu (1.FC Burg): 30/06/2026 → -
+- Joel Kreker (1.FC Burg): 30/06/2026 → -
+- Tim-Tobias Peterßen (1.FC Burg): 30/06/2026 → -
+- Sergej Awik (1.FC Burg): 30/06/2026 → -
+- Elson Senayah (1.FC Burg): 30/06/2026 → -
+- Phil Knauth (1.FC Burg): 30/06/2026 → -
+- Benett Heimer (1.FC Burg): 30/06/2026 → -
+- Berat Uyar (1.FC Burg): 30/06/2026 → -
+- Sinan Alija (1.FC Burg): 30/06/2026 → -
+- Ahmad Harmoush (TuS Komet Arsten): 30/06/2026 → -
+- Malik Mrozinski (TuS Komet Arsten): 30/06/2026 → -
+- Milan Wartemann (TuS Komet Arsten): 30/06/2026 → -
+- Elvis Ahmetovic (TuS Komet Arsten): 30/06/2026 → -
+- Bernard Asinda (TuS Komet Arsten): 30/06/2026 → -
+- Ismail Bozkurt (TuS Komet Arsten): 30/06/2026 → -
+- Fabio Orlick (TuS Komet Arsten): 30/06/2026 → -
+- Samir Maatouk (TuS Komet Arsten): 30/06/2026 → -
+- Hadi Taha (TuS Komet Arsten): 30/06/2026 → -
+- Bujar Qosa (TuS Komet Arsten): 30/06/2026 → -
+- Lavin Ates (TuS Komet Arsten): 30/06/2026 → -
+- Chinonso Innocent Onyedibe (TuS Komet Arsten): 30/06/2026 → -
+- Daniel Grand (TuS Komet Arsten): 30/06/2026 → -
+- Christian Hoppe (TuS Komet Arsten): 30/06/2026 → -
+- Ramazan Gülac (TuS Komet Arsten): 30/06/2026 → -
+- Joel Schneider (TuS Komet Arsten): 30/06/2026 → -
+- Emilio Salihi (TuS Komet Arsten): 30/06/2026 → -
+- Julien Schütte (TuS Komet Arsten): 30/06/2026 → -
+- Bilal Maatouk (TuS Komet Arsten): 30/06/2026 → -
+- Paul Onochie Nkendi (TuS Komet Arsten): 30/06/2026 → -
+- Kjell Missbach (ATS Buntentor Bremen): 30/06/2026 → -
+- Marcel Renken (ATS Buntentor Bremen): 30/06/2026 → -
+- Max Kleine (ATS Buntentor Bremen): 30/06/2026 → -
+- Jona Wolff (ATS Buntentor Bremen): 30/06/2026 → -
+- Juri Wulfestieg (ATS Buntentor Bremen): 30/06/2026 → -
+- Fynn Oellerich (ATS Buntentor Bremen): 30/06/2026 → -
+- Mohmad Almahraji (ATS Buntentor Bremen): 30/06/2026 → -
+- Haval Asker (ATS Buntentor Bremen): 30/06/2026 → -
+- Roland Pepa (TuRa Bremen): 30/06/2026 → -
+- Albano Mullaj (TuRa Bremen): 30/06/2026 → -
+- Norwin Dietze (TuRa Bremen): 30/06/2026 → -
+- Kilian Nonnast (TuRa Bremen): 30/06/2026 → -
+- Philip Pusch (TuRa Bremen): 30/06/2026 → -
+- Marcel Burkevics (TuRa Bremen): 30/06/2026 → -
+- Redouan Ahrirou (TuRa Bremen): 30/06/2026 → -
+- Harries Kananathan (TuRa Bremen): 30/06/2026 → -
+- Steven-Arnold Srock (TuRa Bremen): 30/06/2026 → -
+- Oliver Hartwig (TuRa Bremen): 30/06/2026 → -
+- Arbnor Brahimi (TuRa Bremen): 30/06/2026 → -
+- Khalil Hamma (TuRa Bremen): 30/06/2026 → -
+- Soufiane Zakri (TuRa Bremen): 30/06/2026 → -
+- Sedat Özdemir (TuRa Bremen): 30/06/2026 → -
+- Berdan Kaya (FC Huchting): 30/06/2026 → -
+- Pascal Knospe (FC Huchting): 30/06/2026 → -
+- Luca Malik Rippe (FC Huchting): 30/06/2026 → -
+- Illah Knigge (FC Huchting): 30/06/2026 → -
+- Maurice Hellmig (FC Huchting): 30/06/2026 → -
+- Jaime Ellmers (FC Huchting): 30/06/2026 → -
+- Martin Gridnev (FC Huchting): 30/06/2026 → -
+- Nils Bothe (FC Huchting): 30/06/2026 → -
+- Johannes Hagenah (FC Huchting): 30/06/2026 → -
+- Thies Hafke (FC Huchting): 30/06/2026 → -
+- Tugay Sonakalan (FC Huchting): 30/06/2026 → -
+- Tolgay Kekilli (FC Huchting): 30/06/2026 → -
+- Alexander Wieting (FC Huchting): 30/06/2026 → -
+- Geri Muca (FC Huchting): 30/06/2026 → -
+- Herman Puhmann (FC Huchting): 30/06/2026 → -
+- Moussa Taleb (FC Huchting): 30/06/2026 → -
+- Pascal Busch (FC Huchting): 30/06/2026 → -
+- Adheen-Naushad Akhtar (FC Huchting): 30/06/2026 → -
+- Alexander Block (FC Huchting): 30/06/2026 → -
+- Ibrahim Saadoun (FC Huchting): 30/06/2026 → -
+- Daniel Moradi (SC Vahr-Blockdiek): 30/06/2026 → -
+- Bryan Jeffrey Brempong (SC Vahr-Blockdiek): 30/06/2026 → -
+- Oguzhan Özbolat (SC Vahr-Blockdiek): 30/06/2026 → -
+- Toygun Aker (SC Vahr-Blockdiek): 30/06/2026 → -
+- Adriano Santos Casanova (SC Vahr-Blockdiek): 30/06/2026 → -
+- Berkant Avci (SC Vahr-Blockdiek): 30/06/2026 → -
+- Doguhan Cigdem (SC Vahr-Blockdiek): 30/06/2026 → -
+- Kikani Ndombaxe (SC Vahr-Blockdiek): 30/06/2026 → -
+- Batunay Aker (SC Vahr-Blockdiek): 30/06/2026 → -
+- Nero Vogelsang (SC Vahr-Blockdiek): 30/06/2026 → -
+- Aron Bencherif (SC Vahr-Blockdiek): 30/06/2026 → 30/06/2027
+- Thorben Kaessler (SC Borgfeld): 30/06/2026 → -
+- Jannik Ott (SC Borgfeld): 30/06/2026 → -
+- Timo Kolek (SC Borgfeld): 30/06/2026 → -
+- Maximilian Credo (SC Borgfeld): 30/06/2026 → -
+- Niklas Huning (SC Borgfeld): 30/06/2026 → -
+- Hannes-Constantin Oelze (SC Borgfeld): 30/06/2026 → -
+- Mats Harttgen (SC Borgfeld): 30/06/2026 → -
+- Lasse Krüger (SC Borgfeld): 30/06/2026 → -
+- Mohamed Bah (SC Borgfeld): 30/06/2026 → -
+- Alex Stanko (SC Borgfeld): 30/06/2026 → -
+- Marcel Metzer (SC Borgfeld): 30/06/2026 → -
+- Jules Nsuka (SC Borgfeld): 30/06/2026 → -
+- Tjark Offen (SC Borgfeld): 30/06/2026 → -
+- Yannis Bach (SC Borgfeld): 30/06/2026 → -
+- Zara Sheikhi (SC Borgfeld): 30/06/2026 → -
+- Paul Noack (SC Borgfeld): 30/06/2026 → -
+- Bennet Ahrens (SC Borgfeld): 30/06/2026 → -
+- Bastian Hirschel (SC Borgfeld): 30/06/2026 → -
+- Hannes Ruegg (SC Borgfeld): 30/06/2026 → -
+- Hannes Roth (SC Borgfeld): 30/06/2026 → -
+- Valentino Guszewski (SC Borgfeld): 30/06/2026 → -
+- Michael Johnson (TuSpo Surheide): 30/06/2026 → -
+- Paul Zielinski (TuSpo Surheide): 30/06/2026 → -
+- Amarilio-Jose Maravalhas-Moca (TuSpo Surheide): 30/06/2026 → -
+- Cyprian Cichon (TuSpo Surheide): 30/06/2026 → -
+- Bastian-Marten Kretzner (TuSpo Surheide): 30/06/2026 → -
+- Leandro Amador (TuSpo Surheide): 30/06/2026 → -
+- Sinan Nisan (TuSpo Surheide): 30/06/2026 → -
+- Dario Neves Nunes (TuSpo Surheide): 30/06/2026 → -
+- Fabian Meyer (TuSpo Surheide): 30/06/2026 → -
+- Toni Döscher (TuSpo Surheide): 30/06/2026 → -
+- Eray Kaya (TuSpo Surheide): 30/06/2026 → -
+- Leonel Amador (TuSpo Surheide): 30/06/2026 → -
+- Florian Beck (TuSpo Surheide): 30/06/2026 → -
+- Jastin Bez (TuSpo Surheide): 30/06/2026 → -
+- Ali Moussa (TuSpo Surheide): 30/06/2026 → -
+- Faruk Arslan (TuSpo Surheide): 30/06/2026 → -
+- Ansar Pazhigov (FC Sparta Bremerhaven): 30/06/2026 → -
+- Modou Bah (FC Sparta Bremerhaven): 30/06/2026 → -
+- Renas Issa (FC Sparta Bremerhaven): 30/06/2026 → -
+- Dominik Hucke (FC Sparta Bremerhaven): 30/06/2026 → -
+- Pouria Khorshidipaji (FC Sparta Bremerhaven): 30/06/2026 → -
+- Bertan-Tolga Salduz (FC Sparta Bremerhaven): 30/06/2026 → -
+- Yankuba Jadama (FC Sparta Bremerhaven): 30/06/2026 → -
+- Saho Saho Lassane (FC Sparta Bremerhaven): 30/06/2026 → -
+- Ammar Alturki (FC Sparta Bremerhaven): 30/06/2026 → -
+- Astrit Krasniqi (FC Sparta Bremerhaven): 30/06/2026 → -
+- Can Marti (FC Sparta Bremerhaven): 30/06/2026 → -
+- Ali Muhaxheri (FC Sparta Bremerhaven): 30/06/2026 → -
+- Luan Muhaxheri (FC Sparta Bremerhaven): 30/06/2026 → -
+- Murat Bektas (FC Sparta Bremerhaven): 30/06/2026 → -
+- Hastiar Maka (FC Sparta Bremerhaven): 30/06/2026 → -
+- Alexander Töpfel (SG Findorff): 30/06/2026 → -
+- Pascal Frank (SG Findorff): 30/06/2026 → -
+- Nils Kühn (SG Findorff): 30/06/2026 → -
+- Max Fricke (SG Findorff): 30/06/2026 → -
+- Leon Schreiber (SG Findorff): 30/06/2026 → -
+- Christopher Grün (SG Findorff): 30/06/2026 → -
+- Marius Menneke (SG Findorff): 30/06/2026 → -
+- Julius Bosiako (SG Findorff): 30/06/2026 → -
+- Malte Schreiber (SG Findorff): 30/06/2026 → -
+- Robin Srodka (SG Findorff): 30/06/2026 → -
+- Matthias Weiss (SG Findorff): 30/06/2026 → -
+- Chris Niklas Richter (SG Findorff): 30/06/2026 → -
+- Simon Scharlau (SG Findorff): 30/06/2026 → -
+- Christian Edamus (SG Findorff): 30/06/2026 → -
+- Finn Czekay (SG Findorff): 30/06/2026 → -
+- Moritz Hallier (SG Findorff): 30/06/2026 → -
+- Kolja Bretschneider (SG Findorff): 30/06/2026 → -
+- Henry Schramm (SG Findorff): 30/06/2026 → -
+- Marc-David Klewer (SG Findorff): 30/06/2026 → -
+- Jonas Niestedt (SG Findorff): 30/06/2026 → -
+- Hannes Bussmann (SG Findorff): 30/06/2026 → -
+- Max Vierling (SG Findorff): 30/06/2026 → -
+- Rick Roehl (SG Findorff): 30/06/2026 → -
+- Moritz Berkholz (SG Findorff): 30/06/2026 → -
+- Patrick Stedtnitz (SG Findorff): 30/06/2026 → -
+- Mika Lars Schneider (VfL 07 Bremen): 30/06/2026 → -
+- Matteo Scholten (VfL 07 Bremen): 30/06/2026 → -
+- Louis Pawlik (VfL 07 Bremen): 30/06/2026 → -
+- Hendrik Breede (VfL 07 Bremen): 30/06/2026 → -
+- Steffen Egert (VfL 07 Bremen): 30/06/2026 → -
+- Alexander Behrens (VfL 07 Bremen): 30/06/2026 → -
+- Pascal Schnock (VfL 07 Bremen): 30/06/2026 → -
+- Luis Sanchez Perez (VfL 07 Bremen): 30/06/2026 → -
+- Murat Demiryurtlu (VfL 07 Bremen): 30/06/2026 → -
+- Lamin Sillah (VfL 07 Bremen): 30/06/2026 → -
+- David Pioch (VfL 07 Bremen): 30/06/2026 → -
+- Nemanja Calina (VfL 07 Bremen): 30/06/2026 → -
+- Janik Maaß (VfL 07 Bremen): 30/06/2026 → -
+- Ricardo Castanheira (VfL 07 Bremen): 30/06/2026 → -
+- Malik-Kenneth Mannes (VfL 07 Bremen): 30/06/2026 → -
+- Luca Klüver (VfL 07 Bremen): 30/06/2026 → -
+- Fynn Voß (VfL 07 Bremen): 30/06/2026 → -
+- Bent Homeyer (TSV Hasenbüren): 30/06/2026 → -
+- Patrick Heinemann (TSV Hasenbüren): 30/06/2026 → -
+- Gerrit Rosenbaum (TSV Hasenbüren): 30/06/2026 → -
+- York Meineken (TSV Hasenbüren): 30/06/2026 → -
+- Marlon Schmidt (TSV Hasenbüren): 30/06/2026 → -
+- Max Haacke (TSV Hasenbüren): 30/06/2026 → -
+- Malte Lenz (TSV Hasenbüren): 30/06/2026 → -
+- Joshua Möhlenhoff (TSV Hasenbüren): 30/06/2026 → -
+- Richard Ohliger (TSV Hasenbüren): 30/06/2026 → -
+- Tim Ahrens (TSV Hasenbüren): 30/06/2026 → -
+- Rayan Omar Ben Amor (TSV Hasenbüren): 30/06/2026 → -
+- Jens Probst (TSV Hasenbüren): 30/06/2026 → -
+- Yannick Wacker (TSV Hasenbüren): 30/06/2026 → -
+- Damian Kozak (TSV Hasenbüren): 30/06/2026 → -
+- Kees Smit (AZ Alkmaar): 30/06/2028 → 30/06/2030
+- Michel Kruse (TSV Hasenbüren): 30/06/2026 → -
+- Dennis Ahrens (TSV Hasenbüren): 30/06/2026 → -
+- Alexander Krug (TSV Hasenbüren): 30/06/2026 → -
+- Christoph Greinke (TSV Hasenbüren): 30/06/2026 → -
+- Abdullah Tiras (Bremen United): 30/06/2026 → -
+- Oscar Matus (Bremen United): 30/06/2026 → -
+- Youssef Alo (Bremen United): 30/06/2026 → -
+- Ibrahim Tiras (Bremen United): 30/06/2026 → -
+- Ozan Yücel (Bremen United): - → 30/06/2027
+- Max Christiansen (SV Sandhausen): - → 30/06/2027
+- Ali Caglayan (BSC Hastedt): 30/06/2026 → -
+- Ahmed Said Yilmaz (BSC Hastedt): 30/06/2026 → -
+- Eray Derin (BSC Hastedt): 30/06/2026 → -
+- Umut Topcu (BSC Hastedt): 30/06/2026 → -
+- Mohamed Fakhro (BSC Hastedt): 30/06/2026 → -
+- Suan Memedi (BSC Hastedt): - → 30/06/2027
+- Muhammed Sanneh (BSC Hastedt): 30/06/2026 → -
+- Arda Güven (BSC Hastedt): 30/06/2026 → -
+- Joep Geneste (NEC Nijmegen): - → 30/06/2028
+- Yassin Moslih (NEC Nijmegen): 30/06/2027 → 30/06/2028
+- Ante Eljuga (SGV Heilbronn-Freiberg): 30/06/2026 → -
+- Bernt Klaverboer (SC Heerenveen): 30/06/2027 → 30/06/2029
+- Timo Schreuder (SC Heerenveen): 30/06/2026 → -
+- Nolhan Courtens (SC Heerenveen): 30/06/2027 → 30/06/2030
+- Raúl König (1.FSV Mainz 05 II): 30/06/2026 → -
+- Linus Gechter (Hertha BSC): - → 30/06/2027
+- Kian Todorovic (Hertha BSC): - → 30/06/2027
+- Kilian Katz (SC Freiburg II): 30/06/2026 → -
+- Jannik Veit (SC Freiburg II): 30/06/2027 → -
+- Abdoulie Mboob (Stuttgarter Kickers): 30/06/2026 → -
+- Gani Büyükhan (Fortuna Sittard): - → 30/06/2029
+- Christian Kuhn (VfR Mannheim): 30/06/2026 → -
+- Robin Becker (VfR Mannheim): 30/06/2026 → -
+- Jannik Marx (VfR Mannheim): 30/06/2026 → -
+- Jonas Hofmann (FC Energie Cottbus): 30/06/2027 → -
+- Kevin Krüger (VfR Mannheim): 30/06/2026 → -
+- Umut Sentürk (VfR Mannheim): 30/06/2026 → -
+- Alexandru Paraschiv (VfR Mannheim): 30/06/2026 → -
+- Pasqual Pander (VfR Mannheim): 30/06/2026 → -
+- Justin Butler (FC Energie Cottbus): 30/06/2027 → 30/06/2028
+- Lennart Thum (VfR Mannheim): 30/06/2026 → 30/06/2027
+- Bennet Schieber (FC-Astoria Walldorf): 30/06/2026 → -
+- Arion Erbe (FC-Astoria Walldorf): 30/06/2026 → -
+- Tim Fahrenholz (FC-Astoria Walldorf): 30/06/2026 → -
+- Konrad Riehle (FC-Astoria Walldorf): 30/06/2026 → -
+- Felix Kendel (FC-Astoria Walldorf): 30/06/2026 → -
+- Ali Odabas (VfR Aalen): 30/06/2026 → -
+- Jascha Döringer (VfR Aalen): 30/06/2026 → -
+- Stefan Wächter (VfR Aalen): 30/06/2026 → -
+- Christos Kourfalidis (Athens Kallithea): 30/06/2027 → 30/06/2028
+- Vasilios Nikolakoulis (PAOK Thessaloniki B): 30/06/2028 → 30/06/2029
+- Dimitrios Berdos (PAOK Thessaloniki B): 31/12/2027 → 30/06/2029
+- Ali Al-Busaidi (Al-Seeb Club): 31/05/2026 → -
+- Fahad Khamis (Al-Seeb Club): 31/05/2026 → -
+- Abdul Majeed Al-Balushi (Al-Seeb Club): 31/05/2026 → -
+- Mahmoun Al-Araimi (Al-Seeb Club): 31/05/2026 → -
+- Abdul Aziz Al-Muqbali (Al-Seeb Club): 31/05/2026 → -
+- Amjad Al-Harthi (Al-Nahda Club): 31/05/2026 → -
+- Abdulmalik Al-Badri (Al-Shabab SC (Oman)): 31/05/2026 → -
+- Mohanad Al-Nawfali (Al-Shabab SC (Oman)): 31/05/2026 → -
+- Yaqdhan Al-Mushaifri (Al-Shabab SC (Oman)): 31/05/2026 → -
+- Sami Al-Ajmi (Al-Shabab SC (Oman)): 31/05/2026 → -
+- Pavel Kotov (Veles Moscow): 30/06/2026 → -
+- Kirill Skvortsov (Veles Moscow): 30/06/2026 → -
+- Yuriy Zavezen (Veles Moscow): 30/06/2026 → -
+- Rashad Abdulhamid (Al-Nasr Club): 31/05/2026 → -
+- Zakhar Tarasenko (Veles Moscow): 30/06/2026 → -
+- Turki Beit Rabie (Al-Nasr Club): 31/05/2026 → -
+- Ziad Al-Rasbi (Al-Nasr Club): 31/05/2026 → -
+- Jassim Al-Noobi (Al-Nasr Club): 31/05/2026 → -
+- Fahad Abdullah Awad (Al-Nasr Club): 31/05/2026 → -
+- Dmitriy Kudryk (Tekstilshchik Ivanovo): 30/06/2026 → -
+- Fahad Adel (Al-Nasr Club): 31/05/2026 → -
+- Abdul Hafez Al-Mukhaini (Al-Nasr Club): 31/05/2026 → -
+- Mazin Al-Kasbi (Dhofar Club): 31/05/2026 → -
+- Ali Salim Al-Nahar (Dhofar Club): 31/05/2026 → -
+- Abdullah Al-Maghani (Dhofar Club): 31/05/2026 → -
+- Khattab Abdullah (Dhofar Club): 31/05/2026 → -
+- Mohamed Al-Habsi (Dhofar Club): 31/05/2027 → -
+- Ahmed Al-Shanfari (Dhofar Club): 31/05/2026 → -
+- Muayid Ma'asi (Sohar SC): 31/05/2026 → -
+- Mikhail Petrov (FC Tyumen): 30/06/2026 → -
+- Evgeniy Tonevitskiy (FC Tyumen): 30/06/2027 → 31/12/2026
+- Gleb Zakharov (FC Tyumen): 30/06/2026 → -
+- Pavel Shakuro (FC Tyumen): 30/06/2026 → -
+- Andrey Dernov (FC Tyumen): 30/06/2026 → -
+- Vadim Grinvald (FC Tyumen): 30/06/2026 → -
+- Damir Talikin (FC Tyumen): 30/06/2026 → -
+- Vladlen Babaev (FC Tyumen): 30/06/2026 → -
+- Sultan Al-Sahli (Sohar SC): 31/05/2026 → -
+- Ahmed Al-Hilali (Sohar SC): 31/05/2026 → -
+- Abdul Rahim Al-Muqbali (Sohar SC): 31/05/2026 → -
+- Vitaliy Shitov (FC Tyumen): 30/06/2026 → -
+- Maksim Dmitriev (FC Tyumen): 30/06/2026 → -
+- Kirill Boyarskikh (FC Tyumen): 30/06/2026 → -
+- Maksim Abakumov (FC Tyumen): 30/06/2026 → -
+- Idris Al-Muqbali (Sohar SC): 31/05/2026 → -
+- Saud Al-Muqbali (Sohar SC): 31/05/2026 → -
+- Abdullah Al-Mashaikhi (Sohar SC): 31/05/2026 → -
+- Mouhameth Diop (Sohar SC): - → 31/05/2027
+- Abdul Moien (Saham Club): 31/05/2026 → -
+- Mohammed Al-Balushi (Saham Club): 31/05/2026 → -
+- Abdulaziz Al-Khalidi (Saham Club): 31/05/2026 → -
+- Mohammed Al-Zidi (Saham Club): 31/05/2026 → -
+- Daniil Chernyshev (Rodina 2 Moscow): 30/06/2026 → -
+- Saeed Al-Muraikhi (Saham Club): 31/05/2026 → -
+- Abdullah Al-Abdulsalam (Saham Club): 31/05/2026 → -
+- Nooh Al-Araimi (Saham Club): 31/05/2026 → -
+- Mahboob Al-Hadabi (Bahla Club): 31/05/2026 → -
+- Abdulmalik Al-Muqimi (Bahla Club): 31/05/2026 → -
+- Anas Al-Qasabi (Bahla Club): 31/05/2026 → -
+- Mohamed Khasib Al-Hosni (Bahla Club): 31/05/2026 → -
+- Alan Bagaev (Alania Vladikavkaz): 30/06/2026 → -
+- Hamood Al-Baridi (Bahla Club): 31/05/2026 → -
+- Ahmed Al-Rawahi (Oman Club): 31/05/2026 → -
+- Abdulhaleem Al-Rawahi (Oman Club): 31/05/2026 → -
+- Al-Harith Al-Mukhaini (Oman Club): 31/05/2026 → -
+- Ahmed Al-Mashaikhi (Sur SC): 31/05/2027 → -
+- Badar Khamis (Sur SC): 31/05/2026 → -
+- Khamis Al Gheilani (Sur SC): 31/05/2026 → -
+- Waleed Al-Saadi (Sur SC): 31/05/2026 → -
+- Nikita Semenenko (Sibir Novosibirsk): 30/06/2026 → -
+- Suleiman Al-Mamari (Fanja SC): 31/07/2026 → -
+- Yaser Al-Balushi (Fanja SC): 31/05/2026 → 31/05/2027
+- Evgeniy Lopatjko (Torpedo Miass): 30/06/2026 → -
+- Dmitriy Kuzmin (Torpedo Miass): 30/06/2026 → -
+- Denis Zamyatin (Torpedo Miass): 30/06/2026 → -
+- Channarong Promsrikaew (Chonburi FC): 30/06/2026 → -
+- Adam Ennaffati (Raja Club Athletic): 30/06/2026 → -
+- Oussama Errahmany (MAS Fès): 30/06/2029 → 30/06/2030
+- Oussama Soukhane (FUS Rabat): 30/06/2026 → -
+- Amine El Msane (FUS Rabat): 30/06/2026 → -
+- Turki Baaljawsh (Al-Ettifaq FC): 30/06/2026 → -
+- Abdullah Khateeb (Al-Ettifaq FC): 30/06/2026 → -
+- Abdessamad Mahir (FUS Rabat): 30/06/2026 → -
+- Akram Haimoud (Hassania d'Agadir): 30/06/2026 → -
+- Babacar Niasse (Difaâ El Jadida): 30/06/2026 → -
+- Sabir Bougrine (KACM Marrakech): 12/07/2026 → 30/06/2028
+- Yahya Al-Shehri (Al-Riyadh SC): 30/06/2026 → -
+- Mehdi Amini (Palayesh Naft Bandar Abbas): 30/06/2026 → -
+- Esmaeil Pourdarvish (Palayesh Naft Bandar Abbas): 30/06/2026 → -
+- Mohammadreza Koushki (Palayesh Naft Bandar Abbas): 30/06/2026 → -
+- Amirhossein Birjandi (Mes Kerman): 30/06/2026 → -
+- Aref Zeynali (Mes Kerman): 30/06/2026 → -
+- Amirhossein Asgari (Mes Kerman): 30/06/2026 → -
+- Majid Behrouzi (Mes Kerman): 30/06/2026 → -
+- Reza Aghababaei (Mes Kerman): 30/06/2026 → -
+- Sajjad Gholibeigi (Saipa FC): 30/06/2026 → -
+- Ivan Tolkachev (Uni X Labs Minsk): — → 31/12/2026
+- Raziel García (Universidad César Vallejo): - → 31/12/2026
+- Mohsen Aghaei (Naft va Gaz Gachsaran): - → 30/06/2027
+- Soheil Delfiefard (Naft va Gaz Gachsaran): 30/06/2026 → -
+- Mohammad Jaymand (Naft va Gaz Gachsaran): 30/06/2026 → -
+- Mohammadhadi Hosseini (Naft va Gaz Gachsaran): 30/06/2026 → -
+- Alireza Dashtban (Shahin Bandar Ameri): 30/06/2026 → -
+- Abbas Bakhtiari (Fard Alborz): 30/06/2026 → -
+- Christos Karakitsos (SV Solingen 08/10): - → 30/06/2027
+- Amirmehdi Dehghan (Ario Eslamshahr): 30/06/2026 → -
+- Jalal Maddahi (Ario Eslamshahr): 30/06/2026 → -
+- Tin Lozano (Pirata FC): - → 31/12/2026
+- Kian Shahroei (Naft Masjed Soleyman FC): 30/06/2028 → -
+- Amir Abbasi (Naft Masjed Soleyman FC): 30/06/2026 → -
+- Kianoush Mirzaei (Naft Masjed Soleyman FC): 30/06/2026 → -
+- Seyed Sajjad Mousavi (Naft Masjed Soleyman FC): 30/06/2026 → -
+- Ali Mohammadi (Naft Masjed Soleyman FC): 30/06/2026 → -
+- Yasin Jafari Hashemi (Havadar SC): 30/06/2026 → -
+- Edris Rahmani (Havadar SC): 30/06/2026 → -
+- Mehdi Daryabari (Havadar SC): 30/06/2026 → -
+- Ahmet Kilicaslanoglu (SV Vatan Spor Aschaffenburg): 30/06/2026 → -
+- Niklas Schusser (TSV Aubstadt II): 30/06/2026 → -
+- Matviy Lypnevskyi (FC Coburg): 30/06/2026 → -
+- Leonard Späth (FC Coburg): 30/06/2026 → -
+- Maximilian Tranziska (FC Coburg): 30/06/2026 → -
+- Maximilian Graß (FC Coburg): 30/06/2026 → -
+- Luca Oikonomides (FC Coburg): 30/06/2026 → -
+- Florian Hesse (FC Coburg): 30/06/2026 → -
+- Sven Wieczorek (FC Coburg): 30/06/2026 → -
+- Jonathan Baur (FC Coburg): 30/06/2026 → -
+- René Knie (FC Coburg): 30/06/2026 → -
+- Roman Guhling (FC Coburg): 30/06/2026 → -
+- Jason Geißendörfer (FC Coburg): 30/06/2026 → -
+- Julius Kaul (FC Coburg): 30/06/2026 → -
+- Norik Höhn (FC Coburg): 30/06/2026 → -
+- Felix Reusch (TSV Abtswind): 30/06/2026 → -
+- Niklas Henninger (TSV Abtswind): 30/06/2026 → -
+- Pascal Henninger (TSV Abtswind): 30/06/2026 → -
+- Osama Alawami (TSV Abtswind): 30/06/2026 → -
+- Jannis Vierneisel (TSV Abtswind): 30/06/2026 → -
+- Michael Herrmann (TSV Abtswind): 30/06/2026 → -
+- Nils Kuß (TSV Abtswind): 30/06/2026 → -
+- Linus Grill (TSV Abtswind): 30/06/2026 → -
+- Matthias Wächter (TSV Abtswind): 30/06/2026 → -
+- Finn Körger (TSV Abtswind): 30/06/2026 → -
+- Adrian Dußler (TSV Abtswind): 30/06/2026 → -
+- Piet Scheurer (TSV Abtswind): 30/06/2026 → -
+- Benjamin Desic (TSV Abtswind): 30/06/2026 → -
+- Max Hillenbrand (TSV Abtswind): 30/06/2026 → -
+- Marcelo Operskalski (TSV Abtswind): 30/06/2026 → -
+- Yasir Al-Dijawi (TSV Abtswind): 30/06/2026 → -
+- Jonas Enzmann (TSV Abtswind): 30/06/2026 → -
+- Levin Körger (TSV Abtswind): 30/06/2026 → -
+- Luca Kliesch (Alemannia Haibach): 30/06/2026 → -
+- Lukas Fröhlich (Alemannia Haibach): 30/06/2026 → -
+- Niklas Rothenbücher (Alemannia Haibach): 30/06/2026 → -
+- Stanislav Lutenko (Alemannia Haibach): 30/06/2026 → -
+- Tim Wenzel (Alemannia Haibach): 30/06/2026 → -
+- Marco Wadel (Alemannia Haibach): 30/06/2026 → -
+- Marcel Spall (Alemannia Haibach): 30/06/2026 → -
+- Niclas Kiefer (Alemannia Haibach): 30/06/2026 → -
+- Alessandro Giambrone (Alemannia Haibach): 30/06/2026 → -
+- Luca Gelzleichter (Alemannia Haibach): 30/06/2026 → -
+- Nikolaos Koukalias (Alemannia Haibach): 30/06/2026 → -
+- Sadate Moussa (Alemannia Haibach): 30/06/2026 → -
+- Gianluca Schäfer (Alemannia Haibach): 30/06/2026 → -
+- Linus Eiselein (TSV Karlburg): 30/06/2026 → -
+- Marvin Fischer-Vallecilla (TSV Karlburg): 30/06/2026 → -
+- Fabian Jordan (TSV Karlburg): 30/06/2026 → -
+- Cedric Fenske (TSV Karlburg): 30/06/2026 → -
+- Max Lambrecht (TSV Karlburg): 30/06/2026 → -
+- Liman Krasniqi (TSV Karlburg): 30/06/2026 → -
+- Jan Wabnitz (TSV Karlburg): 30/06/2026 → -
+- Tymofii Ivakhenko (TSV Karlburg): 30/06/2026 → -
+- Tim Martin (TSV Karlburg): 30/06/2026 → -
+- Jan Martin (TSV Karlburg): 30/06/2026 → -
+- Fabio Tudor (TSV Karlburg): 30/06/2026 → -
+- Cornelius Hock (TSV Karlburg): 30/06/2026 → -
+- Marvin Kaiser (TSV Karlburg): 30/06/2026 → -
+- Andre Rumpel (TSV Karlburg): 30/06/2026 → -
+- Pascal Jeni (TSV Karlburg): 30/06/2026 → -
+- Haroona Diarrassouba (TSV Karlburg): 30/06/2026 → -
+- Marc Endres (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Leon Sauer (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Felix Schäfer (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Philipp Eckstein (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Luca Staab (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Mike Kirchner (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Philipp Hörst (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Leon Chevalier (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Benedikt Stoll (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Bastian Kiesel (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Philipp Seitz (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Marvin Sauerwein (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Philipp Zschirpe (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Luis Brunn (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Sven Bolze (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Arwed Kellner (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Leonard Witzel (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Liam Trasoruk (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Franco Kulla (TuS Aschaffenburg-Leider): 30/06/2026 → -
+- Joshua Schumacher (TuS Frammersbach): 30/06/2026 → -
+- Leon Raven (TuS Frammersbach): 30/06/2026 → -
+- Alexander Touati (TuS Frammersbach): 30/06/2026 → -
+- Hannes Weber (TuS Frammersbach): 30/06/2026 → -
+- Marlon Dimitrov (TuS Frammersbach): 30/06/2026 → -
+- Steven Summa (TuS Frammersbach): 30/06/2026 → -
+- Norman Moreno (TuS Frammersbach): 30/06/2026 → -
+- Johan Brahimi (TuS Frammersbach): 30/06/2026 → -
+- Alex Beck (TuS Frammersbach): 30/06/2026 → -
+- Maximilian Beck (TuS Frammersbach): 30/06/2026 → -
+- Dominik Englert (TuS Frammersbach): 30/06/2026 → -
+- Max Baur (TuS Frammersbach): 30/06/2026 → -
+- Fabian Lurz (TuS Frammersbach): 30/06/2026 → -
+- Laif Reiling (TuS Frammersbach): 30/06/2026 → -
+- Alessio Martello (TuS Frammersbach): 30/06/2026 → -
+- Kilian Blenk (TuS Frammersbach): 30/06/2026 → -
+- Tim Zachrau (TuS Frammersbach): 30/06/2026 → -
+- Marius Haas (TuS Frammersbach): 30/06/2026 → -
+- Yannick Mühlhoff (TuS Frammersbach): 30/06/2026 → -
+- Maurice Matreux (TuS Frammersbach): 30/06/2026 → -
+- Dominik Daxhammer (TSV Eisingen): 30/06/2026 → -
+- Lukas Wild (TSV Eisingen): 30/06/2026 → -
+- Christopher Endres (TSV Eisingen): 30/06/2026 → -
+- Lorenz Schmitt (TSV Eisingen): 30/06/2026 → -
+- Fabrice Peignard (TSV Eisingen): 30/06/2026 → -
+- Florian Preissendörfer (TSV Eisingen): 30/06/2026 → -
+- Jannis Löhlein (TSV Eisingen): 30/06/2026 → -
+- Nico Keidel (TSV Eisingen): 30/06/2026 → -
+- Louis Weber (TSV Eisingen): 30/06/2026 → -
+- Philipp Günder (TSV Eisingen): 30/06/2026 → -
+- Lars Liebler (TSV Eisingen): 30/06/2026 → -
+- Vincent Stumf (TSV Eisingen): 30/06/2026 → -
+- Hannes Schöner (TSV Eisingen): 30/06/2026 → -
+- Jannis Thein (TSV Eisingen): 30/06/2026 → -
+- Laurin Thein (TSV Eisingen): 30/06/2026 → -
+- Lukas Götz (TSV Eisingen): 30/06/2026 → -
+- Leon Spiegel (TSV Eisingen): 30/06/2026 → -
+- Fynn van Noppen (TSV Eisingen): 30/06/2026 → -
+- Fabio Volderauer (TSV Eisingen): 30/06/2026 → -
+- Christoph Saballus (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Leon Hartmann (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Leo Brand (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Gyoel Toth (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Finn Weißenberger (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Lucas Schneider (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Pascal Demar (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Justin Ziegler (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Marcel Behr (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Thomas Cäsar (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Artem Yaroshenko (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Lucas Fleischmann (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Elias Wehner (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Yannick Deibl (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Dominik Demar (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Daniel Reuß (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Luca Böhm (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Tobias Burger (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Nico Reuß (DJK Schwebenried/Schwemmelsbach): 30/06/2026 → -
+- Thorsten Kritzner (FT Schweinfurt): 30/06/2026 → -
+- Patrick Werner (FT Schweinfurt): 30/06/2026 → -
+- Xaver Lechner (FT Schweinfurt): 30/06/2026 → -
+- Julian Horn (FT Schweinfurt): 30/06/2026 → -
+- Johannes Mock (FT Schweinfurt): 30/06/2026 → -
+- Nico Siegmund (FT Schweinfurt): 30/06/2026 → -
+- Moriz Heusinger (FT Schweinfurt): 30/06/2026 → -
+- Simon Werner (FT Schweinfurt): 30/06/2026 → -
+- Blazej Rusilowicz (Jagiellonia Bialystok II): 30/06/2026 → -
+- Szymon Pankiewicz (Jagiellonia Bialystok II): 30/06/2026 → -
+- Maximilian Ludwig (FT Schweinfurt): 30/06/2026 → -
+- Jonas Wieland (FT Schweinfurt): 30/06/2026 → -
+- Jannik Keuser (FT Schweinfurt): 30/06/2026 → -
+- Xaver Wolfrum (FT Schweinfurt): 30/06/2026 → -
+- Andreas Kundmüller (FT Schweinfurt): 30/06/2026 → -
+- Tyrell Walton (FT Schweinfurt): 30/06/2026 → -
+- Egas Maxaieie (FT Schweinfurt): 30/06/2026 → -
+- Dominik Popp (FT Schweinfurt): 30/06/2026 → -
+- Moritz Kirchner (FT Schweinfurt): 30/06/2026 → -
+- Kilian Huth (DJK Hain): 30/06/2026 → -
+- Arber Jashari (DJK Hain): 30/06/2026 → -
+- Louis Botzem (DJK Hain): 30/06/2026 → -
+- Adrian Ziarek (Jagiellonia Bialystok II): 30/06/2026 → -
+- Dawid Polkowski (Jagiellonia Bialystok II): 30/06/2026 → -
+- Olaf Pawelczyk (Jagiellonia Bialystok II): 30/06/2026 → -
+- Lucien Umscheid (DJK Hain): 30/06/2026 → -
+- Max Hofestädt (DJK Hain): 30/06/2026 → -
+- Bogdan Mykhalchenko (DJK Hain): 30/06/2026 → -
+- Yannick Tiesler (DJK Hain): 30/06/2026 → -
+- Lukas Müller (DJK Hain): 30/06/2026 → -
+- Lennart Laub (DJK Hain): 30/06/2026 → -
+- David Öhme (DJK Hain): 30/06/2026 → -
+- Carsten Albrecht (DJK Hain): 30/06/2026 → -
+- Marlon Eicker (DJK Hain): 30/06/2026 → -
+- Daniel Meßner (DJK Hain): 30/06/2026 → -
+- Louis Braun (DJK Hain): 30/06/2026 → -
+- Elia Umscheid (DJK Hain): 30/06/2026 → -
+- Paul Scheifele (DJK Hain): 30/06/2026 → -
+- Jonas Köhn (TSV Mönchröden): 30/06/2026 → -
+- Elias Neumann (TSV Mönchröden): 30/06/2026 → -
+- Leonhard Scheler (TSV Mönchröden): 30/06/2026 → -
+- Justin Berwind (TSV Mönchröden): 30/06/2026 → -
+- Dennis Kolb (TSV Mönchröden): 30/06/2026 → -
+- Lars Wagner (TSV Mönchröden): 30/06/2026 → -
+- Luca Schreiber (TSV Mönchröden): 30/06/2026 → -
+- Daniel Puff (TSV Mönchröden): 30/06/2026 → -
+- Fabian Wittmann (TSV Mönchröden): 30/06/2026 → -
+- Lukas Pflaum (TSV Mönchröden): 30/06/2026 → -
+- Lukas Köhn (TSV Mönchröden): 30/06/2026 → -
+- Vincent Weber (TSV Mönchröden): 30/06/2026 → -
+- Sinan Gümeci (TSV Mönchröden): 30/06/2026 → -
+- Yusupha Njie (TSV Mönchröden): 30/06/2026 → -
+- Noah Büchner (TSV Mönchröden): 30/06/2026 → -
+- Jannik Späth (TSV Mönchröden): 30/06/2026 → -
+- Tolga Jungkunz (TSV Mönchröden): 30/06/2026 → -
+- Fabian Geipel (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Jan Hofmann (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Tizian Fella (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Lukas Halbig (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Kirill Ride (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Louis Höchemer (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Philip Greubel (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Paul Füller (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Fabio Seufert (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Luis Hüfner (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Cedric Bäßler (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Julius Rödl (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Fabian Bäßler (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Jonas Schmitt (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Luka Maric (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Max Albert (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Jakob Fischer (1.FC 06 Bad Kissingen): 30/06/2026 → -
+- Florian Dörnbrack (TSV Burgebrach): 30/06/2026 → -
+- Jakob Voran (TSV Burgebrach): 30/06/2026 → -
+- Moritz Fels (TSV Burgebrach): 30/06/2026 → -
+- Jakob Fröhling (TSV Burgebrach): 30/06/2026 → -
+- Linus Rein (TSV Burgebrach): 30/06/2026 → -
+- Jonas Selig (TSV Burgebrach): 30/06/2026 → -
+- Johannes Bayer (TSV Burgebrach): 30/06/2026 → -
+- Jan Bäuerlein (TSV Burgebrach): 30/06/2026 → -
+- Bastian Bogensperger (TSV Burgebrach): 30/06/2026 → -
+- Luca Hörnes (TSV Burgebrach): 30/06/2026 → -
+- Moritz Ludwig (TSV Burgebrach): 30/06/2026 → -
+- Lucas Beyer (TSV Burgebrach): 30/06/2026 → -
+- Matthias Heimbach (TSV Burgebrach): 30/06/2026 → -
+- Christopher Romaus (TSV Burgebrach): 30/06/2026 → -
+- Jannik Endres (TSV Burgebrach): 30/06/2026 → -
+- Jannik Denzler (TSV Burgebrach): 30/06/2026 → -
+- Stephan Altmayer (TSV Burgebrach): 30/06/2026 → -
+- Michael Zirkel (TSV Burgebrach): 30/06/2026 → -
+- Philipp Hörnes (TSV Burgebrach): 30/06/2026 → -
+- Nico Pinkert (TSV Burgebrach): 30/06/2026 → -
+- Robin Bätz (TSV Burgebrach): 30/06/2026 → -
+- Lukas Wirth (TSV Burgebrach): 30/06/2026 → -
+- Manuel Schwarm (TSV Burgebrach): 30/06/2026 → -
+- Oliwier Kucharczyk (Wigry Suwalki): - → 30/06/2027
+- Jakub Fronczak (Wigry Suwalki): 30/06/2026 → -
+- Borys Kisiel (Widzew Lodz II): 30/06/2026 → -
+- Daniel Gryzio (Widzew Lodz II): 30/06/2026 → -
+- Paweł Czułowski (KTS Weszlo Warszawa): 30/06/2028 → 30/06/2027
+- Milos Milicevic (Sarnese 1926): - → 30/06/2027
+- Marc Arndt (Malchower SV 90): 30/06/2026 → -
+- Louis Müller (Malchower SV 90): 30/06/2026 → -
+- Christian Kuhnert (1.FC Neubrandenburg 04): 30/06/2026 → -
+- Luca Seifert (1.FC Neubrandenburg 04): 30/06/2026 → -
+- Danny Zimmermann (SV Pastow): 30/06/2026 → -
+- Max Krötsching (SV Pastow): 30/06/2026 → -
+- Lars Westendorf (SV Pastow): 30/06/2026 → -
+- Philip Mansour (SV Pastow): 30/06/2026 → -
+- Lennart Wolff (SV Pastow): 30/06/2026 → -
+- Martin Maerz (SV Pastow): 30/06/2026 → -
+- Paul Bode (SV Pastow): 30/06/2026 → -
+- Carlo Lange (SV Pastow): 30/06/2026 → -
+- Niklas Mönck (SV Pastow): 30/06/2026 → -
+- Cosmo Syrbe (SV Pastow): 30/06/2026 → -
+- Kevin Gildemeister (SV Pastow): 30/06/2026 → -
+- Sebastian Synwoldt (SV Pastow): 30/06/2026 → -
+- Benjamin Strubelt (SV Pastow): 30/06/2026 → -
+- Albert Romashkin (SV Pastow): 30/06/2026 → -
+- Tim Fürstenau (SV Pastow): 30/06/2026 → -
+- Tobias Ehlert (SV Pastow): 30/06/2026 → -
+- Lucas Juhrmann (SV Pastow): 30/06/2026 → -
+- Guido Kocer (SV Pastow): 30/06/2026 → -
+- Jan Rudlaff (SV Pastow): 30/06/2026 → -
+- Niklas Wieck (FSV Kühlungsborn): 30/06/2026 → -
+- Bahir Hamdam (FSV Kühlungsborn): 30/06/2026 → -
+- Tim Niklas Wilke (FC Schönberg 95): 30/06/2026 → -
+- Daniel Halke (FC Schönberg 95): 30/06/2026 → -
+- Phillip Mellmann (FC Schönberg 95): 30/06/2026 → -
+- Max Kley (FC Schönberg 95): 30/06/2026 → -
+- Luca Thiel (FC Schönberg 95): 30/06/2026 → -
+- Fiete Hafemeister (FC Schönberg 95): 30/06/2026 → -
+- Salyvan Schmidt (FC Schönberg 95): 30/06/2026 → -
+- Jahn-Sylas Schmidt (FC Schönberg 95): 30/06/2026 → -
+- Tom Jurga (FC Schönberg 95): 30/06/2026 → -
+- Till Breitkreutz (FC Schönberg 95): 30/06/2026 → -
+- Dennis Godknecht (FC Schönberg 95): 30/06/2026 → -
+- Tim Cordt (FC Schönberg 95): 30/06/2026 → -
+- Alexander Stepanek (FSV Bentwisch): 30/06/2026 → -
+- Robert Römer (FSV Bentwisch): 30/06/2026 → -
+- Lucas Steinicke (FSV Bentwisch): 30/06/2026 → -
+- Arnold Lietz (FSV Bentwisch): 30/06/2026 → -
+- Gordon Grotkopp (FSV Bentwisch): 30/06/2026 → -
+- Leopold Walkhoefer (FC Förderkader René Schneider): 30/06/2026 → -
+- Maurice Wilk (FC Förderkader René Schneider): 30/06/2026 → -
+- Fabian Wawra (FC Förderkader René Schneider): 30/06/2026 → -
+- Abofazl Iranshahi (Greifswalder FC II): 30/06/2026 → -
+- Ali Akbar Borzoo (Greifswalder FC II): 30/06/2026 → -
+- Can Meirich (Greifswalder FC II): 30/06/2026 → -
+- Julius-Gero Modler (Greifswalder FC II): 30/06/2026 → -
+- Luka Jashiashvili (Greifswalder FC II): 30/06/2026 → -
+- Tom Voß (Greifswalder FC II): 30/06/2026 → -
+- Tino Lenker (Penzliner SV): 30/06/2026 → -
+- Malte Rabenhorst (Penzliner SV): 30/06/2026 → -
+- Leonardo Berni Canani (Sampdoria Primavera): - → 30/06/2028
+- Richard Fassinger (Penzliner SV): 30/06/2026 → -
+- Moritz Horn (Penzliner SV): 30/06/2026 → -
+- Max Schwenn (Penzliner SV): 30/06/2026 → -
+- Robin Kuchenbecker (Penzliner SV): 30/06/2026 → -
+- Max Rocher (Penzliner SV): 30/06/2026 → -
+- Max Luca Ax (Penzliner SV): 30/06/2026 → -
+- William Tews (Penzliner SV): 30/06/2026 → -
+- Ludovico Gori (Albalonga): 30/06/2026 → 30/06/2027
+- Gabriel Santoni (Atletico Lodigiani): 30/06/2026 → 30/06/2027
+- Linus Schlüter (MSV Pampow): 30/06/2026 → -
+- Jacob Rühlke (MSV Pampow): 30/06/2026 → -
+- Thilo Wunrau (MSV Pampow): 30/06/2026 → -
+- Silvan Teudt (MSV Pampow): 30/06/2026 → -
+- Matteo Izzo (Venezia Primavera): 01/07/2026 → -
+- Alexander Müller (MSV Pampow): 30/06/2026 → -
+- Tobias Werk (Rostocker FC 1895): 30/06/2026 → -
+- Alessio Gulinatti (Varesina Calcio): 30/06/2026 → -
+- Jonas Blanck (Rostocker FC 1895): 30/06/2026 → -
+- Boris Broyan (Rostocker FC 1895): 30/06/2026 → -
+- Herbert Lübbe (Rostocker FC 1895): 30/06/2026 → -
+- Tom Werbun (Rostocker FC 1895): 30/06/2026 → -
+- Paul-Erik Asmus (Rostocker FC 1895): 30/06/2026 → -
+- Marco Bragotto (Casatese Merate): 30/06/2026 → -
+- Mattia Cucchi (Casatese Merate): 30/06/2026 → -
+- Alessio Pozzoli (Casatese Merate): 30/06/2026 → -
+- Adnan Siljic (Rostocker FC 1895): 30/06/2026 → -
+- Philipp Puls (SV Warnemünde): 30/06/2026 → -
+- Giorgio Losa (Casatese Merate): 30/06/2026 → -
+- Sebastian Stein (SV Warnemünde): 30/06/2026 → -
+- Farell Witt (SV Warnemünde): 30/06/2026 → -
+- Nils Hilbert (SV Warnemünde): 30/06/2026 → -
+- Omar Shaker (Pro Vercelli Primavera): 30/06/2026 → -
+- Aleksandre Pirtskhalava (SV Warnemünde): 30/06/2026 → -
+- Moaz Hany Sayed Mahdey Hillal (SV Warnemünde): 30/06/2026 → -
+- Hannes-Ole Lau (SV Hafen Rostock): 30/06/2026 → -
+- Jan-Niklas Groth (SV Hafen Rostock): 30/06/2026 → -
+- Moritz Emil Peetz (SV Hafen Rostock): 30/06/2026 → -
+- Filippo Galafassi (Pro Sesto 1913): 20/06/2027 → 30/06/2027
+- Colin Neitzel (SV Hafen Rostock): 30/06/2026 → -
+- John Marvin Kruse (SV Hafen Rostock): 30/06/2026 → -
+- Magnus Felipe Krause (SV Hafen Rostock): 30/06/2026 → -
+- Guilherme Lima (SV Hafen Rostock): 30/06/2026 → -
+- Lenhard Knaak (Doberaner FC): 30/06/2026 → -
+- Niccolò Romero (Varese FC): 30/06/2026 → -
+- Stefano Samaden (USD Castellanzese 1921): 30/06/2026 → 30/06/2027
+- Filippo Battistini (Correggese Calcio 1948): 30/06/2026 → -
+- Giorgio Cappellari (Padova Primavera): 30/06/2026 → -
+- Jakub Nowiński (Wisla Krakow II): 30/06/2026 → -
+- Michał Prochwicz (Wisla Krakow II): 30/06/2026 → -
+- Adrian Rodado (Wisla Krakow II): 30/06/2026 → -
+- Piotr Lazarz (KSZO Ostrowiec Swietokrzyski): 30/06/2026 → -
+- Blazej Radwanek (Wislanie Skawina): 30/06/2026 → -
+- Simon Einzinger (TSC Neuendettelsau): 30/06/2026 → -
+- Simon Zenker (TSC Neuendettelsau): 30/06/2026 → -
+- Oliver Moll (TSC Neuendettelsau): 30/06/2026 → -
+- Alexander Roth (TSC Neuendettelsau): 30/06/2026 → -
+- Adam Roth (TSC Neuendettelsau): 30/06/2026 → -
+- Jochen Roth (TSC Neuendettelsau): 30/06/2026 → -
+- Dennis Avramovic (TSC Neuendettelsau): 30/06/2026 → -
+- Moritz Herboldsheimer (TSC Neuendettelsau): 30/06/2026 → -
+- Moritz Ortner (TSC Neuendettelsau): 30/06/2026 → -
+- Michael Arnold (TSC Neuendettelsau): 30/06/2026 → -
+- Felipe Adler (TSC Neuendettelsau): 30/06/2026 → -
+- Ricardo Mountzouris (TSC Neuendettelsau): 30/06/2026 → -
+- Julius Schöniger (TSC Neuendettelsau): 30/06/2026 → -
+- Louis Hirschmann (TSC Neuendettelsau): 30/06/2026 → -
+- Leon Reichel (TSC Neuendettelsau): 30/06/2026 → -
+- Paul Beil (TSC Neuendettelsau): 30/06/2026 → -
+- Maximilian Hirschmann (TSC Neuendettelsau): 30/06/2026 → -
+- Kilian Kress (TSC Neuendettelsau): 30/06/2026 → -
+- Alexander Strauß (TSC Neuendettelsau): 30/06/2026 → -
+- Lachie Charles (Oakleigh Cannons FC): 30/06/2028 → 31/12/2026
+- Davide De Marino (Nuova Ternana 1925): 30/06/2027 → 30/06/2028
+- Arion Sulemani (Oakleigh Cannons FC): 30/06/2027 → -
+- Gabriele Battistoni (ASD Tau Calcio Altopascio): 30/06/2027 → 30/06/2028
+- Moritz Weis (SV Unterreichenbach): 30/06/2026 → -
+- Luis Brisske (SV Unterreichenbach): 30/06/2026 → -
+- Jan Latzko (SV Unterreichenbach): 30/06/2026 → -
+- Jakob Hechtel (SV Unterreichenbach): 30/06/2026 → -
+- Armin Danninger (SV Unterreichenbach): 30/06/2026 → -
+- Lukas Frauenknecht (SV Unterreichenbach): 30/06/2026 → -
+- Jonas Bömoser (SV Unterreichenbach): 30/06/2026 → -
+- Christian Rauchfuß (SV Unterreichenbach): 30/06/2026 → -
+- Marvin Jeltsch (SV Unterreichenbach): 30/06/2026 → -
+- Jonas Brechtelsbauer (SV Unterreichenbach): 30/06/2026 → -
+- Markus Stahl (SV Unterreichenbach): 30/06/2026 → -
+- Soner Uluca (SV Unterreichenbach): 30/06/2026 → -
+- David Bub (SV Unterreichenbach): 30/06/2026 → -
+- Timo Rödig (SV Unterreichenbach): 30/06/2026 → -
+- Fabian Klarner (SV Unterreichenbach): 30/06/2026 → -
+- Lukas Pöperny (SV Unterreichenbach): 30/06/2026 → -
+- Xaver Distler (SV Unterreichenbach): 30/06/2026 → -
+- Stefan Brechtelsbauer (SV Unterreichenbach): 30/06/2026 → -
+- Emanuele Galli (Sasso Marconi 1924): 30/06/2026 → 30/06/2027
+- Claudio Gentile (ASD Grassina): - → 30/06/2027
+- Brian Rodríguez (CF América): 30/06/2029 → 30/06/2030
+- Christian Tok (FC Pesch): 30/06/2026 → -
+- Klaos Yzellari (FC Pesch): 30/06/2026 → -
+- Chang-yoon Woo (FC Pesch): 30/06/2026 → -
+- Yuichiro Kichize (FC Pesch): 30/06/2026 → -
+- Ergün Yildiz (FC Pesch): 30/06/2026 → -
+- Iskender Papazoglu (FC Pesch): 30/06/2026 → -
+- Julian Roloff (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Gerrit Heinisch (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Lukas Stegemann (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Niko Janssen (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Laurin Jung (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Niklas Rohde (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Jason Pochert (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Michael Hamacher (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Lorenz Drobnica (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Fabio Freericks (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Taha Kökboyun (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Lucas Lützeler (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Jacob Jansen (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Amadeo Freericks (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Prence Mvutu (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Niclas Hoppe (SV Grün-Weiß Brauweiler): 30/06/2026 → -
+- Nicolas Tischler (FV Bad Honnef): 30/06/2026 → -
+- Jonathan Troidl (FV Bad Honnef): 30/06/2026 → -
+- Tim Robin Zimmermann (FV Bad Honnef): 30/06/2026 → -
+- Nicholas Caspar (FV Bad Honnef): 30/06/2026 → -
+- Edward Penner (FV Bad Honnef): 30/06/2026 → -
+- Maximilian Stang (FV Bad Honnef): 30/06/2026 → -
+- Daron Cakmakci (FV Bad Honnef): 30/06/2026 → -
+- Eladan Islamovic (FV Bad Honnef): 30/06/2026 → -
+- Markus Wiemer (FV Bad Honnef): 30/06/2026 → -
+- Nikola Markovski (FV Bad Honnef): 30/06/2026 → -
+- Fritz Spürkel (FV Bad Honnef): 30/06/2026 → -
+- David Rodríguez (Atlético de San Luis): - → 31/12/2026
+- Elhan Islamovic (FV Bad Honnef): 30/06/2026 → -
+- Ilias Cadi (FV Bad Honnef): 30/06/2026 → -
+- Sven Brand (FV Bad Honnef): 30/06/2026 → -
+- Timo Balte (FV Bad Honnef): 30/06/2026 → -
+- Marco Poetes (FV Bad Honnef): 30/06/2026 → -
+- Jan Zoller (FV Bad Honnef): 30/06/2026 → -
+- Asonganyi Defang (FV Bad Honnef): 30/06/2026 → -
+- Jan-Carl Schmitz (FV Bad Honnef): 30/06/2026 → -
+- Ilias Lelo (FV Bad Honnef): 30/06/2026 → -
+- Malte Eisberg (FV Bonn-Endenich 08): 30/06/2026 → -
+- Sven Schöneseiffen (FV Bonn-Endenich 08): 30/06/2026 → -
+- Burak Koyuncu (FV Bonn-Endenich 08): 30/06/2026 → -
+- Alexandros Liontos (FV Bonn-Endenich 08): 30/06/2026 → -
+- Nils-Simon Remagen (FV Bonn-Endenich 08): 30/06/2026 → -
+- Fabio Ferreira-Böcker (FV Bonn-Endenich 08): 30/06/2026 → -
+- Daniel Lingen (FV Bonn-Endenich 08): 30/06/2026 → -
+- Aboubakr Isdayrah (FV Bonn-Endenich 08): 30/06/2026 → -
+- Jan Werner (FV Bonn-Endenich 08): 30/06/2026 → -
+- Malek Bouabdallah (FV Bonn-Endenich 08): 30/06/2026 → -
+- Sidar-Ali Simsik (FV Bonn-Endenich 08): 30/06/2026 → -
+- Elias Bosbach (FV Bonn-Endenich 08): 30/06/2026 → -
+- Alihan Zor (FV Bonn-Endenich 08): 30/06/2026 → -
+- Marouan Ahardane (FV Bonn-Endenich 08): 30/06/2026 → -
+- Amin Haj-Yahya (FV Bonn-Endenich 08): 30/06/2026 → -
+- Saint-Ric Batantou (FV Bonn-Endenich 08): 30/06/2026 → -
+- Andrew Schmidt (FV Bonn-Endenich 08): 30/06/2026 → -
+- Matteo Tessarolo (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Muhammed-Mikail Alkan (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Philipp Rüttgers (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Tom Hillenbach (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Moritz Becker (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Lukas Grünberg (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Felix Adamietz (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Sebastian Ramspott (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Henry Schäumer (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Finley Friedrichs (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Dogukan Bülbül (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Ricardo Bauerfeind (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Fritz Schäfer (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Kilian Seinsche (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Niklas Goße (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Ritsuki Oyama (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Niklas Clemens (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Mouad Zaki (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Felix Klein (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Joscha Trommler (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Dennis Kania (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Caleb Murphy (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Robin Brummenbaum (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Felix Maximilian Sievers (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Mike Großberndt (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Dean-Robin Paes (SSV Homburg-Nümbrecht): 30/06/2026 → -
+- Jannis Häck (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Felix Ludger Esser (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Thomas Liesenberg (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Luis Sánchez (CF Atlante): - → 31/05/2027
+- Marco Dolenga (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Emil Gebelhoff (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Tom Gummich (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Oliver Bering (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Lars Schupp (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Marco Schaaf (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Claas-Christian Paulsen (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Vincent Reinke (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Lukas Dolling (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Mirko Wiersch (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Friedrich Schultewolter (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Yannic Paul (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Michael Kötting (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Simon Bloess (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Paulo Flender (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Moritz Blumenthal (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Fabio Dopierala (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Ben König (SC Blau-Weiß Köln 06): 30/06/2026 → -
+- Leon Tenten (TuS Marialinden): 30/06/2026 → -
+- Sebastian Smolka (TuS Marialinden): 30/06/2026 → -
+- Niklas Jurek (TuS Marialinden): 30/06/2026 → -
+- Kilian Lauff (TuS Marialinden): 30/06/2026 → -
+- Rene Engelbertz (TuS Marialinden): 30/06/2026 → -
+- Melvin Schmidt (TuS Marialinden): 30/06/2026 → -
+- Julian Schwarz (TuS Marialinden): 30/06/2026 → -
+- Pascal Peters (TuS Marialinden): 30/06/2026 → -
+- Nick Unterbäumer (TuS Marialinden): 30/06/2026 → -
+- Luke Roggendorf (TuS Marialinden): 30/06/2026 → -
+- Vincent Link (TuS Marialinden): 30/06/2026 → -
+- Simon Kraus (TuS Marialinden): 30/06/2026 → -
+- Nico Stracken (TuS Marialinden): 30/06/2026 → -
+- Sezgin Kanli (TuS Marialinden): 30/06/2026 → -
+- Luke Janzen (TuS Marialinden): 30/06/2026 → -
+- Abdellah Rabhi (TuS Marialinden): 30/06/2026 → -
+- Andre Peters (TuS Marialinden): 30/06/2026 → -
+- Carlos Nieto Y Schötz (TuS Marialinden): 30/06/2026 → -
+- Patrick Alexander Močan (TuS Marialinden): 30/06/2026 → -
+- Mike Jacke (TuS Marialinden): 30/06/2026 → -
+- Roger Schäfer (TuS Marialinden): 30/06/2026 → -
+- Elias Albert Dresen (TuS Mondorf): 30/06/2026 → -
+- Kilian Schmid (TuS Mondorf): 30/06/2026 → -
+- Gerrit Vos (TuS Mondorf): 30/06/2026 → -
+- Simon Krämer (TuS Mondorf): 30/06/2026 → -
+- Aaron Wieland (TuS Mondorf): 30/06/2026 → -
+- Moritz Arnold (TuS Mondorf): 30/06/2026 → -
+- Justin Kürten (TuS Mondorf): 30/06/2026 → -
+- Jonathan Partheil (TuS Mondorf): 30/06/2026 → -
+- Nachwone Zio (TuS Mondorf): 30/06/2026 → -
+- Nico Schönborn (TuS Mondorf): 30/06/2026 → -
+- Luca Leon Viola (TuS Mondorf): 30/06/2026 → -
+- Ioannis Simeonidis (TuS Mondorf): 30/06/2026 → -
+- Ilias Tazit (TuS Mondorf): 30/06/2026 → -
+- Aljoshua Berger (TuS Mondorf): 30/06/2026 → -
+- Haytam Bouskouchi (TuS Mondorf): 30/06/2026 → -
+- Aboubacar Sidiki Sylla (TuS Mondorf): 30/06/2026 → -
+- Zakaria Harrach (TuS Mondorf): 30/06/2026 → -
+- Kacper Majchrowski (SC Rheinbach): 30/06/2026 → -
+- Aykut Esenkar (SC Rheinbach): 30/06/2026 → -
+- Eliman Nicole (SC Rheinbach): 30/06/2026 → -
+- Nico Dzierzok (SC Rheinbach): 30/06/2026 → -
+- Kaan Demir (SC Rheinbach): 30/06/2026 → -
+- Mehmet-Ali Demir (SC Rheinbach): 30/06/2026 → -
+- Georgios Athanasiadis (SC Rheinbach): 30/06/2026 → -
+- Mohammed Bakkali (SC Rheinbach): 30/06/2026 → -
+- Ismael Maloko (SC Rheinbach): 30/06/2026 → -
+- Beqir Vatovci (SC Rheinbach): 30/06/2026 → -
+- Marius Samoura (SC Rheinbach): 30/06/2026 → -
+- Tolga Kahveci (SC Rheinbach): 30/06/2026 → -
+- Adriano Giarrizzo (SC Rheinbach): 30/06/2026 → -
+- Ivan Irmiev (SC Rheinbach): 30/06/2026 → -
+- Dannyking Kafunda-Beya (SC Rheinbach): 30/06/2026 → -
+- Stefan Ristovski (SC Rheinbach): 30/06/2026 → -
+- Kei Saito (SC Rheinbach): 30/06/2026 → -
+- Marvin Walther (SC Rheinbach): 30/06/2026 → -
+- Fabian Kaczmarek (SC Rheinbach): 30/06/2026 → -
+- Elvin Jashari (SC Rheinbach): 30/06/2026 → -
+- Justin Broy (FV Wiehl): 30/06/2026 → -
+- Ron Lony (FV Wiehl): 30/06/2026 → -
+- Kevin Derksen (FV Wiehl): 30/06/2026 → -
+- Bastian Schwarz (FV Wiehl): 30/06/2026 → -
+- Yekcan Rupak Yildirim (FV Wiehl): 30/06/2026 → -
+- Louis Usko (FV Wiehl): 30/06/2026 → -
+- Rene Gailowitz (FV Wiehl): 30/06/2026 → -
+- Finn Morgan Hartmann (FV Wiehl): 30/06/2026 → -
+- Gino Lanfranco (FV Wiehl): 30/06/2026 → -
+- Niclas Tim Zeder (FV Wiehl): 30/06/2026 → -
+- Toni Skoro (FV Wiehl): 30/06/2026 → -
+- Yannick Zwiebel (FV Wiehl): 30/06/2026 → -
+- Vinzent Stoffel (FV Wiehl): 30/06/2026 → -
+- Marvin Bollow (FV Wiehl): 30/06/2026 → -
+- Alexander Marks (FV Wiehl): 30/06/2026 → -
+- Jordy Schurzmann (FV Wiehl): 30/06/2026 → -
+- Yannik Clemens (FV Wiehl): 30/06/2026 → -
+- Justus Dabringhausen (FV Wiehl): 30/06/2026 → -
+- Alican Gültekin (FV Wiehl): 30/06/2026 → -
+- Jan Peters (FV Wiehl): 30/06/2026 → -
+- Florian Liebelt (FV Wiehl): 30/06/2026 → -
+- Paul Christian Neuendorff (FV Wiehl): 30/06/2026 → -
+- René Monjeamb (1.FC Spich): 30/06/2026 → -
+- Dennis Pastoors (1.FC Spich): 30/06/2026 → -
+- Felix Seidel (1.FC Spich): 30/06/2026 → -
+- Aaron Streib (1.FC Spich): 30/06/2026 → -
+- Till Wieczorek (1.FC Spich): 30/06/2026 → -
+- Baris Bilgic (1.FC Spich): 30/06/2026 → -
+- Kevin Suchy (1.FC Spich): 30/06/2026 → -
+- Anil Tasdemir (1.FC Spich): 30/06/2026 → -
+- Nelson Campodonico (1.FC Spich): 30/06/2026 → -
+- Nabil Ousmane (1.FC Spich): 30/06/2026 → -
+- Enrico Korkmaz (1.FC Spich): 30/06/2026 → -
+- Ege Sentop (1.FC Spich): 30/06/2026 → -
+- Niclas Hoffmans (1.FC Spich): 30/06/2026 → -
+- Fabian Welt (1.FC Spich): 30/06/2026 → -
+- Mohamed Madaghri (1.FC Spich): 30/06/2026 → -
+- Patrick Kuske (SV Schlebusch): 30/06/2026 → -
+- Ananya Tererefne (SV Schlebusch): 30/06/2026 → -
+- David Matusinski (SV Schlebusch): 30/06/2026 → -
+- Maximilian Kuster (SV Schlebusch): 30/06/2026 → -
+- Ensar Taskiran (SV Schlebusch): 30/06/2026 → -
+- Mohammed Yassin Lectibi (SV Schlebusch): 30/06/2026 → -
+- Noah Gonschior (SV Schlebusch): 30/06/2026 → -
+- Murat Aydin (SV Schlebusch): 30/06/2026 → -
+- Melfraxave Chuisse (SV Schlebusch): 30/06/2026 → -
+- Kota Kudo (SV Schlebusch): 30/06/2026 → -
+- Dennis Reeke (SV Schlebusch): 30/06/2026 → -
+- Sebastian Bamberg (SV Schlebusch): 30/06/2026 → -
+- Konrad Igor Gierlak (SV Schlebusch): 30/06/2026 → -
+- Nikolas Klosterhalfen (TuS 05 Oberpleis): 30/06/2026 → -
+- Luis Gjini (FC BW Friesdorf): 30/06/2026 → -
+- Mouhanad Aldakak (FC BW Friesdorf): 30/06/2026 → -
+- Yassir Bentassil (FC BW Friesdorf): - → 30/06/2027
+- Mark Kwarteng (FC BW Friesdorf): 30/06/2026 → -
+- Argent Thaqaj (FC BW Friesdorf): 30/06/2026 → -
+- Sami Berhausen (FC BW Friesdorf): 30/06/2026 → -
+- Abdelmalek El-Mellal (FC BW Friesdorf): 30/06/2026 → -
+- Julius Flachsbarth (FC BW Friesdorf): 30/06/2026 → -
+- Jeremy Julian (FC BW Friesdorf): 30/06/2026 → -
+- Elias Pitak (SK Slavia Prague): - → 30/06/2031
+- Hugo Sochurek (AC Sparta Praha): - → 30/06/2030
+- Adam Karabec (AC Sparta Praha): - → 30/06/2028
+- Marian Tvrdon (FC Viktoria Plzen): 30/06/2026 → -
+- Adam Zadrazil (FC Hradec Kralove): 30/06/2028 → 30/06/2031
+- Vaclav Drchal (FK Pardubice): - → 30/06/2029
+- Filip Brdicka (FK Pardubice): 30/06/2026 → -
+- Vakhtang Chanturishvili (FK Jablonec): 30/06/2027 → 30/06/2029
+- Ahmad Raafat (1.Hanauer FC 93): 30/06/2026 → -
+- Erik Kraus (1.Hanauer FC 93): 30/06/2026 → -
+- Noah Yeya Ayoubi (1.Hanauer FC 93): - → 30/06/2027
+- Soufiane Aamirach (1.Hanauer FC 93): 30/06/2026 → -
+- Patrick Zech (1.Hanauer FC 93): 30/06/2026 → -
+- Noel Feselmayer (1.Hanauer FC 93): 30/06/2026 → -
+- Yannik Dauth (SG Bornheim/GW): - → 30/06/2027
+- Ben Schwarz (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Mohamed Adda (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Ondrej Karafiat (FK Mlada Boleslav): - → 30/06/2028
+- Denis Donat (FK Mlada Boleslav): 30/06/2027 → -
+- Paul Marti Kern (SG Bornheim/GW): - → 30/06/2027
+- Diego Jansen (SG Bornheim/GW): 30/06/2026 → 30/06/2027
+- Cristiano Koffi (SG Bornheim/GW): - → 30/06/2027
+- Solomon John (FK Mlada Boleslav): 30/06/2026 → 30/06/2029
+- Lucas Kühn (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Fabian Frieß (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Tom Schulz (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Alex Weippert (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Tolga Talha Ünal (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Giuseppe Serra (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Jan Hertrich (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Nelio Rufino (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Jan Buryan (FK Mlada Boleslav): - → 30/06/2028
+- Philipp Beinenz (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Chawis Jitkawinkul (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Marvin Heinz (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Samir Ramadani (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Niklas Scherg (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Nico Wegmann (Sportfreunde Seligenstadt): 30/06/2026 → -
+- John Betz (Sportfreunde Seligenstadt): 30/06/2026 → -
+- Enver Osmanovic (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Dimitrios Gkioulmetaroglou (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Alexandros Theodosiadis (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Fabio Buscemi (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Jassine Sekkali (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Canel Burcu (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Denis Mangafic (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Justin Pierre (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Filip Cirpaci (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Fabrice Otero Matthaei (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Jeremiah Mensah (DJK Sportfreunde Bad Homburg): 30/06/2026 → -
+- Kai Klug (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Erik Dejak (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Esay Tukou (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Davide Cantavenera (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Georgi Georgiev (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Paul Hillner (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Moussa Meziani (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Batuhan Özyürek (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Leo Deula (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Towa Itamoto (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Alexander Koziolek (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Luka Cabraja (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Joel Mensah (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- Sinan Salih (SG Rot-Weiss Frankfurt): 30/06/2026 → -
+- David Volk (Germania Ober-Roden): 30/06/2026 → -
+- Jerome Czaronek (Germania Ober-Roden): 30/06/2026 → -
+- Marius Heinlein (Germania Ober-Roden): 30/06/2026 → -
+- Jannik Treber (Germania Ober-Roden): 30/06/2026 → 30/06/2027
+- Özgün Tatar (Germania Ober-Roden): 30/06/2026 → -
+- Jashari Drilon (Germania Ober-Roden): 30/06/2026 → 30/06/2027
+- Benedikt Krall (Germania Ober-Roden): 30/06/2026 → -
+- Maik Neuendorf (Germania Ober-Roden): 30/06/2026 → -
+- Fabian Geyer (Germania Ober-Roden): 30/06/2026 → -
+- Mervan Emir (Germania Ober-Roden): 30/06/2026 → -
+- Muhamad Ashriam (Germania Ober-Roden): 30/06/2026 → -
+- Arvin Hoffmann (Germania Ober-Roden): 30/06/2026 → -
+- Hakan Firat (Germania Ober-Roden): 30/06/2026 → -
+- Johannes Günther (Germania Ober-Roden): 30/06/2026 → -
+- Sena Tetsumoto (Germania Ober-Roden): 30/06/2026 → -
+- Loris-Seree Lang (Germania Ober-Roden): 30/06/2026 → -
+- Abdulrahman Sancak (Germania Ober-Roden): 30/06/2026 → -
+- Jonas Dapp (Germania Ober-Roden): 30/06/2026 → -
+- Arian Hamidkhani (Germania Ober-Roden): 30/06/2026 → -
+- Colin Falk (Germania Ober-Roden): 30/06/2026 → -
+- Daniel Gruber (Germania Ober-Roden): 30/06/2026 → -
+- Marc Züge (Germania Ober-Roden): 30/06/2026 → -
+- Dennis Cerveny (Germania Ober-Roden): 30/06/2026 → -
+- Carlos Fernandez (Kickers Offenbach II): 30/06/2026 → -
+- Sergen Türker (Kickers Offenbach II): 30/06/2026 → -
+- Davide Santoro (Kickers Offenbach II): 30/06/2026 → -
+- Masar Qosa (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Philip Jacobs (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Dejan Alempic (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Marcel Titsch Rivero (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Sinisa Alempic (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Damjan Balic (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Gianluca Alessandro (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Ilyass Mirroche (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Yassin El Haddoudi (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Noah Vuko (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Kays Iraqi (SV Pars Neu-Isenburg): 30/06/2026 → -
+- Delano Aurel Aslan (SC Dortelweil): 30/06/2026 → -
+- Yannik Rühl (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Visar Gashi (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Aurel Veit (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Mohamed El Allaoui (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Philipp Wörner (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Shahram Hashemi (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Samrawi Semeriab Berhe (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Dominik Schlatter (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Oliver Steffen (SC Dortelweil): 30/06/2026 → -
+- Dominik Steffen (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Maurice Reininger (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Nico Gasch (SC Dortelweil): 30/06/2026 → -
+- Gyasi Groß (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Marvin Strenger (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Bennet Batton (SC Dortelweil): 30/06/2026 → 30/06/2027
+- Sam Rebner (SV Rot-Weiss Walldorf II): 30/06/2026 → -
+- Samuel Adu (FC Kalbach): 30/06/2026 → -
+- Maximilian Motsch (FC Kalbach): 30/06/2026 → -
+- Moritz Uppenkamp (FC Kalbach): 30/06/2026 → -
+- Anthony Wade (FC Kalbach): 30/06/2026 → -
+- Eldin Kurtanovic (SV Bosnien und Herzegowina Frankfurt): 30/06/2026 → -
+- Ivan Dujmovic (SV Bosnien und Herzegowina Frankfurt): 30/06/2026 → -
+- Muzafer Ivkovic (SV Bosnien und Herzegowina Frankfurt): 30/06/2026 → -
+- Semir Mulalic (SV Bosnien und Herzegowina Frankfurt): 30/06/2026 → -
+- Boubacar Dialiba (SV Bosnien und Herzegowina Frankfurt): 30/06/2026 → -
+- Adis Hasecic (SV Bosnien und Herzegowina Frankfurt): 30/06/2026 → -
+- Secouba Diatta (SV Bosnien und Herzegowina Frankfurt): 30/06/2026 → -
+- Tarik Mujovic (SV Bosnien und Herzegowina Frankfurt): 30/06/2026 → -
+- Florian Schmitt (SpVgg Neu-Isenburg): 30/06/2026 → -
+- Ouassim Abardah (SpVgg Neu-Isenburg): 30/06/2026 → -
+- Hicham Ouchan (VfB Ginsheim): 30/06/2026 → -
+- Paul Pfeffer (VfB Ginsheim): 30/06/2026 → -
+- Jonathan Janz (VfB Ginsheim): 30/06/2026 → -
+- Giuseppe Carbone (VfB Ginsheim): 30/06/2026 → -
+- Lenny Schierenberg (VfB Ginsheim): 30/06/2026 → -
+- Maximilian Gross (VfB Ginsheim): 30/06/2026 → -
+- Andrej Ruder (VfB Ginsheim): 30/06/2026 → -
+- Tobias Kolb (VfB Ginsheim): 30/06/2026 → -
+- Mehmet Yildiz (VfB Ginsheim): 30/06/2026 → -
+- Ben Deselaers (VfR Fehlheim): 30/06/2026 → -
+- Cassidy Royo (VfR Fehlheim): 30/06/2026 → -
+- Tuan Stefanov (VfR Fehlheim): 30/06/2026 → -
+- Fin Lüderwald (VfR Fehlheim): 30/06/2026 → -
+- Damiano Gruner (VfR Fehlheim): 30/06/2026 → -
+- Mark Vrba (VfR Fehlheim): 30/06/2026 → -
+- Tim Hechler (VfR Fehlheim): 30/06/2026 → -
+- Faruk Emre Helvaci (VfR Fehlheim): 30/06/2026 → -
+- Brian Rodríguez (CF América): 30/06/2029 → 30/06/2030
+- Kaleve Maxwell (Polonia Warsaw U19): 30/06/2026 → -
+- Tim Pfeiffer (FC Schalke 04 II): 30/06/2028 → 30/06/2027
+- Cenny Neumann (1.FC Köln II): 30/06/2027 → 30/06/2028
+- Pascal Manitz (Sportfreunde Siegen): 30/06/2028 → 30/06/2027
+- Robin Bormuth (Sportfreunde Siegen): - → 30/06/2028
+- David Rodríguez (Atlético de San Luis): - → 31/12/2026
+- David Stamm (SC Paderborn 07 II): 30/06/2026 → -
+- Tim Geller (SC Wiedenbrück): 30/06/2026 → -
+- Luis Sánchez (CF Atlante): - → 31/05/2027
+- Luis Altmayer (SV Bergisch Gladbach 09): 30/06/2026 → -
+- Mathias Hülsenbusch (SV Bergisch Gladbach 09): 30/06/2026 → -
+- Jonas Rücker (SV Bergisch Gladbach 09): 30/06/2026 → -
+- Joel Kouekem (SV Bergisch Gladbach 09): 30/06/2026 → -
+- Eray Sariaydin (SV Bergisch Gladbach 09): 30/06/2026 → -
+- Yadigar Dogan (SV Bergisch Gladbach 09): 30/06/2026 → -
+- Soufian Amaadacho (SV Bergisch Gladbach 09): 30/06/2026 → -
+- Finn Stromberg (SV Bergisch Gladbach 09): 30/06/2026 → -
+- Jonah Wagner (SV Westfalia Rhynern): 30/06/2026 → -
+- Robert Wójcik (Sleza Wroclaw): - → 30/06/2027
+- Nikodem Całko (Raków Częstochowa II): - → 30/06/2029
+- Jan Mordaka (Raków Częstochowa II): - → 30/06/2027
+- Kornel Dylewski (Warta Gorzow Wielkopolski): - → 30/06/2028
+- Marcin Kubacha (MKS Kluczbork): - → 30/06/2029
+- Davis Rath (Hamburger SV II): 30/06/2026 → -
+- Cezary Andrzejewski (Stilon Gorzow Wielkopolski): - → 30/06/2027
+- Marcel Pawłowski (Stilon Gorzow Wielkopolski): - → 30/06/2029
+- Vincenzo Chiocca (Fidelis Andria 2018): 30/06/2027 → 30/06/2028
+- Thure Fengler (SSV Jeddeloh II): 30/06/2026 → -
+- Hugo Brandes (SSV Jeddeloh II): 30/06/2026 → -
+- Alejandro Hernandez (Real Aversa 1925): 30/06/2027 → 30/06/2028
+- Arone Gadou (Stade Reims): 30/06/2027 → 30/06/2029
+- Bastian Fielsch (HSC Hannover): 30/06/2026 → -
+- Fabian Weigel (HSC Hannover): 30/06/2026 → -
+- Moritz Dittmann (HSC Hannover): 30/06/2026 → -
+- Leander Baar (HSC Hannover): 30/06/2026 → -
+- Paul Wegner (HSC Hannover): 30/06/2026 → -
+- Marcel Langer (HSC Hannover): 30/06/2026 → -
+- Lasse von Boetticher (HSC Hannover): 30/06/2026 → -
+- Denis Vukancic (HSC Hannover): 30/06/2026 → -
+- Yannik Pohlmann (HSC Hannover): 30/06/2026 → -
+- Tom Hausmann (HSC Hannover): 30/06/2026 → -
+- Mehmet Özün (HSC Hannover): 30/06/2026 → -
+- Evren Serbes (HSC Hannover): 30/06/2026 → -
+- Abou Fofana (Eimsbütteler TV): 30/06/2026 → -
+- Jon Pauli (Eimsbütteler TV): 30/06/2026 → -
+- Gabriel Baldé (Eimsbütteler TV): 30/06/2026 → -
+- Théo Chennahi (Montpellier HSC): 30/06/2028 → 30/06/2030
+- Laciné Megnan-Pavé (Montpellier HSC): 30/06/2028 → 30/06/2029
+- Marcel Marquardt (SV Atlas Delmenhorst): 30/06/2026 → -
+- Chafik El Hansar (AS Nancy-Lorraine): 30/06/2027 → 30/06/2028
+- Niklas Stehnck (SV Todesfelde): 30/06/2026 → -
+- Noah Odiase (SV Todesfelde): 30/06/2027 → 30/06/2028
+- Quentin Braat (Rodez AF): 30/06/2028 → 30/06/2029
+- Zaid Seha (USL Dunkerque): 30/06/2027 → 30/06/2028
+- Amet Korça (FC Cartagena): 30/06/2027 → -
+- Adel Lembezat (Dijon FCO): 30/06/2028 → 30/06/2029
+- Charlison Benschop (Fortuna Düsseldorf II): 30/06/2026 → -
+- Beyhan Ametov (SSVg Velbert 02): 30/06/2026 → -
+- Nolan Manassa (Ratingen 04/19): 30/06/2026 → -
+- Jimmy Atila (Ratingen 04/19): 30/06/2026 → -
+- Simon Skuppin (SpVg Schonnebeck): 30/06/2026 → -
+- Tim Schrick (SC St. Tönis 1911/20): 30/06/2026 → -
+- Kris Pöstges (SC St. Tönis 1911/20): 30/06/2026 → -
+- Lukas Stiels (SC St. Tönis 1911/20): 30/06/2026 → -
+- Adonis Milaj (SC St. Tönis 1911/20): 30/06/2026 → -
+- Kalle Grabek (TSV Meerbusch): 30/06/2026 → -
+- Leart Lahi (TSV Meerbusch): 30/06/2026 → -
+- Aaron Addo (TSV Meerbusch): 30/06/2026 → -
+- Mattia Majetic (TSV Meerbusch): 30/06/2026 → -
+- Micah Cain (TSV Meerbusch): 30/06/2026 → -
+- Olsi Shiba (SV Blau-Weiß Dingden): 30/06/2026 → -
+- Johannes Buers (SV Blau-Weiß Dingden): 30/06/2026 → -
+- Rudy Matondo (Paris FC): 30/06/2028 → 30/06/2030
+- Noah Schulz (SV Blau-Weiß Dingden): 30/06/2026 → -
+- Luka Grlic (SV Blau-Weiß Dingden): 30/06/2026 → -
+- Robin Volmering (SV Blau-Weiß Dingden): 30/06/2026 → -
+- Fabrice Kempe (SV Blau-Weiß Dingden): 30/06/2026 → -
+- Mohamed Salman (SV Blau-Weiß Dingden): 30/06/2026 → -
+- Maurice Bender (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Lucas Esser (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Tim Kosmala-Mones (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Tim Heubach (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Justin Francis (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Jochen Schumacher (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Vincent Zajaczkowski (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Jeremy Gaudian (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Sebastian Wilms (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Dragan Kalkan (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Alexander Leon Hahn (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Tobias Lippold (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Benjamin Schütz (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Paul Gelber (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Kevin Rubaszewski (VfL Jüchen-Garzweiler): 30/06/2026 → -
+- Thorsten Pyka (SF Baumberg): 30/06/2026 → -
+- Tim Knetsch (SF Baumberg): 30/06/2026 → -
+- Thorben Kern (Schwarz-Weiß Essen): 30/06/2026 → -
+- David Weinbender (Schwarz-Weiß Essen): 30/06/2026 → -
+- Théo Le Bris (FC Lorient): 30/06/2027 → 30/06/2029
+- Kai Schneider (1.FC Monheim): 30/06/2026 → -
+- Isaac Ferreira Zufelde (1.FC Monheim): 30/06/2026 → -
+- Mamadou Koné (FC Lorient): - → 30/06/2030
+- Atahan Cerrahoglu (1.FC Monheim): 30/06/2026 → -
+- Maurice Röttgen (1.FC Monheim): 30/06/2026 → -
+- Jannik Hinsenkamp (SV Sonsbeck): 30/06/2026 → -
+- Christoph Elspaß (SV Sonsbeck): 30/06/2026 → -
+- Semih Güngör (SV Sonsbeck): 30/06/2026 → -
+- Timo Lehmkuhl (SV Sonsbeck): 30/06/2026 → -
+- Niklas Binn (SV Sonsbeck): 30/06/2026 → -
+- Marc Knops (FC Büderich): 30/06/2026 → -
+- Philipp Baum (FC Büderich): 30/06/2026 → -
+- Jamil Al Hussein (FC Büderich): 30/06/2026 → -
+- Nemanja Jorgic (FK TSC Backa Topola): 30/06/2026 → -
+- Maximilian Köhler (FC Büderich): 30/06/2026 → -
+- Yasin Pirnal (FC Büderich): 30/06/2026 → -
+- Kaies Alaisame (FC Büderich): 30/06/2026 → -
+- Glayne Wago (FC Büderich): 30/06/2026 → -
+- Mihajlo Milosavic (FK TSC Backa Topola): 30/06/2026 → -
+- Ryuji Kuwajima (Holzheimer SG): 30/06/2026 → -
+- Paul Wolf (Holzheimer SG): 30/06/2026 → -
+- Emre-Ilhan Caraj (Holzheimer SG): 30/06/2026 → -
+- Stefan Vilotic (FK Javor-Matis Ivanjica): 30/06/2026 → -
+- Dusan Ristic (FK Javor-Matis Ivanjica): 30/06/2026 → -
+- Jasin Saiti (SV Scherpenberg): 30/06/2026 → -
+- Conner Wastian (SV Scherpenberg): 30/06/2026 → -
+- Strahinja Baucal (Graficar Belgrad): - → 30/06/2029
+- Ömer Akbel (SV Scherpenberg): 30/06/2026 → -
+- Nils Werner (SV Scherpenberg): 30/06/2026 → -
+- Gabriel Derikx (SV Scherpenberg): 30/06/2026 → -
+- Slavoljub Srnic (Graficar Belgrad): 30/06/2026 → -
+- Achraf Madi (FK Vozdovac): - → 30/06/2028
+- Quincy Tavares (FK Vozdovac): - → 30/06/2027
+- Nikola Lakic (FK Loznica): 30/06/2026 → -
+- Nenad Nikic (FK Borac 1926 Cacak): 30/06/2026 → -
+- Milan Kolarevic (FK Borac 1926 Cacak): 30/06/2026 → -
+- Lazar Majstorovic (FK Borac 1926 Cacak): 30/06/2026 → -
+- Ivan Jovanovic (FK Jedinstvo Ub): 30/06/2026 → -
+- Marko Miljkovic (FK Jedinstvo Ub): 30/06/2026 → -
+- Mihajlo Terzic (FK Jedinstvo Ub): 30/06/2026 → -
+- Richardson Kwaku Denzell (FK Jedinstvo Ub): 30/06/2026 → -
+- Diogo Ferreira (FK Jedinstvo Ub): 30/06/2026 → -
+- Bojan Mijailovic (FK Metalac Gornji Milanovac): 31/05/2026 → -
+- Tom Kelly (Strathspey Thistle FC): 30/06/2027 → -
+- James McShane (Strathspey Thistle FC): 30/06/2026 → -
+- Matheus Machado (Strathspey Thistle FC): 31/05/2028 → 01/01/2027
+- Liam Shewan (Strathspey Thistle FC): 30/06/2026 → -
+- Ross Draper (Brora Rangers FC): 31/05/2026 → -
+- Kacper Lewecki (Huntly FC): - → 31/05/2027
+- Kieran Yeats (Huntly FC): - → 31/05/2029
+- Cameron Heslop (Huntly FC): - → 30/06/2027
+- Matty Wallace (Huntly FC): - → 30/06/2027
+- Jack McKenzie (Huntly FC): - → 30/06/2029
+- Matthew McFarlane (Huntly FC): 30/06/2026 → 30/06/2029
+- Dylan Shaw (Huntly FC): - → 31/05/2029
+- Andy Hunter (Huntly FC): - → 30/06/2027
+- Ben Cormack (Clachnacuddin FC): 30/06/2026 → -
+- Fergus Adams (Clachnacuddin FC): 30/06/2026 → -
+- Jack Mackay (Clachnacuddin FC): 30/06/2026 → -
+- Greg Morrison (Clachnacuddin FC): 30/06/2026 → -
+- Jaydan Bradford (Deveronvale FC): 30/06/2026 → -
+- Jay Goldie (Deveronvale FC): 30/06/2026 → -
+- Max Stewart (Deveronvale FC): 30/06/2026 → -
+- Mikey Watson (Deveronvale FC): 30/06/2026 → -
+- Joshua Hawkins (Fraserburgh FC): - → 30/06/2027
+- Jamie MacLellan (Fraserburgh FC): - → 30/06/2027
+- Fraser Mackie (Fraserburgh FC): 31/05/2027 → 01/01/2027
+- Kyle Irvine (Banks O' Dee FC): 30/06/2026 → -
+- Darryn Kelly (Banks O' Dee FC): 30/06/2026 → -
+- Kyle Willox (Banks O' Dee FC): 31/05/2026 → -
+- Sylvain Djoho (FC Grand-Saconnex): - → 30/11/2026
+- Kane Winton (Banks O' Dee FC): 30/06/2026 → -
+- Max Alexander (Banks O' Dee FC): 30/06/2026 → -
+- Fraser Dingwall (Nairn County FC): 30/06/2026 → -
+- Kenny McKenzie (Nairn County FC): 30/06/2026 → -
+- Archie Kerr (Nairn County FC): 31/05/2027 → 01/01/2027
+- Jamie Carnihan (Nairn County FC): 30/06/2026 → -
+- Fraser Robertson (Nairn County FC): 31/05/2027 → -
+- Adrian Voigt (Nairn County FC): 31/05/2026 → 31/05/2028
+- Aaron Nicolson (Nairn County FC): 30/06/2027 → 31/05/2027
+- Liam MacDonald (Buckie Thistle FC): - → 31/05/2027
+- Callum Murray (Buckie Thistle FC): 30/06/2026 → -
+- Stuart Knight (Lossiemouth FC): 30/06/2026 → -
+- Alek Matczak (Lossiemouth FC): 31/05/2028 → 30/06/2029
+- Owen Loveland (Lossiemouth FC): 30/06/2026 → -
+- Brodie Allen (Lossiemouth FC): 30/06/2026 → 30/06/2030
+- Marc Coghill (Wick Academy FC): 30/06/2026 → -
+- Marc MacGregor (Wick Academy FC): 31/05/2026 → -
+- Davie Allan (Wick Academy FC): 30/06/2026 → -
+- Kyle Henderson (Wick Academy FC): 30/06/2026 → -
+- David Dey (Turriff United FC): 30/06/2026 → -
+- Andy Watt (Turriff United FC): 30/06/2026 → -
+- Jack Robertson (Inverurie Loco Works FC): — → 31/05/2027
+- Zack Ellis (Inverurie Loco Works FC): - → 30/06/2027
+- Blessing Oluyemi (Inverurie Loco Works FC): - → 30/06/2027
+- Greg Mitchell (Inverurie Loco Works FC): 30/06/2026 → -
+- Josh Buchan (Inverurie Loco Works FC): 30/06/2026 → -
+- Lloyd Robertson (Inverurie Loco Works FC): - → 30/06/2027
+- Callum Duncan (Inverurie Loco Works FC): 30/06/2026 → 30/06/2027
+- Blair Smith (Inverurie Loco Works FC): 30/06/2026 → 30/06/2027
+- Cole Anderson (Inverurie Loco Works FC): - → 30/06/2027
+- Jay Halliday (Inverurie Loco Works FC): - → 30/06/2027
+- Nathan Meres (Inverurie Loco Works FC): 30/06/2026 → 30/06/2027
+- Kaito Miyazaki (azul claro Numazu): 31/01/2026 → -
+- Kotaro Tokunaga (azul claro Numazu): 31/01/2026 → -
+- Enric (azul claro Numazu): 30/06/2026 → -
+- Calum Ledford (Keith FC): - → 31/05/2027
+- Kengo Kawamata (azul claro Numazu): 31/01/2026 → -
+- Murray Addison (Keith FC): 30/06/2026 → -
+- Liam Duncan (Keith FC): 30/06/2026 → -
+- Jo Hashimoto (Vonds Ichihara): 31/01/2026 → -
+- Mikey Taylor (Keith FC): 30/06/2026 → -
+- Saido Soura Douaou Nidala (SS Maceratese 1922): - → 30/06/2027
+- Yong-ji Park (ReinMeer Aomori): 31/01/2026 → -
+- Gian Marco Falocco (Angelana 1930): 30/06/2027 → -
+- Ryoma Hashimoto (Briobecca Urayasu-Ichikawa): 31/01/2026 → -
+- Nicola Vecchio (US Recanatese): 30/06/2026 → 30/06/2027
+- Taku Kamikawa (Yokogawa Musashino FC): 31/01/2026 → -
+- Atsuki Suetsugu (Yokogawa Musashino FC): 31/01/2026 → -
+- Haruki Nishimi (Yokogawa Musashino FC): 31/01/2026 → -
+- Daichi Kobayashi (Yokogawa Musashino FC): 31/01/2026 → -
+- Yuki Onodera (Yokogawa Musashino FC): 31/01/2026 → -
+- Danto Sugiyama (Yokogawa Musashino FC): 31/01/2026 → -
+- Shunsuke Yamazaki (Yokogawa Musashino FC): 31/01/2026 → -
+- Shun Torii (Yokogawa Musashino FC): 31/01/2026 → -
+- Shunto Ibi (Yokogawa Musashino FC): 31/01/2026 → -
+- Raiki Yoda (Yokogawa Musashino FC): 31/01/2026 → -
+- Kaito Nakada (Yokogawa Musashino FC): 31/01/2026 → -
+- Daiki Kawato (Yokogawa Musashino FC): 31/01/2026 → -
+- Kazuki Takahashi (Yokogawa Musashino FC): 31/01/2026 → -
+- Ukyo Hirano (Yokogawa Musashino FC): 31/01/2026 → -
+- Ryosuke Yamazaki (Yokogawa Musashino FC): 31/01/2026 → -
+- Koki Taguchi (Yokogawa Musashino FC): 31/01/2026 → -
+- Riku Yamada (Yokogawa Musashino FC): 31/01/2026 → -
+- Seiya Niizeki (Yokogawa Musashino FC): 31/01/2026 → -
+- Junya Baba (Yokogawa Musashino FC): 31/01/2026 → -
+- Eitaro Tsunoi (Maruyasu Okazaki): 31/01/2026 → -
+- Luca Quirino (Santegidiese 1948): 30/06/2026 → -
+- Sora Hosojima (Maruyasu Okazaki): 31/01/2026 → -
+- Kai Okajima (Maruyasu Okazaki): 31/01/2026 → -
+- Kazuma Eguchi (Maruyasu Okazaki): 31/01/2026 → -
+- Daiki Enomoto (Maruyasu Okazaki): 31/01/2026 → -
+- Yuta Aoki (Honda FC): 31/01/2026 → -
+- Shuki Okada (Honda FC): 31/01/2026 → -
+- Daiki Ikematsu (Honda FC): 31/01/2026 → -
+- Yusuke Kishida (Honda FC): 31/01/2026 → -
+- Yuta Hachinohe (Honda FC): 31/01/2026 → -
+- Daichi Miwa (Honda FC): 31/01/2026 → -
+- Go Takeda (Honda FC): 31/01/2026 → -
+- Koshiro Chibana (Honda FC): 31/01/2026 → -
+- Tappei Kawanami (Honda FC): 31/01/2026 → -
+- Kazuki Matsumoto (Honda FC): 31/01/2026 → -
+- Ryusei Kusakari (Honda FC): 31/01/2026 → -
+- Fumiya Matsuoka (Honda FC): 31/01/2026 → -
+- Toshiki Sasaki (Honda FC): 31/01/2026 → -
+- Ren Higashi (Honda FC): 31/01/2026 → -
+- Kenshin Iwakiri (Honda FC): 31/01/2026 → -
+- Akihiko Terada (Honda FC): 31/01/2026 → -
+- Riku Suzuki (Honda FC): 31/01/2026 → -
+- Reon Kodama (Honda FC): 31/01/2026 → -
+- Yuki Okazaki (Honda FC): 31/01/2026 → -
+- Yumenosuke Shoji (Honda FC): 31/01/2026 → -
+- Soki Tokuno (Tiamo Hirakata): 30/06/2027 → -
+- Kaito Kuwahara (MinebeaMitsumi FC): 31/01/2026 → -
+- Kaisei Kurita (MinebeaMitsumi FC): 31/01/2026 → -
+- Masaya Shibuya (MinebeaMitsumi FC): 31/01/2026 → -
+- Yuta Sakiyama (MinebeaMitsumi FC): 31/01/2026 → -
+- Takuto Kato (Okinawa SV): 31/01/2026 → -
+- Razack Rachidou (VSG Altglienicke): - → 30/06/2028
+- Ali Loune (FC Erzgebirge Aue): 01/07/2026 → 30/06/2027
+- Malik McLemore (1. FC Lokomotive Leipzig): 30/06/2026 → -
+- Timon Burmeister (FC Carl Zeiss Jena): 30/06/2027 → 30/06/2028
+- Ludwig Estermann (TSV 1860 München II): 30/06/2027 → 30/06/2028
+- Edon Krasniqi (TSV 1860 München II): 30/06/2027 → 30/06/2028
+- Justin Thönig (TSV 1860 München II): 30/06/2026 → 30/06/2027
+- Jaime Sherwood (Hertha BSC II): 30/06/2026 → -
+- Lucas Grancay (TSV 1860 München II): - → 30/06/2027
+- Emre Dursun (TSV 1860 München II): 30/06/2026 → 30/06/2027
+- Rron Gosalci (TSV 1860 München II): 30/06/2026 → -
+- Luis Pereira de Azambuja (TSV 1860 München II): - → 30/06/2027
+- Änis Ben-Hatira (Hertha BSC II): 30/06/2026 → -
+- Theo Ogbidi (SV Babelsberg 03): 30/06/2027 → 30/06/2028
+- Dominik Șoptirean (SV Erlbach): - → 30/06/2027
+- Malte Apel (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Noah Erasmy (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Stanislav Stepanchenko (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Simon Maurer (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Can Yavuz (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Moritz Jost (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Noah Schuch (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Paul Ziehme (SV Tasmania Berlin): 30/06/2026 → -
+- Jannis Hoffmann (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Daniel Yushkevich (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Soumah Morlaye (SV Eintracht Trier 05 II): 30/06/2026 → -
+- Philipp Bauer (SG Schneifel/Stadtkyll): - → 30/06/2027
+- Giovanni Vacca (SG Schneifel/Stadtkyll): 30/06/2026 → -
+- Khaen Fuchs (SG Schneifel/Stadtkyll): 30/06/2026 → -
+- Bardhaj Rron (SG 2000 Mülheim-Kärlich): 30/06/2026 → -
+- Niklas Wilmsmann (SG 2000 Mülheim-Kärlich): 30/06/2026 → -
+- Paul Platzek (SG 2000 Mülheim-Kärlich): 30/06/2026 → -
+- Gabriel Freimuth (TuS Geretsried): - → 30/06/2027
+- Tom Müllers (FC Bitburg): 30/06/2026 → -
+- Philippe Kusch (FC Bitburg): 30/06/2026 → -
+- Luke Wagner (FC Bitburg): 30/06/2026 → -
+- Tim Buchholz (TuS Kirchberg): 30/06/2026 → -
+- Maximilian Jannasch (TuS Kirchberg): 30/06/2026 → -
+- Tim Fothen (TuS Kirchberg): 30/06/2026 → -
+- Jannick Rode (TuS Kirchberg): 30/06/2026 → -
+- Danny Weber (TuS Kirchberg): 30/06/2026 → -
+- Kevin Engelmann (TuS Kirchberg): 30/06/2026 → -
+- Dennis Schröder (TuS Kirchberg): 30/06/2026 → -
+- Marcel Ring (SpVgg EGC Wirges): 30/06/2026 → 30/06/2027
+- Sezer Yazir (TSV Kottern-St. Mang): - → 30/06/2027
+- Sven Kopp (TSV Kottern-St. Mang): 30/06/2026 → -
+- Stephan Schuwerack (SV Laubach): 30/06/2026 → -
+- Lorenzo Nebeler (SV Laubach): 30/06/2026 → -
+- Jannis Gorges (SV Laubach): 30/06/2026 → -
+- Daniel Kossmann (SV Laubach): 30/06/2026 → -
+- Linus Tücke (VfB Linz): 30/06/2026 → -
+- Kilian Metzgeroth (TuS Immendorf): 30/06/2026 → -
+- Felix Kliesrath (TuS Immendorf): 30/06/2026 → -
+- Janick Brodt (TuS Immendorf): 30/06/2026 → -
+- Lukas Claus (TuS Immendorf): 30/06/2026 → -
+- Maximilian Fischer (TuS Immendorf): 30/06/2026 → -
+- Uğur Türk (TSV 1860 Rosenheim): - → 30/06/2027
+- Julian Ferdinand (TuS Immendorf): 30/06/2026 → -
+- Lars Kilian (TuS Immendorf): 30/06/2026 → -
+- Leon Trees (TuS Immendorf): 30/06/2026 → -
+- Marko Slowik (TuS Immendorf): 30/06/2026 → -
+- Alexander Ohlig (TuS Immendorf): 30/06/2026 → 30/06/2027
+- Jan Bruker (TuS Immendorf): 30/06/2026 → -
+- Jan Knopp (TuS Immendorf): 30/06/2026 → -
+- Robin Reichert (TuS Immendorf): 30/06/2026 → -
+- Marcel Gimm (TuS Immendorf): 30/06/2026 → -
+- Maximilian Pichler (TSV 1880 Wasserburg): 30/06/2026 → -
+- Sebastian Grub (SG Hochwald): 30/06/2026 → -
+- Adrian Eisenbarth (SG Hochwald): 30/06/2026 → -
+- Jamal Braick (SG Hochwald): - → 30/06/2027
+- Tim Lübbers (SG Hochwald): 30/06/2026 → -
+- Roan Webel (SG Hochwald): 30/06/2026 → -
+- Gabriel Makaba (FSV Pfaffenhofen): - → 30/06/2027
+- Jannik Weller (SG Malberg/Rosenheim): 30/06/2026 → -
+- Benjamin Weber (SG Malberg/Rosenheim): 30/06/2026 → -
+- Tim Henning (SG Malberg/Rosenheim): 30/06/2026 → -
+- Til Wölfer (SG Malberg/Rosenheim): 30/06/2026 → -
+- Fabian Heinen (SG Malberg/Rosenheim): 30/06/2026 → -
+- Sebastian Palms (TuS Mosella Schweich): 30/06/2026 → -
+- Noah Quare (TuS Mosella Schweich): 30/06/2026 → -
+- Luca Kohl (TuS Mayen): 30/06/2026 → -
+- Konstantin Aydarski (TuS Mayen): 21/07/2026 → -
+- Haruto Miura (SV Darmstadt 98 II): - → 30/06/2027
+- Sadik Mert Mol (TuS Mayen): 30/06/2026 → -
+- Kevin Cabello (TuS Mayen): 30/06/2026 → -
+- Kostyantyn Valuyskyi (KSV Hessen Kassel II): - → 30/06/2027
+- Leon Dhariwal (SG 06 Betzdorf): 30/06/2026 → -
+- Ivan Ljubicic (FC Bayern Alzenau): 30/06/2026 → 30/06/2027
+- Butrint Jashari (SG 06 Betzdorf): 30/06/2026 → -
+- Patrick Schur (FC Eddersheim): 30/06/2026 → -
+- Semih Sarli (Arminia Bielefeld II): 30/06/2026 → -
+- Leo Haase (Arminia Bielefeld II): - → 30/06/2027
+- Fabiano Krasnic (Arminia Bielefeld II): 30/06/2026 → -
+- Marvin Vogt (SC Verl II): 30/06/2026 → -
+- Maurice Swoboda (SC Verl II): 30/06/2026 → -
+- Cristiano Sonntag (SC Verl II): 30/06/2026 → -
+- Henry Obermeyer (SC Verl II): 30/06/2026 → -
+- Yannick Blaszyk (SC Verl II): 30/06/2026 → -
+- Tanay Coşar (SC Verl II): 30/06/2026 → -
+- Leon Nübel (SV Schermbeck): 30/06/2026 → -
+- Christopher Heisig (SV Schermbeck): 30/06/2026 → -
+- Christopher Stöhr (SV Schermbeck): 30/06/2026 → -
+- Yannick Babo (SV Schermbeck): 30/06/2026 → -
+- Miles Grumann (SV Schermbeck): 30/06/2026 → -
+- Jamal El Mansoury (SV Schermbeck): 30/06/2026 → -
+- Canay Tufan (SV Schermbeck): 30/06/2026 → -
+- Divine Boafo (SV Schermbeck): 30/06/2026 → -
+- Philip Pokora (SV Schermbeck): 30/06/2026 → -
+- Shawn Kiyau (SV Schermbeck): 30/06/2026 → -
+- Robert Hilsmann (ASC 09 Dortmund): 30/06/2026 → -
+- Thomas Gülec (FC Turabdin-Babylon Pohlheim): 30/06/2026 → -
+- Lukas Struck (SV Lippstadt 08): 30/06/2026 → -
+- Maksym Rusniak (SV Lippstadt 08): 30/06/2026 → -
+- Titus Croonen (Türk Gücü Friedberg): 30/06/2026 → -
+- Aaron Gadermann (Hünfelder SV): 30/06/2026 → -
+- Mazlum Bulut (SV Lippstadt 08): 30/06/2026 → 30/06/2027
+- Seung-young Lee (SV Lippstadt 08): 30/06/2026 → -
+- Tom Kocielnik (SV Lippstadt 08): 30/06/2026 → -
+- Nico-Jan Böll (SV Lippstadt 08): 30/06/2026 → -
+- Juan Löbel (SV Lippstadt 08): 30/06/2026 → -
+- Maximilian Franke (SV Lippstadt 08): 30/06/2026 → -
+- Josiah Patruno-Nwankwo (SV Lippstadt 08): 30/06/2026 → -
+- Nico Tübing (SV Lippstadt 08): 30/06/2026 → -
+- Nicolas Häuser (Hünfelder SV): 30/06/2026 → -
+- Sven Kemmerzell (Hünfelder SV): 30/06/2026 → -
+- Jonas Simon (Hünfelder SV): 30/06/2026 → -
+- Mark Zentgraf (Hünfelder SV): 30/06/2026 → -
+- Jemal Kassa (Hünfelder SV): 30/06/2026 → -
+- Maximilian Fröhlich (Hünfelder SV): 30/06/2026 → -
+- Ben Menke (Preußen Münster II): 30/06/2026 → -
+- Finn Noack (Preußen Münster II): 30/06/2026 → -
+- Boas Kümmel (Hünfelder SV): 30/06/2026 → -
+- Petr Paliatka (Hünfelder SV): 30/06/2026 → -
+- Jan-Niklas Herr (Hünfelder SV): 30/06/2026 → -
+- Bartosz Witkowski (Hünfelder SV): 30/06/2026 → -
+- Max Büscher (1.FC Gievenbeck): 30/06/2026 → -
+- Tom Langenkamp (1.FC Gievenbeck): 30/06/2026 → -
+- Malte Wesberg (1.FC Gievenbeck): 30/06/2026 → -
+- Niklas Klinke (1.FC Gievenbeck): 30/06/2026 → -
+- Niklas Beil (1.FC Gievenbeck): 30/06/2026 → -
+- Alexander Wiethölter (1.FC Gievenbeck): 30/06/2026 → -
+- Felix Ritter (1.FC Gievenbeck): 30/06/2026 → -
+- Jelke Willem Elferink (1.FC Gievenbeck): 30/06/2026 → 30/06/2027
+- Ben Wolf (1.FC Gievenbeck): 30/06/2026 → -
+- Ivo Pfalz (VfB Marburg): 30/06/2026 → -
+- Malte Schulte (Victoria Clarholz): 30/06/2026 → -
+- Arian Papenfort (Victoria Clarholz): - → 30/06/2027
+- Nick Flock (Victoria Clarholz): 30/06/2026 → -
+- Magnus Buschmeier (Victoria Clarholz): 30/06/2026 → -
+- Matthias Bräuer (FC Eintracht Rheine): 30/06/2026 → -
+- Mattes Langelage (FC Eintracht Rheine): 30/06/2026 → -
+- Jonas Tepper (FC Eintracht Rheine): 30/06/2026 → -
+- Dicle Sahin (FC Eintracht Rheine): 30/06/2026 → 30/06/2027
+- Josha Häusler (FC Eintracht Rheine): 30/06/2026 → 30/06/2027
+- Luca Meyer (FC Eintracht Rheine): - → 30/06/2027
+- Pascal Petruschka (FC Eintracht Rheine): - → 30/06/2027
+- Neriman Kocevic (FC Eintracht Rheine): 30/06/2026 → -
+- Artem Khovanyuk (FC Oleksandriya-2): 30/06/2026 → -
+- Hendrik Mittelstädt (VfB Marburg): 30/06/2026 → -
+- Eron Morina (TSG Sprockhövel): 30/06/2026 → -
+- Ibrahim Bulut (TSG Sprockhövel): 30/06/2026 → -
+- Rinor Mustafa (TSG Sprockhövel): 30/06/2026 → -
+- Vladyslav Shapovalov (FC Oleksandriya-2): 30/06/2026 → -
+- Niklas Alter (SpVgg Erkenschwick): 30/06/2026 → -
+- Michael Marvin West (SpVgg Erkenschwick): 30/06/2026 → -
+- Vladyslav Shkinder (Podillya Khmelnytskyi): 30/06/2026 → -
+- Dmytro Gerasymchuk (Podillya Khmelnytskyi): 30/06/2026 → -
+- Maksym Perekhodko (Podillya Khmelnytskyi): 30/06/2026 → -
+- Andreas Ovelhey (SpVgg Erkenschwick): 30/06/2026 → -
+- Amin Bouchra (SpVgg Erkenschwick): 30/06/2026 → -
+- Luis Oliver Schultz (SpVgg Erkenschwick): 30/06/2026 → -
+- Marius Lackmann (SpVgg Erkenschwick): 30/06/2026 → -
+- Barbaros Inan (SpVgg Erkenschwick): 30/06/2026 → -
+- Lukas Matena (SpVgg Erkenschwick): 30/06/2026 → -
+- Anton Savin (Podillya Khmelnytskyi): 30/06/2026 → -
+- Kostyantyn Kolchin (Nyva Vinnytsya): 30/06/2026 → -
+- Mika Völker (SpVgg Vreden): 30/06/2026 → 30/06/2027
+- Leo Jason Muhr (SpVgg Vreden): - → 30/06/2027
+- Bernd Verwohlt (SpVgg Vreden): - → 30/06/2027
+- Felix Mensing (SpVgg Vreden): 30/06/2026 → 30/06/2027
+- Romario Wiesweg (SpVgg Vreden): - → 30/06/2027
+- Robin Schultealbert (SpVgg Vreden): - → 30/06/2027
+- Matteo Anton Geesink (SpVgg Vreden): - → 30/06/2027
+- Leon Kondring (SpVgg Vreden): - → 30/06/2027
+- Yevgeniy Moroz (Nyva Vinnytsya): 30/06/2026 → -
+- Oleksandr Boryachuk (Nyva Vinnytsya): 30/06/2026 → -
+- Yevgen Mezhenskyi (Nyva Vinnytsya): 30/06/2026 → -
+- Julian Risthaus (SpVgg Vreden): 30/06/2026 → 30/06/2027
+- Nicolas Ostenkötter (SpVgg Vreden): - → 30/06/2027
+- Maximilian Hinkelmann (SpVgg Vreden): 30/06/2026 → 30/06/2027
+- Anton Heynk (SpVgg Vreden): 30/06/2026 → 30/06/2027
+- Artur Zagorulko (Nyva Vinnytsya): 30/06/2026 → -
+- Vladyslav Pogorilyi (Nyva Vinnytsya): 30/06/2026 → -
+- Tit Chernetskyi (Dinaz Vyshgorod): 30/06/2026 → -
+- Mykyta Boyev (Dinaz Vyshgorod): 30/06/2026 → -
+- Siar Yousefzada (TuS Hiltrup): 30/06/2026 → -
+- Sören Jankhöfer (TuS Hiltrup): 30/06/2026 → -
+- Volodymyr Kononenko (Dinaz Vyshgorod): 30/06/2026 → -
+- Marcel Petrinec (SV Unter-Flockenbach): 30/06/2026 → -
+- Aron Unrath (SV Unter-Flockenbach): 30/06/2026 → -
+- Jan Mayer (SV Unter-Flockenbach): 30/06/2026 → -
+- Nicolas Brandt (SV Unter-Flockenbach): 30/06/2026 → -
+- Justin Mittmann (TuS Hiltrup): 30/06/2026 → -
+- Enoch Moussa (TuS Hiltrup): 30/06/2026 → -
+- Lukas Berger (TuS Hiltrup): 30/06/2026 → -
+- Asmar Paenda (TuS Hiltrup): 30/06/2026 → -
+- Alexander Gockel (TuS Hiltrup): 30/06/2026 → -
+- Shayan Sarrafyar (TuS Hiltrup): 30/06/2026 → -
+- Cris Ojo (TuS Hiltrup): 30/06/2026 → -
+- Jonas Weißen (TuS Hiltrup): 30/06/2026 → -
+- Felix Hesker (TuS Hiltrup): 30/06/2026 → -
+- Finn Lenze (TuS Hiltrup): 30/06/2026 → -
+- Marko Costa Rocha (TuS Hiltrup): 30/06/2026 → -
+- Nils Johannknecht (TuS Hiltrup): 30/06/2026 → -
+- Stan Schubert (TuS Hiltrup): 30/06/2026 → -
+- Felix Bussmann (TuS Hiltrup): 30/06/2026 → 30/06/2027
+- Elms Jeroen Bornemann (SC Rot-Weiß Maaslingen): 30/06/2026 → -
+- Igor Vorobyak (Skala 1911 Stryi): 30/06/2026 → -
+- Berkan Ersoy (SC Rot-Weiß Maaslingen): - → 30/06/2027
+- Bastian Schreiber (SC Rot-Weiß Maaslingen): - → 30/06/2027
+- Burak Mete Cosar (SC Rot-Weiß Maaslingen): 30/06/2026 → 30/06/2027
+- Atakan Kurnaz (SC Rot-Weiß Maaslingen): 30/06/2026 → 30/06/2027
+- Paul-Joan Heineking (SC Rot-Weiß Maaslingen): - → 30/06/2027
+- Kadir Yildirim (SC Rot-Weiß Maaslingen): - → 30/06/2027
+- Joel Waterbär (SC Rot-Weiß Maaslingen): - → 30/06/2027
+- Oleksandr Fetko (Skala 1911 Stryi): 30/06/2026 → -
+- Faton Islamaj (SC Rot-Weiß Maaslingen): 30/06/2026 → 30/06/2027
+- Jona Kalkoff (DJK TuS Hordel): 30/06/2026 → -
+- Dorian Joel Batbayli (DJK TuS Hordel): 30/06/2026 → -
+- Jarno Aboko Bültmann (DJK TuS Hordel): 30/06/2026 → 30/06/2027
+- Fynn Broos (DJK TuS Hordel): 30/06/2026 → -
+- Lukas Fynn Chabowski (Westfalia Kinderhaus): 30/06/2026 → -
+- Jens Böckmann (Westfalia Kinderhaus): 30/06/2026 → -
+- Farid Abdvis Zadeh (Westfalia Kinderhaus): 30/06/2026 → -
+- Julian Trapp (Westfalia Kinderhaus): 30/06/2026 → -
+- Ostap Dobroshtan (Sambir-Nyva-2 Ternopil): 30/06/2026 → -
+- Volodymyr Sharun (Sambir-Nyva-2 Ternopil): 30/06/2026 → -
+- Maksym Gayduk (Sambir-Nyva-2 Ternopil): 30/06/2026 → -
+- Yevgeniy Mykhayliv (Sambir-Nyva-2 Ternopil): 30/06/2026 → -
+- Cedric Groß (SpVgg Horsthausen): 30/06/2026 → -
+- Woo-hong Kim (Changwon FC): - → 31/12/2026
+- Vladyslav Romanyuk (Sambir-Nyva-2 Ternopil): 30/06/2026 → -
+- Lennard Isensee (SpVgg Horsthausen): 30/06/2026 → -
+- Maksym Babiychuk (Rebel Kyiv): 30/06/2026 → -
+- Semen Klyuchyk (Rebel Kyiv): 30/06/2026 → -
+- Yevgeniy Debelko (Rebel Kyiv): 30/06/2026 → -
+- Vyacheslav Stavnychyi (Rebel Kyiv): 30/06/2026 → -
+- Yegor Kapustyan (Rebel Kyiv): 30/06/2026 → -
+- Glib Garbar (Rebel Kyiv): 30/06/2026 → -
+- Mykola Neskey (Rebel Kyiv): 30/06/2026 → -
+- Yuriy Gezelo (Rebel Kyiv): 30/06/2026 → -
+- Danylo Panov (Rebel Kyiv): 30/06/2026 → -
+- Glib Cherevatyi (Penuel Kryvyi Rig): 30/06/2026 → -
+- Nazar Bayruk (Penuel Kryvyi Rig): 30/06/2026 → -
+- Vladyslav Pylypenko (Penuel Kryvyi Rig): 30/06/2026 → -
+- Oleksiy Lyashchenko (Penuel Kryvyi Rig): 30/06/2026 → -
+- Daniil Petrunich (Penuel Kryvyi Rig): 30/06/2026 → -
+- Sergiy Nosovskyi (Penuel Kryvyi Rig): 30/06/2026 → -
+- Bogdan Tarasenko (Penuel Kryvyi Rig): 30/06/2026 → -
+- Bogdan Bokulev (Penuel Kryvyi Rig): 30/06/2026 → -
+- Denys Boyko (Penuel Kryvyi Rig): 30/06/2026 → -
+- Ivan Matsiyuk (Penuel Kryvyi Rig): 30/06/2026 → -
+- Akym Baranovskyi (Penuel Kryvyi Rig): 30/06/2026 → -
+- Sergiy Matko (Penuel Kryvyi Rig): 30/06/2026 → -
+- Sergiy Chenbay (Atlet Kyiv): 30/06/2026 → -
+- Mykhaylo Bilozerov (Atlet Kyiv): 30/06/2026 → -
+- Yevgeniy Danylenko (Atlet Kyiv): 30/06/2026 → -
+- Nazar Garkusha (Atlet Kyiv): 30/06/2026 → -
+- Anton Gordeyev (Atlet Kyiv): 30/06/2026 → -
+- Mykhaylo Klyatskyi (Atlet Kyiv): 30/06/2026 → -
+- Bogdan Vasetskyi (FC Trostyanets): 30/06/2026 → -
+- Sergiy Shapoval (FC Trostyanets): 30/06/2026 → -
+- Maksym Cheglov (FC Trostyanets): 30/06/2026 → -
+- Vladyslav Vasylchenko (FC Trostyanets): 30/06/2026 → -
+- Igor Yurechko (SC Metalurg Zaporizhya): 30/06/2026 → -
+- Vladyslav Klymenko (SC Metalurg Zaporizhya): 30/06/2026 → -
+- Dmytro Slyusar (SC Metalurg Zaporizhya): 30/06/2026 → -
+- Daniil Zelinskyi (SC Metalurg Zaporizhya): 30/06/2026 → -
+- Maksym Vorona (SC Metalurg Zaporizhya): 30/06/2026 → -
+- Sang-whi Shin (Chuncheon Citizen): - → 31/12/2026
+- Vladyslav Borysenko (SC Metalurg Zaporizhya): 30/06/2026 → -
+- Yaroslav Vladimirov (Zenit St. Petersburg II): - → 31/12/2028
+- Dmitriy Galkin (FC Nizhny Novgorod II): - → 31/12/2027
+- Linus Jarsch (FC Memmingen II): 30/06/2026 → -
+- David Reichert (FC Memmingen II): 30/06/2026 → -
+- Erdem Yilmaz (Türkspor Augsburg): 30/06/2026 → -
+- Yunus Erdal (Türkspor Augsburg): 30/06/2026 → -
+- Dominik Krachtus (Türkspor Augsburg): 30/06/2026 → -
+- Ruvejd Perovic (Türkspor Augsburg): 30/06/2026 → -
+- Valdrin Katana (Türkspor Augsburg): 30/06/2026 → -
+- Harouna Boubacar (Türkspor Augsburg): 30/06/2026 → -
+- Niklas Gordy (TSV Rain/Lech): 30/06/2026 → -
+- Paul Schmidt (TSV Rain/Lech): 30/06/2026 → -
+- Lukas Huck (TSV Rain/Lech): 30/06/2026 → -
+- Denis Terekhov (Spartak Kostroma): 30/06/2026 → -
+- Dani González (Unionistas CF): 30/06/2027 → 30/06/2028
+- Fatlum Talla (TSV Rain/Lech): 30/06/2026 → -
+- Ben Emci (FV Illertissen 1921 II): 30/06/2026 → -
+- Aaron Martin (FV Illertissen 1921 II): 30/06/2026 → -
+- Marco Zettler (1.FC Sonthofen): 30/06/2026 → -
+- Diar Blaku (1.FC Sonthofen): 30/06/2026 → -
+- Robin Brandmeir (VfB Durach): 30/06/2026 → -
+- Niklas Eggensperger (VfB Durach): 30/06/2026 → -
+- Manuel Methfessel (VfB Durach): 30/06/2026 → -
+- Luca Rossa (FC Stätzling): 30/06/2026 → -
+- Niklas Grüner (FC Stätzling): 30/06/2026 → -
+- Markus Böck (FC Stätzling): 30/06/2026 → -
+- Edin Ganibegovic (FC Stätzling): 30/06/2026 → -
+- Daniel Witetschek (TSV Jetzendorf): 30/06/2026 → -
+- Pascal Schweiger (TSV Jetzendorf): 30/06/2026 → -
+- Dominik Schloßbauer (TSV Jetzendorf): 30/06/2026 → -
+- Tim Greifenegger (TSV Jetzendorf): 30/06/2026 → -
+- Jakob Jopen (TSV 1865 Dachau): 30/06/2026 → -
+- Nikolaus Grotz (TSV 1865 Dachau): 30/06/2026 → -
+- Cüneyt Köz (SV Manching): 30/06/2026 → -
+- Sebastian Graßl (SV Manching): 30/06/2026 → -
+- Marcel Posselt (SV Manching): 30/06/2026 → -
+- Rainer Meisinger (SV Manching): 30/06/2026 → -
+- Nico Daffner (SV Manching): 30/06/2026 → -
+- Kevin Schmidt (TSV Aindling): 30/06/2026 → -
+- Luca Berger (TSV Aindling): 30/06/2026 → -
+- Noah Menhart (TSV Aindling): 30/06/2026 → -
+- Marco Ruppenstein (TSV Aindling): 30/06/2026 → -
+- Patrick Stoll (TSV Aindling): 30/06/2026 → -
+- Benjamin Woltmann (TSV Aindling): 30/06/2026 → -
+- Anton Schöttl (TSV Aindling): 30/06/2026 → -
+- Jonas Müller (TSV Aindling): 30/06/2026 → -
+- Moritz Wagner (TSV Aindling): 30/06/2026 → -
+- David Bichlmeier (TSV Aindling): 30/06/2026 → -
+- Ibrahim Neziri (TSV Aindling): 30/06/2026 → -
+- Nico Gastl (TSV Aindling): 30/06/2026 → -
+- Markus Kugler (TSV Aindling): 30/06/2026 → -
+- Ömer Dasdemir (FC Kempten): 30/06/2026 → -
+- Marian Halder (FC Kempten): 30/06/2026 → -
+- Manuel Wiedemann (FC Kempten): 30/06/2026 → -
+- Finn Steurer (FC Kempten): 30/06/2026 → -
+- Arthur Mayer (SV Cosmos Aystetten): 30/06/2026 → -
+- Dejan Durasinovic (SV Cosmos Aystetten): 30/06/2026 → -
+- Fabian Krug (SV Cosmos Aystetten): 30/06/2026 → -
+- Philipp Toth (SV Cosmos Aystetten): 30/06/2026 → -
+- David Schwab (SV Cosmos Aystetten): 30/06/2026 → -
+- Dejan Mijailovic (SV Cosmos Aystetten): 30/06/2026 → -
+- Pascal Mader (SV Cosmos Aystetten): 30/06/2026 → -
+- Elija Hanrieder (SV Cosmos Aystetten): 30/06/2026 → -
+- Andre Tietze (TSV 1860 Weißenburg): 30/06/2026 → -
+- Emirhan Hos (TSV 1860 Weißenburg): 30/06/2026 → -
+- Tevfikhan Koz (TSV 1860 Weißenburg): 30/06/2026 → -
+- Alexander Morgenroth (TSV 1860 Weißenburg): 30/06/2026 → -
+- Kenan Husejnovic (TSV 1860 Weißenburg): 30/06/2026 → -
+- Robin Balters (TSV Schott Mainz): 30/06/2026 → -
+- Jan Schulz (TSV Schott Mainz): 30/06/2026 → -
+- Nils Gans (TSV Schott Mainz): 30/06/2026 → -
+- Dominik Ahlbach (TSV Schott Mainz): 30/06/2026 → -
+- Jan Just (TSV Schott Mainz): 30/06/2026 → -
+- Benedikt Blum (TSV Schott Mainz): 30/06/2026 → -
+- Jan Wiltink (TSV Schott Mainz): 30/06/2026 → -
+- Silas Schwarz (TSV Schott Mainz): 30/06/2026 → -
+- Florian Lang (TSV Schott Mainz): 30/06/2026 → -
+- Righteous Vodi (TSV Schott Mainz): 30/06/2026 → -
+- Sean Horozovic (TSV Schott Mainz): 30/06/2026 → -
+- Abdellatif El Mahaoui (TSV Schott Mainz): 30/06/2026 → -
+- Mike Andreas (FK Pirmasens): 30/06/2026 → -
+- Thomas Selensky (FK Pirmasens): 30/06/2026 → -
+- Dario Tuttobene (FK Pirmasens): 30/06/2026 → -
+- Maximilian Krapf (FC Emmelshausen-Karbach): 30/06/2026 → -
+- Dustin Zahnen (FC Emmelshausen-Karbach): 30/06/2026 → -
+- Janik Otto (FC Emmelshausen-Karbach): 30/06/2026 → -
+- Mohamad Alhaj (FC Emmelshausen-Karbach): 30/06/2026 → -
+- Daniel von der Bracke (TuS Koblenz): 30/06/2026 → -
+- Damir Grgic (TuS Koblenz): 30/06/2026 → -
+- Konrad Cornelius (TuS Koblenz): 30/06/2026 → -
+- Marcel Wingender (TuS Koblenz): 30/06/2026 → -
+- Tomoya Kurogi (TuS Koblenz): 30/06/2026 → -
+- Masahiro Fujiwara (TuS Koblenz): 30/06/2026 → -
+- Tae-young Je (TuS Koblenz): 30/06/2026 → -
+- Lukas Tuchscherer (TuS Koblenz): 30/06/2026 → -
+- Igor Blagojevic (TuS Koblenz): 30/06/2026 → -
+- Nic Alsbach (TuS Koblenz): 30/06/2026 → -
+- Nazif Tchadjei (TuS Koblenz): 30/06/2026 → -
+- Denys Vyrych (TuS Koblenz): 30/06/2026 → -
+- Max Schmitten (FV Engers 07): 30/06/2026 → -
+- Eldin Hadzic (FV Engers 07): 30/06/2026 → -
+- Manoel Splettstößer (FV Engers 07): 30/06/2026 → -
+- Kevin Lahn (FV Engers 07): 30/06/2026 → -
+- Marcel Stieffenhofer (FV Engers 07): 30/06/2026 → -
+- Paul Bermel (FV Engers 07): 30/06/2026 → -
+- Manuel Simons (FV Engers 07): 30/06/2026 → -
+- Omar Ramadan (Greenville Triumph SC): 21/09/2026 → -
+- Georgios Shengelia (FC Rot-Weiss Koblenz): 30/06/2026 → -
+- Florian Barth (FC Hertha Wiesbach): 30/06/2026 → -
+- Julian Holz (FC Hertha Wiesbach): 30/06/2026 → -
+- Yannik Ernst (FC Hertha Wiesbach): 30/06/2026 → -
+- Moritz Ruffing (FC Hertha Wiesbach): 30/06/2026 → -
+- Luca Blaß (FC Hertha Wiesbach): 30/06/2026 → -
+- Kilian Staroscik (FC Hertha Wiesbach): 30/06/2026 → -
+- Erion Metaj (FC Hertha Wiesbach): 30/06/2026 → -
+- Marvin Böbe (FC Hertha Wiesbach): 30/06/2026 → -
+- Max Poller (FC Hertha Wiesbach): 30/06/2026 → -
+- Edonis Metaj (FC Hertha Wiesbach): 30/06/2026 → -
+- Jannis Erbel (FC Hertha Wiesbach): 30/06/2026 → -
+- Yannik Haupts (FC Hertha Wiesbach): 30/06/2026 → -
+- Lucas Bidot (FC Hertha Wiesbach): 30/06/2026 → -
+- Pascal Piontek (FC Hertha Wiesbach): 30/06/2026 → -
+- Sören Maas (FC Hertha Wiesbach): 30/06/2026 → -
+- Alexio Brauer (FC Hertha Wiesbach): 30/06/2026 → -
+- Omar Hashem Sayed (VfR Wormatia Worms): 30/06/2026 → -
+- Daniel Diel (TSV Gau-Odernheim): 30/06/2026 → -
+- Hannes Zimmer (TSV Gau-Odernheim): 30/06/2026 → -
+- Leander Schmidt (TSV Gau-Odernheim): 30/06/2026 → -
+- Pierre-Marcel Radetz (TSV Gau-Odernheim): 30/06/2026 → -
+- Ben Völker (TSV Gau-Odernheim): 30/06/2026 → -
+- Urfan Nassery (TSV Gau-Odernheim): 30/06/2026 → -
+- Jakob Friedrich (TSV Gau-Odernheim): 30/06/2026 → -
+- Konstantin Breiden (TSV Gau-Odernheim): 30/06/2026 → -
+- Felix Schrod (TSV Gau-Odernheim): 30/06/2026 → -
+- Jannis Maurer (TSV Gau-Odernheim): 30/06/2026 → -
+- Julian Oliver Meininger (TSV Gau-Odernheim): 30/06/2026 → -
+- Jonathan David Maier (TSV Gau-Odernheim): 30/06/2026 → -
+- Abdulelah Al-Shammari (Al-Najma SC): 30/06/2026 → -
+- Noah Juricinec (TSV Gau-Odernheim): 30/06/2026 → -
+- Luca Dietrich (TSV Gau-Odernheim): 30/06/2026 → -
+- Aleksandar Dimitrijevic (TSV Gau-Odernheim): 30/06/2026 → -
+- Christopher Hahn (TSV Gau-Odernheim): 30/06/2026 → -
+- Gradi Nkunga (TSV Gau-Odernheim): 30/06/2026 → -
+- Abdullah Al-Oaisher (Al-Wehda FC): 30/06/2027 → -
+- Leon Rashica (FC Cosmos Koblenz): 30/06/2026 → -
+- Lukas Rodwald (SV Gonsenheim): 30/06/2026 → -
+- Jan Vogel (SV Gonsenheim): 30/06/2026 → -
+- Timo Müller (SV Auersmacher): 30/06/2026 → -
+- Jonas Philipp (SV Auersmacher): 30/06/2026 → -
+- Fabian Lauer (SV Auersmacher): 30/06/2026 → -
+- Lukas Kiehn (SV Auersmacher): 30/06/2026 → -
+- Lars Birster (SV Auersmacher): 30/06/2026 → -
+- Sandro Kempf (SV Auersmacher): 30/06/2026 → -
+- Maurice-Niclas Straub (SV Auersmacher): 30/06/2026 → -
+- Naser Al-Ghamdi (Damac FC): 30/06/2026 → -
+- Marius Schley (SV Auersmacher): 30/06/2026 → -
+- Maximilian Escher (SV Auersmacher): 30/06/2026 → -
+- Lukas Allhof (SV Auersmacher): 30/06/2026 → -
+- Oliver Bickelmann (SV Auersmacher): 30/06/2026 → -
+- Philipp König (SV Auersmacher): 30/06/2026 → -
+- Tom Theres (SV Auersmacher): 30/06/2026 → -
+- Elias Koch (SV Auersmacher): 30/06/2026 → -
+- Luca Bauer (SV Auersmacher): 30/06/2026 → -
+- Alessandro Vangelista (SV Auersmacher): 30/06/2026 → -
+- Nehoray Dabush (FC Ashdod): 30/06/2028 → 30/06/2030
+- Patrick Jantzen (SV Auersmacher): 30/06/2026 → -
+- Felix Laufer (SV Auersmacher): 30/06/2026 → -
+- Collin Koch (SV Auersmacher): 30/06/2026 → -
+- Kai Zahler (FV 07 Diefflen): 30/06/2026 → -
+- Tim Heintz (FV 07 Diefflen): 30/06/2026 → -
+- Elias Jung (FV 07 Diefflen): 30/06/2026 → -
+- Jannis Holbach (FV 07 Diefflen): 30/06/2026 → -
+- Julian Kern (FV 07 Diefflen): 30/06/2026 → -
+- Nico Theisinger (FV 07 Diefflen): 30/06/2026 → -
+- Bubu Medina (Corpus Christi FC): 26/04/2026 → -
+- Ilay Trost (Bnei Yehuda Tel Aviv): 30/06/2026 → -
+- Steven Groß (FV 07 Diefflen): 30/06/2026 → -
+- Max Huber (FV 07 Diefflen): 30/06/2026 → -
+- Berdan Güclü (FV 07 Diefflen): 30/06/2026 → -
+- Maximilian Kolodziej (FV 07 Diefflen): 30/06/2026 → -
+- Fatih Günes (FV 07 Diefflen): 30/06/2026 → -
+- Fabian Poß (FV 07 Diefflen): 30/06/2026 → -
+- Beckham Uderitz (One Knoxville SC): 08/09/2026 → -
+- Tomas Kalinauskas (Maccabi Bnei Reineh): 02/09/2026 → -
+- Asil Kna'ani (Maccabi Bnei Reineh): 30/06/2026 → -
+- Giuliano Santucci (Westchester SC): 25/05/2026 → -
+- Luca Marinelli (Westchester SC): 25/05/2026 → -
+- Kevin Wetschorek (Ahrweiler BC): 30/06/2026 → -
+- Jonas Gilberto Sola Vicente (Ahrweiler BC): 30/06/2026 → -
+- Roman Voloshchuk (Ahrweiler BC): 30/06/2026 → -
+- Colin Veltri (Westchester SC): 05/07/2026 → -
+- Tom Alen Tolic (Maccabi Herzliya): 30/06/2026 → -
+- Redon Thaqi (Ahrweiler BC): 30/06/2026 → -
+- Joshua Burton (Charlotte Independence): 31/05/2026 → -
+- Thabo Nare (Charlotte Independence): 20/04/2026 → -
+- Alessandro Lazzano (SV 07 Elversberg II): 30/06/2026 → -
+- Daniel Ternes (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Philipp Berhard (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Taha Bayraktar (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Jonathan Nyandjo (Charlotte Independence): 20/04/2026 → -
+- Jaylen Orr (Charlotte Independence): 15/08/2026 → -
+- Alex Grow (Fort Wayne FC): 05/05/2026 → -
+- Marc Bonnaire (Fort Wayne FC): 20/10/2026 → -
+- Gabriel Harig (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Anton Moroz (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Ayman Habbouchi (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Ralf Rizvani (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Luca Herrig (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Alexander Shehada (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Julian Schmitz (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Timo Wollny (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Ömer Kahyaoglu (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Mohammad Rashidi (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Hamed Al-Maqati (Al-Orobah FC): 30/06/2026 → -
+- Meliani Saim (SV Rot-Weiss Wittlich): 30/06/2026 → -
+- Brian Lanier (Spokane Velocity FC): 22/09/2026 → -
+- Jackson Buck (Spokane Velocity FC): 03/06/2026 → -
+- Fahad Al-Rashidi (Al-Orobah FC): 30/06/2026 → -
+- Uriel Pinia (Maccabi Ironi Kiryat Gat): 30/06/2026 → -
+- Nathan Donovan (Spokane Velocity FC): 25/09/2026 → -
+- Ori Malka (Maccabi Ironi Kiryat Gat): - → 30/06/2027
+- Josh Erlandson (Richmond Kickers): 18/05/2026 → -
+- Milos Stojanovic (Hapoel Afula): 01/07/2026 → -
+- Eilon Elimelech (Hapoel Afula): 30/06/2026 → -
+- Afik Cohen (Hapoel Afula): 30/06/2026 → -
+- Godfred Atuahene (SC Kfar Qasem): 30/06/2026 → -
+- Tomer Benbenishti (Ironi Modiin): 30/06/2026 → -
+- Samuel Broun (Ironi Modiin): 30/06/2026 → -
+- Guy Amsalem (Ironi Modiin): 30/06/2026 → -
+- Edoardo Sbampato (Chievo Verona): 30/06/2026 → -
+- Diogo Guzmán (Montevideo City Torque): 31/12/2027 → 31/12/2028
+- Lucas Machado (Defensor Sporting Club): - → 31/12/2026
+- Filippo Olivari (Club Milano): - → 30/06/2027
+- Ettore Piscaglia (Club Milano): - → 30/06/2027
+- Ludovico Conversa (Club Milano): - → 30/06/2027
+- Jairo O'Neil (CA Boston River): - → 31/12/2026
+- Facundo Saravia (CA Boston River): - → 31/12/2026
+- Marco Oroná (CA Boston River): - → 31/12/2026
+- Agustín Amado (CA Boston River): - → 31/12/2026
+- Nicolas Engelking (Würzburger FV 04): 30/06/2026 → -
+- José Varela (Racing Club de Montevideo): - → 31/12/2026
+- Nicolás Sosa (Racing Club de Montevideo): - → 31/12/2026
+- Bruno Centeno (Club Deportivo Maldonado): - → 31/12/2026
+- Mauro Brasil (Danubio FC): - → 31/12/2026
+- Martín Jourdan (Danubio FC): - → 31/12/2026
+- Gonzalo Rodríguez (Danubio FC): - → 31/12/2026
+- Axel Montaña (Danubio FC): 31/07/2026 → 31/12/2026
+- John Kleber (Danubio FC): - → 31/12/2026
+- Hugo Silveira (Danubio FC): - → 31/12/2026
+- Simone Bramante (Tritium Calcio 1908): 30/06/2026 → 30/06/2027
+- Andy Velasco (Independiente del Valle): - → 31/12/2026
+- Daykol Romero (Independiente del Valle): - → 31/12/2026
+- Jhon Espinoza (Independiente del Valle): - → 31/12/2027
+- Youri Ochoa (Independiente del Valle): - → 31/12/2026
+- Patrik Mercado (Independiente del Valle): - → 31/12/2028
+- Juan Cazares (Independiente del Valle): - → 31/12/2026
+- Aron Rodríguez (Independiente del Valle): - → 31/12/2026
+- Steven Góngora (Independiente del Valle): - → 31/12/2026
+- Djorkaeff Reasco (Independiente del Valle): - → 31/12/2028
+- Leonel Quiñónez (LDU Quito): - → 31/12/2026
+- Josué Cuero (LDU Quito): 31/12/2026 → 31/12/2028
+- José Quintero (LDU Quito): - → 31/12/2026
+- Iván Zambrano (LDU Quito): - → 31/12/2028
+- Fernando Cornejo (LDU Quito): - → 30/06/2027
+- Sebastián González (LDU Quito): - → 31/12/2027
+- Johan Lara (CD Universidad Católica): - → 31/12/2026
+- Lucas Cueva (CD Universidad Católica): - → 31/12/2026
+- Carlos Medina (CD Universidad Católica): - → 31/12/2026
+- Marcos Sevillano (CD Universidad Católica): - → 31/12/2026
+- Eddy Mejía (CD Universidad Católica): - → 31/12/2029
+- Eric Valencia (CD Universidad Católica): - → 31/12/2026
+- Jonnathan Mina (CD Universidad Católica): - → 30/06/2027
+- Gregori Anangonó (CD Universidad Católica): - → 31/12/2026
+- Darwin Nazareno (CD Universidad Católica): - → 31/12/2026
+- Luis Moreno (CD Universidad Católica): - → 31/12/2026
+- Rooney Troya (CD Universidad Católica): - → 31/12/2026
+- Emiliano Clavijo (CD Universidad Católica): - → 31/12/2026
+- Andrés Rodríguez (CD Universidad Católica): - → 31/12/2026
+- Mauricio Alonso (CD Universidad Católica): 30/06/2026 → 30/06/2027
+- Byron Palacios (CD Universidad Católica): - → 31/12/2026
+- José Fajardo (CD Universidad Católica): - → 31/12/2026
+- Estalin Segura (CS Emelec): 31/12/2026 → 31/12/2029
+- Aníbal Leguizamón (CS Emelec): 31/12/2026 → 31/12/2027
+- Ronie Carrillo (CS Emelec): - → 31/12/2026
+- Eduardo Esterilla (Barcelona SC Guayaquil): - → 31/12/2026
+- Jefferson Cabezas (SD Aucas): - → 31/12/2026
+- Byron Carabalí (SD Aucas): - → 31/12/2026
+- Michael Carcelén (SD Aucas): - → 30/06/2027
+- Diego Espinosa (SD Aucas): - → 31/12/2026
+- Darwin Cuero (CD Macará): - → 31/12/2026
+- Jairo Jiménez (CD Macará): - → 31/12/2026
+- Toño Espinoza (CD Macará): - → 31/12/2026
+- Juan Espinoza (CD Macará): - → 31/12/2026
+- Carlos Caicedo (CD Macará): - → 31/12/2026
+- Patricio Ramos (CD Macará): - → 31/12/2026
+- Matías Cabeza (CD Macará): - → 31/12/2026
+- Jordy Ortiz (Orense SC): - → 31/12/2026
+- Bryan Quiñónez (Orense SC): - → 31/12/2026
+- Erick Plúas (Orense SC): - → 31/12/2026
+- Erick Zambrano (Orense SC): - → 31/12/2026
+- Ethan Minda (Deportivo Cuenca): - → 31/12/2026
+- Eddie Guevara (Deportivo Cuenca): 30/06/2026 → -
+- David Noboa (Deportivo Cuenca): - → 31/12/2026
+- Pierre Bellinghausen (TSV Steinbach Haiger II): 30/06/2026 → -
+- Mathías Solís (Deportivo Cuenca): - → 31/12/2026
+- Jorge Ordóñez (Deportivo Cuenca): 30/06/2026 → -
+- Eved Sanchez (Guayaquil City FC): - → 31/12/2026
+- Remsey van der Linden (VV Katwijk): 30/06/2026 → -
+- Stalin Caicedo (Guayaquil City FC): - → 31/12/2026
+- Thibo Agyeman (Rijnsburgse Boys): 30/06/2026 → -
+- Ilias Kariouh (Rijnsburgse Boys): 30/06/2026 → -
+- Gwaeron Stout (Kozakken Boys): 30/06/2026 → -
+- Vilington Branda (Libertad FC): 31/12/2026 → 31/12/2027
+- Adonnis Pabón (Mushuc Runa SC): - → 31/12/2026
+- Jeremy Cusme (Mushuc Runa SC): - → 31/12/2026
+- José Luis Quiñones (Mushuc Runa SC): - → 31/12/2026
+- Leon Kwakman (RKAV Volendam): 30/06/2026 → -
+- Waleed Aït Abdellah (RKAV Volendam): 30/06/2026 → -
+- Arnaldo Zambrano (Mushuc Runa SC): - → 30/11/2026
+- Jhon Shulqui (Mushuc Runa SC): - → 31/12/2026
+- Tom Smit (RKAV Volendam): 30/06/2026 → -
+- Ober Medina (Delfín SC): - → 31/12/2026
+- Arenchelo Leito (RKAV Volendam): 30/06/2026 → -
+- Thiago Ozaeta (Delfín SC): - → 31/12/2026
+- Erick Zúñiga (Delfín SC): - → 31/12/2026
+- Anthony Álvarez (Delfín SC): - → 31/12/2026
+- Leao Tenorio (Delfín SC): - → 31/12/2026
+- Adrian Cela (Técnico Universitario): - → 31/12/2026
+- Bryan Oña (Técnico Universitario): - → 31/12/2026
+- Diogo Guzmán (Montevideo City Torque): 31/12/2027 → 31/12/2028
+- Santiago Freire (Técnico Universitario): - → 31/12/2026
+- Alejandro Rialpe (Manta FC): - → 31/12/2026
+- Maikel Valencia (Manta FC): - → 31/12/2026
+- Lucas Machado (Defensor Sporting Club): - → 31/12/2026
+- Jairo O'Neil (CA Boston River): - → 31/12/2026
+- Facundo Saravia (CA Boston River): - → 31/12/2026
+- Marco Oroná (CA Boston River): - → 31/12/2026
+- Agustín Amado (CA Boston River): - → 31/12/2026
+- José Varela (Racing Club de Montevideo): - → 31/12/2026
+- Nicolás Sosa (Racing Club de Montevideo): - → 31/12/2026
+- Bruno Centeno (Club Deportivo Maldonado): - → 31/12/2026
+- Mauro Brasil (Danubio FC): - → 31/12/2026
+- Martín Jourdan (Danubio FC): - → 31/12/2026
+- Gonzalo Rodríguez (Danubio FC): - → 31/12/2026
+- Axel Montaña (Danubio FC): 31/07/2026 → 31/12/2026
+- John Kleber (Danubio FC): - → 31/12/2026
+- Hugo Silveira (Danubio FC): - → 31/12/2026
+- Soo-bin Lee (Jeonbuk Hyundai Motors): 06/10/2026 → -
+- Byung-kwan Jeon (Jeonbuk Hyundai Motors): 06/10/2026 → 31/12/2026
+- Hyeon-ho Moon (Ulsan HD FC): 06/10/2026 → -
+- Jung-taek Lee (Daejeon Hana Citizen): 06/10/2026 → 31/12/2026
+- Myeong-kwan Seo (Gimcheon Sangmu): - → 11/04/2028
+- Jeong-won Eo (Gimcheon Sangmu): - → 11/04/2028
+- Seung-hyeon Cha (Gimcheon Sangmu): - → 11/04/2028
+- Min-gyu Jang (Gimcheon Sangmu): 31/12/2026 → 11/04/2028
+- Yi-seok Kim (Gangwon FC): 06/10/2026 → -
+- Mun-ki Hwang (Gangwon FC): — → -
+- Jong-beom Baek (FC Seoul): 06/10/2026 → -
+- Mihai Udrea (FCSB): 30/06/2026 → -
+- Elio Capradossi (FC Universitatea Cluj): - → 30/06/2027
+- Alin Techereș (FC Universitatea Cluj): 30/06/2026 → -
+- Jeong-wan Yu (FC Anyang): — → -
+- Tae-hwan Kim (Jeju SK): 06/10/2026 → 31/12/2026
+- Gun-hee Lee (Jeju SK): 06/10/2026 → -
+- Mario Tudose (ACSC FC Arges): 30/06/2029 → 30/06/2028
+- Tiago Gonçalves (ACSC FC Arges): - → 30/06/2028
+- Mário Camora (CFR Cluj): 30/06/2026 → -
+- Giannis Anestis (FC Botosani): 30/06/2026 → -
+- Andrei Miron (FC Botosani): 30/06/2026 → -
+- Jayden Fenech (Naxxar Lions FC): 30/06/2026 → -
+- Tristan Vella (Naxxar Lions FC): 30/06/2026 → -
+- Mike Hudson (Naxxar Lions FC): 30/06/2026 → -
+- Mykola Kovtalyuk (FC Botosani): 30/06/2026 → -
+- Andrea Padula (UTA Arad): 30/06/2026 → -
+- Tomas Sciberras (Victoria Hotspurs FC): 30/06/2026 → -
+- Claude Buttigieg (Victoria Hotspurs FC): 30/06/2026 → -
+- Karl Attard (Victoria Hotspurs FC): 30/06/2026 → -
+- Timothy Aquilina (Swieqi United FC): 30/06/2026 → -
+- Anthony Bartolo (Swieqi United FC): 30/06/2026 → -
+- Ayrton Attard (Swieqi United FC): 30/06/2026 → -
+- Jan Tanti (Swieqi United FC): 30/06/2026 → -
+- Kian Leonardi (Swieqi United FC): 30/06/2026 → -
+- Thomas Howland (Pietà Hotspurs FC): 30/06/2026 → -
+- Paul Papp (Petrolul Ploiesti): 30/06/2026 → -
+- Sergiu Hanca (Petrolul Ploiesti): 30/06/2026 → -
+- Zane Mangion (Pietà Hotspurs FC): 30/06/2026 → -
+- Sean Schembri (FC Mgarr United): 30/06/2026 → -
+- Matheo Theodose (FC Mgarr United): 30/06/2026 → -
+- Daniel Zarb (FC Mgarr United): 30/06/2026 → -
+- Lucas Munroe (FC Mgarr United): 30/06/2026 → -
+- Peter Xuereb (FC Mgarr United): 30/06/2026 → -
+- Abdou Ndoye (FC Mgarr United): 30/06/2026 → -
+- Ronaldo Cruz (FC Mgarr United): 30/06/2026 → -
+- Wisdom Igiebor (FC Mgarr United): 30/06/2026 → -
+- Alin Dobrosavlevici (Sepsi OSK Sf. Gheorghe): 30/06/2026 → -
+- Fábio Vianna (Sepsi OSK Sf. Gheorghe): 30/06/2026 → -
+- Dani Iglesias (Sepsi OSK Sf. Gheorghe): 30/06/2026 → -
+- Yilson Mosquera (Tarxien Rainbows): 30/06/2026 → -
+- Robert Silaghi (Sepsi OSK Sf. Gheorghe): 30/06/2026 → -
+- Cosmin Matei (Sepsi OSK Sf. Gheorghe): 30/06/2026 → -
+- Nacho Heras (Sepsi OSK Sf. Gheorghe): 30/06/2026 → -
+- Dimitri Oberlin (Sepsi OSK Sf. Gheorghe): 30/06/2026 → -
+- Moses Mawa (Sepsi OSK Sf. Gheorghe): 30/06/2026 → -
+- Ryan Vella (Sirens FC): 30/06/2026 → -
+- Kyle Muscat (Sirens FC): 30/06/2026 → -
+- Carlos Chabá (Sirens FC): 30/06/2026 → -
+- Gary Camilleri (Sirens FC): 30/06/2026 → -
+- Kane Paul Farrugia (Sirens FC): 30/06/2026 → -
+- Alan Schembri Wismayer (Sirens FC): 30/06/2026 → -
+- Jean Borg (Sirens FC): 30/06/2026 → -
+- Cameron Matthews (Sirens FC): 30/06/2026 → 30/06/2027
+- Leonardo De Bortoli (Sirens FC): 30/06/2026 → -
+- Mason Agius (Sirens FC): 30/06/2026 → -
+- Jurgen Tanti (Sirens FC): 30/06/2026 → -
+- Hafiz Mohammed Akadom (Sirens FC): 30/06/2026 → -
+- Joshua Agyemang (Sirens FC): 30/06/2026 → -
+- Joel Quist (Sirens FC): 30/06/2026 → -
+- Isaac Schembri (Sirens FC): 30/06/2026 → -
+- János Hegedűs (FK Csikszereda Miercurea Ciuc): 30/06/2026 → -
+- Răzvan Trif (FK Csikszereda Miercurea Ciuc): 30/06/2026 → -
+- Szilard Veres (FK Csikszereda Miercurea Ciuc): 30/06/2026 → -
+- Soufiane Jebari (FK Csikszereda Miercurea Ciuc): 30/06/2026 → -
+- Miguel Caruana (Attard FC): 30/06/2026 → -
+- Dale Ellul (Attard FC): 30/06/2026 → -
+- Jurgen Gauci (Attard FC): 30/06/2026 → -
+- Cody Gatt (Attard FC): 30/06/2026 → -
+- Fabian Zammit (Attard FC): 30/06/2026 → -
+- Russell Fenech (Attard FC): 30/06/2026 → -
+- Ayorinde Ebenezer Tejumola (Attard FC): 30/06/2026 → -
+- Matthew Bonnici (St. Andrews FC): 30/06/2026 → -
+- Zak Muscat (St. Andrews FC): 30/06/2026 → -
+- Jeff Sowah (St. Andrews FC): 08/06/2026 → -
+- Jake Attard (Zebbug Rangers FC): 30/06/2026 → -
+- Isaac Chetcuti (Zebbug Rangers FC): 30/06/2026 → -
+- Dylan Agius (Zebbug Rangers FC): 30/06/2026 → -
+- Olalekan Opajobi (Zebbug Rangers FC): 30/06/2026 → -
+- Ayrton Mizzi (Zebbug Rangers FC): 30/06/2026 → -
+- Matthew Ayres (Zebbug Rangers FC): 30/06/2026 → -
+- Jordan Ciantar (Zebbug Rangers FC): 30/06/2026 → -
+- Joseph Willy (Zebbug Rangers FC): 30/06/2026 → -
+- Hugo Santos (Zebbug Rangers FC): 30/06/2026 → -
+- Nathan Sultana (Zebbug Rangers FC): 30/06/2026 → -
+- Kalani Delarole (Zebbug Rangers FC): 30/06/2026 → -
+- Lydon Sammut (Zebbug Rangers FC): 30/06/2026 → -
+- Brady Agius (Gudja United FC): 30/06/2026 → -
+- Veljko Tasic (Gudja United FC): 30/06/2026 → -
+- Donnys Quintero (Gudja United FC): 30/06/2026 → -
+- Tobi Akiti (Gudja United FC): 30/06/2026 → -
+- German Paiber (Gudja United FC): 30/06/2026 → -
+- Gabriel Mangion (Fgura United FC): 30/06/2026 → -
+- Isaiah Micallef (Fgura United FC): 30/06/2026 → -
+- Kayne Haber (Fgura United FC): 30/06/2026 → -
+- Alan Abdel Rahman (Fgura United FC): 30/06/2026 → -
+- Dylan Caruana (Fgura United FC): 30/06/2026 → -
+- Karl Formosa (Fgura United FC): 30/06/2026 → -
+- Edward Gatt (Vittoriosa Stars FC): 30/06/2026 → -
+- James Camilleri (Vittoriosa Stars FC): 30/06/2026 → -
+- Steven Schembri (Vittoriosa Stars FC): 30/06/2026 → -
+- Renan Farias (Vittoriosa Stars FC): 30/06/2026 → -
+- Eric Atkins (Vittoriosa Stars FC): 30/06/2026 → -
+- Brave Azzopardi (Vittoriosa Stars FC): 30/06/2026 → -
+- Matthias Vella (Melita FC): 30/06/2026 → -
+- Kurt Chircop (Melita FC): 30/06/2026 → -
+- Zak Grech (Melita FC): 30/06/2026 → -
+- Timothy Cassar Torregiani (Melita FC): 30/06/2026 → -
+- Paul Testaferrata (Melita FC): 30/06/2026 → -
+- Josuael Azzopardi (Melita FC): 30/06/2026 → -
+- Nick Cutajar (Melita FC): 30/06/2026 → -
+- Luke Caruana (Zurrieq FC): 30/06/2026 → -
+- Giancarlo Borg (Zurrieq FC): 30/06/2026 → -
+- Sebastian Grech (Zurrieq FC): 30/06/2026 → -
+- Sheldon MacKay (Zurrieq FC): 30/06/2026 → -
+- Xylon Portelli (Zurrieq FC): 30/06/2026 → -
+- Eziefula Chibueze Glamour (Zurrieq FC): 30/06/2026 → -
+- Darren Borg (Zurrieq FC): 30/06/2026 → -
+- Gabriel E J Sciberras (Zurrieq FC): 30/06/2026 → -
+- Jamie Zerafa (Zurrieq FC): 30/06/2026 → -
+- Brite Anayochi Ihuomah (Zurrieq FC): 30/06/2026 → -
+- Leonard Londe (Zurrieq FC): 30/06/2026 → -
+- Jonathan Monney (Zurrieq FC): 30/06/2026 → -
+- Brendan Schneider (Zurrieq FC): 30/06/2026 → -
+- Diogo Guzmán (Montevideo City Torque): 31/12/2027 → 31/12/2028
+- Lucas Machado (Defensor Sporting Club): - → 31/12/2026
+- Jairo O'Neil (CA Boston River): - → 31/12/2026
+- Facundo Saravia (CA Boston River): - → 31/12/2026
+- Marco Oroná (CA Boston River): - → 31/12/2026
+- Agustín Amado (CA Boston River): - → 31/12/2026
+- Henrik Dierk (SSC Hagen Ahrensburg): 30/06/2026 → -
+- Christopher Liebau (SSC Hagen Ahrensburg): 30/06/2026 → -
+- Manuel Horn (SSC Hagen Ahrensburg): 30/06/2026 → -
+- Ole Westfahl (TSV Pansdorf): 30/06/2026 → -
+- Kjell Fechner (TSV Pansdorf): 30/06/2026 → -
+- Marvin Meißner (TSV Lägerdorf): 30/06/2026 → -
+- Dennis Staade (TSV Lägerdorf): 30/06/2026 → -
+- Maximilian Strudthoff (TSV Lägerdorf): 30/06/2026 → -
+- José Varela (Racing Club de Montevideo): - → 31/12/2026
+- Nicolás Sosa (Racing Club de Montevideo): - → 31/12/2026
+- Hans Cedric Stoltenberg (TSV Bargteheide): 30/06/2026 → -
+- Henri Benthien (TSV Bargteheide): 30/06/2026 → -
+- Matthes Haack (VfR Horst): 30/06/2026 → -
+- Bruno Centeno (Club Deportivo Maldonado): - → 31/12/2026
+- Abdullah Besli (SVT Bad Oldesloe): 30/06/2026 → -
+- Rumen Nikolov (SVT Bad Oldesloe): 30/06/2026 → -
+- Bilal Touré (SVT Bad Oldesloe): 30/06/2026 → -
+- Arne Hirschfelder (TuS Hartenholm): 30/06/2026 → -
+- Bleron Rama (SV Todesfelde II): 30/06/2026 → -
+- Luca Schön (SV Todesfelde II): 30/06/2026 → -
+- Max Hartmann (FC Dornbreite Lübeck): 30/06/2026 → -
+- Mauro Brasil (Danubio FC): - → 31/12/2026
+- Martín Jourdan (Danubio FC): - → 31/12/2026
+- Gonzalo Rodríguez (Danubio FC): - → 31/12/2026
+- Volodymyr Pryiomov (FC Dornbreite Lübeck): 30/06/2026 → -
+- Pleurat Bajgora (FC Dornbreite Lübeck): 30/06/2026 → -
+- Torge Willhoeft (SC Rönnau 74): 30/06/2026 → -
+- Axel Montaña (Danubio FC): 31/07/2026 → 31/12/2026
+- John Kleber (Danubio FC): - → 31/12/2026
+- Samuel Noireau-Dauriat (US Orléans): 30/06/2027 → -
+- Kjell Miltkau (SC Rönnau 74): 30/06/2026 → -
+- Melvin Jöns (SC Rönnau 74): 30/06/2026 → -
+- Hugo Silveira (Danubio FC): - → 31/12/2026
+- Ricardo Maghon (SVG Pönitz): 30/06/2026 → -
+- Frederic Kopperschmidt (SVG Pönitz): 30/06/2026 → -
+- Patrick Staege (SVG Pönitz): 30/06/2026 → -
+- Nicolas Böhm (SVG Pönitz): 30/06/2026 → -
+- Finn Kleinewächter (SVG Pönitz): 30/06/2026 → -
+- Joshua Max Schmidt (SVG Pönitz): 30/06/2026 → -
+- Melvin Borne (FC Rouen 1899): 30/06/2026 → -
+- Amara Touré (FC Rouen 1899): 30/06/2026 → -
+- Sory Traoré (FC Rouen 1899): 30/06/2026 → -
+- Miroslav Valo (SVG Pönitz): 30/06/2026 → -
+- Sasha Bernard (Paris 13 Atletico): 30/06/2026 → -
+- Leonid Pomigalov (Türkischer SV Lübeck): 30/06/2026 → -
+- Franck Angong (FC Fleury 91): - → 30/06/2028
+- Yacine Sofiane (FC Villefranche-Beaujolais): 30/06/2026 → -
+- Ibrahima Diakité (SC Aubagne Air Bel): - → 30/06/2027
+- Anton Funk (Arminia Ludwigshafen): 30/06/2026 → -
+- Leon Zinnicke (Arminia Ludwigshafen): 30/06/2026 → -
+- Steffen Straub (Arminia Ludwigshafen): 30/06/2026 → -
+- Sebastian Beikert (Arminia Ludwigshafen): 30/06/2026 → -
+- Maxime Klein (FV Dudenhofen): 30/06/2026 → 30/06/2027
+- Simon Bundenthal (FV Dudenhofen): - → 30/06/2027
+- Jonas Vogt (FV Dudenhofen): - → 30/06/2027
+- Thiago Scarpino (Shabab Al-Ahli Club): 31/08/2026 → -
+- Mario Prskalo (TB Jahn Zeiskam): 30/06/2026 → -
+- Sebastian Weisser (TB Jahn Zeiskam): 30/06/2026 → -
+- Milan Gebhardt (TB Jahn Zeiskam): 30/06/2026 → -
+- Aaron Denk Gracia (TB Jahn Zeiskam): 30/06/2026 → -
+- Joe-Luca Fuhr (TB Jahn Zeiskam): 30/06/2026 → -
+- Nikola Jakovljevic (TB Jahn Zeiskam): 30/06/2026 → -
+- Lukas Bauer (TB Jahn Zeiskam): 30/06/2026 → -
+- Florian Simon (TB Jahn Zeiskam): 30/06/2026 → -
+- Luis Hirsch (TB Jahn Zeiskam): 30/06/2026 → -
+- Janik Subas (TB Jahn Zeiskam): 30/06/2026 → -
+- Jonas Schäfer (TB Jahn Zeiskam): 30/06/2026 → -
+- Mayed Muhsin (Sharjah FC): 30/06/2026 → -
+- Nico Kruppenbacher (TB Jahn Zeiskam): 30/06/2026 → -
+- Josip Saravanja (TB Jahn Zeiskam): 30/06/2026 → -
+- Jonas Dörrzapf (TB Jahn Zeiskam): 30/06/2026 → -
+- Denis Perrone (TB Jahn Zeiskam): 30/06/2026 → -
+- Nico Nagel (TB Jahn Zeiskam): 30/06/2026 → -
+- Ibrahim Sho Katende (FC Basara Mainz): 30/06/2026 → -
+- Taiga Ishida (FC Basara Mainz): 30/06/2026 → -
+- Mohammed Bu Senda (Al-Ain FC): 30/06/2026 → -
+- Mohamed Abdelbarie Merhab (JS Saoura): 30/06/2026 → -
+- Ilyes Faical Haddouche (JS Saoura): 30/06/2026 → -
+- Paul Gebhard (SV Alemannia Waldalgesheim): 30/06/2026 → -
+- Justin Padberg (SV Alemannia Waldalgesheim): 30/06/2026 → -
+- Abdel Hak Khoumani (JS Saoura): 30/06/2026 → -
+- Marlon Pira (SV Alemannia Waldalgesheim): 30/06/2026 → -
+- Konstantin Ludwig (SV Alemannia Waldalgesheim): 30/06/2026 → -
+- Mahdi Mehnatgir (SV Alemannia Waldalgesheim): 30/06/2026 → -
+- Hazaa Ammar (Al-Wahda FC): 30/06/2026 → -
+- Wassim Khalouf (ES Ben Aknoun): 30/06/2026 → -
+- Mark Becker (SG Hüffelsheim): 30/06/2026 → -
+- Lars Hermann (SG Hüffelsheim): 30/06/2026 → -
+- Johannes Balzer (SG Hüffelsheim): 30/06/2026 → -
+- Tim Krafft (SG Hüffelsheim): 30/06/2026 → -
+- Mostafa El-Haiwan (SG Hüffelsheim): 30/06/2026 → -
+- Cedric Lind (SG Hüffelsheim): 30/06/2026 → -
+- Malik Yerima (SG Hüffelsheim): 30/06/2026 → -
+- Christian Hahn (SG Hüffelsheim): 30/06/2026 → -
+- Patrick Aust (FC Bienwald Kandel): 30/06/2026 → -
+- Marc Mängel (FC Bienwald Kandel): 30/06/2026 → -
+- Dominik Gucanin (FC Bienwald Kandel): 30/06/2026 → -
+- Benedikt Brück (FC Bienwald Kandel): 30/06/2026 → -
+- Aaron Schmidt (FC Bienwald Kandel): 30/06/2026 → -
+- Arianit Uka (FC Bienwald Kandel): 30/06/2026 → -
+- Karim Maria Mathis (FC Bienwald Kandel): 30/06/2026 → -
+- Michael Bittner (FC Bienwald Kandel): 30/06/2026 → -
+- Yasin Özcelik (FC Bienwald Kandel): 30/06/2026 → -
+- Nathan Ikubu (FC Bienwald Kandel): 30/06/2026 → -
+- Julius Schött (Eintracht Bad Kreuznach): 30/06/2026 → -
+- Lennart Drees (Eintracht Bad Kreuznach): 30/06/2026 → -
+- Ahmed Barman (Khor Fakkan SSC): 30/06/2026 → -
+- Moritz Jung (SV Steinwenden): 30/06/2026 → -
+- Benjamin Summers (SV Steinwenden): 30/06/2026 → -
+- Maximilian Hell (SV Steinwenden): 30/06/2026 → -
+- Elias Schulze (SV Steinwenden): 30/06/2026 → -
+- Marius Heißler (FK Pirmasens II): 30/06/2026 → -
+- Taofeek Idowu (Germania Teveren): 30/06/2026 → -
+- Olaife Orolade (Germania Teveren): 30/06/2026 → -
+- Stefan Vujicic (Germania Teveren): 30/06/2026 → -
+- André Pang (Germania Teveren): 30/06/2026 → -
+- Boris Perencevic (Germania Teveren): 30/06/2026 → -
+- Stefan Savic (Germania Teveren): 30/06/2026 → -
+- Mario Forster (FK Pirmasens II): 30/06/2026 → -
+- Elvis Gojak (Germania Teveren): 30/06/2026 → -
+- Marvin Dumslaff (Germania Teveren): 30/06/2026 → -
+- Claudio Kiala (Germania Teveren): 30/06/2026 → -
+- Maximilian Wickum (Germania Teveren): 30/06/2026 → -
+- Hasan Al-Muharrami (FC Baniyas): 30/06/2026 → -
+- Joshua Klüber (TuS Marienborn): 30/06/2026 → -
+- Moritz Breier (TuS Marienborn): 30/06/2026 → -
+- Nermin Fakovic (TuS Marienborn): 30/06/2026 → -
+- Mateo Trapp (TuS Marienborn): 30/06/2026 → -
+- Saif Al-Menhali (FC Baniyas): 30/06/2026 → -
+- Luis Kersthold (TuS Marienborn): 30/06/2026 → -
+- Alexander Markiefka (TuS Marienborn): 30/06/2026 → -
+- Dominic Gerber (VfR Grünstadt): 30/06/2026 → -
+- Disimua-Brandon Kanzi (Sportfreunde Düren): 30/06/2026 → -
+- Koray Karabulut (Sportfreunde Düren): 30/06/2026 → -
+- Paul Filatov (Sportfreunde Düren): 30/06/2026 → -
+- Raiju Obuchi (Sportfreunde Düren): 30/06/2026 → -
+- Yannik Niemann (VfR Grünstadt): 30/06/2026 → -
+- Marcel Czekalla (VfR Grünstadt): 30/06/2026 → -
+- Vincent Morgan (VfR Grünstadt): 30/06/2026 → -
+- Paul Gehrmann (VfR Grünstadt): 30/06/2026 → -
+- Lukas Manneck (VfR Grünstadt): 30/06/2026 → -
+- Luca Jensen (VfR Grünstadt): 30/06/2026 → -
+- Joshua Ugorji (VfR Grünstadt): 30/06/2026 → -
+- Marco Sorg (VfR Grünstadt): 30/06/2026 → -
+- Emirhan Duvahan (Sportfreunde Düren): 30/06/2026 → -
+- Fernando Nissen (SV 1910 Breinig Breinigerberg): 30/06/2026 → -
+- Jan Gruhn (SV 1910 Breinig Breinigerberg): 30/06/2026 → -
+- Niklas Mohr (SV 1910 Breinig Breinigerberg): 30/06/2026 → -
+- Adrijan Behrami (SV 1910 Breinig Breinigerberg): 30/06/2026 → -
+- Manuel Kanou (SV 1910 Breinig Breinigerberg): 30/06/2026 → -
+- Sulayman Dawodu (SV 1910 Breinig Breinigerberg): 30/06/2026 → -
+- Joseph Mbuyi (SV 1910 Breinig Breinigerberg): 30/06/2026 → -
+- Leon Blank (SV Eintracht Verlautenheide): 30/06/2026 → -
+- Mansor Al-Harbi (Al-Dhafra FC): 30/06/2026 → -
+- Bernhard Benneter (SV Büchelberg): 30/06/2026 → -
+- Berdan Cetindag (SV Eintracht Verlautenheide): 30/06/2026 → -
+- Leonhard Roßmüller (SV Eintracht Verlautenheide): 30/06/2026 → -
+- Andre Hemforth (SV Eintracht Verlautenheide): 30/06/2026 → -
+- Cem Hircin (SV Eintracht Verlautenheide): 30/06/2026 → -
+- Nils Tangerding (SV Eintracht Verlautenheide): 30/06/2026 → -
+- Rayan Yaslam (Al-Dhafra FC): 30/06/2026 → -
+- Alex Taach (SC Fliesteden 1931): 30/06/2026 → -
+- Frederik Borchert Mouritzen (SC Fliesteden 1931): 30/06/2026 → -
+- Vincent Geimer (SC Fliesteden 1931): 30/06/2026 → -
+- Tobias Diedrichs (SV 1914 Eilendorf): 30/06/2026 → -
+- Jonas Beckers (SV 1914 Eilendorf): 30/06/2026 → -
+- Dino Avdic (SV 1914 Eilendorf): 30/06/2026 → -
+- Milan Schaaf (SV 1914 Eilendorf): 30/06/2026 → -
+- Justus Schulte (SV 1914 Eilendorf): 30/06/2026 → -
+- Kian Soleimankhani (SV 1914 Eilendorf): 30/06/2026 → -
+- Orestis Kollias (SV 1914 Eilendorf): 30/06/2026 → -
+- Jan Hess (Germania Lich-Steinstraß): 30/06/2026 → -
+- Julian Peter Sußmann (Germania Lich-Steinstraß): 30/06/2026 → -
+- Jan Körfer (Germania Lich-Steinstraß): 30/06/2026 → -
+- Jan Sipakis (Germania Lich-Steinstraß): 30/06/2026 → -
+- Taavi Van Eijs (Union Schafhausen): 30/06/2026 → -
+- Mamadi Conde (SV Kurdistan Düren): 30/06/2026 → -
+- Cayan Baysan (SV Kurdistan Düren): 30/06/2026 → -
+- Xhenis Mislimi (SV Kurdistan Düren): 30/06/2026 → -
+- Adrian Muliqi (SV Kurdistan Düren): 30/06/2026 → -
+- Josimar Eshun (SV Kurdistan Düren): 30/06/2026 → -
+- Bryant Baidoo (SV Kurdistan Düren): 30/06/2026 → -
+- Nurullah Yasar (SV Kurdistan Düren): 30/06/2026 → -
+- Deagir Ilunga (SV Kurdistan Düren): 30/06/2026 → -
+- Sandro Frugaborsi (SV Kurdistan Düren): 30/06/2026 → -
+- Patrick Mioska (DJK Rasensport Brand 04): 30/06/2026 → -
+- Mika Frenzen (DJK Rasensport Brand 04): 30/06/2026 → -
+- Yannick-Noah Pietrowski (DJK Rasensport Brand 04): 30/06/2026 → -
+- Amir Jaidi (DJK Rasensport Brand 04): 30/06/2026 → -
+- Delany Arigbe (DJK Rasensport Brand 04): 30/06/2026 → -
+- Fauzani Issa Issaka (SV Helpenstein): 30/06/2026 → -
+- Abdoulaye Balde (SV Helpenstein): - → 30/06/2027
+- Frissell Hunter (SV Helpenstein): 30/06/2026 → -
+- Laurin Barry (SV Helpenstein): 30/06/2026 → -
+- Trichany Wazulua (SV Helpenstein): 30/06/2026 → -
+- Olaf Piatek (SV Helpenstein): 30/06/2026 → -
+- Joyeux Badiata (SV Helpenstein): 30/06/2026 → -
+- Abdelkarim Ait Kassi (SV Helpenstein): 30/06/2026 → -
+- Mohamed Mankou (SV Helpenstein): 30/06/2026 → -
+- Elias Hübsch (SF Uevekoven): 30/06/2026 → -
+- Dennis Heinen (SF Uevekoven): 30/06/2026 → -
+- Marc Hotopp (SF Uevekoven): 30/06/2026 → -
+- Robin Eckers (SF Uevekoven): 30/06/2026 → -
+- Dylan Uredat (SF Uevekoven): 30/06/2026 → -
+- Niklas Maubach (SV Germania Eicherscheid): 30/06/2026 → -
+- Peter Heitzer (SV Germania Eicherscheid): 30/06/2026 → -
+- Louis Breuer (SV Germania Eicherscheid): - → 30/06/2027
+- Janis Weishaupt (SV Germania Eicherscheid): - → 30/06/2027
+- Manuel Klöppel (SV Germania Eicherscheid): - → 30/06/2027
+- Kaan Gökcesin (Türkischer SV Düren): 30/06/2026 → -
+- Daniel Bleja (Türkischer SV Düren): 30/06/2026 → -
+- Jordi Ndombaxi (Türkischer SV Düren): 30/06/2026 → -
+- Marlon Vogt (Blumenthaler SV): 30/06/2026 → -
+- Florian Brahtz (Blumenthaler SV): 30/06/2026 → -
+- Dennis Brendow (Blumenthaler SV): 30/06/2026 → -
+- Marcel Pfaar (SV Hemelingen): 30/06/2026 → -
+- Florent Berisha (SV Hemelingen): 30/06/2026 → -
+- Felix Deou Bauhus (SV Hemelingen): 30/06/2026 → -
+- Yusuf Erten (SV Hemelingen): 30/06/2026 → -
+- Salem Nouwame (SV Hemelingen): 30/06/2026 → -
+- Kerem Sahan (SV Hemelingen): 30/06/2026 → -
+- Dean Hannawald (SV Hemelingen): 30/06/2026 → -
+- Berkay Isik (SV Hemelingen): 30/06/2026 → -
+- Abdula Genaev (SV Hemelingen): 30/06/2026 → -
+- Onur Uzun (SV Hemelingen): 30/06/2026 → -
+- Hiroto Shimokawa (SV Hemelingen): 30/06/2026 → -
+- Jacobbi Tugman (SV Hemelingen): 30/06/2026 → -
+- Jerome Albritton (SV Hemelingen): 30/06/2026 → -
+- Leo Wolf (SV Hemelingen): 30/06/2026 → -
+- Torge Wiedenroth (OSC Bremerhaven): 30/06/2026 → -
+- Philip Schich (OSC Bremerhaven): 30/06/2026 → -
+- Marcel Alphonsus (Young Violets Austria Wien): - → 30/06/2029
+- Felix Spitt (OSC Bremerhaven): 30/06/2026 → -
+- Nicodem Nianga (OSC Bremerhaven): 30/06/2026 → -
+- Novah van der Schouw (OSC Bremerhaven): 30/06/2026 → -
+- Ricardo Marafona (OSC Bremerhaven): 30/06/2026 → -
+- Marius Bruns (OSC Bremerhaven): 30/06/2026 → -
+- Noah Koch (OSC Bremerhaven): 30/06/2026 → -
+- Jamal Barnes (OSC Bremerhaven): 30/06/2026 → -
+- Marvin Kück (OSC Bremerhaven): 30/06/2026 → -
+- Elias Klassen (OSC Bremerhaven): 30/06/2026 → -
+- Marc Adonis (OSC Bremerhaven): 30/06/2026 → -
+- Marcel Wagner (OSC Bremerhaven): 30/06/2026 → -
+- Jari-Pekka Ley (OSC Bremerhaven): 30/06/2026 → -
+- David Miller (OSC Bremerhaven): 30/06/2026 → -
+- Christoph Heitmann (TV Eiche Horn): 30/06/2026 → -
+- Juri Louis Gerardu (TV Eiche Horn): 30/06/2026 → -
+- Jonas Kebbel (TV Eiche Horn): 30/06/2026 → -
+- Yann Tchouambou (TV Eiche Horn): 30/06/2026 → -
+- Eric Heidbreder (TV Eiche Horn): 30/06/2026 → -
+- Lukas Ulbrich (TV Eiche Horn): 30/06/2026 → -
+- Pascal Hartmann (TV Eiche Horn): 30/06/2026 → -
+- Elias El-Armouche (TV Eiche Horn): 30/06/2026 → -
+- Artur Schmidt (TV Eiche Horn): 30/06/2026 → 30/06/2027
+- Cydrique Mettendie Kounga (TV Eiche Horn): 30/06/2026 → -
+- Tayanc Gökdal (TV Eiche Horn): - → 30/06/2027
+- Essien Jones (TV Eiche Horn): 30/06/2026 → -
+- Justin Rupp (TV Eiche Horn): 30/06/2026 → -
+- Nils Fitzek (TV Eiche Horn): 30/06/2026 → -
+- Pabi Ceesay (TV Eiche Horn): 30/06/2026 → -
+- Ole Bahr (Brinkumer SV): 30/06/2026 → -
+- Maximilian Hentrich (Brinkumer SV): 30/06/2026 → -
+- Leonit Berisha (Brinkumer SV): 30/06/2026 → -
+- Leon Hansemann (Brinkumer SV): 30/06/2026 → -
+- Ben Forcher (Brinkumer SV): 30/06/2026 → -
+- Alem Pasic (FC Blau-Weiss Linz): 30/06/2027 → 30/06/2028
+- Marvin Ntamag (Brinkumer SV): 30/06/2026 → -
+- Isaac Omoike (Brinkumer SV): 30/06/2026 → -
+- Ali Azad (BTS Neustadt): 30/06/2026 → -
+- Oumar von Asseburg (BTS Neustadt): 30/06/2026 → -
+- Marcel Katta-Alnael (BTS Neustadt): 30/06/2026 → -
+- Marco Rehling (BTS Neustadt): 30/06/2026 → -
+- Jürgen Till Naumann (BTS Neustadt): 30/06/2026 → -
+- Adel Yusefi (BTS Neustadt): 30/06/2026 → -
+- Paul Forchmann (BTS Neustadt): 30/06/2026 → -
+- Dennis Janßen (BTS Neustadt): 30/06/2026 → -
+- Benjamin Lassalle (BTS Neustadt): 30/06/2026 → -
+- Hüseyincan Yildiz (BTS Neustadt): 30/06/2026 → -
+- Florian Saß (BTS Neustadt): 30/06/2026 → -
+- Richard Vollbrecht (BTS Neustadt): 30/06/2026 → 30/06/2027
+- Rigo Ehresmann (BTS Neustadt): 30/06/2026 → -
+- Anas Hasan (BTS Neustadt): 30/06/2026 → -
+- Johannes Mädge (BTS Neustadt): 30/06/2026 → -
+- Pepe Haedke (FC Union 60 Bremen): 30/06/2026 → -
+- Jonathan Demski (FC Union 60 Bremen): 30/06/2026 → -
+- Nuno Porquet (FC Union 60 Bremen): 30/06/2026 → -
+- Leif Hoppe (FC Union 60 Bremen): 30/06/2026 → -
+- Rezan Celik (FC Union 60 Bremen): 30/06/2026 → -
+- Lewis Bela Stroth (FC Union 60 Bremen): 30/06/2026 → -
+- Nuhatt Kacar (FC Union 60 Bremen): 30/06/2026 → -
+- Onur Aydogdu (SV Werder Bremen III): 30/06/2026 → -
+- Felix Tillmann (SV Werder Bremen III): 30/06/2026 → -
+- Piotr Skrobosinski (Polonia Sroda Wielkopolska): 30/06/2026 → -
+- Mikolaj Stangel (Polonia Sroda Wielkopolska): 30/06/2026 → -
+- Luis Gstrein (FC Wacker Innsbruck): - → 30/06/2029
+- Anil Tastan (ESC 02 Geestemünde): 30/06/2026 → -
+- Lukas Katarius (Leher TS Bremerhaven): 30/06/2026 → -
+- Jamie Lindemann (Leher TS Bremerhaven): 30/06/2026 → -
+- Mika Kneifel (Leher TS Bremerhaven): 30/06/2026 → -
+- Logan Johnston (Leher TS Bremerhaven): 30/06/2026 → -
+- Luca Strafehl (Leher TS Bremerhaven): 30/06/2026 → -
+- Mika Sakib Hasanspahic (Leher TS Bremerhaven): 30/06/2026 → -
+- Oleksandr Maiko (Leher TS Bremerhaven): 30/06/2026 → -
+- Yanive Solomon (Leher TS Bremerhaven): 30/06/2026 → -
+- Azad Gökdogan (Leher TS Bremerhaven): 30/06/2026 → -
+- Mario Vukoja (SG Aumund-Vegesack): 30/06/2026 → -
+- Roy Kwaku Brzenza (SG Aumund-Vegesack): 30/06/2026 → -
+- Miran Abdi (SG Aumund-Vegesack): 30/06/2026 → -
+- Lokman Abdi (SG Aumund-Vegesack): 30/06/2026 → -
+- Mahdi Matar (SG Aumund-Vegesack): 30/06/2026 → -
+- Tombrad Fieri (SG Aumund-Vegesack): 30/06/2026 → -
+- Dominik Stolc (Elana Torun): 31/12/2026 → 30/06/2027
+- San-Luca Spitali (SV Austria Salzburg): - → 30/06/2027
+- Femi Lepe (SG Aumund-Vegesack): 30/06/2026 → -
+- Nadhir Gafsi (SG Aumund-Vegesack): 30/06/2026 → -
+- Lawrence Osazuwa (SG Aumund-Vegesack): 30/06/2026 → -
+- Caner Sahan (KSV Vatan Sport): 30/06/2026 → -
+- Mika von Lübke (KSV Vatan Sport): 30/06/2026 → -
+- Abdullah Doğan (KSV Vatan Sport): 30/06/2026 → 30/06/2027
+- Mark Abila (KSV Vatan Sport): 30/06/2026 → -
+- Jaziel Martínez (Club Atlético Morelia): 01/07/2026 → -
+- Nicolas Rossi (Schwarz-Weiß Bregenz): 30/06/2026 → -
+- Jakub Kielb (Unia Swarzedz): 30/06/2026 → -
+- Severyn Stefanowski (TuS Schwachhausen): 30/06/2026 → -
+- Christian Holz (TuS Schwachhausen): 30/06/2026 → -
+- Marc-Philipp Brusche (TuS Schwachhausen): 30/06/2026 → -
+- Nikolas Krutsch (TuS Schwachhausen): 30/06/2026 → -
+- Maximilian Winkler (TuS Schwachhausen): 30/06/2026 → -
+- Ayman Boujibar (TuS Schwachhausen): 30/06/2026 → -
+- Finn Rogge (TuS Schwachhausen): 30/06/2026 → -
+- Batuhan Celik (SV Grohn): 30/06/2026 → -
+- Saqeef Haleem Mohamed Irfan (SV Grohn): 30/06/2026 → -
+- Enoch Damilare Olarewaju (SV Grohn): 30/06/2026 → -
+- Mazn Dawd Ali Ali (SV Grohn): 30/06/2026 → -
+- Abdul-Hakim Malek (SV Grohn): 30/06/2026 → -
+- Milan Meyer (SV Grohn): 30/06/2026 → -
+- Bora Bilgin (SV Grohn): 30/06/2026 → 30/06/2027
+- Ben Heuser (SV Kapfenberg): - → 30/06/2027
+- Jonathan Sánchez (Tepatitlán FC): 01/07/2026 → -
+- Jaziel Martínez (Club Atlético Morelia): 01/07/2026 → -
+- Malek Kharaibi (FC Helsingör U19): 30/06/2026 → -
+- Tristan Nilsson (AC Amager Academy U19): 30/06/2027 → -
+- Jonathan Sánchez (Tepatitlán FC): 01/07/2026 → -
+- Mikhail Petrov (FC Tyumen): 30/06/2026 → -
+- Evgeniy Tonevitskiy (FC Tyumen): 30/06/2027 → 31/12/2026
+- Gleb Zakharov (FC Tyumen): 30/06/2026 → -
+- Pavel Shakuro (FC Tyumen): 30/06/2026 → -
+- Andrey Dernov (FC Tyumen): 30/06/2026 → -
+- Vadim Grinvald (FC Tyumen): 30/06/2026 → -
+- Damir Talikin (FC Tyumen): 30/06/2026 → -
+- Vladlen Babaev (FC Tyumen): 30/06/2026 → -
+- Vitaliy Shitov (FC Tyumen): 30/06/2026 → -
+- Maksim Dmitriev (FC Tyumen): 30/06/2026 → -
+- Kirill Boyarskikh (FC Tyumen): 30/06/2026 → -
+- Maksim Abakumov (FC Tyumen): 30/06/2026 → -
+- Daniil Chernyshev (Rodina 2 Moscow): 30/06/2026 → -
+- Alan Bagaev (Alania Vladikavkaz): 30/06/2026 → -
+- Nikita Semenenko (Sibir Novosibirsk): 30/06/2026 → -
+- Evgeniy Lopatjko (Torpedo Miass): 30/06/2026 → -
+- Dmitriy Kuzmin (Torpedo Miass): 30/06/2026 → -
+- Denis Zamyatin (Torpedo Miass): 30/06/2026 → -
+- Karlo Ziger (NK Sesvete): - → 31/05/2027
+- Borna Cik (NK Sesvete): 30/06/2026 → -
+- Raul Bezeljak (NK Sesvete): 30/06/2026 → -
+- Jeremiah Oluwaseyi Olaleke (NK Sesvete): 30/06/2026 → -
+- Moses Zambrang Barnabas (NK Sesvete): 30/06/2026 → -
+- Ilan Pejic (NK Sesvete): 30/06/2026 → -
+- Amad Keita (NK Sesvete): 30/06/2026 → -
+- Anton Hobelsberger (FC Sturm Hauzenberg): 30/06/2026 → -
+- Fabian Schwingenschlögl (TSV Seebach): 30/06/2026 → -
+- Luca Kapfenberger (TSV Seebach): 30/06/2026 → -
+- Daniel Gschwendtner (SpVgg Lam): 30/06/2026 → -
+- Domagoj Ivan Maric (HNK Orijent Rijeka): 30/06/2027 → 30/06/2028
+- Vice Bazdaric (HNK Orijent Rijeka): 30/06/2026 → -
+- Dino Curac (HNK Orijent Rijeka): 20/06/2026 → -
+- Benjamin Tolks (SpVgg Lam): 30/06/2026 → -
+- Matthias Müller (SpVgg Lam): 30/06/2026 → -
+- Franz Wendl (SpVgg Lam): 30/06/2026 → -
+- David Iglhaut (SpVgg Lam): 30/06/2026 → -
+- Louis Tournier (FC Dingolfing): 30/06/2026 → -
+- Mihael Rovis (HNK Orijent Rijeka): 15/06/2026 → -
+- Stefan Weber (FC Dingolfing): 30/06/2026 → -
+- Marlon Nicklas (FC Dingolfing): 30/06/2026 → -
+- Fabian Prebeck Sanchez (FC Dingolfing): 30/06/2026 → -
+- Moritz Bauernfeind (1.FC Passau): 30/06/2026 → -
+- Maximilian Moser (1.FC Passau): 30/06/2026 → -
+- Sasa Domic (NK Kustosija Zagreb): 30/06/2026 → -
+- Luka Jurak (NK Kustosija Zagreb): - → 31/05/2028
+- Josef Fenzl (SC Luhe Wildenau): 30/06/2026 → -
+- Caner Gümüsbas (SC Luhe Wildenau): 30/06/2026 → -
+- Andreas Müller (SV Schwandorf-Ettmannsdorf): 30/06/2026 → -
+- Lukas Rothut (SV Schwandorf-Ettmannsdorf): 30/06/2026 → -
+- Basel Kasem (SV Schwandorf-Ettmannsdorf): 30/06/2026 → -
+- Ludwig Richthammer (SV Schwandorf-Ettmannsdorf): 30/06/2026 → -
+- Zoran Nizic (NK Dugopolje): 15/06/2026 → -
+- Daniel Fuchs (DJK Vornbach a. Inn): 30/06/2026 → -
+- Bruno Zdunic (NK Dugopolje): 15/06/2026 → -
+- Luca Saller (TSV Bogen): 30/06/2026 → -
+- Ricardo Bagadur (NK Opatija): 31/05/2026 → -
+- Patrick Fuchs (TSV Bogen): 30/06/2026 → -
+- Moritz Matschoß (TSV Bogen): 30/06/2026 → -
+- Andro Svrljuga (NK Opatija): 31/05/2026 → -
+- Fabian Pfann (TSV Bad Abbach): 30/06/2026 → -
+- Max Kellner (FC Tegernheim): 30/06/2026 → -
+- Tobias Schönbrunner (FC Tegernheim): 30/06/2026 → -
+- Maximilian Wasmeier (FC Tegernheim): 30/06/2026 → -
+- Jonas Eigenstetter (FC Tegernheim): 30/06/2026 → -
+- Sven Wagner (FC Tegernheim): 30/06/2026 → -
+- Ivan Medvidovic (NK Croatia Zmijavci): 30/06/2026 → -
+- Luka Marijanovic (HNK Cibalia Vinkovci): 30/06/2026 → -
+- Benjamin Beese (FC Tegernheim): 30/06/2026 → -
+- Renato Kelic (HNK Cibalia Vinkovci): 30/06/2026 → -
+- Luka Rajkovic (HNK Cibalia Vinkovci): 30/06/2026 → 30/06/2027
+- Maro Medo (HNK Cibalia Vinkovci): 30/06/2026 → 30/06/2027
+- Marco Seifert (FC Amberg): 30/06/2026 → -
+- Issa Ouro Agouda (FC Bassano): 30/06/2026 → -
+- Niksa Culina (HNK Segesta Sisak): 30/06/2026 → -
+- Dino Spehar (HNK Segesta Sisak): 30/06/2026 → -
+- Aliou Badara Faye (FC Legnago Salus): 30/06/2027 → 30/06/2028
+- Nicolò Roverato (Unione La Rocca Altavilla): 30/06/2026 → -
+- Lorenzo Rapaille (FC Mamer 32): 30/06/2026 → -
+- Léo Montout (FC Mamer 32): 30/06/2026 → -
+- Deniz Muric (FC Mamer 32): 30/06/2026 → -
+- Brandon Lima Lizardo (FC Rodange 91): 30/06/2026 → -
+- Diego Carzaniga (FC Rodange 91): - → 30/06/2028
+- Tun Held (FC Marisca Mersch): 30/06/2026 → -
+- Lionel Amou (CS Fola Esch): 30/06/2026 → -
+- Alexis Weber (SC Bettembourg): 30/06/2027 → -
+- David Silva (SC Bettembourg): 30/06/2026 → -
+- Rui Costa (FC Mondercange): 30/06/2026 → -
+- Rocco Zinnato (Eintracht Hohkeppel): 30/06/2026 → -
+- Darlington Ticha (Eintracht Hohkeppel): 30/06/2026 → -
+- Justin Strauch (Eintracht Hohkeppel): 30/06/2026 → -
+- Marlon Monning (Eintracht Hohkeppel): 30/06/2026 → -
+- Firat Tuncer (Eintracht Hohkeppel): 30/06/2026 → -
+- Dominik Bilogrevic (Eintracht Hohkeppel): 30/06/2026 → -
+- Joel Vieting (Eintracht Hohkeppel): 30/06/2026 → -
+- Hendrik Strobl (Eintracht Hohkeppel): 30/06/2026 → -
+- Ben Esser (Siegburger SV 04): 30/06/2026 → -
+- Jonas Dierke (Siegburger SV 04): 30/06/2026 → 30/06/2027
+- Leo Camara (Siegburger SV 04): 30/06/2026 → -
+- Jacob Elliott (Siegburger SV 04): 30/06/2026 → 30/06/2027
+- Ju-yong Jo (Siegburger SV 04): 30/06/2026 → -
+- Oliver Gawenda (Siegburger SV 04): 30/06/2026 → -
+- Kelana Mahessa (Siegburger SV 04): 30/06/2026 → -
+- Tariq-Emad Suleiman (Siegburger SV 04): 30/06/2026 → -
+- Rikiya Ohashi (Siegburger SV 04): 30/06/2026 → 30/06/2027
+- Yuta Sakamaki (Siegburger SV 04): 30/06/2026 → -
+- Tom Schnörpel (Siegburger SV 04): 30/06/2026 → -
+- Youness Benfarji (Siegburger SV 04): 30/06/2026 → -
+- Nico Kuhbier (Siegburger SV 04): 30/06/2026 → -
+- Luke Schäfer (SSV Merten 1925): 30/06/2026 → -
+- Maximilian Decker (SSV Merten 1925): 30/06/2026 → -
+- Winzent Suchanek (SSV Merten 1925): 30/06/2026 → 30/06/2027
+- Adrian Engels (SSV Merten 1925): 30/06/2026 → -
+- Pascal Köpp (SSV Merten 1925): 30/06/2026 → -
+- Farid Bacevac (SSV Merten 1925): 30/06/2026 → -
+- Hamza Salman (SSV Merten 1925): 30/06/2026 → -
+- Bilal El Morabiti (SSV Merten 1925): 30/06/2026 → -
+- Kenan Akalp (SSV Merten 1925): 30/06/2026 → -
+- Abdenbi Oubelkhiri (SSV Merten 1925): 30/06/2026 → -
+- Michael Okoroafor (SSV Merten 1925): 30/06/2026 → -
+- Gaspard Fehlinger (SSV Merten 1925): 30/06/2026 → 30/06/2027
+- Frederik Said (VfL Vichttal): 30/06/2026 → -
+- Robin Ahns (VfL Vichttal): 30/06/2026 → -
+- Jonas Hoss (VfL Vichttal): 30/06/2026 → 30/06/2027
+- Luan Braun (VfL Vichttal): 30/06/2026 → 30/06/2027
+- Canel Cetin (VfL Vichttal): 30/06/2026 → -
+- Benyamin Malekzadeh (VfL Vichttal): 30/06/2026 → -
+- Nuredin Alikahn (VfL Vichttal): 30/06/2026 → -
+- Yassine Ali Gnondi (VfL Vichttal): 30/06/2026 → 30/06/2027
+- Niklas Valerius (VfL Vichttal): 30/06/2026 → 30/06/2027
+- Hendrik Höfels (FC Wegberg-Beeck): 30/06/2026 → 30/06/2027
+- Haibrany Ruíz Díaz (Club Plaza Colonia): - → 31/12/2026
+- Modibo Traoré (Club Plaza Colonia): 30/06/2026 → -
+- Niklas Fensky (FC Wegberg-Beeck): 30/06/2026 → -
+- Lautaro Dufur (CA Rentistas): - → 31/12/2026
+- Pablo Pírez (CA Rentistas): - → 31/12/2026
+- Leon Pingen (SpVg Frechen 20): 30/06/2026 → -
+- Tobias Stecker (SpVg Frechen 20): 30/06/2026 → -
+- Andriy Tykhonov (SpVg Frechen 20): - → 30/06/2027
+- Frederic Mäntele (SpVg Frechen 20): 30/06/2026 → -
+- Ignacio Pintos (CA Rentistas): - → 31/12/2026
+- Jean Franco Martínez (CA Rentistas): - → 31/12/2026
+- Thomás Chacón (CA Rentistas): - → 31/12/2026
+- Pablo Suárez (CA Rentistas): - → 31/12/2026
+- Hassan Ali (SpVg Frechen 20): - → 30/06/2027
+- Kerim Taskale (SpVg Frechen 20): 30/06/2026 → 30/06/2027
+- Tim Dilley (SpVg Frechen 20): 30/06/2026 → -
+- Tom Buhl (SSV Bornheim 1924): - → 30/06/2027
+- Ayman Gassa (SSV Bornheim 1924): 30/06/2026 → 30/06/2027
+- Can Catak (SSV Bornheim 1924): 30/06/2026 → 30/06/2027
+- Mohammed Bouchafrati (SSV Bornheim 1924): 30/06/2026 → 30/06/2027
+- Horacio Sequeira (CA Rentistas): - → 31/12/2026
+- Michel Silveira (CA Rentistas): - → 31/12/2026
+- Francisco Casanova (CS Cerrito): - → 31/12/2026
+- Santiago Pereira (CS Cerrito): - → 31/12/2026
+- Santiago Viera (CS Cerrito): - → 31/12/2026
+- Franco Casuriaga (CS Cerrito): - → 31/12/2026
+- Hossein Tasoji (SSV Bornheim 1924): 30/06/2026 → 30/06/2027
+- Cedric Abresch (SSV Bornheim 1924): 30/06/2026 → -
+- Julio Molongua (SSV Bornheim 1924): 30/06/2026 → -
+- Jona Eliah Hellingrath (TuS Blau-Weiß Königsdorf): 30/06/2026 → 30/06/2027
+- Yuki Koyama (TuS Blau-Weiß Königsdorf): 30/06/2026 → 30/06/2027
+- Agustín Da Rocha (CS Cerrito): - → 31/12/2026
+- Japhet Kindala (TuS Blau-Weiß Königsdorf): 30/06/2026 → -
+- Mehmet-Yasin Serin (TuS Blau-Weiß Königsdorf): 30/06/2026 → -
+- Yasuhiro Ikai (TuS Blau-Weiß Königsdorf): 30/06/2026 → 30/06/2027
+- Kosei Maruki (TuS Blau-Weiß Königsdorf): 30/06/2026 → 30/06/2027
+- Goga Khvedelidze (TuS Blau-Weiß Königsdorf): - → 30/06/2027
+- Haydar Kilic (TuS Blau-Weiß Königsdorf): 30/06/2026 → -
+- Yannik Lamberz (TuS Blau-Weiß Königsdorf): 30/06/2026 → 30/06/2027
+- Emre Kovanci (TuS Blau-Weiß Königsdorf): 30/06/2026 → -
+- Albright Eneghabu (TuS Blau-Weiß Königsdorf): 30/06/2026 → -
+- Deniz Güllü (TuS Blau-Weiß Königsdorf): 30/06/2026 → -
+- Yannick Marko (1.FC Düren): 30/06/2026 → -
+- Jonas Rifisch (1.FC Düren): 30/06/2026 → -
+- Nils Schütte (1.FC Düren): 30/06/2026 → -
+- Hiroto Murakami (1.FC Düren): - → 30/06/2027
+- Jannis Kuckertz (1.FC Düren): 30/06/2026 → -
+- Malcom Scheibner (1.FC Düren): 30/06/2026 → -
+- Santiago Rodríguez (CA Fénix): 31/07/2026 → -
+- Vinzent Zingel (1.FC Düren): 30/06/2026 → -
+- Samy Jaksic (1.FC Düren): 30/06/2026 → -
+- Dominick Marko (1.FC Düren): 30/06/2026 → -
+- Marcel Olschewski (1.FC Düren): 30/06/2026 → -
+- Ajdin Eglenovic (1.FC Düren): 30/06/2026 → -
+- Jason Harding (1.FC Düren): 30/06/2026 → -
+- Moritz Hellwig (FC Hennef 05): 30/06/2026 → -
+- Kenny Oelbaum (FC Hennef 05): 30/06/2026 → -
+- Akeem Bouakran (FC Hennef 05): 30/06/2026 → -
+- Nathan Kunzika (FC Hennef 05): 30/06/2026 → -
+- Jan-Lucas Mowitz (FC Hennef 05): 30/06/2026 → -
+- Philipp Köhl (FC Hennef 05): 30/06/2026 → -
+- Taylan Gülmez (SpVg Porz): 30/06/2026 → -
+- Ibrahim Hajri (SpVg Porz): 30/06/2026 → 30/06/2027
+- Rodrigo Cabrera (CA River Plate Montevideo): 31/07/2026 → 31/12/2026
+- Jan-Sekou Michler (SpVg Porz): 30/06/2026 → -
+- Abderrahman Rabhi (SpVg Porz): 30/06/2026 → -
+- Philipp Van Elst (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Simon Stokowy (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Jona Reinke Ehses (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Leander Hellwig (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Inti López (CA River Plate Montevideo): - → 31/12/2026
+- Rico Heinen (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Jean Hendric Schmitz (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Michael Hermanni (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Patrick Busch (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Tom Wieschebrock (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Paul Orfgen (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Tim Dreilich (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Philipp Schulz (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Moritz Tel (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Christopher Mai (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Florian Diehl (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Nils Stephan (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Niklas Krämer (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Marc Schneider (FSV SW Neunkirchen-Seelscheid): 30/06/2026 → -
+- Maximilian Pütz (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Nico-Armin Wirtz (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Jan Beyers (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Marcel Heindrichs (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Ben Reimann (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Gustavo von Aschwege (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Thomas Leßenich (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Pascal Schiffer (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Tim Birkenheuer (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Zissis Balatsouras (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Frederik Brück-Thies (TuS Chlodwig Zülpich): 30/06/2026 → -
+- Nick Esser (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Lasse Behlen (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Jan Cremerius (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Jannis Hackmann (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Louis Noel Nowack (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Moritz Maximilian Kleinfeld (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Maximilian Schmidl (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Niklas Hammes (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Oliver Lausberg (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Ben Euler (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Felix Bußmann (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Yannick Raufeiser (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Paul Demtschück (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Justus Urbig (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Florian Hensel (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Jan-Eric Birken (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Dennis Leon Riering (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Jacob Göker (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Clemens Meyer (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Terrence Suso (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Thorben Stock (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Mark Mittmann (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Rene Eschmann (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Ricky Fritzen (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Joshua Hauschke (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Luca-Noel Kalinic (SC Borussia Lindenthal-Hohenlind): 30/06/2026 → -
+- Kevin Kraus (FC Hürth): 30/06/2026 → -
+- Mete Balbasi (FC Hürth): 30/06/2026 → -
+- Julian Mehl (FC Hürth): 30/06/2026 → -
+- Sabhan Al-Ali (FC Hürth): 30/06/2026 → -
+- Tom Isecke (FC Hürth): 30/06/2026 → -
+- Sven Hoffmann (FC Hürth): 30/06/2026 → -
+- Nico Schmitz (FC Hürth): 30/06/2026 → -
+- Patrick Hill (FC Hürth): 30/06/2026 → -
+- Zachary-Oduro Bonsu (FC Hürth): 30/06/2026 → -
+- Dario Bezerra-Ehret (FC Hürth): 30/06/2026 → -
+- Kaan Ersoy (FC Hürth): 30/06/2026 → -
+- Kian Assadollahi (FC Hürth): 30/06/2026 → -
+- Dominik Fetzner (FC Hürth): 30/06/2026 → -
+- Giuliano Cantavenera (FC Hürth): 30/06/2026 → -
+- Aldin Plavulj (FC Hürth): 30/06/2026 → -
+- Dana Hafthalla (FC Hürth): 30/06/2026 → -
+- Manuel Kabambi (FC Hürth): 30/06/2026 → -
+- Bastian Porschen (FC Hürth): 30/06/2026 → -
+- Mykola Mykhaylenko (Dynamo Kyiv): 30/06/2027 → 30/06/2029
+- Artem Shabanov (FC Kharkiv): 30/06/2026 → -
+- Yegor Popravka (Kolos Kovalivka): 30/06/2026 → -
+- Anton Salabay (Kolos Kovalivka): 30/06/2026 → -
+- Taras Sakiv (Bukovyna Chernivtsi): 30/06/2026 → -
+- Nil Coch (Epitsentr Kamyanets-Podilskyi): 30/06/2026 → -
+- Jon Ceberio (Epitsentr Kamyanets-Podilskyi): 30/06/2026 → -
+- Kyrylo Kovalets (Epitsentr Kamyanets-Podilskyi): 30/06/2026 → -
+- Vladyslav Sharay (NK Veres Rivne): 30/06/2026 → -
+- Oleksandr Pshenychnyuk (Chornomorets Odesa): 30/06/2026 → -
+- Roman-Stevan Jankowski (SV Rödinghausen II): 30/06/2026 → -
+- Johannes Kerlen (SV Rödinghausen II): 30/06/2026 → -
+- Leonardo Kreier (SV Rödinghausen II): 30/06/2026 → -
+- Yegor Prokopenko (Obolon Kyiv): 30/06/2026 → -
+- Maksym Chekh (Obolon Kyiv): 30/06/2026 → -
+- Samih Uslu (SV Rödinghausen II): 30/06/2026 → -
+- Nick Drosselmeyer (SV Rödinghausen II): 30/06/2026 → -
+- Oleg Slobodyan (Obolon Kyiv): 30/06/2026 → -
+- Bogdan Chuev (Livyi Bereg Kyiv): 30/06/2026 → -
+- Ivan Kotukha (Livyi Bereg Kyiv): 30/06/2026 → -
+- Nazariy Vorobchak (Livyi Bereg Kyiv): 30/06/2026 → -
+- Diego Henrique (Livyi Bereg Kyiv): 30/06/2026 → -
+- Wendell (Livyi Bereg Kyiv): 30/06/2026 → -
+- Maksym Melnychuk (FC Kudrivka): 30/06/2026 → -
+- Artur Dumanyuk (FC Kudrivka): 30/06/2026 → -
+- Lars Detling (TSV Berg): 30/06/2026 → -
+- Denys Svityukha (FC Kudrivka): 30/06/2026 → -
+- Roman Solodarenko (FC Kudrivka): 30/06/2026 → -
+- Giuliano Andre Rodehutskors (SC Peckeloh): 30/06/2026 → -
+- Volodymyr Degtyaryov (SC Peckeloh): 30/06/2026 → -
+- Erik Peters (SC Peckeloh): 30/06/2026 → -
+- Anes Dautovic (SC Peckeloh): 30/06/2026 → -
+- Ekin Zan (SC Peckeloh): 30/06/2026 → -
+- Mick Schüttpelz (SC Peckeloh): 30/06/2026 → -
+- Filip Milisic (1. Göppinger Sportverein): 30/06/2026 → -
+- Berk Yalman (1. Göppinger Sportverein): 30/06/2026 → -
+- Marcel Schmidts (1. Göppinger Sportverein): 30/06/2026 → -
+- Adrian Freiwald (1. Göppinger Sportverein): 30/06/2026 → -
+- Luca Piljek (1. Göppinger Sportverein): 30/06/2026 → -
+- Tom Bauer (SC Peckeloh): 30/06/2026 → -
+- Finn Jaster (SC Peckeloh): 30/06/2026 → -
+- Marcel-Maik Brylka (SF Ostinghausen): 30/06/2026 → -
+- Hannes Tyrell (SF Ostinghausen): 30/06/2026 → -
+- Jason Wink (FSV Hollenbach): 30/06/2026 → -
+- Luis Scheiermann (SF Ostinghausen): 30/06/2026 → -
+- Prince Donna Ogbuagu (SF Ostinghausen): 30/06/2026 → -
+- Fabio La Mendola (SF Ostinghausen): 30/06/2026 → -
+- Joshua Klöpfer (FSV Hollenbach): 30/06/2026 → -
+- Sebastian Schiek (FSV Hollenbach): 30/06/2026 → -
+- Inas Music (FSV Hollenbach): 30/06/2026 → -
+- Steven Keklik (FSV 08 Bietigheim-Bissingen): 30/06/2026 → -
+- Luis Schäfer (FC Nordkirchen): 30/06/2026 → -
+- Noel Lahr (FC Nordkirchen): 30/06/2026 → -
+- Dzan Alic (FC Nordkirchen): 30/06/2026 → -
+- Luca-Herrmann Gennermann (FC Nordkirchen): 30/06/2026 → -
+- Fábio Carvalho (FSV 08 Bietigheim-Bissingen): 30/06/2026 → -
+- Paul Wiemer (FC Nordkirchen): 30/06/2026 → -
+- Nico Schmid (TSV Oberensingen): 30/06/2026 → -
+- Rafael Romero (SV Eintracht Ahaus): 30/06/2026 → -
+- Simon Lovermann (SV Eintracht Ahaus): 30/06/2026 → -
+- Nico Hägele (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Christian Zech (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Luca Ehler (SV Eintracht Ahaus): 30/06/2026 → -
+- Michel Wilkes (SV Eintracht Ahaus): 30/06/2026 → -
+- Justus Rehers (Grün-Weiß Nottuln): 30/06/2026 → -
+- Valentyn Yarokha (Grün-Weiß Nottuln): 30/06/2026 → -
+- Lennart Ochs (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Alexander Schimmele (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Simon Schneider (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Lucas Schwarzer (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Mike Marianek (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Fabio Mango (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Fabian Ehrmann (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Daniel Nietzer (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Manuel Michel (Sportfreunde Dorfmerkingen): 30/06/2026 → -
+- Timur Rieger (VfL Theesen): 30/06/2026 → -
+- Iven Sielemann (VfL Theesen): 30/06/2026 → -
+- Miles Dickmann (TSG Hofherrnweiler-Unterrombach): 30/06/2026 → -
+- Mert Arslan (TSG Hofherrnweiler-Unterrombach): 30/06/2026 → -
+- Jonas Dambacher (Sportfreunde Schwäbisch Hall): 30/06/2026 → -
+- Dominik Sander (VfL Theesen): 30/06/2026 → -
+- Jannik Tödtmann (VfL Theesen): 30/06/2026 → -
+- Marco Berenspöhler (FC Kaunitz): 30/06/2026 → -
+- Matti Bunk (Sportfreunde Schwäbisch Hall): 30/06/2026 → -
+- Mateo Stein (Sportfreunde Schwäbisch Hall): 30/06/2026 → -
+- Besir Bikliqi (FC Kaunitz): 30/06/2026 → -
+- Gian Manuel Pieper (FC Kaunitz): 30/06/2026 → -
+- Laurin Wiedemann (FSC Rheda): 30/06/2026 → -
+- Marvin Schleining (FSC Rheda): 30/06/2026 → -
+- Jonas Kohler (SV Fellbach): 30/06/2026 → -
+- Torben Hohloch (SV Fellbach): 30/06/2026 → -
+- Martin Aciz (FSC Rheda): 30/06/2026 → -
+- Christoph Linnemann (FSC Rheda): 30/06/2026 → -
+- Paul Winnemöller (SuS Neuenkirchen): 30/06/2026 → -
+- Tom Köllmann (SuS Neuenkirchen): 30/06/2026 → -
+- Bennet Wiggers (SuS Neuenkirchen): 30/06/2026 → -
+- Mehmet Kaya (SuS Neuenkirchen): 30/06/2026 → -
+- Mika Termühlen (SuS Neuenkirchen): 30/06/2026 → -
+- Lukas Feiting (SuS Neuenkirchen): 30/06/2026 → -
+- Hannes Schäperklaus (SV Mesum): 30/06/2026 → -
+- Julian Wolf (SV Mesum): 30/06/2026 → -
+- Bennet Wesselkämper (SV Mesum): 30/06/2026 → -
+- Adrian Knüver (SV Mesum): 30/06/2026 → -
+- Jordi Dindic (SV Mesum): 30/06/2026 → -
+- Yannik Riedlinger (SKV Rutesheim): 30/06/2026 → -
+- Lars Ludwig (SKV Rutesheim): 30/06/2026 → -
+- Joshua Schneider (SKV Rutesheim): 30/06/2026 → -
+- Tim Rudloff (SKV Rutesheim): 30/06/2026 → -
+- Marcel Held (SKV Rutesheim): 30/06/2026 → -
+- Robin Slawig (SKV Rutesheim): 30/06/2026 → -
+- Tobias Gebbert (SKV Rutesheim): 30/06/2026 → -
+- Alexander Grau (SKV Rutesheim): 30/06/2026 → -
+- Gianluca Crepaldi (SKV Rutesheim): 30/06/2026 → -
+- Laurin Stütz (SKV Rutesheim): 30/06/2026 → -
+- Markus Wellert (SKV Rutesheim): 30/06/2026 → -
+- Tino Dannecker (TSV Ehningen): 30/06/2026 → -
+- Christos Gitonas (Panathinaikos): 30/06/2028 → 30/06/2029
+- Gabriel Körtge (TSV Ehningen): 30/06/2026 → -
+- Telat Arayan (Türkspor Neu-Ulm): 30/06/2026 → -
+- Stefan Ilic (Türkspor Neu-Ulm): 30/06/2026 → -
+- Eduart Osmani (Türkspor Neu-Ulm): 30/06/2026 → -
+- Dimitrios Berdos (PAOK Thessaloniki): 31/12/2027 → 30/06/2029
+- Onur Mutlu (Türkspor Neu-Ulm): 30/06/2026 → -
+- Josete Miranda (Kalamata FC): - → 30/06/2027
+- Danil Glebov (Dynamo Moscow): 31/12/2030 → 30/06/2031
+- Timofey Marinkin (Dynamo Moscow): 31/12/2029 → 30/06/2031
+- Viktor Okishor (Dynamo Moscow): 30/06/2029 → 30/06/2030
+- Álex Pérez (Real Madrid C): 30/06/2026 → -
+- Giorgiy Shelia (Akhmat Grozny): 30/06/2026 → -
+- Sergey Aydarov (Rodina Moscow): 30/06/2026 → -
+- Artem Meshchaninov (Rodina Moscow): 30/06/2026 → -
+- Mitja Krizan (Rodina Moscow): 30/06/2026 → -
+- Dmitriy Shadrintsev (Rodina Moscow): 30/06/2026 → -
+- Ruslan Fishchenko (Rodina Moscow): 30/06/2026 → -
+- Astemir Gordyushenko (Rodina Moscow): 30/06/2026 → -
+- Yordy Reyna (Rodina Moscow): 30/06/2026 → -
+- Artem Maksimenko (Rodina Moscow): 30/06/2026 → -
+- Ivan Timoshenko (Rodina Moscow): 30/06/2026 → -
+- Andi Morina (Bovender SV): 30/06/2026 → -
+- Melvin Sommer (Bovender SV): 30/06/2026 → -
+- Andreas Neofytou (Ethnikos Achna): 31/05/2027 → 31/05/2028
+- Christian Schubert (TSG Bad Harzburg): 30/06/2026 → -
+- Stephen Ojonugwa Eikwu-Ojo (San Gwann FC): 30/06/2026 → 30/06/2027
+- Neil Apap (SC Mellieha): 30/06/2026 → -
+- Leon Theuma (SC Mellieha): 30/06/2026 → -
+- Jordan Busutil (SC Mellieha): 30/06/2026 → -
+- Ismael Borg (SC Mellieha): 30/06/2026 → -
+- Dylan Camilleri (SC Mellieha): 30/06/2026 → -
+- Iven Zammit (SC Mellieha): 30/06/2026 → -
+- David Azzopardi (SC Mellieha): 30/06/2026 → -
+- Sasa Glumac (SC Mellieha): 30/06/2026 → -
+- Jonathan Cutajar (SC Mellieha): 30/06/2026 → -
+- Sean Schranz (SC Mellieha): 30/06/2026 → -
+- Alexander Akl (SC Mellieha): 30/06/2026 → -
+- Cody Baguley (SC Mellieha): 30/06/2026 → -
+- Leon Borg (SC Mellieha): 30/06/2026 → -
+- Vitinho (SC Mellieha): 30/06/2026 → -
+- Luke Camilleri (SC Mellieha): 30/06/2026 → -
+- Miguel Micallef (SC Mellieha): 30/06/2026 → -
+- Aron Leal (SC Mellieha): 30/06/2026 → -
+- Craig Cilia (SC Mellieha): 30/06/2026 → -
+- Braydon Farrugia (Mqabba FC): 30/06/2026 → -
+- Claudio Calleja (Mqabba FC): 30/06/2026 → -
+- Paolo Zammit (Mqabba FC): 30/06/2026 → -
+- Tahouto Gaoue (Mqabba FC): 30/06/2026 → -
+- Cain Formosa (Qormi FC): 30/06/2026 → -
+- Daniel Attard (Qormi FC): 30/06/2026 → -
+- Nathan Vella (Qormi FC): 30/06/2026 → -
+- Jake Mula (Qormi FC): 30/06/2026 → -
+- Dion Fava (Qormi FC): 30/06/2026 → -
+- Kyle Azzopardi (Qormi FC): 30/06/2026 → -
+- Christopher Cutajar (Qormi FC): 30/06/2026 → -
+- Tristan Camilleri (Qormi FC): 30/06/2026 → -
+- Sven Mallia (Qrendi FC): 30/06/2026 → -
+- Mikele Vella (Qrendi FC): 30/06/2026 → -
+- Brendan Scerri (Qrendi FC): 30/06/2026 → -
+- Kieran Xuereb (Qrendi FC): 30/06/2026 → -
+- Dion Ciantar (Qrendi FC): 30/06/2026 → -
+- Ryan Farrugia (Qrendi FC): 30/06/2026 → -
+- Kyle Tanti (Qrendi FC): 30/06/2026 → -
+- Dylan Micallef (Qrendi FC): 30/06/2026 → -
+- John Agunsoye (Qrendi FC): 30/06/2026 → -
+- Christopher Saliba (Dingli Swallows FC): 30/06/2026 → -
+- Gareth Cassar (Dingli Swallows FC): 30/06/2026 → -
+- Jayden Bonanno (Dingli Swallows FC): 30/06/2026 → -
+- Maximilan Bartolo (Dingli Swallows FC): 30/06/2026 → -
+- Mark Cutajar (Dingli Swallows FC): 30/06/2026 → -
+- Jurgen Gerada (Dingli Swallows FC): 30/06/2026 → -
+- Neil Farrugia (Dingli Swallows FC): 30/06/2026 → -
+- Robert Ciantar (Dingli Swallows FC): 30/06/2026 → -
+- Ryan Grech (Dingli Swallows FC): 30/06/2026 → -
+- Jean Claude Vella (Kalkara FC): 30/06/2026 → -
+- Thomas Debono (Kalkara FC): 30/06/2026 → -
+- Liam Hartley (Kalkara FC): 30/06/2026 → -
+- Jake Hartley (Kalkara FC): 30/06/2026 → -
+- Jamal Azzopardi (Kalkara FC): 30/06/2026 → -
+- Miguel Simiana (Kalkara FC): 30/06/2026 → -
+- Liam Gauci (Kalkara FC): 30/06/2026 → -
+- Mario Jude Dominicius (Kalkara FC): 30/06/2026 → -
+- Mark Martin (Kalkara FC): 30/06/2026 → -
+- Brandon Agius (Lija Athletic FC): 30/06/2026 → -
+- Julian Camilleri (Lija Athletic FC): 30/06/2026 → -
+- Yanis Tonna (Lija Athletic FC): 30/06/2026 → -
+- Lee Ciantar (Lija Athletic FC): 30/06/2026 → -
+- Mead Mifsud (Lija Athletic FC): 30/06/2026 → -
+- Gianluca Falzon (Lija Athletic FC): 30/06/2026 → -
+- Matthew Farrugia (Lija Athletic FC): 30/06/2026 → -
+- Zack Busuttil (Lija Athletic FC): 30/06/2026 → -
+- Omar Khatib (Lija Athletic FC): 30/06/2026 → -
+- Gabriel Borg (Lija Athletic FC): 30/06/2026 → -
+- Kurt Pullicino (Lija Athletic FC): 30/06/2026 → -
+- Amir Amhamed (Lija Athletic FC): 30/06/2026 → -
+- Craig Abdilla (Marsa FC): 30/06/2026 → -
+- Oliver Grixti (Marsa FC): - → 30/06/2027
+- Marquinho (Marsa FC): 30/06/2026 → -
+- Lian Xuereb (Marsa FC): 30/06/2026 → -
+- Dorian Bugeja (Mtarfa FC): 30/06/2026 → -
+- Marcos Cortez (Mtarfa FC): 30/06/2026 → -
+- Jesmael Catania (Mtarfa FC): 30/06/2026 → -
+- Kurt Mifsud (Mtarfa FC): 30/06/2026 → -
+- Domenico Marsala (Mtarfa FC): 30/06/2026 → -
+- Domenic Micallef (Mtarfa FC): 30/06/2026 → -
+- Yousef Amhamed (Mtarfa FC): 30/06/2026 → -
+- Zack Bartolo (Mtarfa FC): 30/06/2026 → -
+- Brady Parnis (Mtarfa FC): 30/06/2026 → -
+- Tristen Sultana (Mtarfa FC): 30/06/2026 → -
+- Andrey Levkovets (FK Ilbirs Bishkek): 30/07/2026 → -
+- Francisco Arriagada (Mtarfa FC): 30/06/2026 → -
+- Thomas Cilia (Mtarfa FC): 30/06/2026 → -
+- Zac Borg (Mtarfa FC): 30/06/2026 → -
+- Clayton Rapa (Pembroke Athleta FC): 30/06/2026 → -
+- Andy Borg (Pembroke Athleta FC): 30/06/2026 → -
+- Nathan Mizzi (Pembroke Athleta FC): 30/06/2026 → -
+- Immy Micallef (Pembroke Athleta FC): 30/06/2026 → -
+- Jake Carbone (Pembroke Athleta FC): 30/06/2026 → -
+- Jacob Carabott (Pembroke Athleta FC): 30/06/2026 → -
+- Luca Caruana (Pembroke Athleta FC): 30/06/2026 → -
+- Xylon Marmara (Pembroke Athleta FC): 30/06/2026 → -
+- Jake Parnis (Pembroke Athleta FC): 30/06/2026 → -
+- Kieran Shaw (Pembroke Athleta FC): 30/06/2026 → -
+- Kurt Farrugia (Pembroke Athleta FC): 30/06/2026 → -
+- Matt Brimmer (Pembroke Athleta FC): 30/06/2026 → -
+- Tyrone Fenech (Pembroke Athleta FC): 30/06/2026 → -
+- Jayden Aquilina (Pembroke Athleta FC): 30/06/2026 → -
+- Siraj Arab (Pembroke Athleta FC): 30/06/2026 → -
+- Kurt Zammit (Pembroke Athleta FC): 30/06/2026 → -
+- Wéverton (Pembroke Athleta FC): 30/06/2026 → -
+- Malcolm Vella Vidal (Pembroke Athleta FC): 30/06/2026 → -
+- Carmelo Caruana (Senglea Athletic FC): 30/06/2026 → -
+- Justin Tonna (Senglea Athletic FC): 30/06/2026 → -
+- Matthew Mulholland (Senglea Athletic FC): 30/06/2026 → -
+- Charlo Buttigieg (Senglea Athletic FC): 30/06/2026 → -
+- Matt Gatt (Senglea Athletic FC): 30/06/2026 → -
+- Agyemang Asante (Senglea Athletic FC): 30/06/2026 → -
+- Jake Stenson (Senglea Athletic FC): 30/06/2026 → -
+- Nigel Scerri (Senglea Athletic FC): 30/06/2026 → -
+- Rudy Cassar (Senglea Athletic FC): 30/06/2026 → -
+- Matthew Brincat (Senglea Athletic FC): 30/06/2026 → -
+- Glen Pace (Senglea Athletic FC): 30/06/2026 → -
+- Keith Muscat (Senglea Athletic FC): 30/06/2026 → -
+- Kieran Curmi (Senglea Athletic FC): 30/06/2026 → -
+- James Oghenekewaro (Senglea Athletic FC): 30/06/2026 → -
+- Johan Castaño (Senglea Athletic FC): 30/06/2026 → -
+- Steven Meilak (Senglea Athletic FC): 30/06/2026 → -
+- Nils Wagner (FV Eppelborn): 30/06/2026 → -
+- Kenan-Michael Yilmaz (FV Eppelborn): 30/06/2026 → -
+- Bono Marjanovic (FV Eppelborn): 30/06/2026 → -
+- Nicolas Jobst (FV Eppelborn): 30/06/2026 → -
+- Fabio Lanfranco (FV Eppelborn): 30/06/2026 → -
+- Giovanni Runco (FV Eppelborn): 30/06/2026 → -
+- Luca Delestowicz (FV Eppelborn): 30/06/2026 → -
+- Dominic Altmeier (FV Eppelborn): 30/06/2026 → -
+- Bakary Sanyang (FSV Jägersburg): 30/06/2026 → -
+- Philip Luck (FSV Jägersburg): 30/06/2026 → -
+- Enrico Korb (FSV Jägersburg): 30/06/2026 → -
+- Dylan Downey (FSV Jägersburg): 30/06/2026 → -
+- Cedrik Geissler (FSV Jägersburg): 30/06/2026 → -
+- Kevin Klein (FSV Jägersburg): 30/06/2026 → -
+- Moritz Doll (FSV Jägersburg): 30/06/2026 → -
+- Nico Flögel (FSV Jägersburg): 30/06/2026 → -
+- Daniel Dahl (FSV Jägersburg): 30/06/2026 → -
+- Paul Manderscheid (FSV Jägersburg): 30/06/2026 → -
+- Johannes Marchetti (FSV Jägersburg): 30/06/2026 → -
+- Jannis Gabler (FSV Jägersburg): 30/06/2026 → -
+- Matthias Manderscheid (FSV Jägersburg): 30/06/2026 → -
+- Anestis Tyriakidis (FSV Jägersburg): 30/06/2026 → -
+- Mika-Louis Gilcher (FSV Jägersburg): 30/06/2026 → -
+- Maurice Schnell (FSV Jägersburg): 30/06/2026 → -
+- Manfred Osei Kwadwo (FSV Jägersburg): 30/06/2026 → -
+- Mike Scharwath (FSV Jägersburg): 30/06/2026 → -
+- Waaris Bhatti (FSV Jägersburg): 30/06/2026 → -
+- Vakkas Sahan (1.FC Saarbrücken II): 30/06/2026 → -
+- Luca Behr (1.FC Saarbrücken II): 30/06/2026 → -
+- Lukas Feka (1.FC Saarbrücken II): 30/06/2026 → -
+- Manuel Anton (TuS Herrensohr): 30/06/2026 → -
+- Nico Eudenbach (FC Palatia Limbach): 30/06/2026 → -
+- Noah Stoll (FC Palatia Limbach): 30/06/2026 → -
+- Sipan Gören (SV Rot-Weiß Hasborn): 30/06/2026 → -
+- Florim Marolli (SF Köllerbach): 30/06/2026 → -
+- Jonas Stein (SC Reisbach): 30/06/2026 → -
+- Jarno Köhler (DJK Ballweiler-Wecklingen): 30/06/2026 → -
+- Maximilian Ziegler (SG Marpingen-Urexweiler): 30/06/2026 → -
+- Aleksandr Komlev (SG Marpingen-Urexweiler): 30/06/2026 → -
+- Yannick Schnur (SG Marpingen-Urexweiler): 30/06/2026 → -
+- Matthias Mechenbier (SG Marpingen-Urexweiler): 30/06/2026 → -
+- Tolunay Isik (Türkspor Dortmund): 30/06/2026 → -
+- Ingmar Klose (SG Finnentrop/Bamenohl): 30/06/2026 → -
+- Maximilian Humberg (SG Finnentrop/Bamenohl): 30/06/2026 → -
+- Elias Butzkamm (SG Finnentrop/Bamenohl): 30/06/2026 → -
+- Moritz Kümhof (SG Finnentrop/Bamenohl): 30/06/2026 → -
+- Samuel Eickelmann (SG Finnentrop/Bamenohl): 30/06/2026 → -
+- Maurice Danielle Werlein (SG Finnentrop/Bamenohl): 30/06/2026 → -
+- Luca Uwe Herrmann (SG Finnentrop/Bamenohl): 30/06/2026 → -
+- Marcel Klakus (DSC Wanne-Eickel): 30/06/2026 → -
+- Fatih Gönül (DSC Wanne-Eickel): 30/06/2026 → -
+- Ozan Simsek (DSC Wanne-Eickel): 30/06/2026 → -
+- Leonardo Jurisic (DSC Wanne-Eickel): 30/06/2026 → -
+- Tobias Filipzik (TuS Erndtebrück): 30/06/2026 → -
+- Paul Bernshausen (TuS Erndtebrück): 30/06/2026 → -
+- Kevin Krumm (TuS Erndtebrück): 30/06/2026 → -
+- Lars Schardt (TuS Erndtebrück): 30/06/2026 → -
+- Moritz Klein (TuS Erndtebrück): 30/06/2026 → -
+- Orlando Stockhecke (Holzwickeder SC): 30/06/2026 → -
+- Dean Müsse (Holzwickeder SC): 30/06/2026 → -
+- Anton Ruso (Holzwickeder SC): 30/06/2026 → -
+- Jan Nielinger (Holzwickeder SC): 30/06/2026 → -
+- Nils Bartke (Holzwickeder SC): 30/06/2026 → -
+- Nick Adamski (Holzwickeder SC): 30/06/2026 → -
+- Maurice Majewski (Holzwickeder SC): 30/06/2026 → -
+- Lokman Erdogan (Holzwickeder SC): 30/06/2026 → -
+- Luis Weiß (Holzwickeder SC): 30/06/2026 → -
+- Tom Wonneberger (Holzwickeder SC): 30/06/2026 → -
+- Leo Mayka (Holzwickeder SC): 30/06/2026 → -
+- Maurice Modrzik (Holzwickeder SC): 30/06/2026 → -
+- Max Michalak (SV Vestia Disteln): 30/06/2026 → -
+- Aaron Kloth (SV Vestia Disteln): 30/06/2026 → -
+- Louis Pogrzeba (SV Vestia Disteln): 30/06/2026 → -
+- Max Burbaum (BSV Schüren): 30/06/2026 → -
+- Damjan Ilic (BSV Schüren): 30/06/2026 → -
+- Tim Kallenbach (BSV Schüren): 30/06/2026 → -
+- Ensar Selmanaj (BSV Schüren): - → 30/06/2027
+- Ben Brekau (Concordia Wiemelhausen): 30/06/2026 → -
+- Felix Eickholt (Concordia Wiemelhausen): 30/06/2026 → -
+- Collin Weihmann (Concordia Wiemelhausen): 30/06/2026 → -
+- Ibrahim Lahchaychi (Concordia Wiemelhausen): 30/06/2026 → -
+- Marc Andre Gotzeina (Concordia Wiemelhausen): 30/06/2026 → -
+- Caleb Godswill Danso (Concordia Wiemelhausen): 30/06/2026 → -
+- Yannik Eversberg (SC Obersprockhövel): 30/06/2026 → -
+- Pascal Zippel (SC Obersprockhövel): 30/06/2026 → -
+- Moritz Schrepping (SC Obersprockhövel): 30/06/2026 → -
+- Torben Simon (FC Iserlohn 46/49): 30/06/2026 → -
+- Leonit Tahiri (FC Iserlohn 46/49): 30/06/2026 → 30/06/2027
+- Leon Tenkhoff (FC Iserlohn 46/49): 30/06/2026 → -
+- Stefan Siepmann (SV Wacker Obercastrop): 30/06/2026 → -
+- Luca Erdelkamp (SV Wacker Obercastrop): 30/06/2026 → -
+- Maxim Wentland (SV Wacker Obercastrop): 30/06/2026 → -
+- Adrian Wasilewski (SV Wacker Obercastrop): 30/06/2026 → -
+- Jeremi Hagenau (SV Wacker Obercastrop): 30/06/2026 → -
+- Jayden Peters (SV Wacker Obercastrop): 30/06/2026 → -
+- Benan Unkel (SSV Buer 07/28): 30/06/2026 → -
+- Ali Seklawi (SSV Buer 07/28): 30/06/2026 → -
+- Muhammed-Ali Karkar (SSV Buer 07/28): 30/06/2026 → -
+- Tim Heinsen (SSV Buer 07/28): 30/06/2026 → -
+- Semih Gülsoy (SSV Buer 07/28): 30/06/2026 → -
+- Mattis Urbanke (SSV Buer 07/28): 30/06/2026 → -
+- Daris Smajic (SpVg Hagen 11): 30/06/2026 → -
+- Gianluca Banno (SpVg Hagen 11): 30/06/2026 → -
+- Maximilian Morawietz (SpVg Hagen 11): 30/06/2026 → -
+- Ramin Shabani (SpVg Hagen 11): 30/06/2026 → -
+- Elias Pitak (SK Slavia Prague B): - → 30/06/2031
+- Felipe (FC Differdange 03): 30/06/2026 → -
+- Erkan Agovic (US Mondorf-Les-Bains): 30/06/2026 → -
+- Cedric Steinmetz (US Mondorf-Les-Bains): 30/06/2026 → -
+- Gérard Mersch (US Mondorf-Les-Bains): 30/06/2026 → -
+- Loïc Baal (US Mondorf-Les-Bains): 30/06/2026 → -
+- Stefan Lopes (US Mondorf-Les-Bains): 30/06/2026 → -
+- Jean-Paul Kumbi (US Mondorf-Les-Bains): 30/06/2026 → -
+- Henry Lenz (1.FC Schwalmstadt): 30/06/2026 → -
+- Leandro Knoch (1.FC Schwalmstadt): 30/06/2026 → -
+- Niko Pepic (1.FC Schwalmstadt): 30/06/2026 → -
+- Souleymane Cissé (FC Progrès Niederkorn): 30/06/2026 → -
+- Clayton Duarte (FC Progrès Niederkorn): 30/06/2026 → -
+- Cédric Sacras (FC Progrès Niederkorn): 30/06/2026 → -
+- Ken Corral (FC Progrès Niederkorn): 30/06/2026 → -
+- Joakim Kada (Racing FC Union Luxembourg): 30/06/2026 → -
+- Fabien Fonrose (Racing FC Union Luxembourg): 30/06/2026 → -
+- Farid Ikene (Racing FC Union Luxembourg): 30/06/2026 → -
+- Lohan Dewalque (Racing FC Union Luxembourg): 30/06/2026 → -
+- Filip Stepanek (Slezsky FC Opava): 30/06/2026 → -
+- Michel Bechtold (FC Victoria Rosport): 30/06/2026 → -
+- Stan Trombini (FC Victoria Rosport): 30/06/2026 → -
+- Kevin Marques (FC Victoria Rosport): 30/06/2026 → -
+- Ivan Englaro (F91 Dudelange): 30/06/2026 → -
+- Petr Mares (FK Viktoria Zizkov): - → 30/06/2027
+- Ryan Noubli (FC Wiltz 71): 30/06/2026 → -
+- Hugo Da Cunha Costa (FC Wiltz 71): 30/06/2026 → -
+- Antonin Fantis (FK Viagem Usti nad Labem): 30/06/2026 → -
+- David Cerny (FK Viagem Usti nad Labem): 30/06/2026 → -
+- Andy Rodrigues (FC Wiltz 71): 30/06/2026 → -
+- Stefan Gudelj (Red Star Belgrade): 30/06/2029 → 30/06/2031
+- Matej Gashtarov (Red Star Belgrade): 30/06/2029 → 30/06/2031
+- Nedeljko Stojisic (OFK Beograd): 30/06/2026 → -
+- Darko Gojkovic (OFK Beograd): 30/06/2026 → -
+- Helias Belliard (Swift Hesperange): 30/06/2026 → -
+- Marko Gobeljic (OFK Beograd): 30/06/2026 → -
+- Hervé Touré (OFK Beograd): - → 30/06/2029
+- Sasa Markovic (OFK Beograd): 30/06/2026 → -
+- Filip Halabrin (OFK Beograd): 30/06/2026 → -
+- Nemanja Radonjic (FK Cukaricki): 01/07/2026 → 30/06/2027
+- Karl Fabien (FK IMT Belgrad): - → 30/06/2028
+- David Stojanovic (FK Radnik Surdulica): 30/06/2026 → -
+- Otabek Shukurov (FK Radnik Surdulica): 01/07/2026 → 30/06/2027
+- Strahinja Manojlovic (FK Radnicki Nis): 30/06/2026 → -
+- Djordje Petrovic (FK Radnicki Nis): 30/06/2026 → -
+- Panagiotis Frantzeskakis (AEK Athens U19): - → 30/06/2029
+- Victor Tihon (KAS Eupen U23): - → 30/06/2029
+- Aymane Bakkali (KAS Eupen U23): 30/06/2026 → -
+- Ylan Adjevi (KAS Eupen U23): 30/06/2026 → -
+- Gwendal Degallaix (RRC Stockay Saint-Georges S/M): 30/06/2026 → -
+- Jérémy Mbolo Lutuako (RSD Jette): 30/06/2026 → -
+- Kristian-Maël Nyobe (RSD Jette): 30/06/2026 → -
+- Lex de Haan (ADO '20 Heemskerk): 30/06/2026 → -
+- Yacine Boufath (RSD Jette): 30/06/2026 → -
+- Ayoub Rayane (Stade Verviétois): 30/06/2026 → -
+- Kissima Mara (Stade Verviétois): 30/06/2026 → -
+- Amaury Fransolet (Stade Verviétois): 30/06/2026 → -
+- Schimeï Youdi (RCS Brainois): 30/06/2026 → -
+- Natanaël Frenoy (Union Hutoise): 30/06/2026 → -
+- Luigi Vaccaro (Union Hutoise): 30/06/2026 → -
+- Youness Behti (Union Hutoise): 30/06/2026 → -
+- Hugo Hanson (RFCU Kelmis): - → 30/06/2027
+- Matteo Timmermans (RFCU Kelmis): 30/06/2026 → -
+- Lucas Delperdange (RE Acren-Lessines): 30/06/2026 → -
+- Damien Herman (RUS Binche): 30/06/2026 → -
+- Salvatore Livolsi (RUS Binche): 30/06/2026 → -
+- Theo Lion (RUS Binche): 30/06/2026 → -
+- Gregory Kalala (RUS Binche): 30/06/2026 → -
+- Jordan Massengo (RUS Binche): 30/06/2026 → -
+- Amadou Ousmanou (RUS Binche): 30/06/2026 → -
+- Allan Navona (RUS Binche): 30/06/2026 → -
+- Wassim Zaatout (RUS Binche): 30/06/2026 → -
+- Pablo Persichetti (RUS Binche): 30/06/2026 → -
+- Deniz Bil (RUS Binche): 30/06/2026 → -
+- Ahmed Allachi (CS Entité Manageoise): 30/06/2026 → -
+- Maxime Michel (CS Entité Manageoise): 30/06/2026 → -
+- Adam Kotchkarov (Royal Aywaille FC): 30/06/2026 → -
+- Simon Javaux (Royal Aywaille FC): 30/06/2026 → -
+- Emmanuel Lukebadio (Royal Aywaille FC): 30/06/2026 → -
+- Giacomo D'Asaro (Royal Aywaille FC): 30/06/2026 → -
+- Abdoullah Akdim (Royal Aywaille FC): 30/06/2026 → -
+- Mohamed Ali Evci (TV Jahn Schneverdingen): 30/06/2026 → -
+- Elias Joseph (TV Jahn Schneverdingen): - → 30/06/2027
+- Jan-Luca Lange (TSV Etelsen): 30/06/2026 → 30/06/2027
+- Luca Homann (TSV Etelsen): - → 30/06/2027
+- Birk Træet (FK Haugesund II): 31/07/2026 → -
+- Kristaps Zommers (Riga FC II): - → 31/12/2026
+- Marcis Kazainis (Riga FC II): - → 30/11/2027
+- Jegors Blazevics (Riga FC II): - → 31/12/2027
+- Toms Sarma (Riga FC II): - → 31/12/2027
+- Abdu Omari Mandeke (Riga FC II): - → 31/12/2029
+- Emil Stenstrand (Sollentuna FK): 30/06/2026 → -
+- Slevin Krom (Mārupes SC): - → 31/12/2026
+- Juan Ignacio Díaz (CD Universidad Católica): - → 31/12/2026
+- Branco Ampuero (CD Universidad Católica): 31/12/2026 → 31/12/2027
+- Jhojan Valencia (CD Universidad Católica): 31/12/2026 → 31/12/2027
+- Jimmy Martínez (CD Universidad Católica): 31/12/2026 → 31/12/2027
+- Justo Giani (CD Universidad Católica): 31/12/2026 → 31/12/2029
+- Juan Francisco Rossel (CD Universidad Católica): 31/12/2026 → 31/12/2027
+- Miguel Toledo (CSD Colo-Colo): - → 31/12/2026
+- Guido Vadalá (Coquimbo Unido): - → 31/12/2026
+- Cristóbal Zambrano (Deportes Concepción): - → 31/12/2026
+- Ruben Ferlay (FC Zbrojovka Brno U19): - → 30/06/2029
+- Quoc Gia Dao (Cong An Ho Chi Minh City FC): 30/06/2026 → -
+- Lawrence Caruso (The Cong - Viettel FC): - → 30/06/2028
+- Quoc Khanh Nguyen (Ninh Binh FC): 30/06/2027 → 30/06/2029
+- Phuoc Sang Dinh (Hoang Anh Gia Lai FC): 30/06/2027 → -
+- Huy Kiet Le (Hoang Anh Gia Lai FC): 30/06/2027 → -
+- Kingsley Sokari (Nasaf Qarshi): 30/07/2026 → -
+- Bendik Berntsen (Sandefjord Fotball): 31/12/2028 → 31/12/2030
+- Rafael Sabino (Xorazm Urganch): 31/12/2027 → 31/12/2026
+- Mathias Kristensen (Aalesunds FK): 31/12/2027 → 31/12/2028
+- Jonas Lange Hjorth (KFUM-Kameratene Oslo): 31/12/2027 → 31/12/2029
+- Rick Verberk (Blauw Geel '38 Veghel): 30/06/2026 → -
+- Robin Voets (Blauw Geel '38 Veghel): 30/06/2026 → -
+- Daan van Tooren (Blauw Geel '38 Veghel): 30/06/2026 → -
+- Sjoerd Schobbers (Blauw Geel '38 Veghel): 30/06/2026 → -
+- Mitchel van Rosmalen (Blauw Geel '38 Veghel): 30/06/2026 → -
+- Koen van der Zanden (Blauw Geel '38 Veghel): 30/06/2026 → -
+- Yasin Magazi (Blauw Geel '38 Veghel): 30/06/2026 → -
+- Ben van den Nieuwenhof (Blauw Geel '38 Veghel): 30/06/2026 → -
+- Dave de Meij (Blauw Geel '38 Veghel): 30/06/2026 → -
+- Kilian Boy (Brandenburger SC Süd 05): 30/06/2026 → -
+- Leon Schrobsdorff (Brandenburger SC Süd 05): 30/06/2026 → -
+- Michel Klemz (Brandenburger SC Süd 05): 30/06/2026 → -
+- Abdelkarim Koussi (Brandenburger SC Süd 05): 30/06/2026 → -
+- Matheus Tosta (Brandenburger SC Süd 05): 30/06/2026 → -
+- Tim Dethloff (Brandenburger SC Süd 05): 30/06/2026 → -
+- Justin Ullmann (FSV 63 Luckenwalde II): 30/06/2026 → -
+- Lukas Möckel (FSV 63 Luckenwalde II): 30/06/2026 → -
+- Moritz Wallmann (FSV 63 Luckenwalde II): 30/06/2026 → -
+- Peer Heinze (FSV 63 Luckenwalde II): 30/06/2026 → -
+- Jon-Pepe Aurich (FSV 63 Luckenwalde II): 30/06/2026 → -
+- Hannes Gebauer (FSV 63 Luckenwalde II): 30/06/2026 → -
+- Neo Passow (FSV 63 Luckenwalde II): 30/06/2026 → -
+- Plínio Santos (MSV 1919 Neuruppin): 30/06/2026 → -
+- Brent Achten (VV Gemert): 30/06/2026 → -
+- Jannis Neumann (MSV 1919 Neuruppin): 30/06/2026 → -
+- Kevin Anderson Moreira Godinho (MSV 1919 Neuruppin): 30/06/2026 → -
+- Henry Jose (MSV 1919 Neuruppin): 30/06/2026 → -
+- Filipe da Silva Felix (MSV 1919 Neuruppin): 30/06/2026 → -
+- Alec Kögler (MSV 1919 Neuruppin): 30/06/2026 → -
+- Ginel Ronde (MSV 1919 Neuruppin): 30/06/2026 → -
+- Felix Baitz (BSG Stahl Brandenburg): 30/06/2026 → -
+- Martin Titze (BSG Stahl Brandenburg): 30/06/2026 → -
+- Marvin Gründler (BSG Stahl Brandenburg): 30/06/2026 → -
+- Timm Renner (BSG Stahl Brandenburg): 30/06/2026 → -
+- Elias Große (BSG Stahl Brandenburg): 30/06/2026 → -
+- Luca Köhn (BSG Stahl Brandenburg): 30/06/2026 → -
+- Romain Joel Siabe Tegefouet (BSG Stahl Brandenburg): 30/06/2026 → -
+- Max-Bennet Säger (BSG Stahl Brandenburg): 30/06/2026 → -
+- Justin Inter (BSG Stahl Brandenburg): 30/06/2026 → -
+- Maximilian Glomm (BSG Stahl Brandenburg): 30/06/2026 → -
+- Erik Sauer (BSG Stahl Brandenburg): 30/06/2026 → -
+- Sebastian Hoyer (BSG Stahl Brandenburg): 30/06/2026 → -
+- Adrian Jaskola (BSG Stahl Brandenburg): 30/06/2026 → -
+- Benjamin Nwatu (BSG Stahl Brandenburg): 30/06/2026 → -
+- Paul Kämmerer (BSG Stahl Brandenburg): 30/06/2026 → -
+- Paul Neugebauer (Grün-Weiß Ahrensfelde): 30/06/2026 → -
+- Jeremy Schröder (Grün-Weiß Ahrensfelde): 30/06/2026 → -
+- Lucas Albrecht (Grün-Weiß Ahrensfelde): 30/06/2026 → -
+- Dmytro Kostusev (Grün-Weiß Ahrensfelde): 30/06/2026 → -
+- Lion Troschke (Grün-Weiß Ahrensfelde): 30/06/2026 → -
+- Justin Berger (Grün-Weiß Ahrensfelde): 30/06/2026 → -
+- Lemilian Lehmann (Grün-Weiß Ahrensfelde): 30/06/2026 → -
+- Alexander Eirich (Grün-Weiß Ahrensfelde): 30/06/2026 → -
+- Richard Mikosch (Germania Schöneiche): 30/06/2026 → -
+- Maximilian Schmidt (Germania Schöneiche): 30/06/2026 → -
+- Lucas Knopf (Germania Schöneiche): 30/06/2026 → -
+- Lion Dobra (Germania Schöneiche): 30/06/2026 → -
+- Deniz Citlak (Germania Schöneiche): 30/06/2026 → -
+- Richard Bergmann (Germania Schöneiche): 30/06/2026 → -
+- Florian Schulte (Germania Schöneiche): 30/06/2026 → -
+- Kamil Stondzik (FSV Union Fürstenwalde): 30/06/2026 → -
+- Luis Goldschmidt (FSV Union Fürstenwalde): 30/06/2026 → -
+- Erik Steinmetz (FSV Union Fürstenwalde): 30/06/2026 → -
+- Elias Berstad Tenden (Kongsvinger IL II): 31/07/2026 → -
+- Eric Fiedler (FSV Union Fürstenwalde): 30/06/2026 → -
+- Hannes Peschke (FSV Union Fürstenwalde): 30/06/2026 → -
+- Tilmann Max Wagenitz (FSV Union Fürstenwalde): 30/06/2026 → -
+- Dennis Paul (FSV Union Fürstenwalde): 30/06/2026 → -
+- Maximilian Leuther (FSV Union Fürstenwalde): 30/06/2026 → -
+- Nico Nagel (TSG Einheit Bernau): 30/06/2026 → -
+- Maik Gragert (TSG Einheit Bernau): 30/06/2026 → -
+- Marwin Sankowsky (TSG Einheit Bernau): 30/06/2026 → -
+- Lucas Müller (TSG Einheit Bernau): 30/06/2026 → -
+- Luis Hübner (TSG Einheit Bernau): 30/06/2026 → -
+- Lucas Steinert (TSG Einheit Bernau): 30/06/2026 → -
+- Felix Glöckner (TSG Einheit Bernau): 30/06/2026 → -
+- Hugo Bloch (TSG Einheit Bernau): 30/06/2026 → -
+- Anton Warmuth (Oranienburger FC Eintracht): 30/06/2026 → -
+- Jean-Luca El Bani (Oranienburger FC Eintracht): 30/06/2026 → -
+- Jasper Wagner (Inter Türkspor Kiel): 30/06/2026 → -
+- Roman Budenko (Inter Türkspor Kiel): 30/06/2026 → -
+- Ilya Morma (Oranienburger FC Eintracht): 30/06/2026 → -
+- Enrico Schöffel (Oranienburger FC Eintracht): 30/06/2026 → -
+- Nikola Lakatos (Oranienburger FC Eintracht): 30/06/2026 → -
+- Jascha Seiche (Oranienburger FC Eintracht): 30/06/2026 → -
+- Tarik Cmajcanin (Oranienburger FC Eintracht): 30/06/2026 → -
+- Kwasi Boateng (Oranienburger FC Eintracht): 30/06/2026 → -
+- Daniel Hemicker (Ludwigsfelder FC): 30/06/2026 → -
+- Anton Friedrich Pumpe (Ludwigsfelder FC): 30/06/2026 → -
+- Niklas Wegner (Ludwigsfelder FC): 30/06/2026 → -
+- Jerry Lutzmann (Ludwigsfelder FC): 30/06/2026 → -
+- Niklas Paul (Ludwigsfelder FC): 30/06/2026 → -
+- Brian Blisse (Ludwigsfelder FC): 30/06/2026 → -
+- Felix Prötel (Ludwigsfelder FC): 30/06/2026 → -
+- Felix Kausch (Ludwigsfelder FC): 30/06/2026 → -
+- Phillip Vogel (Ludwigsfelder FC): 30/06/2026 → -
+- Joel Silva (Ludwigsfelder FC): 30/06/2026 → -
+- Kaloyan Atanasov (Ludwigsfelder FC): 30/06/2026 → -
+- Yuriy Skybinskyi (SV Altlüdersdorf): 30/06/2026 → -
+- Kelvin Adomah (SV Altlüdersdorf): 30/06/2026 → -
+- Louis Mischor (SV Altlüdersdorf): 30/06/2026 → -
+- Lucas Karbe (SV Altlüdersdorf): 30/06/2026 → -
+- Alexander Kratz (SV Altlüdersdorf): 30/06/2026 → -
+- Konstantin Schiller (SV Altlüdersdorf): 30/06/2026 → -
+- Emil Karwinkel (SV Altlüdersdorf): 30/06/2026 → -
+- Samba Fatajo (SV Altlüdersdorf): 30/06/2026 → -
+- Lukas Bianchini (SV Altlüdersdorf): 30/06/2026 → -
+- Marek Hopp (Rot-Schwarz Kiel): 30/06/2026 → -
+- Mika Rosenthal (Rot-Schwarz Kiel): 30/06/2026 → -
+- Marco Franciosi (Rot-Schwarz Kiel): 30/06/2026 → -
+- Patrick Zidane Djiogou (Eintracht Miersdorf/Zeuthen): 30/06/2026 → -
+- Emil Ori Marx (Eintracht Miersdorf/Zeuthen): 30/06/2026 → -
+- Tristan Poerschke (Eintracht Miersdorf/Zeuthen): 30/06/2026 → -
+- Lukas Kuhl (Eintracht Miersdorf/Zeuthen): 30/06/2026 → -
+- Ingmar Thede Rosenboldt (Eintracht Miersdorf/Zeuthen): 30/06/2026 → -
+- Julius Todt (Rot-Schwarz Kiel): 30/06/2026 → -
+- Yves Küllmei (Eintracht Miersdorf/Zeuthen): 30/06/2026 → -
+- Niklas Goslinowski (Eintracht Miersdorf/Zeuthen): 30/06/2026 → -
+- Toni Hager (Eintracht Miersdorf/Zeuthen): 30/06/2026 → -
+- Mateusz Zlotogorski (TuS Sachsenhausen): 30/06/2026 → -
+- Noah Schairer (TuS Sachsenhausen): 30/06/2026 → -
+- Marlon Huth (TuS Sachsenhausen): 30/06/2026 → -
+- Gordon Strähnz (TuS Sachsenhausen): 30/06/2026 → -
+- Marc Moldenhauer (TuS Sachsenhausen): 30/06/2026 → -
+- Jason-Luke Raschka (TuS Sachsenhausen): 30/06/2026 → -
+- Maurice Ulm (TuS Sachsenhausen): 30/06/2026 → -
+- Hassan Hariri (TSV Klausdorf): 30/06/2026 → -
+- Anthony Voß (TSV Klausdorf): 30/06/2026 → -
+- Jan-Paul Platte (TuS Sachsenhausen): 30/06/2026 → -
+- Timo Hirschle (TuS Sachsenhausen): 30/06/2026 → -
+- Tim Eymann (BSC Preußen 07 Blankenfelde-Mahlow): 30/06/2026 → -
+- Tim Rathjens (TSV Klausdorf): 30/06/2026 → -
+- Phil Buck (SC Weiche Flensburg 08 II): 30/06/2026 → -
+- Jan Theo Fritze (SC Weiche Flensburg 08 II): 30/06/2026 → -
+- Amir Shahid (SC Weiche Flensburg 08 II): 30/06/2026 → -
+- Clemens Barth (SC Weiche Flensburg 08 II): 30/06/2026 → -
+- Simon Waskowiak (SC Weiche Flensburg 08 II): 30/06/2026 → -
+- Moritz Markowski (Werderaner FC Viktoria 1920): 30/06/2026 → -
+- Paul Gollos (Werderaner FC Viktoria 1920): 30/06/2026 → -
+- Domenik Schubert (Werderaner FC Viktoria 1920): 30/06/2026 → -
+- Alexander Möhl (Werderaner FC Viktoria 1920): 30/06/2026 → -
+- Finn Paulsen (SV Dörpum): 30/06/2026 → -
+- René Hornburg (SV Dörpum): 30/06/2026 → -
+- Christoph Volquardsen (SV Dörpum): 30/06/2026 → -
+- Jannick Lemke (SV Dörpum): 30/06/2026 → -
+- Daniel Hornburg (SV Dörpum): 30/06/2026 → -
+- Coskun Yamak (TSV Kronshagen): 30/06/2026 → -
+- Kjell Schröder (TSV Kronshagen): 30/06/2026 → -
+- Fabian Herrmann (SV Viktoria Potsdam): 30/06/2026 → -
+- Mathis Lange (SV Viktoria Potsdam): 30/06/2026 → -
+- Till Wallenstein (TSV Kronshagen): 30/06/2026 → -
+- Matteo Morawe (TSV Kronshagen): 30/06/2026 → -
+- Jan Mathis Maaß (TSV Kronshagen): 30/06/2026 → -
+- Nick Rixen (TSV Kronshagen): 30/06/2026 → -
+- Ilyes Dahmani (TSV Friedrichsberg-Busdorf): 30/06/2026 → 30/06/2027
+- Janosch Siepelt (TSV Friedrichsberg-Busdorf): 30/06/2026 → -
+- Mehdi Amiri (TSV Friedrichsberg-Busdorf): 30/06/2026 → -
+- Niklas von Fehrn (TSV Friedrichsberg-Busdorf): 30/06/2026 → -
+- Bennet Grimsmann (TSV Friedrichsberg-Busdorf): 30/06/2026 → -
+- David Harutjunjan (TSV Friedrichsberg-Busdorf): 30/06/2026 → -
+- Jordan Dorow (TSV Friedrichsberg-Busdorf): 30/06/2026 → -
+- Mathis Wriedt (TSV Kropp): 30/06/2026 → -
+- Jannes Decker (TSV Kropp): 30/06/2026 → -
+- Lars Brand (TSV Kropp): 30/06/2026 → -
+- Felix Trieloff (TSV Kropp): 30/06/2026 → -
+- Bosse Wullenweber (TSV Hattstedt): 30/06/2026 → -
+- Tjerk Jensen (TSV Hattstedt): 30/06/2026 → -
+- Yegor Krapivin (RCD Espanyol B): 30/06/2027 → 30/06/2031
+- Aleksandr Martynovich (Kairat Almaty): 31/12/2026 → 31/12/2027
+- Miro Tenho (Djurgårdens IF): 31/12/2026 → 31/12/2028
+- Bálint Kiss (Diósgyőri VTK): 30/06/2026 → -
+- Yevgeniy Kichun (Gyirmót FC Győr): 30/06/2026 → -
+- Ádám Miknyóczki (Gyirmót FC Győr): 30/06/2026 → -
+- Elias Younan (GAIS): 30/11/2026 → -
+- Csongor Lakatos (Soroksár SC): 30/06/2026 → -
+- Bálint Komáromi (Soroksár SC): - → 30/06/2027
+- Leon Lukács (Soroksár SC): - → 30/06/2027
+- Jonathan Karlsson (Västerås SK): 30/11/2026 → 31/12/2029
+- Zsombor Petroff (Budapesti VSC - Zugló): 30/06/2026 → -
+- Norbert Benkő-Bíró (Budapesti VSC - Zugló): 30/06/2026 → -
+- Vinícius (Budapesti VSC - Zugló): 30/06/2026 → -
+- Ákos Király (Budapesti VSC - Zugló): 30/06/2026 → -
+- Norbert Dencinger (Aqvital FC Csákvár): 30/06/2026 → -
+- Mikhail Davydenko (Akademia Zenit St. Petersburg U16): - → 31/12/2028
+- Vladimir Artamonov (Akademia Zenit St. Petersburg U16): - → 31/12/2028
+- Nikita Komissarov (FK Minija Kretinga): - → 15/11/2026
+- Dovydas Griška (FK TransINVEST B): 30/06/2026 → -
+- Umaro Baldé (FK Atmosfera Mazeikiai): 30/06/2026 → -
+- Pavel Zifcak (SK Sigma Olomouc B): 30/06/2026 → -
+- Mattéo Nkurunziza (FCV Dender EH): - → 30/06/2028
+- Christopher Jullien (FCV Dender EH): - → 30/06/2027
+- Martin Expérience (FCV Dender EH): - → 30/06/2028
+- Pjotr Kestens (FCV Dender EH): - → 30/06/2028
+- Kembo Diliwidi (FCV Dender EH): - → 30/06/2029
+- Michael Precious (KAS Eupen): - → 30/06/2030
+- Victor Tihon (KAS Eupen): - → 30/06/2029
+- Elias Gorges (1.SC 1911 Heiligenstadt): 30/06/2026 → -
+- Nico Berger (1.SC 1911 Heiligenstadt): 30/06/2026 → -
+- Alexander Aschoff (1.SC 1911 Heiligenstadt): 30/06/2026 → -
+- Leon Gümpel (1.SC 1911 Heiligenstadt): 30/06/2026 → -
+- Tim Brunnenkref (SV Schott Jena): 30/06/2026 → -
+- Max Horack (SV Schott Jena): 30/06/2026 → -
+- Essmat Darwish (SV Schott Jena): 30/06/2026 → -
+- Ole Wellmann (SV Schott Jena): 30/06/2026 → -
+- Ulrich Engel (SV Schott Jena): 30/06/2026 → -
+- Carl Winkler (SV Schott Jena): 30/06/2026 → -
+- Florian Nieswandt (SV Schott Jena): 30/06/2026 → -
+- Magnus Frese (SV Schott Jena): 30/06/2026 → -
+- Brooklyn Menge (SV 09 Arnstadt): 30/06/2026 → -
+- Kindo Suma (Beerschot VA): - → 30/06/2028
+- Eric Simpore (Jong KAA Gent): - → 30/06/2027
+- Marcel Bär (SV 09 Arnstadt): 30/06/2026 → -
+- Philip Kiraly (SV 09 Arnstadt): 30/06/2026 → -
+- Anton Lvov (SV 09 Arnstadt): 30/06/2026 → -
+- Ben Luca Kunz (SV 09 Arnstadt): 30/06/2026 → -
+- Johannes Ruschke (SV 09 Arnstadt): 30/06/2026 → -
+- Tinus Moorthamer (Jong Genk): - → 30/06/2029
+- Sami El Morabet (Jong Genk): - → 30/06/2027
+- Fritz Pöckel (FC Thüringen Weida): 30/06/2026 → -
+- Simon Fuchs (FC Thüringen Weida): 30/06/2026 → -
+- Tobias Metzner (FC Thüringen Weida): 30/06/2026 → -
+- Sandro Badermann (SV Blau-Weiß 90 Neustadt/Orla): 30/06/2026 → -
+- Hannes Kühnel (SV Blau-Weiß 90 Neustadt/Orla): 30/06/2026 → -
+- Daan Gilis (RSCA Futures): - → 30/06/2027
+- Ruben Ferlay (FC Zbrojovka Brno B): - → 30/06/2029
+- Christopher Sünkel (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Rayan El Touile (K Lierse SK): - → 30/06/2027
+- Martin Wagner (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Philipp Schneegaß (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Christoph Kell (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Robert Ränke (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Peet Schmidt (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Tristan Zuleger (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Martin Skaba (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Erik Schneider (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Kevin Weber (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Saïf-Eddine Boutkabout (K Lierse SK): - → 30/06/2027
+- Cristian Makaté (K Lierse SK): - → 30/06/2028
+- Virgil Bachy (K Lierse SK): - → 30/06/2027
+- Viktor Van Israel (KSC Lokeren): - → 30/06/2027
+- Céryl De Schrijver (KSC Lokeren): - → 30/06/2027
+- Steve Tschierschwitz (SV Blau-Weiß Bad Frankenhausen): 30/06/2026 → -
+- Matus Chropovsky (FK Hodonin): 30/06/2026 → -
+- Jérôme Arens (KSC Lokeren): - → 30/06/2027
+- Max Schuhmacher (FSV Preußen Bad Langensalza): 30/06/2026 → -
+- David Gulov (FSV Preußen Bad Langensalza): 30/06/2026 → -
+- Ben Seifert (FSV Preußen Bad Langensalza): 30/06/2026 → -
+- Sascha Reuter (FSV Preußen Bad Langensalza): 30/06/2026 → -
+- Filip Kvietok (FSV Preußen Bad Langensalza): 30/06/2026 → -
+- Darius Linz (FSV Preußen Bad Langensalza): 30/06/2026 → -
+- Ilyas Zerioh (KSC Lokeren): - → 30/06/2027
+- Jordi Belin (Patro Eisden Maasmechelen): - → 30/06/2028
+- Lars Van Parys (Patro Eisden Maasmechelen): - → 30/06/2027
+- Martin Fiß (FSV Preußen Bad Langensalza): 30/06/2026 → -
+- John Madison Liedel (FSV Preußen Bad Langensalza): 30/06/2026 → -
+- Alexander Weiß (FSV Schleiz): 30/06/2026 → -
+- Maximilian Jünger (FSV Schleiz): 30/06/2026 → -
+- Nicky Eichelkraut (FSV Schleiz): 30/06/2026 → -
+- Andre Hoyer (FSV Schleiz): 30/06/2026 → -
+- Marco Saß (FSV Schleiz): 30/06/2026 → -
+- Tim Schulz (FSV Schleiz): 30/06/2026 → -
+- Tidjane Bamba (FSV Schleiz): 30/06/2026 → -
+- Leif Broßmann (FSV Schleiz): 30/06/2026 → -
+- Amel Nukovic (FSV Schleiz): 30/06/2026 → -
+- Martin Foltyn (FK Frydek-Mistek): 30/06/2026 → -
+- Sami Lahssaini (Patro Eisden Maasmechelen): - → 30/06/2029
+- Haji Mnoga (Patro Eisden Maasmechelen): - → 30/06/2028
+- Zakaria Atteri (Patro Eisden Maasmechelen): - → 30/06/2027
+- Isaías Delpupo (Patro Eisden Maasmechelen): - → 30/06/2028
+- Oskar Petzold (FSV Schleiz): 30/06/2026 → -
+- Martin Berger (FSV Schleiz): 30/06/2026 → -
+- Paul Dorn (FSV Schleiz): 30/06/2026 → -
+- Jo Ichiguchi (FSV Schleiz): 30/06/2026 → -
+- Kyrylo Ovsyannikov (FSV Schleiz): 30/06/2026 → -
+- João Mendes (FSV Schleiz): 30/06/2026 → -
+- Elton Marciano Så (FSV Schleiz): 30/06/2026 → -
+- Albert Pohl (FSV Schleiz): 30/06/2026 → -
+- Rento Takaoka (Patro Eisden Maasmechelen): - → 30/06/2029
+- Jeremy Bokila (Patro Eisden Maasmechelen): - → 30/06/2027
+- Louis Meyer (SpVgg Geratal): 30/06/2026 → -
+- Jeremy Weisheit (SpVgg Geratal): 30/06/2026 → -
+- Steven Reinhold (SpVgg Geratal): 30/06/2026 → -
+- Cedric Thrum (TSV Gera Westvororte): 30/06/2026 → -
+- Jonas Tämmler (TSV Gera Westvororte): 30/06/2026 → -
+- Clemens Burgold (TSV Gera Westvororte): 30/06/2026 → -
+- Mathias Leopold (TSV Gera Westvororte): 30/06/2026 → -
+- Daniel Zschille (TSV Gera Westvororte): 30/06/2026 → -
+- Bastian Dräger (TSV Gera Westvororte): 30/06/2026 → -
+- Leonardo Castro Da Silva (TSV Gera Westvororte): 30/06/2026 → -
+- Kevin Kamprath (TSV Gera Westvororte): 30/06/2026 → -
+- Kilian Seidel (TSV Gera Westvororte): 30/06/2026 → -
+- Christian Kruschke (TSV Gera Westvororte): 30/06/2026 → -
+- Tom Eichberger (TSV Gera Westvororte): 30/06/2026 → -
+- Sascha Winefeld (TSV Gera Westvororte): 30/06/2026 → -
+- Ben Leonhardt (TSV Gera Westvororte): 30/06/2026 → -
+- Jannik Wolff (TSV Gera Westvororte): 30/06/2026 → -
+- Christopher Lätz (TSV Gera Westvororte): 30/06/2026 → -
+- Maurice Willscher (TSV Gera Westvororte): 30/06/2026 → -
+- Benjamin Bohm (TSV Gera Westvororte): 30/06/2026 → -
+- Tim Richter (TSV Gera Westvororte): 30/06/2026 → -
+- Niklas Schäfer (TSV Gera Westvororte): 30/06/2026 → -
+- Japhet Muanza (Sporting Hasselt): - → 30/06/2028
+- Konrad Szydlo (TSV Gera Westvororte): 30/06/2026 → -
+- Amadou Mouctar Diallo (TSV Gera Westvororte): 30/06/2026 → -
+- Julian Hoyer (TSV Gera Westvororte): 30/06/2026 → -
+- Clemens Bierbaum (FC Saalfeld): 30/06/2026 → -
+- Oskar Augustin (FC Saalfeld): 30/06/2026 → -
+- Felix Weber (FC Saalfeld): 30/06/2026 → -
+- Aws Younus Miftah Aldaeiki (FC Saalfeld): 30/06/2026 → -
+- Jakob Leonard Rabel (FC Saalfeld): 30/06/2026 → -
+- Thomas Wauters (RFC Lüttich): - → 30/06/2027
+- Tim Stake (FC Saalfeld): 30/06/2026 → -
+- Oleg Denysov (FC Saalfeld): 30/06/2026 → -
+- Fabian Rudolph (FC Saalfeld): 30/06/2026 → -
+- Timon Franz (FC Saalfeld): 30/06/2026 → -
+- Johann Brömel (FC Saalfeld): 30/06/2026 → -
+- Oleksiy Moiseenko (FC Saalfeld): 30/06/2026 → -
+- Georg Tzanev (FC Saalfeld): 30/06/2026 → -
+- Valentin Fehler (FC Saalfeld): 30/06/2026 → -
+- Birane Wane (RFC Lüttich): - → 30/06/2028
+- Igor Kiriyenko (FC Saalfeld): 30/06/2026 → -
+- Naël Lawson (RFC Lüttich): - → 30/06/2028
+- Yani Rutkowski (RFC Seraing): - → 30/06/2027
+- Antoine Lommel (RFC Seraing): - → 30/06/2027
+- Lucas Brulmans (RFC Seraing): - → 30/06/2027
+- Matteo Bisarre (RFC Seraing): - → 30/06/2027
+- Gunnar Niemann (Eintracht Braunschweig II): 30/06/2026 → 30/06/2027
+- Nikola Serra (SV Drochtersen/Assel II): - → 30/06/2027
+- Saturday Meelubari (Real Oviedo Vetusta): 30/06/2028 → 30/06/2027
+- Owen Bosch (Elche Ilicitano): 30/06/2028 → 30/06/2029
+- Pablo Reyes (Real Murcia Imperial): 30/06/2027 → 30/06/2029
+- Pelle Blaukat (SSV Vorsfelde): 30/06/2026 → 30/06/2027
+- Rocco Tuccio (SSV Vorsfelde): 30/06/2026 → 30/06/2027
+- Mikael Balayan (FC Hayk): 30/06/2026 → -
+- Aleksandar Glisic (FC Hayk): 30/06/2026 → -
+- Isaac Drogba (FC Hayk): 30/05/2026 → -
+- Jan Hendrik Koßmann (OSV Hannover): 30/06/2026 → 30/06/2027
+- Silas Löhnig (OSV Hannover): 30/06/2026 → 30/06/2027
+- Delvin Alfonzo (Deportivo Táchira): 31/12/2026 → 31/12/2027
+- Bernardo Folha (Aris Limassol): 01/07/2026 → 31/05/2027
+- Tom Selzam (TSV Krähenwinkel/Kaltenweide): 30/06/2026 → 30/06/2027
+- Davor Zdravkovski (AEL Limassol): 31/05/2027 → 31/05/2029
+- Carlos Rojas (Deportivo La Guaira): - → 31/12/2027
+- Chrysis Evangelou (Nea Salamina Famagusta): 31/05/2028 → 30/06/2027
+- Serhat Merdoglu (VfR Evesen): 30/06/2026 → -
+- Abdülkadir Özden (VfR Evesen): 30/06/2026 → 30/06/2027
+- Rafael Romo (Universidad Central de Venezuela): - → 31/12/2026
+- Yannick Oelmann (TSV Pattensen): 30/06/2026 → 30/06/2027
+- Joel Wauker (TSV Pattensen): 30/06/2026 → 30/06/2027
+- Juan Camilo Zapata (Universidad Central de Venezuela): 30/06/2026 → -
+- José Camacaro (Dvo. Rayo Zuliano): - → 31/12/2026
+- Rafael Ramírez (Dvo. Rayo Zuliano): - → 31/12/2026
+- Jaider Julio (Dvo. Rayo Zuliano): - → 31/12/2026
+- Fernando Díaz (Dvo. Rayo Zuliano): - → 31/12/2026
+- Wilmer Bustamante (Dvo. Rayo Zuliano): - → 31/12/2026
+- Johao Martínez (Dvo. Rayo Zuliano): - → 31/12/2026
+- Cristian Romero (Dvo. Rayo Zuliano): - → 31/12/2026
+- José Luis Ochoa (Dvo. Rayo Zuliano): - → 31/12/2026
+- Jhon Mejía (Dvo. Rayo Zuliano): - → 31/12/2026
+- Jesús Blois (Dvo. Rayo Zuliano): - → 31/12/2026
+- Ángelo Peña (Estudiantes de Mérida): 30/06/2026 → -
+- Anton Zadereyko (Feniks-Mariupol): 30/06/2026 → -
+- Svyatoslav-Mykhaylo Oryshchak (Feniks-Mariupol): 30/06/2026 → -
+- Andriy Kusyi (Feniks-Mariupol): 30/06/2026 → -
+- Oleksandr Chornomorets (Feniks-Mariupol): 30/06/2026 → -
+- Roman Gagun (Feniks-Mariupol): 30/06/2026 → -
+- Valeriy Kucherov (Feniks-Mariupol): 30/06/2026 → -
+- Pavlo Orikhovskyi (Feniks-Mariupol): 30/06/2026 → -
+- Andriy Kukharuk (Feniks-Mariupol): 30/06/2026 → -
+- Vladyslav Sydorenko (Feniks-Mariupol): 30/06/2026 → -
+- Nazar Grytsak (Feniks-Mariupol): 30/06/2026 → -
+- Oleg Synytsya (Feniks-Mariupol): 30/06/2026 → -
+- Artur Remenyak (Feniks-Mariupol): 30/06/2026 → -
+- Sergiy Kyslenko (Feniks-Mariupol): 30/06/2026 → -
+- Daniel Vernattus (Metalist Kharkiv): 30/06/2026 → -
+- Yegor Abramov (Metalist Kharkiv): 30/06/2026 → -
+- Daniil Teplyakov (Metalist Kharkiv): 30/06/2026 → -
+- Maksym Orikhovskyi (Metalist Kharkiv): 30/06/2026 → -
+- Oleksandr Tsvirenko (Metalist Kharkiv): 30/06/2026 → -
+- Danylo Kaydalov (Metalist Kharkiv): 30/06/2026 → -
+- Daniil Prykhodko (Metalist Kharkiv): 30/06/2026 → -
+- Yegor Krasnikov (Metalist Kharkiv): 30/06/2026 → -
+- Delvin Alfonzo (Deportivo Táchira): 31/12/2026 → 31/12/2027
+- Maksym Ugrynyuk (Nyva Ternopil): 30/06/2026 → -
+- Artem Kovalyov (UCSA Tarasivka): 30/06/2026 → 30/06/2028
+- Dmytro Sabiyev (UCSA Tarasivka): 30/06/2026 → -
+- Matheus Pagliarini (UCSA Tarasivka): 30/06/2026 → -
+- Gabriel Goulart (UCSA Tarasivka): 30/06/2026 → -
+- Vladyslav Kucheruk (Viktoriya Sumy): 30/06/2026 → -
+- Nazar Yurchenko (Viktoriya Sumy): 30/06/2026 → -
+- Artur Novotryasov (Viktoriya Sumy): 15/06/2026 → -
+- Carlos Rojas (Deportivo La Guaira): - → 31/12/2027
+- Denys Ryabyi (Viktoriya Sumy): 15/06/2026 → -
+- Andriy Dedyaev (Viktoriya Sumy): 30/06/2026 → -
+- Oleksandr Vasyliev (Viktoriya Sumy): 30/06/2026 → -
+- Vladyslav Khamelyuk (Viktoriya Sumy): 30/06/2026 → -
+- Artem Ryabyi (Viktoriya Sumy): 15/06/2026 → -
+- Yaroslav Dobrokhotov (Viktoriya Sumy): 30/06/2026 → -
+- Denys Dolinskyi (Viktoriya Sumy): 15/06/2026 → -
+- Danylo Knysh (Viktoriya Sumy): 15/06/2026 → -
+- Andriy Bobynets (Prykarpattya-Blago Ivano-Frankivsk): 30/06/2026 → -
+- Stanislav Demkiv (Prykarpattya-Blago Ivano-Frankivsk): 30/06/2026 → -
+- Yuriy Radulskyi (Prykarpattya-Blago Ivano-Frankivsk): 30/06/2026 → -
+- Vitaliy Kozenko (Prykarpattya-Blago Ivano-Frankivsk): 30/06/2026 → -
+- Roman Pidkivka (Agrobiznes Volochysk): 30/06/2026 → -
+- Igor Potimkov (Agrobiznes Volochysk): 30/06/2026 → -
+- Danylo Khmelovskyi (Agrobiznes Volochysk): 30/06/2026 → -
+- Andriy Zin (Agrobiznes Volochysk): 30/06/2026 → -
+- Danylo Sydorenko (Agrobiznes Volochysk): 30/06/2026 → -
+- Sergiy Palyukh (Agrobiznes Volochysk): 30/06/2026 → -
+- Oleg Len (Agrobiznes Volochysk): 30/06/2026 → -
+- Andriy Borovskyi (Agrobiznes Volochysk): 30/06/2026 → -
+- Arsen Sheyko (Agrobiznes Volochysk): 30/06/2026 → -
+- Ilya Bezkorovaynyi (Agrobiznes Volochysk): 30/06/2026 → -
+- Nazariy Nych (Agrobiznes Volochysk): 30/06/2026 → -
+- Andriy Riznyk (Agrobiznes Volochysk): 30/06/2026 → -
+- Oleksandr Starikov (Agrobiznes Volochysk): 30/06/2026 → -
+- Oleksandr Roshchynskyi (FC Chernigiv): 30/06/2026 → -
+- Denys Gerasymenko (FC Chernigiv): 24/07/2026 → -
+- Yegor Kartushov (FC Chernigiv): 30/06/2026 → -
+- Maksym Shumylo (FC Chernigiv): 30/06/2026 → -
+- Dmytro Myronenko (FC Chernigiv): 23/08/2026 → -
+- Dmytro Didok (FC Chernigiv): 30/06/2026 → -
+- Maksym Serdyuk (FC Chernigiv): 30/06/2026 → -
+- Vyacheslav Koydan (FC Chernigiv): 30/06/2026 → -
+- Dmytro Kulyk (FC Chernigiv): 30/06/2026 → -
+- Artur Drobot (Polissya-2 Zhytomyr): 30/06/2026 → -
+- Vladyslav Mezentsev (Polissya-2 Zhytomyr): 30/06/2026 → -
+- Oleksandr Ivanov (Polissya-2 Zhytomyr): 30/06/2026 → -
+- Maksym Gryshchenko (Polissya-2 Zhytomyr): 30/06/2026 → -
+- Rafael Romo (Universidad Central de Venezuela): - → 31/12/2026
+- Juan Camilo Zapata (Universidad Central de Venezuela): 30/06/2026 → -
+- Sergiy Kopyl (FC Kulykiv-Bilka): 30/06/2026 → -
+- Andriy Bey (FC Kulykiv-Bilka): 30/06/2026 → -
+- Dmytro Galadey (FC Kulykiv-Bilka): 30/06/2026 → -
+- José Camacaro (Dvo. Rayo Zuliano): - → 31/12/2026
+- Rafael Ramírez (Dvo. Rayo Zuliano): - → 31/12/2026
+- Jaider Julio (Dvo. Rayo Zuliano): - → 31/12/2026
+- Volodymyr Barabanov (Probiy Gorodenka): 30/06/2026 → -
+- Igor Guk (Probiy Gorodenka): 30/06/2026 → -
+- Volodymyr Radulskyi (Probiy Gorodenka): 30/06/2026 → -
+- Ruslan Kharuk (Probiy Gorodenka): 30/06/2026 → -
+- Bogdan Drygan (Probiy Gorodenka): 30/06/2026 → -
+- Andriy Fesenko (Probiy Gorodenka): 30/06/2026 → -
+- Volodymyr Ivanychuk (Probiy Gorodenka): 30/06/2026 → -
+- Fernando Díaz (Dvo. Rayo Zuliano): - → 31/12/2026
+- Johao Martínez (Dvo. Rayo Zuliano): - → 31/12/2026
+- Andriy Bliznichenko (Probiy Gorodenka): 30/06/2026 → -
+- Maksym Girnyi (Probiy Gorodenka): 30/06/2026 → -
+- Danylo Arkusha (Ingulets Petrove): 30/06/2026 → -
+- Yegor Dankovskyi (Ingulets Petrove): 30/06/2026 → -
+- Cristian Romero (Dvo. Rayo Zuliano): - → 31/12/2026
+- José Luis Ochoa (Dvo. Rayo Zuliano): - → 31/12/2026
+- Jhon Mejía (Dvo. Rayo Zuliano): - → 31/12/2026
+- Jesús Blois (Dvo. Rayo Zuliano): - → 31/12/2026
+- Sergiy Pogorilyi (Kolos-2 Kovalivka): 30/06/2026 → -
+- Dmytro Mikheev (Kolos-2 Kovalivka): 30/06/2026 → -
+- Vladyslav Kanayev (Kolos-2 Kovalivka): 30/06/2026 → -
+- Sergiy Basov (Kolos-2 Kovalivka): 30/06/2026 → -
+- Bogdan Sokol (Kolos-2 Kovalivka): 30/06/2026 → -
+- Petro Kharzhevskyi (Kolos-2 Kovalivka): 30/06/2026 → -
+- Igor Nakonechnyi (Kolos-2 Kovalivka): 30/06/2026 → -
+- Artem Nedolya (Kolos-2 Kovalivka): 30/06/2026 → -
+- Maksym Vasylets (Kolos-2 Kovalivka): 30/06/2026 → -
+- Denys Khrul (Kolos-2 Kovalivka): 30/06/2026 → -
+- Dmytro Dymnych (Kolos-2 Kovalivka): 30/06/2026 → -
+- Vladyslav Lyubko (Kolos-2 Kovalivka): 30/06/2026 → -
+- Sergiy Shevchuk (Kolos-2 Kovalivka): 30/06/2026 → -
+- Bogdan Rublyov (Kolos-2 Kovalivka): 30/06/2026 → -
+- Ángelo Peña (Estudiantes de Mérida): 30/06/2026 → -
+- Vladislav Bolotnikov (Belshina Bobruisk): 30/06/2026 → -
+- Hamadi Kebe (LOSC Lille U19): 30/06/2026 → -
+- Jorès Rahou (Istres Football Club): 30/06/2026 → -
+- Tristan Bichet (FC Limonest): 30/06/2026 → -
+- Florian Raspentino (FC Limonest): 30/06/2026 → -
+- Mamadou Savane (Hyères 83 FC): 30/06/2026 → -
+- Hugues Daniel (Hyères 83 FC): 30/06/2026 → -
+- Arnaud Buisson (Hyères 83 FC): 30/06/2026 → -
+- Abdsamad Aniss (Hyères 83 FC): 30/06/2026 → -
+- Zéphir Bever (Grand Ouest Association Lyonnaise FC): 30/06/2026 → -
+- Loïc Dufau (Grand Ouest Association Lyonnaise FC): 30/06/2026 → -
+- Maxime D'Arpino (Grand Ouest Association Lyonnaise FC): 30/06/2026 → -
+- Habib Koné (AS Saint-Priest): 30/06/2026 → -
+- Pablo Martínez (Nîmes Olympique): 30/06/2026 → -
+- Gino Caoki (Nîmes Olympique): 30/06/2026 → -
+- Mathis Loudière (SM Caen U19): - → 30/06/2027
+- Ibrahim Auger (USL Dunkerque U19): 30/06/2026 → -
+- Lucas Negrobar (Valenciennes FC U19): - → 30/06/2027
+- Max Schulze (SG Reppichau): 30/06/2026 → -
+- Tyson Stagat (SG Reppichau): 30/06/2026 → -
+- Mateusz Palej (Cöthener FC Germania 03): - → 30/06/2027
+- Tobias Hippe (Cöthener FC Germania 03): 30/06/2026 → -
+- Bogdan Skyba (Cöthener FC Germania 03): 30/06/2026 → -
+- Alexandre Gameiro (ÉFC Fréjus Saint-Raphaël): 30/06/2026 → -
+- Hengye Yan (Shandong Taishan B): 04/09/2026 → -
+- Yixiang Peng (Shandong Taishan B): 27/05/2026 → -
+- Deming Li (Shanghai Port B): 30/08/2026 → -
+- Hanlin Jia (Beijing IT): 30/03/2026 → -
+- Hao Cui (Beijing IT): 30/03/2026 → -
+- Zehao Zheng (Beijing IT): 30/03/2026 → -
+- Nick Gennerich (FC Hansa Rostock II): 30/06/2026 → -
+- Jonathan Büscher (SC Melle 03): 30/06/2026 → -
+- Arijan Emini (Eintracht Mahlsdorf): 30/06/2026 → -
+- Philipp Behrend (Eintracht Mahlsdorf): 30/06/2026 → -
+- Lucas Lindner (TuS Makkabi Berlin): 30/06/2026 → -
+- Ammar Salihovic (TuS Makkabi Berlin): 30/06/2026 → -
+- Maximilian Stahl (TuS Makkabi Berlin): 30/06/2026 → -
+- Niklas Körber (TuS Makkabi Berlin): 30/06/2026 → -
+- Dominic Schmüser (TuS Makkabi Berlin): 30/06/2026 → -
+- Ismail Ceesay (TuS Makkabi Berlin): 30/06/2026 → -
+- Marcel Ziemann (TuS Makkabi Berlin): 30/06/2026 → -
+- Doron Bruck (TuS Makkabi Berlin): 30/06/2026 → -
+- Gabrijel Kozina (TuS Makkabi Berlin): 30/06/2026 → -
+- Kalilu Conteh (TuS Makkabi Berlin): 30/06/2026 → -
+- Teo Matkovic (TuS Makkabi Berlin): 30/06/2026 → -
+- Maximilian Reißner (TuS Makkabi Berlin): 30/06/2026 → -
+- Ferdinand Gefrörer (TuS Makkabi Berlin): 30/06/2026 → -
+- Kevin Coleman (TuS Makkabi Berlin): 30/06/2026 → -
+- Deniz Sahin (TuS Makkabi Berlin): 30/06/2026 → -
+- Fiete Pillney (FC Anker Wismar): 30/06/2026 → -
+- Robin Thomala (SV Sparta Lichtenberg): 30/06/2026 → -
+- Jakob Reichenbach (FSV Optik Rathenow): 30/06/2026 → -
+- Rojan Saribas (FSV Optik Rathenow): 30/06/2026 → -
+- Luka Zdep (FSV Optik Rathenow): 30/06/2026 → -
+- Oskar Wardau (Berliner AK 07): 30/06/2026 → -
+- Emre Çil (Berliner AK 07): 30/06/2026 → -
+- Ethan Patrick Kennedy (FC Mecklenburg Schwerin): 30/06/2026 → -
+- Max-Ole Zellmann (FC Mecklenburg Schwerin): 30/06/2026 → -
+- Henning Leu (FC Mecklenburg Schwerin): 30/06/2026 → -
+- Nelson Mandela Mbouhom (FC Mecklenburg Schwerin): 30/06/2026 → -
+- Yves Mfumu (FC Mecklenburg Schwerin): 30/06/2026 → -
+- Syver Aas (Odds BK): 31/07/2026 → -
+- Filip Dagerstal (IFK Norrköping): 31/07/2026 → -
+- Ture Sandberg (IFK Norrköping): 30/06/2026 → -
+- Oliver Brynéus (Varbergs BoIS): 30/06/2026 → -
+- Cameron Crestani (Strømmen IF): 31/12/2026 → 31/12/2027
+- Michele Nardi (Tre Fiori FC): 30/06/2026 → -
+- Alex Sirri (Tre Fiori FC): 30/06/2026 → -
+- Tommaso Bernardi (Tre Fiori FC): 30/06/2026 → -
+- Matteo Prandelli (Tre Fiori FC): 30/06/2026 → -
+- Raul García (CD Olimpia): - → 31/12/2026
+- Mattia Cenni (SP Tre Penne): 30/07/2026 → -
+- Valerio Marinacci (CD Motagua Tegucigalpa): 01/07/2028 → 30/06/2027
+- Alejandro Reyes (CD Motagua Tegucigalpa): - → 31/12/2026
+- Marcelo Pereira (Real CD España): - → 30/06/2028
+- Diego Rodríguez (Olancho FC): - → 31/12/2027
+- Leonel Casildo (Juticalpa FC): 30/06/2026 → -
+- Marcelo Canales (Juticalpa FC): 30/06/2026 → -
+- Diego Zavoli (San Marino Academy): 30/06/2026 → -
+- Rembrandt Flores (Platense FC): 30/06/2026 → -
+- Carlos Castellanos (Platense FC): 30/06/2026 → -
+- Georgie Welcome (Platense FC): 30/06/2026 → -
+- Julio Barrios (CD Choloma): 30/06/2026 → -
+- Jhonatan Córdova (CD Choloma): 30/06/2026 → -
+- Isaac Arias (CD Choloma): 30/06/2026 → -
+- Ariel Díaz (CD Choloma): 30/06/2026 → -
+- Jordi Franco (CD Choloma): 30/06/2026 → -
+- Elí Palma (CD Choloma): 30/06/2026 → -
+- Richmond Badu (KSC Blankenberge): 30/06/2026 → -
+- Joren De Rycker (KSC Blankenberge): 30/06/2026 → -
+- Ward Verscheure (KSC Blankenberge): 30/06/2026 → -
+- Nathan Kékessy (KSC Blankenberge): 30/06/2026 → -
+- Amirgan Bouakhounov (KCVV Elewijt): 30/06/2026 → -
+- Yanis Asghir (Jong KV Mechelen): - → 30/06/2028
+- Florian Van Bever (Jong Essevee): - → 30/06/2028
+- Dylan Deves (Jong Essevee): 30/06/2027 → 30/06/2028
+- Matisse Talini (Jong Essevee): - → 30/06/2028
+- Wout Delporte (KWSC Lauwe): 30/06/2026 → -
+- Chris Pantillon (FC Portalban/Gletterens): - → 30/06/2027
+- Yassir Ibn El Mokadem (KSC City Pirates): 30/06/2026 → -
+- Manu Nascimento Borges (KSC City Pirates): 30/06/2026 → -
+- Glodi Mbuyi-Mbayo (KRC Gent): 30/06/2026 → -
+- Kabba-Modou Cham (KSC City Pirates): 30/06/2026 → -
+- Jordi De Jonghe (KVV St-Denijs Sport): 30/06/2026 → -
+- Lucas Van De Velde (KVV St-Denijs Sport): 30/06/2026 → -
+- Jordy Maes (RFC Wetteren): 30/06/2026 → -
+- Josse De Rudder (KVV St-Denijs Sport): 30/06/2026 → -
+- Louis Gabriël (KVV St-Denijs Sport): 30/06/2026 → -
+- Nagui Langeraert (KVV St-Denijs Sport): 30/06/2026 → -
+- Kobe Folens (KVV St-Denijs Sport): 30/06/2026 → -
+- Lander Dupont (KVV St-Denijs Sport): 30/06/2026 → -
+- Gauthier Cappelle (KVV St-Denijs Sport): 30/06/2026 → -
+- Arno Dekeyser (KVV St-Denijs Sport): 30/06/2026 → -
+- Enoch Amoah (KVV St-Denijs Sport): 30/06/2026 → -
+- Kenny Van Damme (Zwevegem Sport): 30/06/2026 → -
+- Monseff Znagui (Zwevegem Sport): 30/06/2026 → -
+- Xanthi Ego (Zwevegem Sport): 30/06/2026 → -
+- Arthur Bracke (Zwevegem Sport): 30/06/2026 → -
+- Gilles D'Hooge (KVE Drongen): 30/06/2026 → -
+- Rémon Van Loocke (KVE Drongen): 30/06/2026 → -
+- Jitse De Witte (KM Torhout): 30/06/2026 → -
+- Kobe Blomme (KM Torhout): 30/06/2026 → -
+- Sebastiaan Cordie (KM Torhout): 30/06/2026 → -
+- Alieu Faal (KM Torhout): 30/06/2026 → -
+- Thijs Coninckx (KM Torhout): 30/06/2026 → -
+- Tiebe Trancez (KM Torhout): 30/06/2026 → -
+- Thibaux Van De Gehuchte (KM Torhout): 30/06/2026 → -
+- Jules Piscador (KVE Drongen): 30/06/2026 → -
+- Yannick De Temmerman (Eendracht Elene-Grotenberge): 30/06/2026 → -
+- Ebe Tanghe (KM Torhout): 30/06/2026 → -
+- Arjen De Paermentier (Eendracht Elene-Grotenberge): 30/06/2026 → -
+- Dean Van Den Winckel (Eendracht Elene-Grotenberge): 30/06/2026 → -
+- Yentel Van Keer (Eendracht Elene-Grotenberge): 30/06/2026 → -
+- Fortis Mavingama (Eendracht Elene-Grotenberge): 30/06/2026 → -
+- Stéphane Traoré (Eendracht Elene-Grotenberge): 30/06/2026 → -
+- Milan Boskamp (Eendracht Elene-Grotenberge): 30/06/2026 → -
+- Gilles Denayer (KVK Ninove): 30/06/2026 → -
+- Lennard Leyssens (SK Londerzeel): 30/06/2026 → -
+- Ilyas El Gharbi (SK Londerzeel): 30/06/2026 → -
+- Maxime Janssens (Erpe-Mere United): 30/06/2026 → -
+- Anton Reuterskiöld (AFC Malmö): 30/06/2026 → -
+- Redan El Madani (SK Londerzeel): 30/06/2026 → -
+- Aurélien Bailly (Olsa Brakel): 30/06/2026 → -
+- Ralph Ameys (Sparta Petegem Deinze): 30/06/2026 → -
+- Anton Branting (Hässleholms IF): 30/06/2026 → -
+- Rienes Vanborm (Sparta Petegem Deinze): 30/06/2026 → -
+- Stijn Cloodts (KFC Voorde-Appelterre): 30/06/2026 → -
+- Aico Van Londersele (KFC Voorde-Appelterre): 30/06/2026 → -
+- Boris Kamneng Djoum (KFC Voorde-Appelterre): 30/06/2026 → -
+- Jonas Heymans (KFC Voorde-Appelterre): 30/06/2026 → -
+- Jelle Geenens (KFC Voorde-Appelterre): 30/06/2026 → -
+- Yassine Razzi (KFC Voorde-Appelterre): 30/06/2026 → -
+- Jelle Schiffer (KFC Voorde-Appelterre): 30/06/2026 → -
+- Albin Andersson (Hässleholms IF): 30/06/2026 → -
+- Lars De Waele (KFC Voorde-Appelterre): 30/06/2026 → -
+- Jannes Verstockt (KFC Voorde-Appelterre): 30/06/2026 → -
+- Marco Hertveldt (KFC Voorde-Appelterre): 30/06/2026 → -
+- Robbe Trouvé (Avanti Stekene): 30/06/2026 → -
+- Sietse Vispoel (Avanti Stekene): 30/06/2026 → -
+- Enzo Neve (Avanti Stekene): 30/06/2026 → -
+- Matisse Thuys (Avanti Stekene): 30/06/2026 → -
+- Bas Saillart (Avanti Stekene): 30/06/2026 → -
+- Juul Tanghe (FC Gullegem): 30/06/2026 → -
+- Mathieu De Smet (FC Gullegem): 30/06/2026 → -
+- Timon Vandendriessche (FC Gullegem): 30/06/2026 → -
+- Emil Persson (BK Olympic): 30/06/2026 → -
+- Elliot Löfberg (Trelleborgs FF): 30/06/2026 → -
+- Emil Lindman (Lunds BK): 30/06/2026 → -
+- Kasper Davidsson (Lunds BK): 30/06/2026 → -
+- Eugen Sokolov (SC Lahr): 30/06/2026 → -
+- Jamie Stopp (SC Lahr): 30/06/2026 → -
+- Nico Gutjahr (SC Lahr): 30/06/2026 → -
+- Sören Zehnle (SC Lahr): 30/06/2026 → -
+- Pedro Allgaier (SC Lahr): 30/06/2026 → -
+- Moritz Bandle (SC Lahr): 30/06/2026 → -
+- Dennis Häußermann (SC Lahr): 30/06/2026 → -
+- Jannis Kalt (SC Lahr): 30/06/2026 → -
+- Dominik Kaufmann (SC Lahr): 30/06/2026 → -
+- Leon Bross (SC Lahr): 30/06/2026 → -
+- Konstantin Fries (SC Lahr): 30/06/2026 → -
+- Kevin Giessler (SC Lahr): 30/06/2026 → -
+- Nico Schumacher (SC Lahr): 30/06/2026 → -
+- Tim Reitze (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Elias Christiansen (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Robin Eschweiler (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Christoph Matt Fernandez (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Mika Köberlin (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Fabrice-Andre Moosmann (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Brian Ernst (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Lars Adler (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- John Schmidtke (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Enver Djelili (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Marcel Ernst (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Nico Kunze (1.FC Rielasingen-Arlen): 30/06/2026 → -
+- Niklas Cholewa (SV Bühlertal): 30/06/2026 → -
+- Noah Wahl (SV Bühlertal): 30/06/2026 → -
+- Moritz Keller (SV Bühlertal): 30/06/2026 → -
+- Roman Sommer (SV Bühlertal): 30/06/2026 → -
+- Henrik Ziegler (SV Bühlertal): 30/06/2026 → -
+- Laurin Jülg (SV Bühlertal): 30/06/2026 → -
+- Samuel Anastasiadis (SV Bühlertal): 30/06/2026 → -
+- Marcel Heller (SV Bühlertal): 30/06/2026 → -
+- Joel Schnurr (SV Bühlertal): 30/06/2026 → -
+- Philip Keller (SV Bühlertal): 30/06/2026 → -
+- Maximilian Maier (SV Bühlertal): 30/06/2026 → -
+- Jannis Metzinger (SV Bühlertal): 30/06/2026 → -
+- Lukas Maier (SV Bühlertal): 30/06/2026 → -
+- Paul Schopf (SV Bühlertal): 30/06/2026 → -
+- Gino Peugler (SV Bühlertal): 30/06/2026 → -
+- David Götz (SV Bühlertal): 30/06/2026 → -
+- Justin Bohe (SV Bühlertal): 30/06/2026 → -
+- Karl Magnus Braack (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Ruben Jäger (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Linus Seib (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Adin Maksumic (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Kevin Senftleber (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Paul-Gregor Hartmann (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Luis Weber (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Nico Woll (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Tobias Klein (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Jannis Gehring (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Philippe Häring (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Julian Hesse (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Armandio Martins (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Ilja Galic (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Jannis Görlich (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Dino Redzic (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Justin Klages (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Niklas Holderer (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Mika Leib (FC Wolfenweiler-Schallstadt): 30/06/2026 → -
+- Gabriel Topka (SV 08 Laufenburg): 30/06/2026 → -
+- Marc Schäuble (SV 08 Laufenburg): 30/06/2026 → -
+- Ben Franca (SC Pfullendorf): 30/06/2026 → -
+- Alessio Seminara (SC Pfullendorf): 30/06/2026 → -
+- Raphael Sigel (SC Pfullendorf): 30/06/2026 → -
+- Janik Moser (SC Pfullendorf): 30/06/2026 → -
+- Jan Konrad (SC Pfullendorf): 30/06/2026 → -
+- Heiko Behr (SC Pfullendorf): 30/06/2026 → -
+- Vincent Bühler (SC Pfullendorf): 30/06/2026 → -
+- Aaron Binder (SC Pfullendorf): 30/06/2026 → -
+- David Schlegel (SC Pfullendorf): 30/06/2026 → -
+- David Fritz (SC Pfullendorf): 30/06/2026 → -
+- Marco Straub (SC Pfullendorf): 30/06/2026 → -
+- Leandro Stehle (SC Pfullendorf): 30/06/2026 → -
+- Mohammed-Ali Berrabha (SV Linx): 30/06/2026 → -
+- Hannes Moser (SV Linx): 30/06/2026 → -
+- Gabriel Springmann (SV Linx): 30/06/2026 → -
+- Niclas Metzinger (SV Linx): 30/06/2026 → -
+- David Assenmacher (SV Linx): 30/06/2026 → -
+- Loris Pajaziti (SV Linx): 30/06/2026 → -
+- Tim Keck (SV Linx): 30/06/2026 → -
+- Samuel Sefcik (FC Petrzalka): 30/06/2026 → -
+- Roman Angot (SV Linx): 30/06/2026 → -
+- Ronny Klockner (FC Rot-Weiß Salem): 30/06/2026 → -
+- Arian Franc (FC Rot-Weiß Salem): 30/06/2026 → -
+- Max Wimmer (FC Rot-Weiß Salem): 30/06/2026 → -
+- Moritz Strauß (FC Rot-Weiß Salem): 30/06/2026 → -
+- Giuseppe Luci (FC Rot-Weiß Salem): 30/06/2026 → -
+- Timo Senn (FC Rot-Weiß Salem): 30/06/2026 → -
+- Samuel Walter (FC Rot-Weiß Salem): 30/06/2026 → -
+- Andreas Romeo (FC Rot-Weiß Salem): 30/06/2026 → -
+- Benedikt Sorg (FC Rot-Weiß Salem): 30/06/2026 → -
+- Kaan Yanarsavk (FC Rot-Weiß Salem): 30/06/2026 → -
+- Paul Strauß (FC Rot-Weiß Salem): 30/06/2026 → -
+- Zie Ibrahim Cyril Kane (FC Rot-Weiß Salem): 30/06/2026 → -
+- Philipp Schnurr (VfR Hausen): 30/06/2026 → -
+- Arjonit Rexhepi (VfR Hausen): 30/06/2026 → -
+- Muhammed Aslan (VfR Hausen): 30/06/2026 → -
+- Yannick Häringer (VfR Hausen): 30/06/2026 → -
+- Ablie Suwareh (VfR Hausen): 30/06/2026 → -
+- Batuhan Boz (VfR Hausen): 30/06/2026 → -
+- Fernando Gomez (VfR Hausen): 30/06/2026 → -
+- Jose Ngonge Mboyo (VfR Hausen): 30/06/2026 → -
+- Altin Rexhepi (VfR Hausen): 30/06/2026 → -
+- Ergi Alihoxha (VfR Hausen): 30/06/2026 → -
+- Shqipon Bektasi (VfR Hausen): 30/06/2026 → -
+- Louis Manz (SV 08 Kuppenheim): 30/06/2026 → -
+- Maxim Wirt (SV 08 Kuppenheim): 30/06/2026 → -
+- Yannis Otto (SV 08 Kuppenheim): 30/06/2026 → -
+- Lazar Mirkovic (SV 08 Kuppenheim): 30/06/2026 → -
+- Niko Bajusic (SV 08 Kuppenheim): 30/06/2026 → -
+- Alex Tran (SV 08 Kuppenheim): 30/06/2026 → -
+- Brooklyn Kwasniok (SV 08 Kuppenheim): 30/06/2026 → -
+- Jonas Schlegel (SV 08 Kuppenheim): 30/06/2026 → -
+- Alwin Tran (SV 08 Kuppenheim): 30/06/2026 → -
+- Erdem Gündüz (SV 08 Kuppenheim): 30/06/2026 → -
+- Pascal Buttermilch (SV 08 Kuppenheim): 30/06/2026 → -
+- Elias Ebner (SV 08 Kuppenheim): 30/06/2026 → -
+- Nikola Kandic (SV 08 Kuppenheim): 30/06/2026 → -
+- Simon Vögele (SV 08 Kuppenheim): 30/06/2026 → -
+- Marcel Koch (SV 08 Kuppenheim): 30/06/2026 → -
+- Jacob Eßer (SC Wyhl): 30/06/2026 → -
+- Luca Crupi (SC Konstanz-Wollmatingen): 30/06/2026 → -
+- Michal Skvarka (MSK Zilina B): 30/06/2026 → -
+- Caiolan Brennan (Moyola Park AFC): 30/06/2026 → -
+- Ruairi McDonald (Annagh United FC): 30/06/2026 → -
+- James Convie (Annagh United FC): 30/06/2026 → -
+- Alberto Baldé (Annagh United FC): 30/06/2026 → -
+- Dylan McKevitt (Newry City AFC): 30/06/2027 → 31/05/2029
+- Charlie McGrath (Newry City AFC): 30/06/2027 → 31/05/2029
+- Danny Mhondiwa (Harland & Wolff Welders FSC): 31/05/2027 → 31/05/2028
+- Daire Kelly (Loughgall FC): 30/06/2026 → -
+- Enda O'Carroll (Warrenpoint Town FC): 30/06/2026 → -
+- Andrew Gawne (Queen's University Belfast AFC): 30/06/2026 → -
+- Adam Dorans (Queen's University Belfast AFC): 30/06/2026 → -
+- Arthur Lialy (Cavigal Nice Football U19): 30/06/2026 → -
+- Melvin Ramundo (Lommel SK U23): - → 30/06/2027
+- Ryan Devine (Strabane Athletic FC): 30/06/2026 → -
+- Alex Brina (Lommel SK U23): 30/06/2026 → -
+- Jarne Beckers (KFC Esperanza Pelt): 30/06/2026 → -
+- Glenn Toussaint (FC Wezel Sport): 30/06/2026 → -
+- Lucas Vissers (KFC Sint-Lenaarts): 30/06/2026 → -
+- Imran Echambit (KFC Sint-Lenaarts): 30/06/2026 → -
+- Josh Cooper (Rathfriland Rangers FC): 30/06/2026 → -
+- Obed Kitoko (FC Averbode-Testelt-Okselaar): 30/06/2026 → -
+- Jackson Reid (Newington FC): 30/06/2026 → -
+- Mantas Pilvinis (Armagh City FC): 30/06/2026 → -
+- Will Kelly (Armagh City FC): 30/06/2026 → -
+- Stig Cools (KVC Lille United): 30/06/2026 → -
+- Bradley Okaidja (Armagh City FC): 30/06/2026 → -
+- Tim Bollen (WS Schoonbeek-Bilzen): 30/06/2026 → -
+- Sven Vanoppen (WS Schoonbeek-Bilzen): 30/06/2026 → -
+- Ian Wouters (K Achel VV): 30/06/2026 → -
+- Robbe Schildermans (K Achel VV): 30/06/2026 → -
+- Jorre Meus (K Achel VV): 30/06/2026 → -
+- Renzo Bongers (K Achel VV): 30/06/2026 → -
+- Siebe Paesen (K Achel VV): 30/06/2026 → -
+- Maxim Goossens (K Achel VV): 30/06/2026 → -
+- Dieter Reynders (KVV Berg en Dal): 30/06/2026 → -
+- Zenn Ulenaers (KVV Berg en Dal): 30/06/2026 → -
+- Vic Geys (KVV Berg en Dal): 30/06/2026 → -
+- Mirko Dockx (KVV Berg en Dal): 30/06/2026 → -
+- Stephen Kieboom (KVV Berg en Dal): 30/06/2026 → -
+- Giel Andries (KAC Betekom): 30/06/2026 → -
+- Bram Vandrepol (KAC Betekom): 30/06/2026 → -
+- Jarni Pelgrims (KAC Betekom): 30/06/2026 → -
+- Joppe Buvens (KAC Betekom): 30/06/2026 → -
+- Sabri Boughanmi (Olympique Rovenain U19): 30/06/2026 → -
+- Bono Mertens (KAC Betekom): 30/06/2026 → -
+- Tobias Vermeiren (KAC Betekom): 30/06/2026 → -
+- Thijs Verhaeghe (KAC Betekom): 30/06/2026 → -
+- Djeson Olongo Ekila (KFC Nieuwmoer): 30/06/2026 → -
+- Christopher Wanza-Laba (OHR Huldenberg): 30/06/2026 → -
+- Cian Vennard (OHR Huldenberg): 30/06/2026 → -
+- Lennert Schuermans (KGS Bree-Beek): 30/06/2026 → -
+- Bob Adriaans (KGS Bree-Beek): 30/06/2026 → -
+- Bram Poell (KGS Bree-Beek): 30/06/2026 → -
+- Beau Schodts (KVV Zepperen-Brustem): 30/06/2026 → -
+- Ardjouma Junior Diomandé (KVV Zepperen-Brustem): 30/06/2026 → -
+- Bradley Mbenza-Kuti (KVV Zepperen-Brustem): 30/06/2026 → -
+- Lowie Rossenbacker (VK Linden): 30/06/2026 → -
+- Yaro Peeters (VK Linden): 30/06/2026 → -
+- Patrik Peric (LASK Amateure OÖ): 30/06/2026 → -
+- Justin Mühlbauer (SV Kuchl): 30/06/2026 → -
+- Simon Braun (SV Seekirchen): 30/06/2026 → -
+- Lukas Can Hindler (SV Seekirchen): 30/06/2026 → -
+- Gabriel Awuni (Union Dietach): 30/06/2026 → -
+- Gabriel Messias (FC Pinzgau Saalfelden): 30/06/2026 → -
+- Pyae Moe (Yangon United): 30/06/2026 → -
+- Johannes Polster (SV Oberwart): 30/06/2026 → -
+- Aung Kyaw Naing (Shan United): 30/05/2026 → -
+- Hein Htet Soe (Dagon Star United): 30/06/2026 → -
+- Kekere Moukailou (Dagon Star United): 30/06/2026 → -
+- Julian Klar (FCM Traiskirchen): 31/05/2026 → -
+- Émile Bomba Messo'o (Dagon Star United): 30/06/2026 → -
+- Tun Tun Thein (Dagon Star United): 30/06/2026 → -
+- Thiha Zaw (Dagon Star United): 30/05/2026 → -
+- Yan Kyaw Htwe (Dagon Star United): 30/06/2026 → -
+- Arthur Ndoukomi (Dagon Star United): 31/03/2026 → -
+- Myo Min Phyo (Yadanarbon FC): 30/06/2026 → -
+- Zaw Myo Tun (Yangon City FC): 30/06/2026 → -
+- Pyae Phyo Zaw (Hantharwady United): 30/06/2026 → -
+- Kyi Soe (Hantharwady United): 30/06/2026 → -
+- Faris Kavaz (Favoritner AC): 30/06/2026 → -
+- Kaung Myat Nyein (ISPE FC): 30/06/2026 → -
+- Zin Min Tun (Mahar United): 30/06/2026 → -
+- Isaac Quansah (Mahar United): 31/05/2026 → -
+- Soe Lin Tun (Ayeyawady United): 31/05/2026 → -
+- Thet Paing Soe (Ayeyawady United): 30/06/2026 → -
+- Wai Yan Htun (Ayeyawady United): 30/06/2026 → -
+- Ti Nyein Min (Ayeyawady United): 30/06/2026 → -
+- Aung Khine Tun (Myawady FC): 30/06/2026 → -
+- Thaw Zin Htwe (Myawady FC): 30/06/2026 → -
+- Aye Chan Thar (Myawady FC): 30/06/2026 → -
+- Yell Moe Yan (Myawady FC): 30/06/2026 → -
+- Saung Oo Hlaing (Myawady FC): 30/06/2026 → -
+- Win Ko Htay (Myawady FC): 30/06/2026 → -
+- Pyae Phyo Aung (Myawady FC): 30/06/2026 → -
+- Aung Aung Oo (Myawady FC): 30/06/2026 → -
+- Kaung Zaw Linn (Myawady FC): 30/06/2026 → -
+- Zakaria Belkouche (US Créteil Football): 30/06/2026 → -
+- Guillaume Taty (US Créteil Football): 30/06/2026 → -
+- Younès Khedir (FC Borgo): 30/06/2026 → -
+- Bilal El Hajjam (US Lusitanos Saint-Maur): 30/06/2026 → -
+- Jules Goda (FC Montlouis): - → 30/06/2027
+- Léo Tzotzis (FC Montlouis): - → 30/06/2027
+- Noah Sourisce (FC Montlouis): - → 30/06/2027
+- Djegui Koita (FC Montlouis): - → 30/06/2027
+- Alexandre Castro (FC Montlouis): - → 30/06/2027
+- Axel Dudoit (FC Montlouis): - → 30/06/2027
+- Banfa Fofana (FC Montlouis): - → 30/06/2027
+- Mohammed Berrabah (FC Montlouis): - → 30/06/2027
+- Benoît Cachenaut (FC Montlouis): - → 30/06/2027
+- Hugo Vicart (FC Montlouis): - → 30/06/2027
+- Antoine Rebelo (FC Montlouis): - → 30/06/2027
+- Youssouf Diarra (FC Montlouis): - → 30/06/2027
+- Yassin Faiz (FC Montlouis): - → 30/06/2027
+- Alexandre Valbon (FC Montlouis): - → 30/06/2027
+- Mattys Mallet (FC Montlouis): - → 30/06/2027
+- Ismaël Houmadi (FC Montlouis): - → 30/06/2027
+- Caumes Cimetière (FC Montlouis): - → 30/06/2027
+- Luigi Rizaldos (FC Montlouis): - → 30/06/2027
+- Morgan Barbier (FC Montlouis): - → 30/06/2027
+- Jean Boyer (FC Montlouis): - → 30/06/2027
+- Malcom Nguea (FC Montlouis): - → 30/06/2027
+- Allan Hunou (Saint-Pryvé Saint-Hilaire FC): 30/06/2026 → -
+- Grégory Lescot (Saint-Pryvé Saint-Hilaire FC): 30/06/2026 → -
+- Younesse Sabri (Saint-Pryvé Saint-Hilaire FC): 30/06/2026 → -
+- Gabriel Osei Yaw (Saint-Pryvé Saint-Hilaire FC): 30/06/2026 → -
+- Yoann Wachter (Saint-Pryvé Saint-Hilaire FC): 30/06/2026 → -
+- Thibault Lemesle (Saint-Pryvé Saint-Hilaire FC): 30/06/2026 → -
+- Joan Siber (Saint-Pryvé Saint-Hilaire FC): 30/06/2026 → -
+- Raphaël Galas (Saint-Pryvé Saint-Hilaire FC): 30/06/2026 → -
+- Laurenz Fahrnberger (SKU Amstetten II): 30/06/2026 → -
+- Kévin Junior Nguechoung (US Le Pays du Valois): 30/06/2026 → -
+- Finn Marold (VfB Hohenems): 30/06/2026 → -
+- Dominik Eichinger (ASK Ebreichsdorf): 30/06/2026 → -
+- Anil Sakar (1. Fortuna Wiener Neustädter SC): 30/06/2026 → -
+- Paul Jouini (FC Kufstein): - → 30/06/2027
+- Markus Rusek (1. Fortuna Wiener Neustädter SC): - → 30/06/2027
+- Sheqir Avdiu (1. Fortuna Wiener Neustädter SC): 30/06/2026 → 30/06/2027
+- Sebastian Punz (SC Wieselburg): 31/05/2026 → -
+- Benjamin Hochauer (SCU Kilb): 30/06/2026 → -
+- Simon Staudinger (SCU Kilb): 30/06/2026 → -
+- Michael Ehribauer (SCU Kilb): 30/06/2026 → -
+- Cecilio Domínguez (Club Cerro Porteño): 30/06/2026 → -
+- Elvio Vera (Club Libertad Asunción): 31/12/2026 → 31/12/2028
+- Ariel Gauto (Club Sportivo Trinidense): 31/12/2026 → 31/12/2028
+- Siliang Chen (Chengdu Rongcheng B): 28/02/2026 → -
+- Wenhao Dai (Chengdu Rongcheng B): 31/01/2026 → -
+- Ke Li (Chengdu Rongcheng B): 28/02/2026 → -
+- Pedro Delvalle (Club Sportivo 2 de Mayo): 30/06/2026 → -
+- Ivan Belousov (Akademia Zenit St. Petersburg U17): - → 31/12/2028
+- Arseniy Konev (Akademia Zenit St. Petersburg U17): - → 31/12/2028
+- Danin Cahut (NK Travnik): 30/06/2026 → -
+- Emanullah Blazevic (NK Jedinstvo Bihac): 30/06/2026 → -
+- Aleksandr Somov (Akademia Spartak Moscow U17): - → 31/12/2029
+- Yaroslav Omelchuk (Akademia Spartak Moscow U17): - → 31/12/2029
+- Ajdin Kobasevic (FK Radnik Hadzici): 30/06/2026 → -
+- Nirmel Skaljic (HNK Capljina): - → 30/06/2027
+- Marko Brekalo (HNK Capljina): - → 30/06/2027
+- Dave Baum (Bischofswerdaer FV 08): 30/06/2026 → -
+- Marvin Richter (SG Taucha 99): 30/06/2026 → 30/06/2027
+- Ki-hyun Kim (SG Taucha 99): 30/06/2026 → -
+- Christoph Am Ende (FV Dresden 06 Laubegast): 30/06/2026 → -
+- Tim Oliver Pohle (FV Dresden 06 Laubegast): 30/06/2026 → 30/06/2027
+- Jari Schramm (SG Handwerk Rabenstein): 30/06/2026 → -
+- Mamdou Bah (SG Handwerk Rabenstein): 30/06/2026 → -
+- Daniel Michann (BSG Stahl Riesa): 30/06/2026 → -
+- Harty Scholz (BSG Stahl Riesa): 30/06/2026 → 30/06/2027
+- Moritz Kutsche (BSG Stahl Riesa): 30/06/2026 → -
+- Lennox Schubert (BSG Stahl Riesa): 30/06/2026 → 30/06/2027
+- Pascal Kästner (Reichenbacher FC): - → 30/06/2027
+- Luca Particke (Reichenbacher FC): 30/06/2026 → -
+- Jasin Moussaid (SC Borea Dresden): 30/06/2026 → -
+- Wolfgang Pesch (SC Freital II): 30/06/2026 → 30/06/2027
+- Cecilio Domínguez (Club Cerro Porteño): 30/06/2026 → -
+- Oliver Hartmann (SSV Markranstädt): 30/06/2026 → -
+- Enzo Zippließ (SSV Markranstädt): 30/06/2026 → -
+- Elvio Vera (Club Libertad Asunción): 31/12/2026 → 31/12/2028
+- Álvaro Avilés (SV Tapfer 06 Leipzig): 30/06/2026 → -
+- Oliver Schuster (SV Tapfer 06 Leipzig): 30/06/2026 → -
+- Moritz Eggert (Dresdner SC): 30/06/2026 → -
+- Pierre Scheiblich (Dresdner SC): 30/06/2026 → -
+- Tim Saller (TSV Neumarkt): 30/06/2026 → -
+- Mika Drutschmann (Kickers 94 Markkleeberg): 30/06/2026 → 30/06/2027
+- Joris Weiß (Kickers 94 Markkleeberg): 30/06/2026 → -
+- Tobias Godetz (Kickers 94 Markkleeberg): 30/06/2026 → -
+- Danny Wild (VfB Schöneck): 30/06/2026 → -
+- Ariel Gauto (Club Sportivo Trinidense): 31/12/2026 → 31/12/2028
+- Aldrin Selimi (USK Anif): 30/06/2026 → -
+- Simon Braun (SV Seekirchen II): 30/06/2026 → -
+- Pedro Delvalle (Club Sportivo 2 de Mayo): 30/06/2026 → -
+- Jack Edwards (The New Saints): 30/06/2026 → -
+- Jack Bodenham (The New Saints): 30/06/2026 → -
+- Danny Davies (The New Saints): 30/06/2026 → -
+- Daniel Williams (The New Saints): 30/06/2026 → -
+- Ben Clark (The New Saints): 30/06/2026 → -
+- Leo Smith (The New Saints): 30/06/2026 → -
+- Daniel Redmond (The New Saints): 30/06/2026 → -
+- Ryan Brobbel (The New Saints): 30/06/2026 → -
+- Jordan Williams (The New Saints): 30/06/2026 → -
+- Rory Holden (The New Saints): 30/06/2026 → -
+- Owain Warlow (Penybont FC): 31/05/2026 → -
+- Dan Cowan (Connah's Quay Nomads): 31/05/2026 → -
+- George Ratcliffe (Barry Town United): 31/05/2026 → -
+- Paul Terrien (US Avranches): 30/06/2026 → -
+- Anthony Stephens (Llandudno FC): 31/05/2026 → -
+- Emeric Dudouit (US Avranches): 30/06/2026 → -
+- Jessy Pi (US Avranches): 30/06/2026 → -
+- Anas Lamrabette (US Avranches): 30/06/2026 → -
+- Noah Adekalom (US Avranches): - → 30/06/2028
+- Ollie Lancely (Airbus UK Broughton): 31/05/2026 → -
+- Izak Akakpo (FC Lorient B): 30/06/2026 → -
+- Noam Marchal (FC Lorient B): 30/06/2026 → -
+- Aboubacar Drabo (Wolfsberger AC II): 30/06/2026 → -
+- Jai Semenyo (FC Lorient B): 30/06/2026 → -
+- Yasser Dermane (Wolfsberger AC II): 30/06/2026 → -
+- Justin Hofmann (SV Lafnitz): 30/06/2026 → -
+- Kori Parker (Trefelin Boys & Girls Club): 31/05/2026 → -
+- Theo Benbow (Trefelin Boys & Girls Club): 31/05/2026 → -
+- Sacha Inquel (Aviron Bayonnais): 30/06/2027 → -
+- Tom Wright (Ammanford AFC): 18/10/2026 → 16/12/2026
+- Adebola Emwenghare (FC Gleisdorf 09): 30/06/2026 → -
+- Charlie Davies (Ammanford AFC): 31/05/2026 → -
+- Enrico Temmel (SC Weiz): 30/06/2026 → -
+- Julian Tomka (SC Weiz): 30/06/2026 → -
+- Chris Kroner (ZFC Meuselwitz): 30/06/2026 → -
+- Tommy Le Verge (US Saint-Malo): 30/06/2026 → -
+- Philip Weidauer (SC Freital): 30/06/2026 → -
+- Pascal Schardt (VfB Auerbach): 30/06/2026 → -
+- Ben Bauer (VfB Auerbach): 30/06/2026 → -
+- Anthony Castera (Angoulême Charente FC): 30/06/2026 → -
+- Tim Kaiser (VfB Auerbach): 30/06/2026 → -
+- Paul Kühnhardt (Germania Halberstadt): 30/06/2026 → -
+- Edhem Hujdurovic (Germania Halberstadt): 30/06/2026 → -
+- Julien Huber (Germania Halberstadt): 30/06/2026 → -
+- Jano Conrad (Germania Halberstadt): 30/06/2026 → -
+- Leon-Joel Platz (Germania Halberstadt): 30/06/2026 → -
+- Santos (VfL Halle 1896): 30/06/2026 → -
+- Francesco Lubsch (VfL Halle 1896): 30/06/2026 → -
+- Niclas Hüttig (VfL Halle 1896): 30/06/2026 → -
+- Achilleas Oikonomidis (VfL Halle 1896): 30/06/2026 → -
+- Albert Arzumanyan (VfL Halle 1896): 30/06/2026 → -
+- Erik Emmerich (VfL Halle 1896): 30/06/2026 → -
+- Benny Haese (VfL Halle 1896): 30/06/2026 → -
+- Josua Frühauf (VfL Halle 1896): 30/06/2026 → -
+- Yegor Yagupov (VfL Halle 1896): 30/06/2026 → -
+- Arlind Shoshi (VfL Halle 1896): 30/06/2026 → -
+- Nils Bolz (VfL Halle 1896): 30/06/2026 → -
+- Sebastian Mellack (VfB 1921 Krieschow): 30/06/2026 → -
+- Alexander Kurz (ATUS Velden): 30/06/2026 → -
+- Louis Fröhlich (VfB Empor Glauchau): 30/06/2026 → -
+- Maximilian Ibisevic (VfB Empor Glauchau): 30/06/2026 → -
+- Yann-Erik Räthel (Union Sandersdorf): 30/06/2026 → -
+- Maximilian Schnabel (Union Sandersdorf): 30/06/2026 → -
+- Cedric Sponholz (Union Sandersdorf): 30/06/2026 → -
+- Sebastian Seifert (Union Sandersdorf): 30/06/2026 → -
+- Erik Exner (Union Sandersdorf): 30/06/2026 → -
+- Akam Sabah Choschnau (Union Sandersdorf): 30/06/2026 → -
+- Paul Hamella (Union Sandersdorf): 30/06/2026 → -
+- Julius Mehnert (Union Sandersdorf): 30/06/2026 → -
+- Dennis Brunner (Union Sandersdorf): 30/06/2026 → -
+- Kai Wonneberger (Union Sandersdorf): 30/06/2026 → -
+- Marius Ihbe (Union Sandersdorf): 30/06/2026 → -
+- Samyr Farkas (Union Sandersdorf): 30/06/2026 → -
+- Pascal Sparwasser (Einheit Wernigerode): 30/06/2026 → -
+- Hendrik Kuhnhold (Einheit Wernigerode): 30/06/2026 → -
+- Mika Hess (Einheit Wernigerode): 30/06/2026 → -
+- Lucas Pillich (Einheit Wernigerode): 30/06/2026 → -
+- Julius Schmidt (Einheit Wernigerode): 30/06/2026 → -
+- Niclas Treu (Einheit Wernigerode): 30/06/2026 → -
+- Maximilian Farwig (Einheit Wernigerode): 30/06/2026 → -
+- Danny Wersig (Einheit Wernigerode): 30/06/2026 → -
+- Ben Engelhardt (Einheit Wernigerode): 30/06/2026 → -
+- Julian Schmidt (Einheit Wernigerode): 30/06/2026 → -
+- Gregor Schlichting (Einheit Wernigerode): 30/06/2026 → -
+- Gino Dörnte (Einheit Wernigerode): 30/06/2026 → -
+- Lukas Radomski (Einheit Wernigerode): 30/06/2026 → -
+- Tim Rühling (FC Einheit Rudolstadt): 30/06/2026 → -
+- Maximilian Schlegel (FC Einheit Rudolstadt): 30/06/2026 → -
+- Yaser Bakavoli Mohammadi (FC Einheit Rudolstadt): 30/06/2026 → -
+- Emilio Heß (FC Einheit Rudolstadt): 30/06/2026 → -
+- Marwan Kponton (FC Einheit Rudolstadt): 30/06/2026 → -
+- Marco Riemer (FC Einheit Rudolstadt): 30/06/2026 → -
+- Sebastian Lawrenz (1.FC Frankfurt (Oder)): 30/06/2026 → -
+- Tom Jahnke (1.FC Frankfurt (Oder)): 30/06/2026 → -
+- Elias Bleck (1.FC Frankfurt (Oder)): 30/06/2026 → -
+- Marcel Georgi (1.FC Frankfurt (Oder)): 30/06/2026 → -
+- Lukas Schmidt (1.FC Frankfurt (Oder)): 30/06/2026 → -
+- Luca Reiche (1.FC Frankfurt (Oder)): 30/06/2026 → -
+- Johannes Lohmann (SSC Weißenfels): 30/06/2026 → -
+- Zito Magul (SSC Weißenfels): 30/06/2026 → -
+- Christopher Zerbe (SSC Weißenfels): 30/06/2026 → -
+- Jonas Schumann (SSC Weißenfels): 30/06/2026 → -
+- Paul Koch (SSC Weißenfels): 30/06/2026 → -
+- Ben Necke (SSC Weißenfels): 30/06/2026 → -
+- Niklas Köllner (SSC Weißenfels): 30/06/2026 → -
+- Michael Beyer (SSC Weißenfels): 30/06/2026 → -
+- Stefan Raßmann (SSC Weißenfels): 30/06/2026 → -
+- Yannick Luib (SSC Weißenfels): 30/06/2026 → -
+- Martin Dierichen (SSC Weißenfels): 30/06/2026 → -
+- Justin Puphal (SSC Weißenfels): 30/06/2026 → -
+- Till Hafkesbrink (SSC Weißenfels): 30/06/2026 → -
+- Tim Lehmann (SSC Weißenfels): 30/06/2026 → -
+- Kai Löser (SSC Weißenfels): 30/06/2026 → -
+- Felix Schneider (SSC Weißenfels): 30/06/2026 → -
+- Elias Rosner (SSC Weißenfels): 30/06/2026 → -
+- Carlo Purrucker (SSC Weißenfels): 30/06/2026 → -
+- Mohamad Rakip (East Bengal FC): 31/05/2026 → -
+- Vanlalpeka Guite (East Bengal FC): 31/05/2026 → -
+- Amrinder Singh (Kerala Blasters FC): 31/05/2026 → 31/05/2027
+- Fallou Ndiaye (Kerala Blasters FC): 31/05/2026 → 31/05/2027
+- Aibanbha Dohling (Kerala Blasters FC): 31/05/2026 → 31/05/2027
+- Sahil Tavora (Kerala Blasters FC): 31/05/2026 → 31/05/2027
+- Joel Lalramengmawia (Kerala Blasters FC): - → 31/05/2029
+- Ebindas Y (Kerala Blasters FC): 31/05/2026 → 31/05/2028
+- Mohammed Yasir (Kerala Blasters FC): 31/05/2028 → 31/05/2027
+- Ramhlunchhunga (Kerala Blasters FC): 31/05/2026 → 31/05/2028
+- Danny Meitei (NorthEast United FC): 31/05/2026 → -
+- Eli Dasa (Maccabi Haifa): 01/07/2026 → 30/06/2028
+- Nikhil Prabhu (Punjab FC): 31/05/2026 → -
+- Sahil Poonia (Bengaluru FC): 31/05/2026 → 31/05/2028
+- Menno Koch (Bengaluru FC): - → 31/05/2027
+- Ricky Meetei (Bengaluru FC): 31/05/2026 → 31/05/2028
+- Manuel de Iriondo (Bengaluru FC): - → 31/05/2027
+- Borja Martínez (Bengaluru FC): - → 31/05/2027
+- Soham Varshneya (Bengaluru FC): 31/05/2027 → 31/05/2029
+- Mihailo Perovic (Bengaluru FC): - → 31/05/2027
+- Taorem Kelvin Singh (Bengaluru FC): 31/05/2026 → 31/05/2028
+- Luka Gadrani (Beitar Jerusalem): 30/06/2027 → 30/06/2029
+- Raj Kumar Sanyasi (Odisha FC): 31/05/2026 → -
+- Kojam Beyong (Odisha FC): 31/05/2026 → -
+- Vanlalzuidika (Odisha FC): 31/05/2026 → -
+- Tankadhar Bag (Odisha FC): 31/05/2026 → -
+- Heikrujam Sanathoi Singh (Odisha FC): 31/05/2026 → -
+- Mohammad Nawaz (Chennaiyin FC): 31/05/2026 → 31/05/2027
+- Dippendu Biswas (Chennaiyin FC): - → 31/05/2028
+- Klusner John Manuel Pereira (Chennaiyin FC): 31/05/2028 → 31/05/2027
+- Lalhriatpuia Chawngthu (Chennaiyin FC): - → 31/05/2028
+- Vadym Bachynskyi (Bukovyna Chernivtsi U21): - → 30/06/2027
+- Harmandeep Singh (Chennaiyin FC): - → 31/05/2028
+- Nitishkumar Meitei Yengkhom (Chennaiyin FC): 31/05/2026 → 31/05/2027
+- Prakadeswaran S (Chennaiyin FC): 31/05/2028 → 31/05/2029
+- Ramon Tanque (Chennaiyin FC): 30/06/2027 → 31/05/2027
+- Irfan Yadwad (Chennaiyin FC): 31/05/2026 → 31/05/2028
+- Shubham Rawat (Chennaiyin FC): - → 31/05/2027
+- Lionel Daryl Rymmei (FC Goa): 31/05/2026 → 31/05/2028
+- Rudra Ved (FC Goa): - → 31/05/2028
+- Sitroy Carvalho (FC Goa): 31/05/2026 → 31/05/2028
+- Konsam Akash Singh (FC Goa): - → 31/05/2028
+- Sandesh Jhingan (FC Goa): 31/05/2026 → 31/05/2027
+- Álex Zalaya (FC Goa): - → 31/05/2027
+- Nim Dorjee Tamang (FC Goa): 31/05/2026 → 31/05/2027
+- Saveme Tariang (FC Goa): - → 31/05/2028
+- Alex Vallejo (FC Goa): 30/06/2027 → 31/05/2028
+- Vellington Fernandes (FC Goa): 31/05/2026 → 31/05/2027
+- Franchu (FC Goa): - → 31/05/2027
+- Haobam Tomba Singh (FC Goa): - → 31/05/2029
+- Isak Vanlalruatfela (FC Goa): - → 31/05/2028
+- Udanta Singh (FC Goa): 31/05/2026 → 31/05/2027
+- Jorge Ortiz (FC Goa): - → 31/05/2027
+- Chiki (FC Goa): 30/06/2027 → 31/05/2027
+- Guy Hadida (Maccabi Petah Tikva): 26/08/2026 → 30/06/2029
+- KC Malsawmsanga (FC Goa): - → 31/05/2028
+- Haodamlian Vaiphei (FC Goa): - → 31/05/2028
+- Ahan Prakash (Mumbai City FC): 31/05/2026 → -
+- Sheikh Aadil (Mumbai City FC): 31/05/2026 → -
+- Anuj Kumar (Churchill Brothers FC): 31/05/2026 → -
+- Lalremruata (Churchill Brothers FC): - → 31/05/2027
+- Mohamed Abu Riya (Ihud Bnei Sakhnin): 30/05/2026 → -
+- Kingslee Fernandes (Churchill Brothers FC): - → 31/05/2027
+- Sebastián Gutiérrez (Churchill Brothers FC): 31/05/2026 → 31/05/2027
+- Wayde Lekay (Churchill Brothers FC): - → 31/05/2027
+- John Okoli (Churchill Brothers FC): - → 31/05/2027
+- Stendly Teotonio Fernandes (Churchill Brothers FC): - → 31/05/2027
+- Nduka Junior (Sporting Club Delhi): - → 31/05/2027
+- Lamgoulen Gou Hangshing (Sporting Club Delhi): 31/05/2026 → 31/05/2027
+- Ashutosh Mehta (Sporting Club Delhi): 31/05/2026 → 31/05/2027
+- Kharon Subba (Sporting Club Delhi): 31/05/2026 → 31/05/2027
+- Mohammed Aimen (Sporting Club Delhi): 31/05/2026 → 31/05/2028
+- Shubham Dhas (Inter Kashi FC): 31/05/2026 → 31/05/2027
+- Mohit Singh Dhami (Inter Kashi FC): 31/05/2026 → 31/05/2027
+- Nishchal Chandan (Inter Kashi FC): 31/05/2028 → 31/05/2027
+- Gursimrat Singh Gill (Inter Kashi FC): - → 31/05/2027
+- Sajad Hussain Parray (Inter Kashi FC): 31/05/2029 → 31/05/2027
+- Hitesh Sharma (Inter Kashi FC): 31/05/2026 → 31/05/2027
+- Sumeet Passi (Inter Kashi FC): 31/05/2026 → 31/05/2028
+- Ashangbam Aphaoba Singh (Inter Kashi FC): 31/05/2026 → 31/05/2027
+- Diedrick Bubahe (Brattvåg IL): 30/06/2026 → -
+- Dan Clark (CPD Porthmadog): 31/05/2026 → -
+- Meilir Ellis (CPD Porthmadog): 31/05/2026 → -
+- Josh Banks (CPD Porthmadog): 31/05/2026 → -
+- Jack Rimmer (CPD Porthmadog): 31/05/2026 → -
+- Jonathan Bravo (CPD Porthmadog): 31/05/2026 → -
+- Oliver Sharp (Newtown AFC): 31/05/2026 → -
+- Billy Holmes (Y Rhyl 1879): 31/05/2026 → -
+- Jason Foulkes (Y Rhyl 1879): 31/05/2026 → -
+- Josh Watkin (Brickfield Rangers): 31/05/2026 → -
+- Gerson Neto (Brickfield Rangers): 31/05/2026 → -
+- Max Williams (Caersws FC): 31/05/2026 → -
+- Ashley Jones (Caersws FC): 31/05/2026 → -
+- Ashley Harries (Caersws FC): 31/05/2026 → -
+- Tyler Ratcliff (Caersws FC): 31/05/2026 → -
+- George Mitten (Caersws FC): 31/05/2026 → -
+- Jake Jones (Caersws FC): 31/05/2026 → -
+- Sam Phillips (Caersws FC): 31/05/2026 → -
+- Rhys Hesden (Caersws FC): 31/05/2026 → -
+- Tommy Rowlands (Caersws FC): 31/05/2026 → -
+- Callum Francis-Jones (Caersws FC): 31/05/2026 → -
+- Ben Lockley (Denbigh Town): 31/05/2026 → -
+- Nathan Brown (Denbigh Town): 31/05/2026 → -
+- Kyle Murphy (Holyhead Hotspur): 31/05/2026 → -
+- Mike Kelly (Holyhead Hotspur): 31/05/2026 → -
+- Luca Hogan (Mold Alexandra): 31/05/2026 → -
+- Harri Horwood (Penrhyncoch FC): 31/05/2026 → -
+- Ethan Davies (Ruthin Town): 31/05/2026 → -
+- Milan Vandeweghe (Jong Cercle): 30/07/2026 → -
+- Albion Avdijaj (Zürich City SC): 30/06/2027 → -
+- Mon De Preter (KSK Heist): 30/06/2026 → -
+- Mathis Heyselberghs (KSK Heist): 30/06/2026 → -
+- Gilles Schodts (KSK Heist): 30/06/2026 → -
+- Soufiane El Banouhi (KSK Heist): 30/06/2026 → -
+- Yannick Reuten (KSK Heist): 30/06/2026 → -
+- Kelvin Owusu (KSK Heist): 30/06/2026 → -
+- Seppe Kil (K. Lyra-Lierse): 30/06/2026 → -
+- Joppe Verdonck (KVK Tienen): 30/06/2026 → -
+- Tom Panepinto (KVK Tienen): 30/06/2026 → -
+- Fronny Caicedo (Young Reds): 30/06/2026 → -
+- Aaron Ibrahim (Young Reds): - → 30/06/2028
+- Jef Luyckx (Young Reds): 30/06/2026 → -
+- Abdel-Malik Aziz (Young Reds): 30/06/2026 → -
+- Khoi Pham Anh (Young Reds): 30/06/2026 → -
+- Nand Vanhaeren (STVV Youth): 30/06/2026 → -
+- Matice Vandegaer (STVV Youth): 30/06/2026 → -
+- Lennert Vandecaetsbeek (KSK Tongeren): 30/06/2026 → -
+- Dries Theunissen (KSK Tongeren): 30/06/2026 → -
+- Joran Larondelle (KSK Tongeren): 30/06/2026 → -
+- Mâlik Wanya (FC Rupel Boom): 30/06/2026 → -
+- Jitse Hermans (Diegem Sport): 30/06/2026 → -
+- Alex Matuta (Diegem Sport): - → 30/06/2027
+- Mounir Abattoui (Diegem Sport): 30/06/2026 → -
+- Siemen Buvé (Eendracht Termien): 30/06/2026 → -
+- Ruben Janssen (Eendracht Termien): 30/06/2026 → -
+- Jerfi Alkan (Eendracht Termien): 30/06/2026 → -
+- Joren Leyssens (Eendracht Termien): 30/06/2026 → -
+- Maaren Ovnicek (Eendracht Termien): 30/06/2026 → -
+- Stef Heeren (Eendracht Termien): 30/06/2026 → -
+- Wieto Claes (Eendracht Termien): 30/06/2026 → -
+- Jasper Vernijns (Eendracht Termien): 30/06/2026 → -
+- Baud Terwingen (Eendracht Termien): 30/06/2026 → -
+- Toon Opdekamp (Eendracht Termien): 30/06/2026 → -
+- Martijn Stefani (Eendracht Termien): 30/06/2026 → -
+- Israel Mpeti Mambo (Eendracht Termien): 30/06/2026 → -
+- Quentin Odin (FC Chamalières): 30/06/2026 → -
+- Luca Géry (FC Chamalières): 30/06/2026 → -
+- Mathieu Mrdenovic (FC Chamalières): 30/06/2026 → -
+- Antoine Couderc (FC Chamalières): 30/06/2026 → -
+- Anthony Rance (FC Chamalières): 30/06/2026 → -
+- Lucas Pires (FC Chamalières): 30/06/2026 → -
+- Mathias Cussac (FC Chamalières): 30/06/2026 → -
+- N'Fa Herba Dramé (FC Chamalières): 30/06/2026 → -
+- Tidjan Diaby (Pau FC B): 30/06/2026 → -
+- Thorben Fuchs (1.FC Bruchsal): 30/06/2026 → -
+- Noah Hirth (1.FC Bruchsal): 30/06/2026 → -
+- Nestor Djengoue (Fortuna Heddesheim): 30/06/2026 → -
+- Alexander Rudenko (VfB Eppingen): 30/06/2026 → -
+- Philipp Lambert (VfB Eppingen): 30/06/2026 → -
+- Yannik Dressler (SV Spielberg): 30/06/2026 → -
+- Brian Graehl (SV Spielberg): 30/06/2026 → -
+- Sandro Weber (SV Spielberg): 30/06/2026 → -
+- Alexander Schoch (SV Spielberg): 30/06/2026 → -
+- Claudio Ritter (SV Spielberg): 30/06/2026 → -
+- Bartosz Franke (DJK/FC Ziegelhausen-Peterstal): 30/06/2026 → -
+- Fabian Heller (SG HD-Kirchheim): 30/06/2026 → -
+- Sondre Halvorsen (Tromsdalen UIL): - → 31/07/2028
+- Maksimiljan Zorman (USV St. Anna/Aigen): 30/06/2026 → -
+- Philipp Knapp (FC Zuzenhausen): 30/06/2026 → -
+- Amar Kvakic (SV Wildon): 30/06/2026 → -
+- Danis Markovic (SV Wildon): 30/06/2026 → -
+- Milo Bauer (SV Waldhof Mannheim U21): 30/06/2026 → -
+- Noah Walenta (SpVgg Durlach-Aue): 30/06/2026 → -
+- Daniel Koch (SpVgg Durlach-Aue): 30/06/2026 → -
+- Ibrahim Ilkin (Türkspor Mosbach): 30/06/2026 → -
+- Julian Jelovcak (Türkspor Mosbach): 30/06/2026 → -
+- Umut Ünlü (Türkspor Mosbach): 30/06/2026 → -
+- Alexandros Lusha (Türkspor Mosbach): 30/06/2026 → -
+- Carlo Cavalar (VfR Mannheim II): 30/06/2026 → -
+- Samuel Rindone (VfR Mannheim II): 30/06/2026 → -
+- Julian Reinmuth (VfR Mannheim II): 30/06/2026 → -
+- David Seiberling (VfR Mannheim II): 30/06/2026 → -
+- Berke Yücel (VfR Mannheim II): 30/06/2026 → -
+- Jan Mertes (VfR Mannheim II): 30/06/2026 → -
+- Dennis Lodato (VfR Mannheim II): 30/06/2026 → -
+- Til Hartmann (ASV Eppelheim): 30/06/2026 → -
+- Nathan Crișan (Llanelli Town AFC): - → 30/06/2027
+- Kurtis Rees (Carmarthen Town): 31/05/2026 → -
+- Will Rickard (Carmarthen Town): 31/05/2026 → -
+- Iestyn Madden (Baglan Dragons): 31/05/2026 → -
+- Artiom Legavec (Baglan Dragons): 31/05/2026 → -
+- Cai Burgum (Baglan Dragons): 31/05/2026 → -
+- Marius Kristensen (Silkeborg IF U19): 30/06/2026 → -
+- Kevin Knudsen (Silkeborg IF U19): 30/06/2026 → -
+- Norton Ferreira (Trethomas Bluebirds): 30/06/2026 → -
+- Kingsley Bimpong (AC Horsens U19): - → 30/06/2030
+- Strahinja Baucal (Red Star Belgrade U19): - → 30/06/2029
+- Seon-gyo Lee (Kasuka FC): 30/09/2026 → -
+- Rodrigo Santos (SU Sintrense): 30/06/2027 → 30/06/2028
+- Pedro Ferreira (SU Sintrense): 30/06/2027 → 30/06/2028
+- Duarte Bonito (SU Sintrense): 30/06/2027 → 30/06/2028
+- Zé Maria (SU Sintrense): 30/06/2027 → 30/06/2028
+- Tino (SU Sintrense): 30/06/2027 → 30/06/2028
+- Quintas (SU Sintrense): 30/06/2027 → 30/06/2028
+- Tiago Rodrigues (SU Sintrense): 30/06/2027 → 30/06/2028
+- Matar Manga (SU Sintrense): 30/06/2028 → 30/06/2029
+- Dedé (SU Sintrense): 30/06/2027 → 30/06/2029
+- Leonel Samaina (SU Sintrense): 30/06/2027 → 30/06/2029
+- Henrique Henriques (SU Sintrense): 30/06/2027 → 30/06/2028
+- Yousef Abdulla Baliadeh (Al-Sadd SC): 30/06/2026 → -
+- Youcef Atal (Al-Sadd SC): 01/07/2026 → -
+- Hashim Ali (Al-Sadd SC): 30/06/2026 → -
+- Yusuf Abdurisag (Al-Sadd SC): 30/06/2026 → -
+- Mohammed Muntari (Al-Sadd SC): 30/06/2026 → 30/06/2028
+- Sami Mazen Dauleh (Al-Rayyan SC): 30/06/2026 → -
+- Mohammed Saleh (Al-Rayyan SC): 30/06/2026 → -
+- Hazem Ahmed (Al-Rayyan SC): 30/06/2026 → -
+- Salah Zakaria (Al-Duhail SC): 30/06/2026 → -
+- Mubarak Shanan (Al-Duhail SC): 30/06/2026 → -
+- Khalifa N'Diaye (Al-Gharafa SC): 30/06/2026 → -
+- Dame Traoré (Al-Gharafa SC): 30/06/2026 → -
+- Omar Ali (Al-Shamal SC): 30/06/2026 → -
+- Riyad Mahrez (Al-Shamal SC): 04/07/2026 → 30/06/2027
+- Jasem Al-Hail (Al-Arabi SC): 30/06/2026 → -
+- Ahmed Fathi (Al-Arabi SC): 30/06/2026 → -
+- Isaac Lihadji (Al-Arabi SC): 30/06/2026 → -
+- Talal Bahzad (Al-Ahli SC): 30/06/2026 → -
+- Islam Yassine (Al-Ahli SC): 30/06/2026 → -
+- Tilal Ali Ali (Al-Ahli SC): 30/06/2026 → -
+- Ali Awad (Qatar SC): 30/06/2026 → -
+- Khalid Muftah (Al-Shahania SC): 30/06/2026 → -
+- Mohammad Sayyar (Al-Shahania SC): 30/06/2026 → -
+- Omar Al-Emadi (Al-Shahania SC): 30/06/2026 → -
+- Mohammad Abu Shanab (Al-Shahania SC): 30/06/2026 → -
+- Kemar Foster (Mount Pleasant FA): 30/06/2026 → -
+- Daniel Saint-Fleur (Mount Pleasant FA): 30/06/2026 → -
+- Raphael Intervil (Mount Pleasant FA): 30/06/2026 → -
+- Demario Phillips (Mount Pleasant FA): 30/06/2026 → -
+- Warner Brown (Mount Pleasant FA): 30/06/2026 → -
+- Marques Reid (Portmore United FC): 30/06/2026 → -
+- Peter McGregor (Portmore United FC): 30/06/2026 → -
+- Demarion Harris (Chapelton Maroons): 30/06/2026 → -
+- Donhue Mitchell (Chapelton Maroons): 30/06/2026 → -
+- Robino Gordon (Chapelton Maroons): 30/06/2026 → -
+- Dante Peralto (Chapelton Maroons): 30/06/2026 → -
+- Damoi Whitfield (Chapelton Maroons): 30/06/2026 → -
+- Zhaine Pinnock (Chapelton Maroons): 30/06/2026 → -
+- Alex Paeckel Suazo (Chapelton Maroons): 30/06/2026 → -
+- Sean Leighton (Chapelton Maroons): 30/06/2026 → -
+- Jason Wright (Chapelton Maroons): 30/06/2026 → -
+- Alwayne Danvers (Chapelton Maroons): 30/06/2026 → -
+- Phillando Wing (Montego Bay United FC): 30/06/2026 → -
+- Okeemo Jones (Montego Bay United FC): 30/06/2026 → -
+- Timar Lewis (Montego Bay United FC): 30/06/2026 → -
+- Dwight Merrick (Montego Bay United FC): 30/06/2026 → -
+- Nashordo Gibbs (Montego Bay United FC): 30/06/2026 → -
+- Shamarie Dyer (Waterhouse FC): 30/06/2026 → -
+- Colorado Murray (Waterhouse FC): 30/06/2026 → -
+- Jeovanni Laing (Cavalier FC): 30/08/2026 → -
+- Romarion Thomas (Cavalier FC): 30/06/2026 → -
+- Aaron Enill (Racing United FC): 30/06/2026 → -
+- Haile Beckles (Racing United FC): 30/06/2026 → -
+- Jevaughn Brown (Racing United FC): 30/06/2026 → -
+- Damion Herrera (Racing United FC): 30/06/2026 → -
+- Anthony Bennett (Arnett Gardens FC): 30/06/2026 → -
+- Jloyd Smith (Arnett Gardens FC): 30/06/2026 → -
+- Jaheim Thomas (Arnett Gardens FC): 30/06/2026 → -
+- Nevaughn Turner (Dunbeholden FC): 30/06/2026 → -
+- Odean Pennycooke (Dunbeholden FC): 30/06/2026 → -
+- Christopher Matthews (Dunbeholden FC): 30/06/2026 → -
+- Clive Wedderburn (Dunbeholden FC): 30/06/2026 → -
+- Marlon Allen (Dunbeholden FC): 30/06/2026 → -
+- Stephen Barnett (Dunbeholden FC): 30/06/2026 → -
+- Kareem Bryan (Treasure Beach FC): 30/06/2026 → -
+- Afiba Chambers (Treasure Beach FC): 30/06/2026 → -
+- Chandol Anderson (Treasure Beach FC): 30/06/2026 → -
+- Kevoan McGregor (Treasure Beach FC): 30/06/2026 → -
+- Jhanni Flemmings (Treasure Beach FC): 30/06/2026 → -
+- Jahiem Harris (Treasure Beach FC): 30/06/2026 → -
+- Gerald Neil Jr. (Molynes United FC): 30/06/2026 → -
+- Odane Murray (Molynes United FC): 30/06/2026 → -
+- Ibrahima Diawara (Stade Briochin U19): 30/06/2026 → -
+- Henry Romero (Alianza FC): 30/06/2026 → -
+- Narciso Orellana (Alianza FC): 30/06/2026 → -
+- Joshua Gallardo (CD Fuerte San Francisco): 30/06/2026 → -
+- Paolo Ulloa (CD Cacahuatique): 30/06/2026 → -
+- Csongor Lakatos (Ferencvárosi TC): 30/06/2026 → -
+- Habib Maïga (Ferencvárosi TC): 30/06/2026 → -
+- Lamin Colley (Puskás Akadémia FC): 30/06/2026 → -
+- Ilia Beriashvili (MTK Budapest): 30/06/2026 → -
+- Henry Romero (Alianza FC): 30/06/2026 → -
+- Narciso Orellana (Alianza FC): 30/06/2026 → -
+- János Szabó (Paksi FC): 30/06/2026 → -
+- Kristóf Papp (Paksi FC): 30/06/2026 → -
+- Dominik Sztojka (Vasas FC): 30/06/2026 → -
+- Joshua Gallardo (CD Fuerte San Francisco): 30/06/2026 → -
+- Paolo Ulloa (CD Cacahuatique): 30/06/2026 → -
+- András Radó (Vasas FC): 30/06/2026 → -
+- Bogdan Melnyk (Kisvárda FC): 30/06/2026 → -
+- Barna Benczenleitner (Nyíregyháza Spartacus): 31/12/2027 → 31/12/2029
+- Milán Kovács (Nyíregyháza Spartacus): 30/06/2027 → 30/06/2029
+- Zan Medved (Nyíregyháza Spartacus): 30/06/2026 → -
+- Diogo Rodrigues (O Elvas CAD): 30/06/2028 → 30/06/2027
+- Gabriel Tibúrcio (FC Oliveira do Hospital): 30/06/2027 → 30/06/2029
+- Marcos Vinícius (FC Oliveira do Hospital): 30/06/2027 → 30/06/2029
+- João Araújo (FC Oliveira do Hospital): 30/11/2026 → 30/06/2027
+- Murillo (Associação Naval 1893): 30/06/2027 → -
+- François Squarcioni (ES Cannet Rocheville): 30/06/2026 → -
+- Victor Battu (ES Cannet Rocheville): 30/06/2026 → -
+- Grégory Rolando (ES Cannet Rocheville): 30/06/2026 → -
+- Florent Menozzi (Gallia Club Lucciana FC): 30/06/2026 → -
+- Ryad Boudiaf (Berre Sporting Club): 30/06/2026 → -
+- Behar Neziri (FC St. Gallen 1879): 30/06/2028 → 30/06/2030
+- Alexis Blin (FC Lausanne-Sport): 01/09/2026 → 30/06/2027
+- Léo Besson (Servette FC): 30/06/2027 → 30/06/2029
+- Jarell Njiké Simo (Servette FC): - → 30/06/2029
+- Nader Matar (Al-Ansar FC): 30/06/2026 → -
+- Mohammad Nasser (Al-Ahed): - → 30/06/2027
+- Mohammad Fakih (Safa Beirut SC): - → 30/06/2027
+- Raja Asfour (Sagesse SC): 30/06/2026 → -
+- Adam Kobeissi (Akhaa Al-Ahly SC): — → 30/06/2027
+- Bhaskar Roy (Sreenidi Deccan FC): 31/05/2026 → -
+- Jagdeep Singh (Sreenidi Deccan FC): 31/05/2026 → -
+- Abhash Thapa (Sreenidi Deccan FC): 31/05/2026 → -
+- Lalthankhuma (Sreenidi Deccan FC): 31/05/2026 → -
+- Ajay Chhetri (Sreenidi Deccan FC): 31/05/2026 → -
+- Phalguni Singh (Sreenidi Deccan FC): 31/05/2026 → -
+- Fabrice Kah (Sreenidi Deccan FC): 31/05/2026 → -
+- Rakshit Dagar (Gokulam Kerala FC): 31/05/2026 → -
+- Aminou Bouba (Gokulam Kerala FC): 31/05/2026 → -
+- Sachu Siby (Gokulam Kerala FC): 31/05/2026 → -
+- Laishram Johnson Singh (Gokulam Kerala FC): 30/04/2026 → -
+- Ramsanga (Gokulam Kerala FC): 31/05/2028 → -
+- Moses Lalrinzuala (Gokulam Kerala FC): 31/05/2026 → -
+- Manbhakupar Iawphniaw (Shillong Lajong FC): 31/05/2026 → -
+- Bless Vashum (Shillong Lajong FC): 31/05/2026 → -
+- Zodingliana Ralte (Mohammedan SC (Kolkata)): 31/05/2026 → -
+- Mohammed Jasim (Mohammedan SC (Kolkata)): 31/05/2026 → -
+- Joe Zoherliana (Mohammedan SC (Kolkata)): 31/05/2026 → -
+- Amarjit Singh (Mohammedan SC (Kolkata)): 31/05/2026 → -
+- Furqan Ahmad (Real Kashmir FC): 31/05/2026 → -
+- Jetli Sorokhaibam (Real Kashmir FC): 31/05/2026 → -
+- Oinam Sanatomba Singh (Real Kashmir FC): 31/05/2026 → -
+- Hyder Yousuf Wani (Real Kashmir FC): 31/05/2026 → -
+- Calvin Rosario Baretto (Real Kashmir FC): 31/05/2026 → -
+- Kamal Issah (Real Kashmir FC): 31/05/2026 → -
+- Mamoud Oshie (Real Kashmir FC): 31/05/2026 → -
+- Shakir Ahmad Sheikh (Real Kashmir FC): 31/05/2026 → -
+- Seijoseph Haokip (Real Kashmir FC): 31/05/2026 → -
+- Hayat Bashir (Real Kashmir FC): 31/05/2026 → -
+- Vitalli Savchuk (SC Beira-Mar): 30/06/2026 → -
+- Aafreen Basharat Parray (Real Kashmir FC): 31/05/2026 → -
+- Mohammad Zaheer Khan (Dempo SC): 31/05/2026 → -
+- Myrick Hilario (Dempo SC): 31/05/2026 → -
+- Daniel Muthu (Dempo SC): 31/05/2026 → -
+- Darell Mascarenhas (Dempo SC): 31/05/2026 → -
+- Mohamed Ali (Dempo SC): 31/05/2026 → -
+- Saiesh Bagkar (Dempo SC): 31/05/2026 → -
+- Pruthvesh Pednekar (Dempo SC): 31/05/2026 → -
+- Knerkitalang Buam (Dempo SC): 31/05/2026 → -
+- Amay Morajkar (Dempo SC): 31/05/2026 → -
+- Seigoumang Doungel (Dempo SC): 31/05/2026 → -
+- Arnold Antonio Oliveira (Dempo SC): 31/05/2026 → -
+- Nestor Dias (Dempo SC): 31/05/2026 → -
+- Vieri Colaco (Dempo SC): 31/05/2026 → -
+- Laximanrao Rane (Dempo SC): 31/05/2026 → -
+- Beckham Dias (Dempo SC): 31/05/2026 → -
+- Ariston Costa (Dempo SC): 31/05/2026 → -
+- Vinay Harji (Dempo SC): 31/05/2026 → -
+- Damián Peréz (Dempo SC): 31/05/2026 → -
+- Salgeo Dias (Dempo SC): 31/05/2026 → -
+- Richmond Kwasi Owusu (Dempo SC): 31/05/2026 → -
+- Anant Shah (Rajasthan United): 31/05/2026 → -
+- Dinesh Choudhary (Rajasthan United): 31/05/2026 → -
+- Prajal Tushir (Rajasthan United): 31/05/2026 → -
+- Konjengbam Surendra Singh (Rajasthan United): 31/05/2026 → -
+- Novin Gurung (Rajasthan United): 31/05/2026 → -
+- Gautam Virwani (Rajasthan United): 31/05/2026 → -
+- Lunkim Seigoulun Khongsai (Rajasthan United): 31/05/2026 → -
+- Yash Tripathi (Rajasthan United): 31/05/2026 → -
+- Aniket Panchal (Rajasthan United): 31/05/2026 → -
+- Rahul Ramakrishnan (Rajasthan United): 31/05/2026 → -
+- Pangambam Naoba Meitei (Rajasthan United): 31/05/2026 → -
+- Pranjal Bhumij (Rajasthan United): 31/05/2026 → -
+- Lalhruaitluanga (Chanmari FC): 31/05/2026 → -
+- Lalhmangaihsanga . (Chanmari FC): 31/05/2026 → -
+- Malsawmsanga Renthlei (Chanmari FC): 31/05/2026 → -
+- C Lalmuanzuala (Chanmari FC): 31/05/2026 → -
+- C Lalmuanpuia (Chanmari FC): 31/05/2026 → -
+- Lalpekhlua (Chanmari FC): 31/05/2026 → -
+- Cvl Remtluanga (Chanmari FC): 31/05/2026 → -
+- Crespo Vanlalhriatpuia (Chanmari FC): 31/05/2026 → -
+- Suanngaihmuana (Chanmari FC): 31/05/2026 → -
+- Aaryan Anjaneya (Samaleswari SC): 23/08/2026 → -
+- Julfikar Gazi (Samaleswari SC): 31/08/2026 → -
+- Rahul Oram (Samaleswari SC): 31/08/2026 → -
+- Prosenjit Chakraborty (Samaleswari SC): 31/08/2026 → -
+- Nirmal Oram (Samaleswari SC): 31/08/2026 → -
+- Zafir Siddique (Samaleswari SC): 31/08/2026 → -
+- Rahul K (Samaleswari SC): 31/08/2026 → -
+- Robin Chettri (Samaleswari SC): 31/08/2026 → -
+- Manjit Sharma (Samaleswari SC): 31/08/2026 → -
+- Shahid Nazir Wani (Samaleswari SC): 31/08/2026 → -
+- Aubin Kouakou (Samaleswari SC): 31/08/2026 → -
+- Armand Bazie (Samaleswari SC): 31/08/2026 → -
+- Asrar Rehbar (Samaleswari SC): 31/08/2026 → -
+- Hafiz Ur Rehman Khan (Samaleswari SC): 31/08/2026 → -
+- Nandhakumar A (Samaleswari SC): 31/08/2026 → -
+- Rashid M (Samaleswari SC): 31/08/2026 → -
+- Haridas Yumnam (Samaleswari SC): 31/08/2026 → -
+- Aman Gaikwad (Samaleswari SC): 31/08/2026 → -
+- Aravindraj (Samaleswari SC): 31/08/2026 → -
+- Cris Nawong Sherpa (Samaleswari SC): 31/08/2026 → -
+- William Pauliankhum (Samaleswari SC): 31/08/2026 → -
+- Basit Bhat (Samaleswari SC): 31/08/2026 → -
+- Gnoheré Krizo (Samaleswari SC): 31/08/2026 → -
+- Marat Tarek (Samaleswari SC): 30/08/2026 → -
+- Prasanta Oram (Samaleswari SC): 31/08/2026 → -
+- Rayhaan Jamil (Samaleswari SC): 31/08/2026 → -
+- Bishal Lama (FC Bengaluru United): 31/05/2026 → -
+- Srijith R (FC Bengaluru United): 31/05/2026 → -
+- Abdul Hannan (FC Bengaluru United): 31/05/2026 → -
+- Niketh N (FC Bengaluru United): 31/05/2026 → -
+- Sherin Salari (FC Bengaluru United): 31/05/2026 → -
+- Shunjanthan Ragui (FC Bengaluru United): 31/05/2026 → -
+- Lalhrezuala Sailung (FC Bengaluru United): 31/05/2026 → -
+- Jacob John Kattookaren (FC Bengaluru United): 31/05/2026 → -
+- Ajith Arasu (FC Bengaluru United): 31/05/2026 → -
+- Sorokhaibam Robert Singh (FC Bengaluru United): 31/05/2026 → -
+- Ahmet Yayla (AS Nancy-Lorraine U19): 30/06/2026 → -
+- Rafael Gaita (SC Salgueiros): 30/06/2026 → -
+- Jibril Bouzaiene (FCO Dijon U19): 30/06/2026 → -
+- Christopher Cladec-Laguesse (ESTAC Troyes U19): 30/06/2026 → -
+- Djibril Konaté (ESTAC Troyes U19): 30/06/2026 → -
+- Ryan Pitou (ESTAC Troyes U19): 30/06/2026 → -
+- Liam Bourlard (ESTAC Troyes U19): 30/06/2026 → -
+- Leonardo Silva (UD Sousense): 30/06/2028 → 30/06/2027
+- Duncan Clairet (FC Metz U19): 30/06/2026 → -
+- Ruben Holsenburger (FC Metz U19): 30/06/2026 → -
+- Adam Foret (FC Metz U19): 30/06/2026 → -
+- Jules Thouvenot (FC Metz U19): 30/06/2026 → -
+- Déca Nzuzi (FC Sochaux-Montbéliard U19): 30/06/2026 → -
+- Nawfel Ben Abdellah (FC Sochaux-Montbéliard U19): 30/06/2026 → -
+- Gaoussou Fofana (FC Sochaux-Montbéliard U19): 30/06/2026 → -
+- Iliès Salhi (FC Sochaux-Montbéliard U19): 30/06/2026 → -
+- Dan-Marcel Kakadje (Racing Strasbourg U19): 30/06/2026 → -
+- Erwan Antonin (Racing Strasbourg U19): - → 30/06/2028
+- Monfils Nganga Ntoumba (Racing Strasbourg U19): 30/06/2026 → -
+- Toshiyuki Takagi (Tokyo United): 31/01/2026 → -
+- Rayan Bennabi (Stade de Reims U19): 30/06/2026 → -
+- Giuseppe Sorrentino (Sampdoria Under 17): - → 30/06/2027
+- Kosta Djudurovic (FK Kozara Gradiska): - → 30/06/2027
+- Dragan Zivanovic (FK Drina Zvornik): 30/06/2026 → -
+- Chi-Lok Lau (Hong Kong Rangers): 31/05/2026 → -
+- Steven Cortez (Independiente Juniors): - → 31/12/2026
+- Medin Hrvic (FK Zvijezda 09): - → 30/06/2027
+- Matej Kitic (FK Zvijezda 09): - → 30/06/2027
+- Djordje Kujaca (FK Famos Istočna Ilidža): - → 30/06/2027
+- Sudo Behram (FK Velez Nevesinje): 30/06/2026 → -
+- Dino Sabotic (FK Sutjeska Foca): - → 30/06/2027
+- Adam Stejskal (SK Sturm Graz): 01/07/2026 → 30/06/2027
+- Pierre Larsen (Brönshöj Boldklub): - → 30/06/2027
+- Sankara Karamoko (Wolfsberger AC): 30/06/2027 → 30/06/2029
+- Robin Voisine (SC Austria Lustenau): 30/06/2027 → 30/06/2028
+- Sacha Delaye (SC Austria Lustenau): 30/06/2027 → 30/06/2028
+- Ilan Memeti (FC Lausanne-Sport U17): - → 30/06/2029
+- Aaron Bouy (FC Lausanne-Sport U17): - → 30/06/2029
+- Mario Gjata (Flamurtari FC): - → 30/06/2028
+- Fatmir Prengaj (KS Besa): - → 30/06/2027
+- Timéo Raffourt (Racing Strasbourg B): 30/06/2026 → 30/06/2028
+- Amizade Gabriel-Indi (Racing Strasbourg B): 30/06/2026 → -
+- Lorenc Trashi (Besëlidhja): - → 30/06/2027
+- Joel Osikel (Besëlidhja): - → 30/06/2027
+- Isaac Karamoko (Racing Strasbourg B): 30/06/2026 → -
+- Erwan Traoré (Racing Strasbourg B): - → 30/06/2028
+- Bryan Leal Moreira (FC Sochaux-Montbéliard B): 30/06/2026 → -
+- Aldi Gjumsi (FK Kukësi): - → 30/06/2027
+- Kaïs André (ASM Belfort): 30/06/2026 → -
+- Lylian Gerber (ASM Belfort): 30/06/2026 → -
+- Marlon Burgy (ASM Belfort): 30/06/2026 → -
+- Anthony Teixeira (ASM Belfort): 30/06/2026 → -
+- Tangui Le Menn (ASM Belfort): 30/06/2026 → -
+- Corentin Ribeiro (ASM Belfort): 30/06/2026 → -
+- Leonel Qoshku (KF Sopoti Librazhd): - → 30/06/2027
+- Yanis Bouaddi (FCM Aubervilliers): 30/06/2026 → -
+- Ahmed Adel Al-Bagoori (Al-Kharaitiyat SC): 30/06/2026 → -
+- Ghassan Waheed Gharbiya (Al-Kharaitiyat SC): 30/06/2026 → -
+- Saeed Al-Hadj (Al-Kharaitiyat SC): 30/06/2026 → -
+- Mohammed Al-Qahtani (Al-Kharaitiyat SC): 30/06/2026 → -
+- Mohammed Talib Afifa (Al-Kharaitiyat SC): 30/06/2026 → -
+- Ahmad Salem Al-Askar (Al-Kharaitiyat SC): 30/06/2026 → -
+- Ali Al-Ansi (Al-Kharaitiyat SC): 30/06/2026 → -
+- Romain Ekani (Olympique Charleville Prix Ardenne Mét.): 30/06/2026 → -
+- Abdulrahman Al-Jassem (Al-Kharaitiyat SC): 30/06/2026 → -
+- Calvin Bombo (Olympique Charleville Prix Ardenne Mét.): 30/06/2026 → -
+- Hamza El Goundoul (Olympique Charleville Prix Ardenne Mét.): 30/06/2026 → -
+- Scott Kyei (Olympique Charleville Prix Ardenne Mét.): 30/06/2026 → -
+- Filip Sabatti (UMF Selfoss): 30/09/2026 → -
+- Khalifa Saad (Umm Salal SC): 30/06/2026 → -
+- Ahmed El Sayed (Umm Salal SC): 30/06/2026 → -
+- Sayed Hassan Issa (Umm Salal SC): 30/06/2026 → -
+- Ibrahim Al-Saeed (Al-Khor SC): 30/06/2026 → -
+- Saif Hassan Al-Mohanadi (Al-Khor SC): 30/06/2026 → -
+- Alan Bikoumou (Jeanne d'Arc de Drancy): 30/06/2026 → -
+- Ossama Adel Mohamad (Al-Markhiya SC): 30/06/2026 → -
+- Ebrahim El-Sadeq (Al-Markhiya SC): 30/06/2026 → -
+- Mohammed Abdulla Soltani (Al-Markhiya SC): 30/06/2026 → -
+- Ahmed Aboutrika (Al-Markhiya SC): 30/06/2026 → -
+- Youssef Aouida (Al-Markhiya SC): 15/06/2026 → -
+- Mohammed Muntasser (Al-Waab SC): 30/06/2026 → -
+- Raphaël Rodriguez (ES Thaon): 30/06/2026 → -
+- Wilfried Röther (ES Thaon): 30/06/2026 → -
+- Tom Condi (ES Thaon): 30/06/2026 → -
+- Souleymane Sangaré (ES Thaon): 30/06/2026 → -
+- Diego Alves (ES Thaon): 30/06/2026 → -
+- Matt Condi (ES Thaon): 30/06/2026 → -
+- Loris Petitpain (ES Thaon): 30/06/2026 → -
+- Pierrick Benier (ES Thaon): 30/06/2026 → -
+- Ahmed Rashwan (Al-Bidda SC): 30/06/2026 → -
+- Mohamed Suleiman (Al-Bidda SC): 30/06/2026 → -
+- Hugo Crouzier (ES Thaon): 30/06/2026 → -
+- Mohamed Comara (ES Thaon): 30/06/2026 → -
+- Marc Sirvent (KFA Austfjarda): 12/09/2026 → -
+- Ethini Marcel (Al-Bidda SC): 30/06/2026 → -
+- Tarek Ahmed Saleh (Al-Bidda SC): 30/06/2026 → -
+- Fahd Alawi Abdulqawi (Al-Bidda SC): 30/06/2026 → -
+- Abdullah Murisi (Al-Bidda SC): 30/06/2026 → -
+- Ismail Dahqani (Al-Mesaimeer SC): 30/06/2026 → -
+- Mohamed Rabea Saqr (Muaither SC): 30/06/2026 → -
+- Hernán Zazas (ÍF Magni Grenivík): 16/09/2026 → -
+- Sami Mazen Dauleh (Al-Rayyan NextGen): 30/06/2026 → -
+- Mohammed Saleh (Al-Rayyan NextGen): 30/06/2026 → -
+- Hazem Ahmed (Al-Rayyan NextGen): 30/06/2026 → -
+- Tadiwanashe Kuzamba (Perth Glory): 30/06/2027 → 30/06/2029
+- Oliver Dragicevic (Melbourne Victory): 30/06/2026 → -
+- Ben Trenberth (Wellington Phoenix): 31/12/2026 → 30/06/2029
+- Bryce Duke (Wellington Phoenix): - → 30/06/2027
+- Rahim Ibrahim (Slovan Bratislava): 31/12/2028 → 30/06/2030
+- Nareak Chin (Svay Rieng): 31/05/2026 → -
+- Vichet Um (Phnom Penh Crown): 31/05/2026 → -
+- Pisa Choum (Phnom Penh Crown): 31/05/2026 → -
+- Phearath Long (Phnom Penh Crown): 31/05/2026 → -
+- Papa Diouf (AS Trencin): 30/06/2027 → 30/06/2029
+- David Bukovsky (Spartak Trnava): 30/06/2027 → 30/06/2029
+- Vanneth Hout (Nagaworld FC): 31/05/2026 → -
+- Hav Chou (Kirivong Sok Sen Chey FC): 31/05/2026 → -
+- Vit Van (Life FC): 30/06/2026 → -
+- Nacha Choeun (Royal Cambodian Armed Forces): 30/06/2026 → -
+- Samuel Pasanen (Kuopion Palloseura): 31/12/2026 → 31/12/2027
+- Oskari Väistö (SJK Seinäjoki): 31/12/2026 → 31/12/2029
+- Amidou Traoré (SJK Seinäjoki): 31/12/2026 → 31/12/2028
+- Lassana Mané (Vaasan Palloseura): 31/12/2026 → 31/12/2027
+- Tobias Karkulowski (Turun Palloseura): 31/12/2026 → 31/12/2027
+- Timo Zaal (Turun Palloseura): 31/12/2026 → 31/12/2027
+- Pau Juvanteny (Turun Palloseura): 31/12/2026 → 31/12/2027
+- Marius Könkkölä (Turun Palloseura): 31/12/2026 → 31/12/2027
+- Colby Donovan (Celtic FC): - → 30/06/2028
+- Rabbi Matondo (Hibernian FC): 29/08/2026 → 30/06/2027
+- Kevin Yakob (Aarhus GF): 30/06/2027 → 30/06/2028
+- Marius Müller (Aberdeen FC): - → 31/05/2028
+- Lewis Mayo (Aberdeen FC): - → 31/05/2029
+- Brad Lyons (Aberdeen FC): - → 31/05/2028
+- Lewis Smith (Aberdeen FC): - → 31/05/2029
+- Toyosi Olusanya (Aberdeen FC): - → 31/05/2028
+- Dylan Tait (Dundee United FC): - → 31/05/2029
+- Nico Mantl (Kilmarnock FC): 01/09/2026 → 30/06/2027
+- Anestis Tricholidis (AC Horsens): - → 30/06/2029
+- Valassina Diomande (AC Horsens): - → 30/06/2030
+- Yamirou Ouorou (AC Horsens): - → 30/06/2028
+- Kingsley Bimpong (AC Horsens): - → 30/06/2030
+- Reuben-Louis Visser (Manukau United FC): 31/08/2026 → -
+- Michel Ayvazyan (FC Ararat-Armenia): - → 30/06/2028
+- Nikola Jesic (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Nebojsa Spasojevic (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Mikhail Kovalenko (FC Pyunik Yerevan): 30/06/2026 → -
+- Nikola Knestel (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Elvis Sulejmanagic (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Mark Vogel (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Hüdaverdi Mutlu (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Lorenz Gorbach (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Mario Stefel (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Luca Wieser (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Laurin Katnik (FC Blau-Weiß Feldkirch): 30/06/2026 → -
+- Yaroslav Matyukhin (Alashkert Yerevan FC): 30/06/2026 → -
+- Domagoj Ivan Maric (HNK Rijeka): 30/06/2027 → 30/06/2028
+- Yuriy Budagyan (FC Sardarapat): 30/06/2026 → -
+- Argishti Petrosyan (BKMA Yerevan): 30/06/2026 → -
+- Sergey Harutyunyan (BKMA Yerevan): 30/06/2027 → -
+- Matej Mitrovic (NK Lokomotiva Zagreb): 31/01/2026 → 30/06/2027
+- Mody Boune (NK Lokomotiva Zagreb): 30/06/2026 → -
+- Danila Bokov (FC Van): 30/06/2026 → -
+- Amad Keita (NK Lokomotiva Zagreb): 30/06/2026 → -
+- Izak Jezic (NK Osijek): 30/06/2027 → 30/06/2028
+- Jona Jezic (NK Osijek): 30/06/2027 → 30/06/2028
+- Anton Matkovic (NK Osijek): 30/06/2027 → 30/06/2028
+- Ivan Covic (Slaven Belupo Koprivnica): 15/06/2026 → -
+- Ivan Djoric (NK Rudes): 26/06/2026 → 26/06/2027
+- Sudhanshu Ranjan (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Sunil Bathala (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Aribam Brajamani Sharma (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Shubham Raj (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Dhairya Tekchand Pinjlani (FC BANARAS BAGHPAT): 31/05/2026 → -
+- Mijanur Husain (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Aaryan Amla (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Siddar Chhetri (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Tejas Narayan Choudhary (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Parth Tara (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Surchandra Singh (FC BANARAS BAGHPAT): 31/05/2026 → -
+- Rishi Pukhrambam (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Mihir Munda (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Sourav Biswas (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Dipankar Tudu (United SC): 31/05/2026 → -
+- Pravat Soren (United SC): 31/05/2026 → -
+- Amit Chakraborty (United SC): 31/05/2026 → -
+- Joseph Labrinawma Sailo (United SC): 31/05/2026 → -
+- Sreenath M (United SC): 31/05/2026 → -
+- Mario Mendoza (Deportivo Mixco): 30/06/2026 → -
+- Ranjit Das (United SC): 31/05/2026 → -
+- Tarak Hembram (United SC): 31/05/2026 → -
+- Rodrigo Marroquín (Deportivo Mixco): 30/06/2026 → -
+- Jean Márquez (Deportivo Mixco): 30/06/2026 → -
+- Yonatan Pozuelos (Deportivo Mixco): 30/06/2026 → -
+- Vishal R (United SC): 31/05/2026 → -
+- Nikhil Bernard (SC Bengaluru): 31/05/2026 → -
+- Gurjeet Singh (SC Bengaluru): 31/05/2026 → -
+- Shanid Valan (SC Bengaluru): 31/05/2026 → -
+- Arjun Gouda M (SC Bengaluru): 31/05/2026 → -
+- Sabarin Bush (SC Bengaluru): 31/05/2026 → -
+- Karthick Thirumalai (SC Bengaluru): 31/05/2026 → -
+- Abdul Badish (SC Bengaluru): 31/05/2026 → -
+- Vignesh V (SC Bengaluru): 31/05/2026 → -
+- Asif O M (SC Bengaluru): 31/05/2026 → -
+- Jibin Devassy (SC Bengaluru): 31/05/2026 → -
+- Sharon Stellus (SC Bengaluru): 31/05/2026 → -
+- Raul Almeida (SC Bengaluru): 31/05/2026 → -
+- Andy Soto (CD Malacateco): 30/06/2026 → -
+- Shreyas Katkar (SC Bengaluru): 31/05/2026 → -
+- Amey Bhatkal (SC Bengaluru): 31/05/2026 → -
+- Abhimanyu Singh (Sporting Club de Goa): 31/05/2026 → -
+- Kunal Kundaikar (Sporting Club de Goa): 31/05/2026 → -
+- Dhiraj Chouhan (Sporting Club de Goa): 31/05/2026 → -
+- Diego Sánchez (CD Malacateco): 30/06/2026 → -
+- Sanson Pereira (Sporting Club de Goa): 31/05/2026 → -
+- Leander D'Cunha (Sporting Club de Goa): 31/05/2026 → -
+- Sushil Meitei Ahongshangbam (Sporting Club de Goa): 31/05/2026 → -
+- Gaurav Rawat (Sporting Club de Goa): 31/05/2026 → -
+- Josué Cano (Deportivo Marquense): 30/06/2026 → -
+- Lalremruata HP (Sporting Club de Goa): 31/05/2026 → -
+- Lalchhanhima Sailo (Sporting Club de Goa): 31/05/2026 → -
+- Ronaldo Oliveira (Sporting Club de Goa): 31/05/2026 → -
+- Jerry Onesemas Pulamte (Sporting Club de Goa): 31/05/2026 → -
+- Ngangbam Naocha (Sporting Club de Goa): 31/05/2026 → -
+- Mark Carvalho (Sporting Club de Goa): 31/05/2026 → -
+- Doyal Alves (Sporting Club de Goa): 31/05/2026 → -
+- Bivek Rai (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Inam Ul Haq (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Deuri Kro (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- C Seilenlal Mate (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Ricky Lallawmawma (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Pungte Lapung (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Sukham Yoihenba Meitei (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Arun Singh (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Sujit Singh (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Kevisanyu Peseyie (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- PC Pazawna (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Joseph Bempah (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Phijam Vikash Singh (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Jirjar Terang (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Joseph Mayowa Olaleye (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Lalsiem Chongloi (Karbi Anglong Morning Star FC): 31/05/2026 → -
+- Nitish Mehra (Sudeva Delhi FC): 31/05/2026 → -
+- Ngamminlun Alex Pashel (Sudeva Delhi FC): 31/05/2026 → -
+- Lalmuanawma (Sudeva Delhi FC): 31/05/2026 → -
+- Aryan Khokhar (Sudeva Delhi FC): 31/05/2026 → -
+- Sumit (Sudeva Delhi FC): 31/05/2026 → -
+- Lalbiakzuala (Sudeva Delhi FC): 10/05/2026 → -
+- Zahid Yousuf Mir (Sudeva Delhi FC): 31/05/2026 → -
+- Lalmalsawma (Sudeva Delhi FC): 31/05/2026 → -
+- Naorem Tondomba Singh (Sudeva Delhi FC): 10/05/2026 → -
+- Md Ejaj Ahamad (Sudeva Delhi FC): 31/05/2026 → -
+- Yashas Sharin (Sudeva Delhi FC): 31/05/2026 → -
+- Moirangthem Rajeshwor Singh (Sudeva Delhi FC): 31/05/2026 → -
+- Moirangthem Ronaldo Singh (Sudeva Delhi FC): 31/05/2026 → -
+- Harmanpreet Singh (Sudeva Delhi FC): 31/05/2026 → -
+- Seiminmang Manchong (Sudeva Delhi FC): 31/05/2026 → -
+- Sachin (Sudeva Delhi FC): 31/05/2026 → -
+- Shivam Kiran Pednekar (Goalorious Mothers SC): 31/05/2026 → -
+- Dion Menezes (Goalorious Mothers SC): 31/05/2026 → -
+- Suraj Negi (Goalorious Mothers SC): 31/05/2026 → -
+- Advait Shinde (Goalorious Mothers SC): 31/05/2026 → -
+- Kevyn Aguilar (CD Suchitepéquez): - → 30/06/2027
+- Alejandro Galindo (CD Suchitepéquez): - → 30/06/2027
+- Kean Lewis (Goalorious Mothers SC): 31/05/2026 → -
+- Miit Anil Adekar (Goalorious Mothers SC): 31/05/2026 → -
+- Aashish Lalge (Goalorious Mothers SC): 31/05/2026 → -
+- Arif Shaikh (Goalorious Mothers SC): 31/05/2026 → -
+- Pratham Ghatnur (Goalorious Mothers SC): 31/05/2026 → -
+- Kamei Pantiga (FC Raengdai): 31/05/2026 → -
+- Yaithengbam Suraj Singh (FC Raengdai): 31/05/2026 → -
+- Gurumayum Satyajit Sharma (FC Raengdai): 31/05/2026 → -
+- M Chungmei (FC Raengdai): 31/05/2026 → -
+- Oinam Keiphaba Meitei (FC Raengdai): 31/05/2026 → -
+- Wahengbam Herojit Singh (FC Raengdai): 31/05/2026 → -
+- Thoudam Naresh Singh (FC Raengdai): 31/05/2026 → -
+- Lanchungrei Pamei (FC Raengdai): 31/05/2026 → -
+- P M Rakeveiche (FC Raengdai): 31/05/2026 → -
+- Ayekpam Tomjoseph Singh (FC Raengdai): 31/05/2026 → -
+- Sendy Mangte (FC Raengdai): 31/05/2026 → -
+- Sorokhaibam Amitkumar Singh (FC Raengdai): 31/05/2026 → -
+- Wahengbam Rojen Meitei (FC Raengdai): 31/05/2026 → -
+- Chongtham Kishan Singh (FC Raengdai): 31/05/2026 → -
+- Sapam Kenedy Singh (FC Raengdai): 31/05/2026 → -
+- Joonas Koski (Salon Palloilijat): 31/12/2026 → 31/12/2027
+- Joonas Meura (Salon Palloilijat): 31/12/2026 → 31/12/2027
+- Daniel Eyibio (TC Sports Club): 30/06/2026 → -
+- Ningthoujam Momocha Singh (FC Raengdai): 31/05/2026 → -
+- Thoudam Nani Singh (FC Raengdai): 31/05/2026 → -
+- Laishram Bikramjit Singh (FC Raengdai): 31/05/2026 → -
+- Moirangthem Basanta Singh (FC Raengdai): 31/05/2026 → -
+- Yendrembam Sobha Singh (FC Raengdai): 31/05/2026 → -
+- Thoudam Bungcha Singh (FC Raengdai): 31/05/2026 → -
+- Giftson Kamei (FC Raengdai): 31/05/2026 → -
+- Soraisham Surjakanta Singh (FC Raengdai): 31/05/2026 → -
+- Chuingampou Kamei (FC Raengdai): 31/05/2026 → -
+- Ningthoujam Abungton Singh (FC Raengdai): 31/05/2026 → -
+- Premjit Singh (FC Raengdai): 31/05/2026 → -
+- Rostam P (FC Raengdai): 31/05/2026 → -
+- Gaisuangmei Kamei (FC Raengdai): 31/05/2026 → -
+- Shoraisham Sagar Singh (FC Raengdai): 31/05/2026 → -
+- Tingkaochun Gangmei (FC Raengdai): 31/05/2026 → -
+- Gailalung Gonmei (FC Raengdai): 31/05/2026 → -
+- Kamei Langanglung Kabui (FC Raengdai): 31/05/2026 → -
+- Reino Ruponen (Salon Palloilijat): 31/12/2026 → 31/12/2027
+- Oskari Jakonen (Salon Palloilijat): 31/12/2026 → 31/12/2027
+- Santeri Pakkanen (Tampere United): 31/12/2026 → 31/12/2027
+- Emmanuel Makinde (Gadhdhoo Recreation Club): 31/05/2026 → -
+- Donalio Melachio Douanla (Gadhdhoo Recreation Club): 31/05/2026 → -
+- Aidan Keena (St. Patrick's Athletic): 30/11/2026 → 30/11/2027
+- Tony Mendy (AJ Auxerre B): 30/06/2026 → -
+- Noory Elazouzi (US Orléans B): 30/06/2026 → -
+- Nick Twisk (Derry City): - → 30/11/2028
+- Darragh Burns (Derry City): - → 30/11/2028
+- Ellis Chapman (Derry City): - → 30/11/2027
+- Liam Hughes (Sligo Rovers): 30/11/2026 → 30/11/2027
+- Luke Mulligan (Dundalk FC): 30/11/2026 → 30/11/2028
+- Ibrahima Fall (Olympique Lyon B): 30/06/2026 → -
+- Idriss Monteville (FC Annecy B): 30/06/2026 → -
+- Cyrus Biz (FC Annecy B): 30/06/2026 → -
+- Aly Yirango (Mâcon 71): 30/06/2026 → -
+- Lionel Ekoule (Paris FC B): 30/06/2026 → -
+- Mathis Lainé (Stade Brest 29 B): - → 30/06/2029
+- Tristan Rozier (SM Caen B): 30/06/2026 → -
+- Erwan Nordé (FC Bourgoin-Jallieu): 30/06/2026 → -
+- Zakaria Achag (ASPTT Dijon): 30/06/2026 → -
+- Lucas Buisson (CA Pontarlier): 30/06/2026 → -
+- Xavier Marques da Rocha (CA Pontarlier): 30/06/2026 → -
+- Emilien Monney (CA Pontarlier): 30/06/2026 → -
+- Valentin Revoy (CA Pontarlier): 30/06/2026 → -
+- Jérémie Courtet (CA Pontarlier): 30/06/2026 → -
+- Thomas Rota (CA Pontarlier): 30/06/2026 → -
+- Maxime Bonnet (CA Pontarlier): 30/06/2026 → -
+- Gabin Courtet (CA Pontarlier): 30/06/2026 → -
+- Lucas Jeannin (CA Pontarlier): 30/06/2026 → -
+- Quentin Deniaud (CA Pontarlier): 30/06/2026 → -
+- Julien Chapit (CA Pontarlier): 30/06/2026 → -
+- Hugo Vegran (CA Pontarlier): 30/06/2026 → -
+- Samuel Robert (Racing Besançon): 30/06/2026 → -
+- Kelvin Dongopandji (Stade Rennais FC B): - → 30/06/2027
+- Kassim Ballo (AS Panazol): 30/06/2026 → -
+- Souleymane Mancal (Les Sables Vendée Football): 30/06/2026 → -
+- Matthieu Grosso (Les Sables Vendée Football): 30/06/2026 → -
+- Hjalte Gitz (Vejle Boldklub): 30/06/2029 → 30/06/2031
+- Louis Bowron (Standard de Liège 16 FC): 30/06/2026 → -
+- Rayan Akheddiou (Standard de Liège 16 FC): 30/06/2026 → -
+- Farès Boujlifa (Standard de Liège 16 FC): 30/06/2026 → -
+- Samuel Ndecky (Union Rochefortoise): 30/06/2026 → -
+- Naïm Marzouk (Zébra Élites): 30/06/2026 → -
+- Yoan Djongambo Apo (Zébra Élites): 30/06/2026 → -
+- Ahmed Mulumba (Zébra Élites): 30/06/2026 → -
+- Lorenzo Prso (Royal Union Tubize-Braine): 30/06/2026 → -
+- Louis Delhaye (Royal Union Tubize-Braine): 30/06/2026 → -
+- Oleg Kuchinska (Royal Union Tubize-Braine): 30/06/2026 → -
+- Lorenzo Butera (Royal Union Tubize-Braine): 30/06/2026 → -
+- Nicolas Rajsel (Royal Union Tubize-Braine): 30/06/2026 → -
+- Shahrudin Mahammadaliyev (Qarabağ FK): 30/06/2026 → -
+- Abbas Hüseynov (Qarabağ FK): 30/06/2026 → -
+- Hikmat Cabrayilzada (Qarabağ FK): 30/06/2026 → -
+- Raheem Edwards (Renaissance AEC Mons): 30/06/2027 → 30/06/2028
+- Thiebault Bartholomé (RSC Habay-La-Neuve): 30/06/2026 → -
+- Simon Poncelet (RSC Habay-La-Neuve): 30/06/2026 → -
+- François Reyter (RSC Habay-La-Neuve): 30/06/2026 → -
+- Kilian Ngoumou (RSC Habay-La-Neuve): 30/06/2026 → -
+- Nathan Lalbertier (RSC Habay-La-Neuve): 30/06/2026 → -
+- Eduardo Gasparoto (RSC Habay-La-Neuve): 30/06/2026 → -
+- Lucas Lamotte (RSC Habay-La-Neuve): 30/06/2026 → -
+- Victor Trento (RSC Habay-La-Neuve): 30/06/2026 → -
+- Matheo Vandaele (RSC Habay-La-Neuve): 30/06/2026 → -
+- Valentin Thomas (RSC Habay-La-Neuve): 30/06/2026 → -
+- Ifeanyi Mathew (Neftchi PFK): 30/06/2026 → -
+- Bassala Sambou (Neftchi PFK): 30/06/2026 → -
+- James Hood (Ballymena United FC): 31/05/2027 → 31/05/2029
+- Caoimhin McConnell (Ballymena United FC): - → 31/05/2029
+- Thomas Leclef (RCS Onhaye): 30/06/2026 → -
+- Noah Ferauge (RCS Onhaye): 30/06/2026 → -
+- Anar Nazirov (Zira FC): 30/06/2026 → -
+- Dieudonnee Siebatcheu (RCS Onhaye): 30/06/2026 → -
+- Aurélien Lambert (RCS Onhaye): 30/06/2026 → -
+- Arno Ouzrouhene (FC Flénu): 30/06/2026 → -
+- Raphael Utzig (Zira FC): 30/06/2026 → -
+- Mehman Haciyev (Turan-Tovuz IK): 30/06/2026 → -
+- Emmanuel Hackman (Turan-Tovuz IK): 30/06/2026 → -
+- Roderick Miller (Turan-Tovuz IK): 30/06/2026 → -
+- Nathan Durieux (FC Flénu): 30/06/2026 → -
+- Denis Marandici (Turan-Tovuz IK): 30/06/2026 → -
+- Faiq Haciyev (Turan-Tovuz IK): 30/06/2026 → -
+- Veysal Rzayev (Turan-Tovuz IK): 30/06/2026 → -
+- Khayal Nacafov (Turan-Tovuz IK): 30/06/2026 → -
+- Aidan Steele (Carrick Rangers FC): 31/05/2027 → 31/05/2029
+- Patrick Andrade (Araz-Nakhchivan): 30/06/2026 → -
+- Charles Boli (Araz-Nakhchivan): 30/06/2026 → -
+- Mate Abuladze (Kapaz PFK): 30/06/2026 → -
+- Maqsad Isayev (Kapaz PFK): 30/06/2026 → -
+- Salman Alasgarov (FK Gabala): 30/06/2026 → -
+- Elvin Camalov (FK Gabala): 30/06/2027 → -
+- Elmir Tagiyev (Shafa Baku): 30/06/2026 → -
+- Ricardo Apolinário (FC Shamakhi): 30/06/2026 → -
+- Abdullahi Shuaibu (FC Shamakhi): 30/06/2026 → -
+- Riku Ichimura (Paro FC): - → 01/11/2026
+- Emil Joensen (NSÍ Runavík): - → 31/12/2026
+- William Rygaard (B36 Tórshavn): - → 31/10/2028
+- Arturo Campos (CS Herediano): 30/06/2026 → -
+- José Vega (AD San Carlos): - → 30/06/2028
+- Keiner Córdoba (AD San Carlos): 30/06/2026 → -
+- Anthony Boucher (Olympique Saint-Quentin): 30/06/2026 → -
+- Orlando Calvo (Escorpiones de Belén): 30/06/2026 → -
+- Keylian Godet (Olympique Saint-Quentin): 30/06/2026 → -
+- Ciprian Pop (Red Star FC B): 30/06/2026 → -
+- Diadé Camara (Red Star FC B): 30/06/2026 → -
+- Lukas Wagner (Skive IK): 30/06/2026 → -
+- Viktor Hoff (Skive IK): 30/06/2026 → -
+- Mathias Nedergaard (Skive IK): 30/06/2026 → -
+- Rasmus Breiner (Skive IK): 30/06/2026 → -
+- Mattia Vanluchene (KAA Gent U18): 30/06/2026 → -
+- Rory O'Driscoll (Nyköbing FC): 30/06/2026 → -
+- Emmanuel Ogude (Nyköbing FC): 30/06/2026 → -
+- Jonas El-Beltagi (Naestved Boldklub): 30/06/2026 → -
+- Mathias Høst (Naestved Boldklub): 30/06/2026 → -
+- Malthe Rugaard (Naestved Boldklub): 30/06/2026 → -
+- Marius Christiansen (Naestved Boldklub): 30/06/2026 → -
+- Jean Borg (Sliema Wanderers): 30/06/2026 → -
+- Nikolai Micallef (Sliema Wanderers): 30/06/2026 → -
+- Mohamed Awad (Sliema Wanderers): 30/06/2026 → -
+- Kyrian Nwoko (Sliema Wanderers): 30/06/2026 → -
+- Myles Beerman (Floriana FC): 30/06/2026 → -
+- Mattia Veselji (Floriana FC): 30/06/2026 → -
+- Mustapha Jah (Floriana FC): 30/06/2026 → -
+- Shaisen Attard (Hamrun Spartans): 30/06/2026 → -
+- Daniel Letherby (Hamrun Spartans): 30/06/2026 → -
+- Matthias Ellul (Valletta FC): 30/06/2026 → -
+- Kurt Shaw (Hibernians FC): 30/06/2026 → -
+- Duane Bonnici (Hibernians FC): 30/06/2026 → -
+- Aiden Zammit (Hibernians FC): 30/06/2026 → -
+- Alejandro Garzia (Birkirkara FC): 30/06/2026 → -
+- Jan Busuttil (Birkirkara FC): 30/06/2026 → -
+- Stig Vandewinkel (VV St. Truiden U18): - → 30/06/2027
+- Franklin Sasere (Birkirkara FC): 30/06/2026 → -
+- Sven Caruana (Marsaxlokk FC): 30/06/2026 → -
+- Oualid El Hasni (Marsaxlokk FC): 30/06/2026 → -
+- Weder Silva (Marsaxlokk FC): 30/06/2026 → -
+- Enrico Pepe (Marsaxlokk FC): 30/06/2026 → -
+- Tristan Caruana (Marsaxlokk FC): 30/06/2026 → -
+- Matthias Mallia (Marsaxlokk FC): 30/06/2026 → -
+- Nicky Muscat (Marsaxlokk FC): 30/06/2026 → -
+- Ensell Attard (Marsaxlokk FC): 30/06/2026 → -
+- Leo Perkins (Mosta FC): 30/06/2026 → -
+- João Victor (Mosta FC): 30/06/2026 → -
+- Quelmer Hurtado (Mosta FC): 30/06/2026 → -
+- Simon Zibo (Mosta FC): 30/06/2026 → -
+- Pedro Cacho (Mosta FC): 30/06/2026 → -
+- Giancarlo (Mosta FC): 30/06/2026 → -
+- Ibrahim Halliru (Mosta FC): 08/06/2026 → -
+- Gabriel Mentz (Gzira United FC): 30/06/2026 → -
+- Daylen Trakosopoulos (Gzira United FC): 30/06/2026 → 30/06/2027
+- Maxuell Samurai (Gzira United FC): 31/05/2026 → -
+- Zven Polidano (Zabbar St. Patrick FC): 30/06/2026 → -
+- Zean Leonardi (Zabbar St. Patrick FC): 30/06/2026 → -
+- Nicholas Agius (Zabbar St. Patrick FC): 30/06/2026 → -
+- Jake Portelli (Balzan FC): 30/06/2026 → -
+- James Scicluna (Balzan FC): 30/06/2026 → -
+- Yu Takiue (Brew Saga): 31/01/2026 → -
+- Kaoru Nonaka (Brew Saga): 31/01/2026 → -
+- Philippe Bibout (KVC Westerlo U21): - → 30/06/2030
+- Saïf-Eddine Boutkabout (K Lierse SK U21): - → 30/06/2027
+- Virgil Bachy (K Lierse SK U21): - → 30/06/2027
+- Yani Rutkowski (RFC Seraing U21): - → 30/06/2027
+- Antoine Lommel (RFC Seraing U21): - → 30/06/2027
+- Lucas Brulmans (RFC Seraing U21): - → 30/06/2027
+- Kindo Suma (Beerschot VA U21): - → 30/06/2028
+- Vlair Simmons (San Francisco FC): 30/06/2026 → -
+- Conor Quinn (Lisburn Distillery FC): 30/06/2026 → -
+- Tibe s'Jongers (SK Beveren U21): - → 30/06/2028
+- Matthew Hanna (Lisburn Distillery FC): 30/06/2026 → -
+- Lennox Camara (Oxford Sunnyside FC): 30/06/2026 → 30/06/2027
+- Matthew Hughes (Oxford Sunnyside FC): 30/06/2026 → -
+- James McCormack (Oxford Sunnyside FC): 30/06/2026 → -
+- Ronan McAlinden (Oxford Sunnyside FC): 30/06/2026 → 30/06/2027
+- Oisin Moore (Oxford Sunnyside FC): 30/06/2026 → -
+- Cohen Henderson (Oxford Sunnyside FC): 30/06/2026 → -
+- Chris Ferguson (Oxford Sunnyside FC): 30/06/2026 → -
+- James McConville (Oxford Sunnyside FC): 30/06/2026 → -
+- Ashley Lowry (Dergview FC): 30/06/2026 → -
+- Ethan Irwin (Knockbreda FC): 30/06/2026 → -
+- Sean Donnelly (St. James Swifts FC): 30/06/2026 → -
+- Daniel Connor (Rosario FC): 30/06/2026 → -
+- Cal McGloin (Rosario FC): — → -
+- Eoin McCarthy (Rosario FC): 30/06/2026 → -
+- Mark Anderson (Rosario FC): 30/06/2026 → -
+- Max Miller (Rosario FC): 30/06/2026 → -
+- Carlos Gómez (Real Madriz FC): 30/06/2026 → -
+- Ojani Gómez (Real Madriz FC): 30/06/2026 → -
+- Engels López (FC Estelí): 30/06/2026 → -
+- Jorge Acuña (FC Estelí): 30/06/2026 → -
+- Waisea Henry (Wellington Phoenix FC Reserves): - → 31/12/2026
+- Ben Trenberth (Wellington Phoenix FC Reserves): 31/12/2026 → 30/06/2029
+- Diego Matamoros (CD Junior de Managua): 30/06/2026 → -
+- Ethan Santos (St Joseph's FC): 30/06/2026 → -
+- Alain Pons (St Joseph's FC): 30/06/2026 → -
+- Saber Bchari (Lions Gibraltar FC): 30/06/2026 → -
+- Agustin Cabrera (Lions Gibraltar FC): 30/06/2026 → -
+- Alex Johannesen (Europa Point FC): - → 30/06/2027
+- Anointing Del Bosco (Glacis United): - → 30/06/2027
+- Victor Méndez (Völsungur ÍF): 30/09/2026 → -
+- Juan Guardia (Völsungur ÍF): 30/09/2026 → -
+- Andrés Gómez (LDU Quito U19): - → 31/12/2028
+- Fernando Jimenez Arranz (Völsungur ÍF): 30/09/2026 → -
+- Tristan Nunez (Etoile Carouge FC): 30/06/2028 → 31/12/2026
+- Baptiste Gateau (KF Aegir): 30/09/2026 → -
+- Oscar Renovales (Etoile Carouge FC): - → 31/12/2026
+- Bolívar Tobar (CS Emelec U19): 31/12/2026 → 31/12/2028
+- Ryusei Kodaira (Savannakhet Zelos): 30/06/2027 → -
+- Kisley Zita (FC Kolkheti-1913 Poti): — → 31/12/2026
+- David Atoo Asayuure (Sioni Bolnisi): - → 31/12/2025
+- Kevin Pereira (Sioni Bolnisi): - → 31/12/2026
+- Ruslan Harb (FC Iskra): 30/06/2026 → -
+- Davit Skhirtladze (FC Telavi): - → 31/12/2027
+- Dominik Braun (NK Brinje Grosuplje): - → 30/06/2027
+- Aleks Zlatkov (NK Brinje Grosuplje): - → 30/06/2027
+- Artem Turta (FC Oguz): 30/06/2026 → -
+- Drin Bajraktari (FC Prishtina): 30/06/2026 → -
+- Bajram Jashanica (FC Ballkani): 30/06/2026 → -
+- Anel Sabanadzovic (FC Ballkani): 30/06/2026 → -
+- Ilir Avdyli (FC Malisheva): 30/06/2026 → -
+- Andreas Skovgaard (FC Malisheva): 30/06/2026 → -
+- Dreni Kryeziu (FC Malisheva): 30/06/2026 → -
+- Arbër Pira (FC Malisheva): 30/06/2026 → -
+- Besnik Ferati (FC Malisheva): 30/06/2026 → -
+- Donart Vitija (FC Malisheva): 30/06/2026 → -
+- Robert Mathieu Ndjigi (FC Malisheva): 30/06/2026 → -
+- Valmir Nafiu (FC Malisheva): 30/06/2026 → -
+- Krenar Dulaj (FC Malisheva): 30/06/2026 → -
+- Egzon Lekaj (KF Dukagjini): 30/06/2026 → -
+- Egzon Sinani (KF Dukagjini): 30/06/2026 → -
+- Elton Basri (KF Dukagjini): 30/06/2026 → -
+- Tun Bardhoku (KF Dukagjini): 30/06/2026 → -
+- Vitor Hugo (KF Dukagjini): 30/06/2026 → -
+- Rrezon Gashi (KF Dukagjini): - → 30/06/2027
+- Mergim Pefqeli (KF Dukagjini): 30/06/2026 → -
+- Valentin Hoti (KF Dukagjini): 30/06/2026 → -
+- Dienit Isufi (KF Dukagjini): 30/06/2026 → -
+- Altin Merlaku (KF Dukagjini): 30/06/2026 → -
+- Granit Elezaj (KF Dukagjini): 30/06/2026 → -
+- Redon Syla (KF Dukagjini): 30/06/2026 → -
+- Rion Meha (FC Drenica): 30/06/2026 → -
+- Denis Suka (FC Drenica): 30/06/2026 → -
+- Aurel Limani (FC Drenica): 30/06/2026 → -
+- Alex Muñoz (Atlantis FC): 31/12/2026 → 31/10/2026
+- Vasilios Zogos (KF Teuta): - → 30/06/2027
+- Xhoeli Macolli (KF Teuta): - → 30/06/2028
+- Daniel Wotlai (KF Teuta): - → 30/06/2028
+- Muco Boci (KF Teuta): - → 30/06/2028
+- Eneh Ndubuisi (KF Laçi): - → 30/06/2030
+- Emmanuel Byanzit Samuel (KF Laçi): - → 30/06/2030
+- Lorougnon Doukouo (KF Laçi): - → 31/12/2028
+- David Olatunde Ogah (KF Laçi): - → 30/06/2030
+- Aris Ara (KF Vllaznia): - → 30/06/2028
+- Gerald Kubazi (KF Vllaznia): - → 30/06/2028
+- Reild Kurti (KF Skënderbeu): - → 30/06/2028
+- Kenan Piric (Riga FC): - → 30/06/2028
+- Krisjanis Zviedris (Riga FC): - → 31/12/2026
+- Frenks Orols (Riga FC): - → 30/11/2028
+- Marcis Kazainis (Riga FC): - → 30/11/2027
+- Baba Musah (Riga FC): - → 31/12/2026
+- Paulo Eduardo (Riga FC): - → 30/11/2028
+- Andrés Salazar (Riga FC): 31/12/2026 → 31/12/2028
+- Emils Birka (Riga FC): - → 30/06/2027
+- Nor Maviram (Riga FC): - → 31/07/2029
+- Raivis Jurkovskis (Riga FC): 13/11/2026 → 31/12/2026
+- Maksims Tonisevs (Riga FC): - → 30/11/2027
+- Orlando Galo (Riga FC): - → 30/06/2028
+- Ahmed Ankrah (Riga FC): - → 31/08/2027
+- Coli Saco (Riga FC): - → 30/07/2028
+- Renars Varslavans (Riga FC): - → 30/11/2028
+- Raki Aouani (Riga FC): - → 31/12/2028
+- Samuel Pedro (Riga FC): - → 30/06/2027
+- Meïssa Diop (Riga FC): - → 30/11/2027
+- Mohamed Badamosi (Riga FC): - → 30/11/2028
+- Abdulrahman Taiwo (Riga FC): - → 31/12/2026
+- Elijah Addai (BFC Daugavpils): - → 31/12/2027
+- Waisea Henry (Wellington Phoenix FC Reserves): - → 31/12/2026
+- Ben Trenberth (Wellington Phoenix FC Reserves): 31/12/2026 → 30/06/2029
+- Gils Gíslason (FH Hafnarfjördur): - → 31/12/2028
+- Altin Aliji (Struga Trim & Lum): 30/06/2026 → -
+- Marjan Radeski (Struga Trim & Lum): 30/06/2026 → -
+- Hammond Agamah (Struga Trim & Lum): - → 30/06/2028
+- Matej Simic (Torpedo Kutaisi): 30/06/2026 → -
+- Vladimer Mamuchashvili (Torpedo Kutaisi): 30/06/2026 → -
+- Arlind Aliti (Arsimi): 30/06/2026 → -
+- Rraman Asani (Bashkimi): 30/06/2026 → -
+- Sho Sato (Esbo Bollklubb): - → 31/12/2026
+- Daisuke Shinko (Fukui United): 31/01/2026 → -
+- Karl Andre Vallner (FCI Levadia): 31/12/2026 → 31/12/2029
+- Frank Liivak (FCI Levadia): 31/12/2026 → 31/12/2029
+- Mait Vaino (Jalgpallikool Tammeka): 31/12/2026 → 31/12/2027
+- Romet Silov (Jalgpallikool Tammeka): 31/12/2026 → 31/12/2027
+- Osman Koroma (Jalgpallikool Tammeka): - → 31/12/2027
+- Steven Kangur (Harju JK Laagri): 31/12/2026 → 31/12/2027
+- Raúl Gudiño (Ranger's FC): 30/06/2026 → -
+- Matías Rubén (Ranger's FC): 30/06/2026 → -
+- Marcelo Deverlan (Ranger's FC): 30/06/2026 → -
+- Aleix Cisteró (Ranger's FC): 30/06/2026 → -
+- Julio Nava (Ranger's FC): 30/06/2026 → -
+- José Ruiz (Ranger's FC): 30/06/2026 → -
+- Benjamín Muñoz (Ranger's FC): 30/06/2026 → -
+- Jesús Miranda (Ranger's FC): 30/06/2026 → -
+- David Segura (Ranger's FC): 30/06/2026 → -
+- Leonel Prieto (Ranger's FC): 30/06/2026 → -
+- Emilio González (Ranger's FC): 30/06/2026 → -
+- Dacu (Inter Club d'Escaldes): 30/06/2026 → -
+- Klebinho (Inter Club d'Escaldes): 30/06/2026 → -
+- Mauro (FC Santa Coloma): 30/06/2026 → -
+- Álex Caro (FC Santa Coloma): 30/06/2026 → -
+- David Rodríguez (FC Santa Coloma): 30/06/2026 → -
+- Matías Basterrechea (Atlètic Club d'Escaldes): 30/06/2026 → -
+- Christian Jiménez (Atlètic Club d'Escaldes): 30/06/2026 → -
+- Emanoel (Atlètic Club d'Escaldes): 30/06/2026 → -
+- Hamza Ryahi (Atlètic Club d'Escaldes): 30/06/2026 → -
+- David Valero (Atlètic Club d'Escaldes): 30/06/2026 → -
+- Jordi Aláez (Atlètic Club d'Escaldes): 30/06/2026 → -
+- Jean Luc Assoubre (Atlètic Club d'Escaldes): 30/06/2026 → -
+- Ignacio Artola (Real Estelí FC): 30/06/2026 → -
+- Héctor Aranda (Real Estelí FC): 30/06/2026 → -
+- Emanuel Casado (Real Estelí FC): 30/06/2026 → -
+- Alejandro Maqueda (Penya Encarnada d'Andorra): 30/06/2026 → -
+- Javi García (Penya Encarnada d'Andorra): 30/06/2026 → -
+- José Bejarano (CF Esperança d'Andorra): 30/06/2026 → -
+- Alan Schönfeld (Diriangén FC): 30/06/2027 → -
+- Steven Cáceres (Managua FC): 30/06/2026 → -
+- Matías Steib (Managua FC): 30/06/2026 → -
+- Cristhian Herrera (Managua FC): 30/06/2026 → -
+- Telmo Neves (CF Esperança d'Andorra): 30/06/2026 → -
+- Jeremy Cuarezma (Managua FC): 30/06/2026 → -
+- Abner Acuña (Managua FC): 30/06/2026 → -
+- Maikel Reyes (Managua FC): 30/06/2026 → -
+- Josep Antoni (CE Casa de Portugal): 30/06/2026 → -
+- Alex Gelabert (CE Casa de Portugal): 30/06/2026 → -
+- Jamal Zarioh (CE Casa de Portugal): 30/06/2026 → -
+- Matías Vaamonde (CE Casa de Portugal): 30/06/2026 → -
+- Juanma Miranda (CE Casa de Portugal): 30/06/2026 → -
+- Ivan Combes (CE Casa de Portugal): 30/06/2026 → -
+- Anasse Ataya (CE Casa de Portugal): 30/06/2026 → -
+- Pedro Santos (CE Casa de Portugal): 30/06/2026 → -
+- Franco Quirarte (CE Casa de Portugal): 30/06/2026 → -
+- Albert Reyes (CE Casa de Portugal): 30/06/2026 → -
+- Ariel Velásquez (Matagalpa FC): 30/06/2026 → -
+- Leonardo Tercero (Matagalpa FC): 30/06/2026 → -
+- Lesnar Dávila (Matagalpa FC): 30/06/2026 → -
+- Sebastiàn Bertrán (CE Casa de Portugal): 30/06/2026 → -
+- Brian Pubill (CE Casa de Portugal): 30/06/2026 → -
+- David Corominas (CE Casa de Portugal): 30/06/2026 → -
+- Manuel Calvo (CE Casa de Portugal): 30/06/2026 → -
+- Franco de Jesús (CE Casa de Portugal): 30/06/2026 → -
+- Víctor Bernat (CE Casa de Portugal): 30/06/2026 → -
+- Ricardo Polo (Club Sport Sébaco): 30/06/2026 → -
+- Edson Ramírez (Club Esportiu Carroi): 30/06/2026 → -
+- Jonathan Oulai (Club Esportiu Carroi): 30/06/2026 → -
+- Abraham Hobley (Club Esportiu Carroi): 30/06/2026 → 30/06/2027
+- Ulises Pozo (Club Sport Sébaco): 30/06/2026 → -
+- Eduardo Gutiérrez (Club Sport Sébaco): 30/06/2026 → -
+- Brayan Corea (Club Sport Sébaco): 05/07/2026 → -
+- Francisco Vallecillo (Deportivo Walter Ferretti): 30/06/2026 → -
+- Camphers Pérez (Deportivo Walter Ferretti): 30/06/2026 → -
+- Vincent Nortey (Santa Cruz FC): 22/07/2026 → -
+- Uriel Sánchez (Club Esportiu Carroi): 30/06/2026 → -
+- Jehu Flores (Deportivo Walter Ferretti): 30/06/2026 → -
+- Andrew Legall (Deportivo Walter Ferretti): 30/06/2026 → -
+- Bryan Astúa (Deportivo Walter Ferretti): 30/06/2026 → -
+- Nahum Peralta (Deportivo Walter Ferretti): 30/06/2026 → -
+- Bernat Merinas (FC Ordino): 30/06/2026 → -
+- Arnau Teixidor (FC Ordino): 30/06/2026 → -
+- Marko Djukanovic (FK Sutjeska Niksic): 01/06/2026 → 01/06/2027
+- Igor Pajovic (FK Sutjeska Niksic): 01/06/2026 → -
+- Patrick Luna (ART Municipal Jalapa): 30/06/2026 → -
+- Luis Blanco (Sporting Club Escaldes): 30/06/2026 → -
+- Petar Anicic (FK Sutjeska Niksic): 01/06/2026 → -
+- Robert Gjelaj (OFK Petrovac): - → 01/06/2027
+- Anderson Treminio (UNAN Managua): 30/06/2026 → -
+- Nikola Stijepovic (FK Mornar Bar): 01/06/2026 → -
+- Milan Mijatovic (Buducnost Podgorica): 30/06/2026 → -
+- Zarija Mugosa (Buducnost Podgorica): 30/06/2027 → 16/10/2029
+- Matija Bozanovic (FK Decic Tuzi): 01/06/2026 → -
+- Jovan Vujisic (FK Mladost Donja Gorica): 30/06/2026 → -
+- Nelson Augustin Cordoba (FK Mladost Donja Gorica): - → 30/06/2027
+- Stefan Vico (FK Bokelj): - → 01/06/2027
+- Gustas Baliutavičius (FA Siauliai): 31/05/2026 → -
+- Zarko Korac (Jedinstvo Bijelo Polje): 30/06/2026 → -
+- Danilo Markovic (FK Iskra Danilovgrad): 01/06/2026 → -
+- Chianyindi Spencer Silas (FC Haka): 31/12/2026 → 31/12/2027
+- Oliver Whyte (FC Haka): 31/12/2026 → 31/12/2027
+- Oiva Laaksonen (FC Haka): 31/12/2026 → 31/12/2028
+- Elias Mattila (FC Haka): 31/12/2026 → 31/12/2027
+- Pasi Forsman (Jippo Joensuu): 31/12/2026 → 31/12/2028
+- Robert Duffy (Airdrieonians FC): 31/05/2028 → 31/10/2026
+- Hengye Yan (Shandong Taishan B): 04/09/2026 → -
+- Yixiang Peng (Shandong Taishan B): 27/05/2026 → -
+- Deming Li (Shanghai Port B): 30/08/2026 → -
+- Chibueze Christian Simon (Bombonera Gifu): 31/01/2026 → -
+- Kian Speidel (VfB Stuttgart U19): - → 30/06/2029
+- Louis Marbach (FC Ingolstadt 04 U19): 30/06/2026 → -
+- Ben Kippes (SSV Jahn Regensburg U19): 30/06/2026 → -
+- Maurice Ströll (SSV Jahn Regensburg U19): 30/06/2026 → -
+- Tyrece McDonnell (Queen's Park FC): 31/05/2026 → -
+- Ricardo Schelble (SC Freiburg U19): 30/06/2026 → -
+- Cedric Dreher (SC Freiburg U19): 30/06/2026 → -
+- Jannik Veit (SC Freiburg U19): 30/06/2027 → -
+- Malik Kassassir (SC Freiburg U19): 30/06/2026 → -
+- Jakob Benz (SC Freiburg U19): 30/06/2026 → -
+- Kimi Baur (SC Freiburg U19): 30/06/2026 → -
+- Ross McGeachie (Stirling Albion FC): 31/05/2026 → -
+- Paul Wolf (FC Augsburg U19): 30/06/2026 → -
+- Ethan Mitchell (Annan Athletic FC): 31/05/2027 → -
+- Sean McKenzie (Annan Athletic FC): 31/05/2026 → -
+- Levi Haps (Feyenoord U21): - → 30/06/2029
+- Jeppe Wijnreder (FC Twente Enschede U21): - → 30/06/2027
+- Samuele Tomeo (Fortuna Sittard U21): 30/06/2026 → -
+- Gani Büyükhan (Fortuna Sittard U21): - → 30/06/2029
+- Owen Johnson (Fortuna Sittard U21): 30/06/2026 → -
+- Demyan Oosterhuis (Vitesse Arnhem U21): 01/07/2026 → -
+- Sem Pepers (Vitesse Arnhem U21): 30/06/2026 → -
+- Wen-Chieh Pan (Tainan City TSG): 31/05/2026 → -
+- Sung-kyum Kim (Tainan City TSG): 31/05/2026 → -
+- Ruei Wang (Tainan City TSG): 31/05/2026 → -
+- Matheus Porto (Tainan City TSG): 30/06/2026 → -
+- Sang-jun Kim (Tainan City TSG): 31/05/2026 → -
+- Mostapha Rached (NAC Breda U21): 30/06/2026 → -
+- Ersi Bode (ADO Den Haag U21): 30/06/2026 → -
+- Ming-You Hsieh (Athletic Club Taipei): 31/05/2026 → -
+- Chia-Pao Yang (Athletic Club Taipei): 30/06/2026 → -
+- Tsuyoshi Kusuyama (Athletic Club Taipei): 30/06/2026 → -
+- Martín Chen (Athletic Club Taipei): 30/06/2026 → -
+- Meng-Cheng Tsai (Athletic Club Taipei): 30/06/2026 → -
+- You-Lin Chen (Athletic Club Taipei): 30/06/2026 → -
+- Ting-Yang Chen (Taichung Futuro): 30/06/2026 → -
+- Keisuke Ogawa (Taichung Futuro): 30/06/2026 → -
+- Meng-Hsin Liang (Taichung Futuro): 30/06/2026 → -
+- Mao Li (Taichung Futuro): 30/06/2026 → -
+- Fabio Cachada (FS La Massana): 30/06/2026 → -
+- Oriol Vales (FS La Massana): 30/06/2026 → -
+- Nicolás Paüls (FS La Massana): 30/06/2026 → -
+- Raul Fernandes (FS La Massana): 30/06/2026 → -
+- Iram Gelabert (FS La Massana): 30/06/2026 → -
+- Miky Braz (FS La Massana): 30/06/2026 → -
+- Álvaro Torné (FS La Massana): 30/06/2026 → -
+- Cristian Millán (FS La Massana): 30/06/2026 → -
+- Martí Fernández (FS La Massana): 30/06/2026 → -
+- Diego Gálvez (FS La Massana): 30/06/2026 → -
+- Carlitos González (FS La Massana): 30/06/2026 → -
+- Gustavo Schneider (FS La Massana): 30/06/2026 → -
+- Alex Comerma (FS La Massana): 30/06/2026 → -
+- Bruno Mora (FC City Escaldes): 30/06/2026 → -
+- Teodoro Camacho (FC City Escaldes): 30/06/2026 → -
+- Raúl Álvarez (FC City Escaldes): 30/06/2026 → -
+- Isaac Caracuel (FC City Escaldes): 30/06/2026 → -
+- Justin Bejarano (FC City Escaldes): 30/06/2026 → -
+- Canario (FC City Escaldes): 30/06/2026 → -
+- Bruno Follonier (FC City Escaldes): 30/06/2026 → -
+- Jesús Portela (FC City Escaldes): 30/06/2026 → -
+- Jonathan Carbajal (FC City Escaldes): 30/06/2026 → -
+- Pablo Pascual Martínez (FC City Escaldes): 30/06/2026 → -
+- Yahir Juárez (FC City Escaldes): 30/06/2026 → -
+- Leonardo Soares (FC City Escaldes): 30/06/2026 → -
+- Joel Giadas (FC Santa Coloma B): 30/06/2026 → -
+- Daniel Ribeiro (FC Santa Coloma B): 30/06/2026 → -
+- Dilan Gili (FC Santa Coloma B): 30/06/2026 → -
+- Cleber (Pirineus United Fútbol Club): 30/06/2026 → -
+- Benjamín Vásquez (Pirineus United Fútbol Club): 30/06/2026 → -
+- Leandro Terrero (Pirineus United Fútbol Club): 30/06/2026 → -
+- Marc Aranyó (Pirineus United Fútbol Club): 30/06/2026 → -
+- Rui Ribeiro (Pirineus United Fútbol Club): 30/06/2026 → -
+- Edison Vélez (Pirineus United Fútbol Club): 30/06/2026 → -
+- Aleix Castellví (Pirineus United Fútbol Club): 30/06/2026 → -
+- Nathan Rochefeuille (Pirineus United Fútbol Club): - → 30/06/2027
+- Carles Bazán (Pirineus United Fútbol Club): 30/06/2026 → -
+- Dani Rodríguez (Pirineus United Fútbol Club): 30/06/2026 → -
+- Osneider Polo (Pirineus United Fútbol Club): 30/06/2026 → -
+- Gabi (Pirineus United Fútbol Club): 30/06/2026 → -
+- Eze García (Pirineus United Fútbol Club): 30/06/2026 → -
+- Lancelott Macías (Pirineus United Fútbol Club): 30/06/2026 → -
+- Cristian Vicente (Pirineus United Fútbol Club): 30/06/2026 → -
+- Elkin Gómez (UE Sant Julia): - → 30/06/2027
+- Constantin Wehner (Chemnitzer FC U19): 30/06/2026 → -
+- Abdil Qaiyyim (Young Lions): 30/06/2026 → -
+- Lowis Tetzlaff (Eintracht Braunschweig U19): 30/06/2026 → -
+- Mads Runge (Eintracht Braunschweig U19): - → 30/06/2027
+- Garv Sahoo (Young Lions): 30/06/2026 → -
+- Maurice Karp (Eintracht Braunschweig U19): - → 30/06/2027
+- Nicky Melvin Singh (FC Jurong): 30/06/2026 → -
+- Valton Mehmeti (Holstein Kiel U19): 30/06/2026 → -
+- Malte Hohmann (1.FC Magdeburg U19): 30/06/2026 → -
+- Henrik Jakob (1.FC Magdeburg U19): 30/06/2026 → -
+- Stancy Chukwemeka (1.FC Magdeburg U19): 30/06/2026 → 30/06/2027
+- Lenny Hiller (1.FC Magdeburg U19): 30/06/2026 → -
+- Adrian Drews (1.FC Magdeburg U19): 30/06/2026 → -
+- Jahnoa Hensel (Hamburger SV U19): - → 30/06/2028
+- Olamide Medaiyese (Hamburger SV U19): 30/06/2026 → -
+- Menson Nsiah (SV Werder Bremen U19): 30/06/2026 → -
+- Catalin Cucos (FC Petrocub Hincesti): 30/06/2026 → -
+- Dan Puscas (FC Petrocub Hincesti): 30/06/2026 → -
+- Iu Ranera (FC Zimbru Chisinau): 30/06/2026 → -
+- Levi Haps (Feyenoord U19): - → 30/06/2029
+- Jean Gomis (AS des Douanes): 30/06/2028 → -
+- Dinand van de Weert (De Graafschap Doetinchem U19): - → 30/06/2029
+- Pape Chaw (AS Bambey): 30/06/2026 → -
+- Fabio Amico (SSV Ulm 1846 U17): 30/06/2027 → 30/06/2029
+- Samuel Muscat (Sannat Lions FC): 30/06/2026 → -
+- Christian Dingli (Sannat Lions FC): 30/06/2026 → -
+- John Axiak (Sannat Lions FC): 30/06/2026 → -
+- Sintayehu Curmi (Sannat Lions FC): 30/06/2026 → -
+- Nicholas Grima (Sannat Lions FC): 30/06/2026 → -
+- Mikail Vella (Sannat Lions FC): 30/06/2026 → -
+- Sam Bajada (Sannat Lions FC): 30/06/2026 → -
+- Igor Nedeljkovic (Sannat Lions FC): 30/06/2026 → -
+- Richard Sammut (Ghajnsielem FC): 30/06/2026 → -
+- Paul Rapa (Ghajnsielem FC): 30/06/2026 → -
+- Joshua Buttigieg (Ghajnsielem FC): 30/06/2026 → -
+- Michael John (VfL Wolfsburg U19): 30/06/2026 → -
+- Baldwin Igbinobaro (Ghajnsielem FC): 08/06/2026 → -
+- Adrian Parnis (Xewkija Tigers FC): 30/06/2026 → -
+- Matthias Said (Xewkija Tigers FC): 30/06/2026 → -
+- Abou Touré (Xewkija Tigers FC): 30/06/2026 → -
+- Ezequiel Ruiz (Xewkija Tigers FC): 30/06/2026 → -
+- Marcelo Barbosa (Xewkija Tigers FC): 30/06/2026 → -
+- Rodney Buttigieg (Xewkija Tigers FC): 30/06/2026 → -
+- Franco Buttigieg (Qala Saints FC): 30/06/2026 → -
+- Emanuel Buttigieg (Qala Saints FC): 30/06/2026 → -
+- Joshairo Castelen (ADO Den Haag U19): - → 30/06/2028
+- Armando Xerri (Qala Saints FC): 30/06/2026 → -
+- Kurt Mifsud (Qala Saints FC): 30/06/2026 → -
+- Júnior Sergipe (Qala Saints FC): 30/06/2026 → -
+- Joseph Buttigieg (Qala Saints FC): 30/06/2026 → -
+- Joseph Zammit (Qala Saints FC): 30/06/2026 → -
+- Jordi Parnis (Qala Saints FC): 30/06/2026 → -
+- Gustavo Lemos (Qala Saints FC): 30/06/2026 → -
+- Matteo Camilleri (Qala Saints FC): 30/06/2026 → -
+- Martin Buttigieg (Qala Saints FC): 30/06/2026 → -
+- Kurt Grima (SK Victoria Wanderers FC): 30/06/2026 → -
+- Tristan Azzopardi (SK Victoria Wanderers FC): 30/06/2026 → -
+- Adam Refalo (SK Victoria Wanderers FC): 30/06/2026 → -
+- André Cutler (SK Victoria Wanderers FC): 30/06/2026 → -
+- Nicolas Montengro (SK Victoria Wanderers FC): 08/06/2026 → -
+- Mustapha Amodu (SK Victoria Wanderers FC): 30/06/2026 → -
+- Savio Galea (Xaghra United FC): 30/06/2026 → -
+- Igor Jacaré (Xaghra United FC): 30/06/2026 → -
+- Johann Bajada (Xaghra United FC): 30/06/2026 → -
+- Fabian Xuereb (Xaghra United FC): 30/06/2026 → -
+- Etienne Xiberras (Xaghra United FC): 30/06/2026 → -
+- Neil Sultana (Xaghra United FC): 30/06/2026 → -
+- Tristen Agius (Xaghra United FC): 30/06/2026 → -
+- Joe-Peter Mifsud (Xaghra United FC): 30/06/2026 → -
+- Delan Saliba (Xaghra United FC): 30/06/2026 → -
+- Pedrinho (Xaghra United FC): 30/06/2026 → -
+- Ibrahim Salis (Xaghra United FC): 30/06/2026 → -
+- Melchior Gafa (Xaghra United FC): 30/06/2026 → -
+- Dean Vella (Xaghra United FC): 30/06/2026 → -
+- Haruto Miura (SV Darmstadt 98 U19): - → 30/06/2027
+- Joey Ewald (Hertha BSC U17): - → 30/06/2029
+- Daris Agovic (1.FSV Mainz 05 U19): 30/06/2026 → -
+- Tyrone Jarrett (1.FSV Mainz 05 U19): 30/06/2026 → 30/06/2027
+- Musa Yildiz (SC Fortuna Köln U19): 30/06/2026 → -
+- Mohamed Felder (SV Wehen Wiesbaden U19): 30/06/2026 → -
+- Javier Roces (Cibao FC): 30/06/2026 → -
+- Nico Cruz (Cibao FC): 30/06/2026 → -
+- Wilson Espinal (Atlético Vega Real): 30/06/2026 → -
+- Jean Almanzar (Salcedo FC): 30/06/2026 → -
+- Alexander Jiménez (Salcedo FC): 30/06/2026 → -
+- Jamesley Daniel (Salcedo FC): 30/06/2026 → -
+- Miguel Vásquez (Jarabacoa FC): 30/06/2026 → -
+- Miguel Adje (Borussia Dortmund U19): 30/06/2026 → -
+- Till Burkhardt (Borussia Dortmund U19): 30/06/2028 → 30/06/2029
+- Rami Malaeb (Rot-Weiss Essen U19): 30/06/2028 → -
+- Fadih Vasic (Rot-Weiss Essen U19): 30/06/2027 → 30/06/2029
+- Makaya Taylor (Fortuna Düsseldorf U19): 30/06/2026 → -
+- Marko Soares (Rot-Weiß Oberhausen U17): - → 30/06/2027
+- Reda Haddou (MSV Duisburg U19): 30/06/2026 → -
+- Lenart Haliti (MSV Duisburg U19): 30/06/2026 → -
+- Maksym Gololobov (Bayer 04 Leverkusen U19): 30/06/2026 → -
+- Suryash Jaiswal (ARA FC): 31/05/2026 → -
+- Aditya Waghela (ARA FC): 31/05/2026 → -
+- Suraj Shenoy (ARA FC): 31/05/2026 → -
+- Yash Chudasama (ARA FC): 31/05/2026 → -
+- Anirudhsinh Thakor (ARA FC): 31/05/2026 → -
+- Didwm Hazowary (ARA FC): 31/05/2026 → -
+- Neeraj Kumar (ARA FC): 31/05/2026 → -
+- Rudrarajsinh Jadeja (ARA FC): 31/05/2026 → -
+- Aman Shah (ARA FC): 31/05/2026 → -
+- Brajeshkumar Yadav (ARA FC): 31/05/2026 → -
+- Maneshwar Mushahary (ARA FC): 31/05/2026 → -
+- Tufel Hingora (ARA FC): 31/05/2026 → -
+- Ikhlaq Fayaz (ARA FC): 31/05/2026 → -
+- Rajender Singh Bairola (ARA FC): 31/05/2026 → -
+- Harshvardhan Purohit (ARA FC): 31/05/2026 → -
+- Moinuddin (ARA FC): 31/05/2026 → -
+- Timothi Narzary (ARA FC): 31/05/2026 → -
+- Vijaykumar Rathwa (ARA FC): 31/05/2026 → -
+- Musamiyan Saiyed (ARA FC): 31/05/2026 → -
+- Vishesh Pandey (ARA FC): 31/05/2026 → -
+- Nirmal Singh Bisht (ARA FC): 31/05/2026 → -
+- Pratik Swami (ARA FC): 31/05/2026 → -
+- Shantanu Ningurkar (ARA FC): 31/05/2026 → -
+- Rohit Chawla (ARA FC): 31/05/2026 → -
+- Kamaldeep (ARA FC): 31/05/2026 → -
+- Jay Kanani (ARA FC): 31/05/2026 → -
+- Dharmesh Parmar (ARA FC): 31/05/2026 → -
+- Utkarsh Kaushik (ARA FC): 31/05/2026 → -
+- Fahad T N (ARA FC): 31/05/2026 → -
+- Kamei Pantiga (FC Raengdai): 31/05/2026 → -
+- Yaithengbam Suraj Singh (FC Raengdai): 31/05/2026 → -
+- Gurumayum Satyajit Sharma (FC Raengdai): 31/05/2026 → -
+- M Chungmei (FC Raengdai): 31/05/2026 → -
+- Oinam Keiphaba Meitei (FC Raengdai): 31/05/2026 → -
+- Wahengbam Herojit Singh (FC Raengdai): 31/05/2026 → -
+- Thoudam Naresh Singh (FC Raengdai): 31/05/2026 → -
+- Lanchungrei Pamei (FC Raengdai): 31/05/2026 → -
+- P M Rakeveiche (FC Raengdai): 31/05/2026 → -
+- Ayekpam Tomjoseph Singh (FC Raengdai): 31/05/2026 → -
+- Sendy Mangte (FC Raengdai): 31/05/2026 → -
+- Sorokhaibam Amitkumar Singh (FC Raengdai): 31/05/2026 → -
+- Wahengbam Rojen Meitei (FC Raengdai): 31/05/2026 → -
+- Chongtham Kishan Singh (FC Raengdai): 31/05/2026 → -
+- Sapam Kenedy Singh (FC Raengdai): 31/05/2026 → -
+- Ningthoujam Momocha Singh (FC Raengdai): 31/05/2026 → -
+- Thoudam Nani Singh (FC Raengdai): 31/05/2026 → -
+- Laishram Bikramjit Singh (FC Raengdai): 31/05/2026 → -
+- Moirangthem Basanta Singh (FC Raengdai): 31/05/2026 → -
+- Yendrembam Sobha Singh (FC Raengdai): 31/05/2026 → -
+- Thoudam Bungcha Singh (FC Raengdai): 31/05/2026 → -
+- Giftson Kamei (FC Raengdai): 31/05/2026 → -
+- Soraisham Surjakanta Singh (FC Raengdai): 31/05/2026 → -
+- Chuingampou Kamei (FC Raengdai): 31/05/2026 → -
+- Ningthoujam Abungton Singh (FC Raengdai): 31/05/2026 → -
+- Premjit Singh (FC Raengdai): 31/05/2026 → -
+- Rostam P (FC Raengdai): 31/05/2026 → -
+- Gaisuangmei Kamei (FC Raengdai): 31/05/2026 → -
+- Shoraisham Sagar Singh (FC Raengdai): 31/05/2026 → -
+- Tingkaochun Gangmei (FC Raengdai): 31/05/2026 → -
+- Gailalung Gonmei (FC Raengdai): 31/05/2026 → -
+- Kamei Langanglung Kabui (FC Raengdai): 31/05/2026 → -
+- Lambhamiki Lamare (Mawlai SC): 31/05/2026 → -
+- Damangbha Rymbai (Mawlai SC): 31/05/2026 → -
+- Arkibor Makhroh (Mawlai SC): 31/05/2026 → -
+- Robertson Malkovich Khongriah (Mawlai SC): 31/05/2026 → -
+- Samlang Rympei (Mawlai SC): 31/05/2026 → -
+- Ricky Chyne (Mawlai SC): 31/05/2026 → -
+- Damanbha Chyne (Mawlai SC): 31/05/2026 → -
+- Lovingstar Suting (Mawlai SC): 31/05/2026 → -
+- Bajiedlang Rangslang (Mawlai SC): 31/05/2026 → -
+- Zangdipou Panmei (Mumbay Football Club): 31/05/2026 → -
+- Moirangthem Amarjit Singh (Mumbay Football Club): 31/05/2026 → -
+- Sapam Nongpoknganba Singh (TRAU FC): 10/05/2026 → -
+- Ahongshangbam Rakesh Singh (TRAU FC): 01/06/2026 → -
+- Sagolshem Bijeshwar Singh (TRAU FC): 10/07/2026 → -
+- Lairellakpam Dhananjoy Singh (TRAU FC): 10/07/2026 → -
+- Khomdram Backham Moirangcha (TRAU FC): 31/05/2026 → -
+- Kumam Avinash Singh (TRAU FC): 01/06/2026 → -
+- Chinedu Jibunor (Borussia Dortmund U17): - → 30/06/2027
+- Shevin-Heinz Matondo (FC Viktoria Köln U19): - → 30/06/2028
+- Seila Toure (TRAU FC): 23/08/2026 → -
+- Yuno Richard Thaikho (TRAU FC): 10/07/2026 → -
+- Shitaljit Atom (TRAU FC): 01/06/2026 → -
+- Alent Colaco (TRAU FC): 31/05/2026 → -
+- Jonas Eckard (FC Schalke 04 U17): - → 30/06/2030
+- Luca Groß (FC Schalke 04 U17): 30/06/2026 → -
+- Prabin Khangembam (TRAU FC): 26/06/2026 → -
+- Thiyam Chingkheinganba (TRAU FC): 10/07/2026 → -
+- Loyangamba Meitei Akoijam (TRAU FC): 10/07/2026 → -
+- Dhanachandra Mutum (TRAU FC): 01/06/2026 → -
+- Pipin Aheibam (TRAU FC): 31/05/2026 → -
+- Robinson Usham (TRAU FC): 01/06/2026 → -
+- Adriko Rogers (TRAU FC): 23/08/2026 → -
+- Ansumana Kromah (TRAU FC): 23/08/2026 → -
+- Yumnam Monis Singh (TRAU FC): 31/05/2026 → -
+- Moirangthem Diya Singh (TRAU FC): 02/06/2026 → -
+- Salam Sanaton Singh (KLASA FC): 31/05/2026 → -
+- Naorem Kiranjit Singh (KLASA FC): 31/05/2026 → -
+- Clinton Khuman (KLASA FC): 31/05/2026 → -
+- Thounaojam Thomas Singh (KLASA FC): 31/05/2026 → -
+- Sajan Ngangom (KLASA FC): 31/05/2026 → -
+- Ningombam Kabiraj Singh (KLASA FC): 31/05/2026 → -
+- Elin Yanglem (KLASA FC): 31/05/2026 → -
+- Nongmaithem Rajkiran Singh (KLASA FC): 31/05/2026 → -
+- Shahabaaz (KLASA FC): 31/05/2026 → -
+- Japes Nongthongbam (KLASA FC): 31/05/2026 → -
+- Hemam Bijio Singh (KLASA FC): 31/05/2026 → -
+- Ngariyanbam Jenish Singh (KLASA FC): 31/05/2026 → -
+- Wahengbam Tejkumar Meitei (KLASA FC): 31/05/2026 → -
+- Kangabam Lanngamba Singh (KLASA FC): 31/05/2026 → -
+- Abash Singh Huidrom (KLASA FC): 31/05/2026 → -
+- Mutum Arvind (KLASA FC): 31/05/2026 → -
+- Huidrom Torres Singh (KLASA FC): 31/05/2026 → -
+- Khuyenthem Rajesh Singh (KLASA FC): 31/05/2026 → -
+- Sharangthem Rajdan Singh (KLASA FC): 31/05/2026 → -
+- Kharibam Pravananda Meitei (KLASA FC): 31/05/2026 → -
+- S Johny Kom (KLASA FC): 31/05/2026 → -
+- Ronik Singh Moirangthem (KLASA FC): 31/05/2026 → -
+- Huidrom Poireinganba Mangang (KLASA FC): 31/05/2026 → -
+- Nagesh Munda (Chhaygaon F C): 31/05/2026 → -
+- Mithinga Daimary (Chhaygaon F C): 31/05/2026 → -
+- Utpal Kalita (Chhaygaon F C): 31/05/2026 → -
+- Kaji MD Nadish (Chhaygaon F C): 31/05/2026 → -
+- Ahongshangbam Herojit Singh (Chhaygaon F C): 31/05/2026 → -
+- Debajit Munda (Chhaygaon F C): 31/05/2026 → -
+- Aniket Lohara (Chhaygaon F C): 31/05/2026 → -
+- Kayenpaibam Robinson Singh (Chhaygaon F C): 31/05/2026 → -
+- Amol Boro (Chhaygaon F C): 31/05/2026 → -
+- Bishal Roy (Chhaygaon F C): 31/05/2026 → -
+- Krishna Thoudam (Chhaygaon F C): 31/05/2026 → -
+- Pratap Kumar Tamnag (Chhaygaon F C): 31/05/2026 → -
+- Suprakash Rabha (Chhaygaon F C): 31/05/2026 → -
+- Diamond Mawlong (Chhaygaon F C): 31/05/2026 → -
+- Ningthoujam Arbin Singh (Chhaygaon F C): 31/05/2026 → -
+- Stephan Kyrsian (Chhaygaon F C): 31/05/2026 → -
+- Tridip Marak (Chhaygaon F C): 31/05/2026 → -
+- Sani Basu (Chhaygaon F C): 31/05/2026 → -
+- Chinmoy Das (Chhaygaon F C): 31/05/2026 → -
+- Midul Doley (Chhaygaon F C): 31/05/2026 → -
+- Sudhir Laitonjam (Chhaygaon F C): 31/05/2026 → -
+- Muhammad Safique Ahmed (FC Agniputhra): 31/05/2026 → -
+- Ashu (Royal Rangers FC): 31/05/2026 → -
+- Padra Shourei (Wuppertaler SV U17): - → 30/06/2027
+- Sudhanshu Ranjan (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Sunil Bathala (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Aribam Brajamani Sharma (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Shubham Raj (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Dhairya Tekchand Pinjlani (FC BANARAS BAGHPAT): 31/05/2026 → -
+- Mijanur Husain (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Aaryan Amla (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Siddar Chhetri (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Tejas Narayan Choudhary (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Parth Tara (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Surchandra Singh (FC BANARAS BAGHPAT): 31/05/2026 → -
+- Rishi Pukhrambam (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Mihir Munda (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Sourav Biswas (FC BANARAS BAGHPAT): 31/08/2026 → -
+- Lucca Cantante (US Thionville Lusitanos U17): 30/06/2026 → -
+- Toni Langsteiner (RB Leipzig U19): 30/06/2026 → -
+- Dilane Yarsekou (RB Leipzig U19): 30/06/2026 → -
+- Kevin Krüger (Dynamo Dresden U19): 30/06/2026 → -
+- Woodrow West (Verdes FC): 30/06/2026 → -
+- Alence Ayala (Verdes FC): 30/06/2026 → -
+- Darrel Myvett (Verdes FC): 30/06/2026 → -
+- Charles Tillett (Port Layola FC): 30/05/2026 → -
+- Jesús Orozco (Port Layola FC): 30/05/2026 → -
+- Jarrel Young (Port Layola FC): 30/05/2026 → -
+- Michael Palacio (Port Layola FC): 30/05/2026 → -
+- Shemar Thomas (Port Layola FC): 30/05/2026 → -
+- Trimayne Harris (Port Layola FC): 30/05/2026 → -
+- Andrés Orozco (Port Layola FC): 30/06/2026 → -
+- Akeem Sutherland (Port Layola FC): 30/05/2026 → -
+- Wayne Ford (Port Layola FC): 30/06/2026 → -
+- Shawn Young (Port Layola FC): 30/05/2026 → -
+- Luisito Cunil (Progresso FC): 30/06/2026 → -
+- Jarret Davis (Progresso FC): 30/06/2026 → -
+- Harlan Casanova (Progresso FC): 30/06/2026 → -
+- Bryce Lawrence (Progresso FC): 30/06/2026 → -
+- Naim Wilson (Progresso FC): 31/05/2026 → -
+- Andir Chi (Progresso FC): 28/07/2026 → -
+- Luis Parra (Progresso FC): 30/06/2026 → -
+- Kyle Budna (Progresso FC): 31/05/2026 → -
+- Wálter Gómez (Progresso FC): 30/06/2026 → -
+- Keydenshaay Bowen (Progresso FC): 31/05/2026 → -
+- Mark Bainton (Progresso FC): 30/06/2026 → -
+- Eithon Wagner (Napoles FC): 30/05/2026 → -
+- Brandon Anderson (Napoles FC): 30/05/2026 → -
+- Norman Anderson (Napoles FC): 30/05/2026 → -
+- César Vila (Napoles FC): 30/05/2026 → -
+- Darwin Neal (Napoles FC): 30/05/2026 → -
+- Marvin Flowers (Napoles FC): 30/05/2026 → -
+- Khalid Martínez (Napoles FC): 30/05/2026 → -
+- Kenyon Smith (Napoles FC): 30/05/2026 → -
+- Kyle Thomas (Napoles FC): 30/05/2026 → -
+- Sydney Petillo (Napoles FC): 30/05/2026 → -
+- Marlon Jones (Napoles FC): 30/05/2026 → -
+- Daijon Daniels (Napoles FC): 30/05/2026 → -
+- Jalen Myers (Napoles FC): 30/05/2026 → -
+- Santino Gianini (AA Argentinos Juniors II): - → 31/12/2028
+- Julian Pecino (Europa FC U18): 30/06/2026 → -
+- Ayman Laghrich (Europa FC U18): 30/06/2026 → -
+- Ryan Gonzalez (Europa FC U18): - → 30/06/2027
+- Mohamed El Ouahabi (Europa FC U18): 30/06/2026 → -
+- Aiden Joyce (Europa FC U18): 30/06/2026 → -
+- Jessie Muscat (Europa FC U18): - → 30/06/2027
+- Sam Fortuna (Europa FC U18): 30/06/2026 → -
+- Alberto De Mendonca (FC Magpies U18): 30/06/2026 → -
+- Yassir Akodad (Lions Gibraltar FC U18): 30/06/2026 → -
+- Tyler Mauro (Lions Gibraltar FC U18): 30/06/2026 → -
+- Louis Pitto (Lions Gibraltar FC U18): 30/06/2026 → -
+- Quigley Tyler Alfie (Lions Gibraltar FC U18): 30/06/2026 → -
+- Lucas Pocock (Lions Gibraltar FC U18): 30/06/2026 → -
+- Simón Bodnar (CA Independiente II): 31/12/2027 → 31/12/2028
+- Jeremías Acosta (CA Banfield II): - → 31/12/2028
+- Aleksandr Morozov (Akron-2 Togliatti): 30/06/2026 → -
+- Ruslan Yunusov (Enisey 2 Krasnoyarsk): 30/06/2026 → -
+- Patricio Moyano (CA Defensores de Belgrano): 30/06/2026 → -
+- Kirill Roshchin (FC Murom): 30/06/2026 → -
+- Adriano Neciosup (Club Alianza Lima II): 30/06/2026 → -
+- Raji Wakuma (Centro Social Pariacoto): 30/09/2026 → 30/12/2026
+- Josué Espinoza (Centro Social Pariacoto): - → 31/12/2026
+- Lucas Bryson (Centro Social Pariacoto): - → 31/12/2026
+- Patrik Alfonso (Centro Social Pariacoto): - → 31/12/2026
+- Nikita Artemov (Avangard Kursk): 30/06/2026 → -
+- Daniil Sedov (Avangard Kursk): 30/06/2026 → -
+- Viktor Kozyrev (Avangard Kursk): 30/06/2026 → -
+- Daniil Kamenev (Avangard Kursk): 30/05/2026 → -
+- Egor Yunusov (Avangard Kursk): 30/06/2026 → -
+- Egor Balitskiy (Avangard Kursk): 30/06/2026 → -
+- Denis Konshin (Avangard Kursk): 30/06/2026 → -
+- Saveliy Borisov (Avangard Kursk): 30/06/2026 → -
+- Vladislav Zykh (SKA Khabarovsk 2): 30/06/2026 → -
+- Sneyder Huaman (Unión Santo Domingo): 31/03/2026 → -
+- Batyr Umirov (Rotor 2 Volgograd): 30/06/2026 → -
+- Dmitriy Veber (Khimik Dzerzhinsk): 30/06/2026 → -
+- Nikita Zyryanov (FC Chelyabinsk-2): 30/06/2026 → -
+- Egor Borisov (Nosta Novotroitsk): 30/06/2026 → -
+- Simón Bodnar (CA Independiente II): 31/12/2027 → 31/12/2028
+- Jeremías Acosta (CA Banfield II): - → 31/12/2028
+- John Wallenius (Pargas IF): - → 31/12/2027
+- Niklas Rantanen (Pargas IF): - → 31/12/2027
+- Matías Rojas (Без клуба): 31/12/2026 → 01/07/2026
+- Issiaga Sylla (Без клуба): 30/06/2027 → 12/10/2026
+- Munas Dabbur (Без клуба): - → 01/07/2026
+- Jorge Guzmán (Без клуба): 30/06/2028 → 19/10/2026
+- Santiago Ramírez (Без клуба): - → 01/09/2026
+- Viv Solomon-Otabor (Без клуба): - → 26/09/2026
+- Mohammadreza Soleimani (Без клуба): - → 21/10/2026
 
 ## Сейчас в базе
 
-Кандидатов всего: **136015** (нет агента 2419 · семья 2492 · пробел 131104)
+Кандидатов всего: **137630** (нет агента 2427 · семья 2513 · пробел 132690)
 
-Игроков с записанным агентом: 68632
+Игроков с записанным агентом: 69530

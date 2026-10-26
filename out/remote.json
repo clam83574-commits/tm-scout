@@ -1,9 +1,9 @@
-npm warn exec The following package was not found and will be installed: wrangler@4.149.0
+npm warn exec The following package was not found and will be installed: wrangler@4.152.0
 [
   {
     "results": [
       {
-        "players": 134606,
+        "players": 136015,
         "countries": 126,
         "comps": 498
       }
@@ -15,14 +15,14 @@ npm warn exec The following package was not found and will be installed: wrangle
       "served_by_colo": "FRA",
       "served_by_primary": true,
       "timings": {
-        "sql_duration_ms": 60.658
+        "sql_duration_ms": 72.6871
       },
-      "duration": 60.658,
+      "duration": 72.6871,
       "changes": 0,
       "last_row_id": 0,
       "changed_db": false,
-      "size_after": 67989504,
-      "rows_read": 134606,
+      "size_after": 68648960,
+      "rows_read": 136015,
       "rows_written": 0,
       "total_attempts": 1
     }
