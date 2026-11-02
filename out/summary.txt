@@ -1,11 +1,15 @@
-📊 <b>База обновлена</b> — 26 октября
+📊 <b>База обновлена</b> — 2 ноября
 
-🔥 <b>Пропал агент</b> — 158 игроков дороже 200 тыс. €
+🔥 <b>Пропал агент</b> — 146 игроков дороже 200 тыс. €
 <i>агент у них был, теперь нет: контракт с агентством закончился, человек в поиске</i>
 
-🟡 <a href="https://www.transfermarkt.com/yanis-begraoui/profil/spieler/569376"><b>Yanis Begraoui</b></a> · семья
-    <i>GD Estoril Praia</i> · 12 млн € · контракт до 30/06/2028
-    🇵🇹 Португалия · Liga Portugal
+⚪ <a href="https://www.transfermarkt.com/guela-doue/profil/spieler/711980"><b>Guéla Doué</b></a> · поле пустое
+    <i>Bayer 04 Leverkusen</i> · 30 млн € · контракт до 30/06/2031
+    🇩🇪 Германия · Бундеслига
+
+⚪ <a href="https://www.transfermarkt.com/ladislav-krejci/profil/spieler/345911"><b>Ladislav Krejci</b></a> · поле пустое
+    <i>Wolverhampton Wanderers</i> · 22 млн € · контракт до 30/06/2030
+    🏴󠁧󠁢󠁥󠁮󠁧󠁿 Англия · Championship
 
 🟡 <a href="https://www.transfermarkt.com/hicham-boudaoui/profil/spieler/560593"><b>Hicham Boudaoui</b></a> · семья
     <i>OGC Nice</i> · 12 млн € · контракт до 30/06/2027
@@ -15,29 +19,41 @@
     <i>Leeds United</i> · 10 млн € · контракт до 30/06/2027
     🏴󠁧󠁢󠁥󠁮󠁧󠁿 Англия · Premier League
 
-🟡 <a href="https://www.transfermarkt.com/ryotaro-ito/profil/spieler/415522"><b>Ryotaro Ito</b></a> · семья
-    <i>Real Valladolid CF</i> · 6 млн € · контракт до 30/06/2027
-    🇪🇸 Испания · LaLiga2
+⚪ <a href="https://www.transfermarkt.com/alonzo-engwanda/profil/spieler/565436"><b>Alonzo Engwanda</b></a> · поле пустое
+    <i>FC Utrecht</i> · 8 млн € · контракт до 30/06/2028
+    🇳🇱 Нидерланды · Eredivisie
+
+⚪ <a href="https://www.transfermarkt.com/luca-lipani/profil/spieler/724106"><b>Luca Lipani</b></a> · поле пустое
+    <i>US Sassuolo</i> · 7,5 млн € · контракт до 30/06/2028
+    🇮🇹 Италия · Serie A
+
+🟢 <a href="https://www.transfermarkt.com/panagiotis-retsos/profil/spieler/324351"><b>Panagiotis Retsos</b></a> · агента нет
+    <i>Olympiacos Piraeus</i> · 7 млн € · контракт до 30/06/2028
+    🇬🇷 Греция · Super League 1
+
+⚪ <a href="https://www.transfermarkt.com/gabriele-calvani/profil/spieler/745778"><b>Gabriele Calvani</b></a> · поле пустое
+    <i>Frosinone Calcio</i> · 6 млн € · контракт до 30/06/2027
+    🇮🇹 Италия · Serie A
 
 🟢 <a href="https://www.transfermarkt.com/marwan-ateya/profil/spieler/734542"><b>Marwan Ateya</b></a> · агента нет
     <i>Al Ahly FC</i> · 4,5 млн € · контракт до 30/06/2030
     🇪🇬 Египет · Premier League
 
-⚪ <a href="https://www.transfermarkt.com/veldin-hodza/profil/spieler/619279"><b>Veldin Hodza</b></a> · поле пустое
-    <i>Rubin Kazan</i> · 4 млн € · контракт до 30/06/2028
-    🇷🇺 Россия · Premier Liga
-
-🟢 <a href="https://www.transfermarkt.com/tomas-jacob/profil/spieler/950131"><b>Tomás Jacob</b></a> · агента нет
-    <i>Atlanta United FC</i> · 4 млн € · контракт до 30/06/2029
-    🇺🇸 США · MLS
-
-🟡 <a href="https://www.transfermarkt.com/daniel-job/profil/spieler/1237900"><b>Daniel Job</b></a> · семья
-    <i>FC Dallas</i> · 4 млн € · контракт до 30/06/2030
-    🇺🇸 США · MLS
+⚪ <a href="https://www.transfermarkt.com/myron-van-brederode/profil/spieler/650712"><b>Myron van Brederode</b></a> · поле пустое
+    <i>KV Mechelen</i> · 4,5 млн € · контракт до 30/06/2029
+    🇧🇪 Бельгия · Жюпилер Про Лига
 
 ⚪ <a href="https://www.transfermarkt.com/matteo-di-giusto/profil/spieler/421823"><b>Matteo Di Giusto</b></a> · поле пустое
     <i>FC Luzern</i> · 4 млн € · контракт до 30/06/2028
     🇨🇭 Швейцария · Super League
+
+⚪ <a href="https://www.transfermarkt.com/benjamin-bouchouari/profil/spieler/783094"><b>Benjamin Bouchouari</b></a> · поле пустое
+    <i>Trabzonspor</i> · 3,5 млн € · контракт до 30/06/2028
+    🇹🇷 Турция · Süper Lig
+
+🟡 <a href="https://www.transfermarkt.com/franco-tongya/profil/spieler/530851"><b>Franco Tongya</b></a> · семья
+    <i>Genclerbirligi Ankara</i> · 3 млн € · контракт до 30/06/2027
+    🇹🇷 Турция · Süper Lig
 
 ⚪ <a href="https://www.transfermarkt.com/lisav-eissat/profil/spieler/1057319"><b>Lisav Eissat</b></a> · поле пустое
     <i>Bristol City</i> · 2,5 млн € · контракт до 30/06/2030
@@ -55,10 +71,6 @@
     <i>KRC Genk</i> · 2,2 млн € · контракт до 30/06/2029
     🇧🇪 Бельгия · Жюпилер Про Лига
 
-🟡 <a href="https://www.transfermarkt.com/wilfred-george-igor/profil/spieler/1167645"><b>Wilfred George Igor</b></a> · семья
-    <i>Kristiansund BK</i> · 2 млн € · контракт до 31/07/2028
-    🇳🇴 Норвегия · Eliteserien
-
 ⚪ <a href="https://www.transfermarkt.com/martin-georgiev/profil/spieler/877118"><b>Martin Georgiev</b></a> · поле пустое
     <i>AEK Athens</i> · 2 млн € · контракт до 30/06/2030
     🇬🇷 Греция · Super League 1
@@ -67,21 +79,9 @@
     <i>Roda JC Kerkrade</i> · 2 млн € · контракт до 30/06/2027
     🇳🇱 Нидерланды · Keuken Kampioen Divisie
 
-🟡 <a href="https://www.transfermarkt.com/oscar-rodriguez/profil/spieler/284884"><b>Óscar Rodríguez</b></a> · семья
-    <i>Al-Diriyah FC</i> · 1,8 млн € · контракт до -
-    🇸🇦 Саудовская Аравия · Saudi Pro League
-
-⚪ <a href="https://www.transfermarkt.com/ido-shahar/profil/spieler/519506"><b>Ido Shahar</b></a> · поле пустое
-    <i>Maccabi Tel Aviv</i> · 1,5 млн € · контракт до 30/06/2027
-    🇮🇱 Израиль · Ligat ha'Al
-
-⚪ <a href="https://www.transfermarkt.com/gregori-anangono/profil/spieler/627920"><b>Gregori Anangonó</b></a> · поле пустое
-    <i>CD Universidad Católica</i> · 1,5 млн € · контракт до 31/12/2026
-    🇪🇨 Эквадор · LigaPro Serie A
-
-⚪ <a href="https://www.transfermarkt.com/konstantinos-fortounis/profil/spieler/157539"><b>Konstantinos Fortounis</b></a> · поле пустое
-    <i>Olympiacos Piraeus</i> · 1,5 млн € · контракт до 30/06/2028
-    🇬🇷 Греция · Super League 1
+⚪ <a href="https://www.transfermarkt.com/sofiane-boufal/profil/spieler/232271"><b>Sofiane Boufal</b></a> · поле пустое
+    <i>Al-Ittihad SC</i> · 1,8 млн € · контракт до 30/06/2028
+    🇱🇾 Ливия · Libyan Premier League
 
 ⚪ <a href="https://www.transfermarkt.com/emmanuel-longelo/profil/spieler/504386"><b>Emmanuel Longelo</b></a> · поле пустое
     <i>Motherwell FC</i> · 1,5 млн € · контракт до 31/05/2027
@@ -102,6 +102,18 @@
 🟢 <a href="https://www.transfermarkt.com/raphael-lipinski/profil/spieler/913323"><b>Raphaël Lipinski</b></a> · агента нет
     <i>Rodez AF</i> · 1,5 млн € · контракт до 30/06/2028
     🇫🇷 Франция · Ligue 2
+
+🟢 <a href="https://www.transfermarkt.com/abdoullah-ba/profil/spieler/654412"><b>Abdoullah Ba</b></a> · агента нет
+    <i>Sunderland AFC</i> · 1,5 млн € · контракт до 30/06/2027
+    🏴󠁧󠁢󠁥󠁮󠁧󠁿 Англия · Premier League
+
+🟢 <a href="https://www.transfermarkt.com/rafita-garrido/profil/spieler/1064717"><b>Rafita Garrido</b></a> · агента нет
+    <i>Málaga CF</i> · 1,5 млн € · контракт до 30/06/2029
+    🇪🇸 Испания · LaLiga
+
+⚪ <a href="https://www.transfermarkt.com/marcelo-morales/profil/spieler/841340"><b>Marcelo Morales</b></a> · поле пустое
+    <i>Club Universidad de Chile</i> · 1,5 млн € · контракт до 31/12/2026
+    🇨🇱 Чили · Liga Primera
 
 ⚪ <a href="https://www.transfermarkt.com/jesus-ocejo/profil/spieler/401355"><b>Jesús Ocejo</b></a> · поле пустое
     <i>Tampico Madero</i> · 1,2 млн € · контракт до -
@@ -127,51 +139,39 @@
     <i>RCD Mallorca</i> · 1,2 млн € · контракт до 30/06/2027
     🇪🇸 Испания · LaLiga2
 
-⚪ <a href="https://www.transfermarkt.com/francisco-nevarez/profil/spieler/600956"><b>Francisco Nevárez</b></a> · поле пустое
-    <i>FC Juárez</i> · 1 млн € · контракт до -
-    🇲🇽 Мексика · Liga MX Clausura
+⚪ <a href="https://www.transfermarkt.com/wendell/profil/spieler/228433"><b>Wendell</b></a> · поле пустое
+    <i>São Paulo Futebol Clube</i> · 1,2 млн € · контракт до 31/12/2027
+    🇧🇷 Бразилия · Série A
 
-⚪ <a href="https://www.transfermarkt.com/anes-cardaklija/profil/spieler/1026246"><b>Anes Cardaklija</b></a> · поле пустое
-    <i>GAIS</i> · 1 млн € · контракт до 31/12/2028
-    🇸🇪 Швеция · Allsvenskan
+⚪ <a href="https://www.transfermarkt.com/rui-modesto/profil/spieler/671799"><b>Rui Modesto</b></a> · поле пустое
+    <i>Vancouver Whitecaps FC</i> · 1,2 млн € · контракт до 30/06/2030
+    🇺🇸 США · MLS
+
+⚪ <a href="https://www.transfermarkt.com/pedro-pereira/profil/spieler/314965"><b>Pedro Pereira</b></a> · поле пустое
+    <i>Genclerbirligi Ankara</i> · 1,2 млн € · контракт до 30/06/2027
+    🇹🇷 Турция · Süper Lig
+
+⚪ <a href="https://www.transfermarkt.com/estalin-segura/profil/spieler/690837"><b>Estalin Segura</b></a> · поле пустое
+    <i>CS Emelec</i> · 1,2 млн € · контракт до 31/12/2029
+    🇪🇨 Эквадор · LigaPro Serie A
 
 🟢 <a href="https://www.transfermarkt.com/tahiel-jimenez/profil/spieler/1193298"><b>Tahiel Jiménez</b></a> · агента нет
     <i>Santos Laguna</i> · 1 млн € · контракт до -
-    🇲🇽 Мексика · Liga MX Clausura
+    🇲🇽 Мексика · Liga MX Apertura
 
 🟢 <a href="https://www.transfermarkt.com/tahiel-jimenez/profil/spieler/1193298"><b>Tahiel Jiménez</b></a> · агента нет
     <i>Santos Laguna</i> · 1 млн € · контракт до -
-    🇲🇽 Мексика · Liga MX Clausura
+    🇲🇽 Мексика · Liga MX Apertura
 
-⚪ <a href="https://www.transfermarkt.com/oliver-bundgaard/profil/spieler/566571"><b>Oliver Bundgaard</b></a> · поле пустое
-    <i>Viborg FF</i> · 1 млн € · контракт до 30/06/2028
-    🇩🇰 Дания · Superliga
+<i>…и ещё 106 — весь список в боте</i>
 
-⚪ <a href="https://www.transfermarkt.com/ege-bilsel/profil/spieler/708410"><b>Ege Bilsel</b></a> · поле пустое
-    <i>Bodrum FK</i> · 1 млн € · контракт до 30/06/2028
-    🇹🇷 Турция · 1.Lig
-
-🟡 <a href="https://www.transfermarkt.com/kevin-monzialo/profil/spieler/591199"><b>Kévin Monzialo</b></a> · семья
-    <i>FC Den Bosch</i> · 900 тыс. € · контракт до 30/06/2027
-    🇳🇱 Нидерланды · Keuken Kampioen Divisie
-
-⚪ <a href="https://www.transfermarkt.com/bilel-ait-malek/profil/spieler/332139"><b>Bilel Aït Malek</b></a> · поле пустое
-    <i>Club Africain</i> · 900 тыс. € · контракт до 30/06/2027
-    🇹🇳 Тунис · Ligue 1
-
-🟡 <a href="https://www.transfermarkt.com/reginaldo-ramires/profil/spieler/901037"><b>Reginaldo Ramires</b></a> · семья
-    <i>Riga FC</i> · 900 тыс. € · контракт до 31/07/2028
-    🇱🇻 Латвия · Virsliga
-
-<i>…и ещё 118 — весь список в боте</i>
-
-<i>ещё у 435 дешевле порога тоже пропал агент — они в боте</i>
+<i>ещё у 379 дешевле порога тоже пропал агент — они в боте</i>
 
 
-✅ <b>Появился агент</b> — 1 498, убрать из работы: Andreas Schjelderup, Kevin Viveros, Ephron Mason-Clark, Jason Knight, Issa Diop, Joel Chima Fujita, Lushendry Martes, Aleksa Damjanovic, Mustafa Hekimoğlu, Aleksandr Maksimenko и ещё 1 488
-🔄 Сменили клуб — 6 525
-📅 Изменился контракт — 8 857
+✅ <b>Появился агент</b> — 1 294, убрать из работы: Kevin Viveros, Ephron Mason-Clark, Nicolas Raskin, Issa Diop, Aleksa Damjanovic, Mustafa Hekimoğlu, Hannes Wolf, Raul Florucz, Ahmed Hadzimujovic, Carlos Moreno и ещё 1 284
+🔄 Сменили клуб — 6 606
+📅 Изменился контракт — 8 477
 
-<b>Сейчас в базе:</b> 137 630 кандидатов
-🟢 нет агента 2 427 · 🟡 семья 2 513 · ⚪ пробел 132 690
-126 стран · 506 лиг
+<b>Сейчас в базе:</b> 138 140 кандидатов
+🟢 нет агента 2 445 · 🟡 семья 2 509 · ⚪ пробел 133 186
+126 стран · 508 лиг
