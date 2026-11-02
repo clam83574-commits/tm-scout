@@ -180,14 +180,15 @@ jobs:
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.TM_WEBHOOK_SECRET != '' }}
         run: |
           python summary.py --since 8 --min-value 200000 --out out/summary.txt
-          curl -sS -X POST "$WORKER_URL/digest"             -H "x-telegram-bot-api-secret-token: $TM_WEBHOOK_SECRET"             -H "content-type: text/plain; charset=utf-8"             --data-binary @out/summary.txt | tee /dev/stderr
+          set -o pipefail
+          curl -sS --fail-with-body -X POST "$WORKER_URL/digest"             -H "x-telegram-bot-api-secret-token: $TM_WEBHOOK_SECRET"             -H "content-type: application/json; charset=utf-8"             --data-binary @out/summary.json | tee /dev/stderr
 
       - name: Коммит результата
         # Прогон с лимитами - дымовой: он собирает несколько игроков и не должен
         # затирать настоящую выгрузку в репозитории. Коммитим только полный сбор.
         # continue-on-error: это бухгалтерия, а не продукт. Данные уже у бота,
         # и неудачный коммит не должен красить прогон в красное.
-        if: ${{ !github.event.inputs.clubs && !github.event.inputs.players }}
+        if: ${{ !cancelled() && !github.event.inputs.clubs && !github.event.inputs.players }}
         continue-on-error: true
         run: |
           git config user.name "tm-scout bot"

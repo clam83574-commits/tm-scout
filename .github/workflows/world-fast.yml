@@ -235,13 +235,18 @@ jobs:
       # прогона, а строка «изменений нет» отличима.
       # Ночью (22:00-08:00 МСК) бот не шлёт сразу, а ставит сводку в очередь
       # и рассылает в 08:30 МСК - см. digest() в worker/src/index.js.
+      # Шлём JSON: текст плюс номера игроков, чтобы под сводкой были кнопки
+      # «весь список». --fail-with-body + pipefail: 2 ноября адрес бота
+      # пропал, curl упал, а шаг остался зелёным - сбой никто не заметил.
       - name: Сводка в бот
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.TM_WEBHOOK_SECRET != '' }}
         run: |
           python summary.py --since 8 --min-value 200000 --out out/summary.txt
-          curl -sS -X POST "$WORKER_URL/digest"             -H "x-telegram-bot-api-secret-token: $TM_WEBHOOK_SECRET"             -H "content-type: text/plain; charset=utf-8"             --data-binary @out/summary.txt | tee /dev/stderr
+          set -o pipefail
+          curl -sS --fail-with-body -X POST "$WORKER_URL/digest"             -H "x-telegram-bot-api-secret-token: $TM_WEBHOOK_SECRET"             -H "content-type: application/json; charset=utf-8"             --data-binary @out/summary.json | tee /dev/stderr
 
       - name: Коммит результата
+        if: ${{ !cancelled() }}   # и после упавшей сводки: база уже у бота
         continue-on-error: true
         run: |
           git config user.name "tm-scout bot"

@@ -27,7 +27,7 @@ const DB = {
   },
 };
 
-let fails = 0, posted = [], erased = [], nextMid = 500, refuse = false;
+let fails = 0, posted = [], erased = [], calls = [], nextMid = 500, refuse = false;
 const check = (l, c, e = "") => { console.log(`${c ? "OK  " : "ПРОВАЛ"} ${l}${e ? " — " + e : ""}`); if (!c) fails++; };
 
 // Подменяем сеть. Telegram отвечает на sendMessage номером сообщения - без
@@ -42,6 +42,8 @@ globalThis.fetch = async (u, init) => {
       return { json: async () => ({ ok: false, description: "message can't be deleted" }) };
     return { json: async () => ({ ok: true, result: true }) };
   }
+  calls.push({ method, body });
+  if (method === "answerCallbackQuery") return { json: async () => ({ ok: true, result: true }) };
   posted.push(body);
   return { json: async () => ({ ok: true, result: { message_id: nextMid++ } }) };
 };
@@ -212,6 +214,70 @@ check("утренняя рассылка отзываема", sqlite.prepare("SE
 posted = [];
 const f2 = await bot.flushDigests(env);
 check("второе утро не повторяет сводку", f2.length === 0 && posted.length === 0);
+sqlite.exec("DROP TABLE IF EXISTS digest_queue");
+
+// ВЕСЬ СПИСОК ИЗ СВОДКИ. «Остальные в боте» раньше вели в никуда: под
+// сводкой должны быть кнопки, и открывать они должны НОВОЕ сообщение -
+// обычная кнопка заменила бы текст, и сводка исчезла бы у человека.
+sqlite.exec(`CREATE TABLE IF NOT EXISTS players (player_id TEXT PRIMARY KEY, name TEXT,
+  url TEXT, club TEXT, agent_status TEXT, market_value TEXT, contract_until TEXT,
+  comp TEXT, comp_ru TEXT, comp_name TEXT, flag TEXT, country_ru TEXT)`);
+sqlite.exec(`CREATE TABLE IF NOT EXISTS notes (player_id TEXT PRIMARY KEY, status TEXT,
+  by_name TEXT, updated_at TEXT)`);
+sqlite.exec("DELETE FROM players WHERE player_id LIKE 'tst%'");
+sqlite.exec("DROP TABLE IF EXISTS digest_lists");
+const tids = Array.from({ length: 25 }, (_, i) => "tst" + i);
+for (const [i, id] of tids.entries())
+  sqlite.prepare(`INSERT INTO players (player_id,name,url,club,agent_status,market_value,
+    contract_until,comp,comp_ru,flag,country_ru) VALUES (?,?,?,?,?,?,?,?,?,?,?)`)
+    .run(id, "Тестов " + i, "https://t/" + id, "ФК Тест", "NO_AGENT", "€1m", "30/06/2027",
+         "MEX1", "Liga MX", "🇲🇽", "Мексика");
+const list = { date: "2 ноября", hot_title: "🔥 Пропал агент — дороже 200 тыс. €",
+  cheap_title: "Пропал агент — дешевле 200 тыс. €", hot: tids.slice(0, 23), cheap: tids.slice(23) };
+const kbOf = (p) => (p.reply_markup && p.reply_markup.inline_keyboard) || null;
+
+posted = [];
+await bot.deliverDigest(env, Array.from({ length: 400 }, (_, i) => `строка ${i} подлиннее`).join(String.fromCharCode(10)), "111", day, list);
+check("кнопки только под последней частью сводки", posted.length > 1 &&
+  posted.slice(0, -1).every((p) => !kbOf(p)) && !!kbOf(posted.at(-1)), `частей ${posted.length}`);
+const btns = kbOf(posted.at(-1)).flat();
+check("две кнопки: весь список и дешевле порога",
+  btns.length === 2 && btns[0].text.includes("23") && btns[1].text.includes("2"));
+check("кнопки помещаются в лимит Telegram", btns.every((b) => Buffer.byteLength(b.callback_data) <= 64));
+
+const lid = btns[0].callback_data.split("|")[1];
+const [t0, k0] = await bot.screenLost(env, lid, "h", 0);
+check("первая страница: десять игроков по порядку", t0.includes("Тестов 0") && t0.includes("Тестов 9") && !t0.includes("Тестов 10"));
+check("видно, сколько всего и какая страница", t0.includes("23 игрока") && t0.includes("стр. 1 из 3"));
+check("с первой страницы только вперёд", k0[0].length === 1 && k0[0][0].text === "▶️");
+const [t2, k2] = await bot.screenLost(env, lid, "h", 2);
+check("последняя страница - остаток", t2.includes("Тестов 22") && !t2.includes("Тестов 19"));
+check("с последней только назад", k2[0].length === 1 && k2[0][0].text === "◀️");
+check("в список дешевле - свои игроки", (await bot.screenLost(env, lid, "c", 0))[0].includes("Тестов 24"));
+check("несуществующий список не роняет бота", (await bot.screenLost(env, "99999", "h", 0))[0].includes("не хранится"));
+
+// нажатие под сводкой -> новое сообщение; стрелка внутри списка -> правка
+const press = (data) => bot.default.fetch(new Request("https://x/tg", { method: "POST",
+  headers: { "content-type": "application/json" },
+  body: JSON.stringify({ callback_query: { id: "c1", data, from: { id: 111, first_name: "А" },
+    message: { message_id: 42, chat: { id: 111 } } } }) }), env);
+calls = [];
+await press(btns[0].callback_data);
+check("кнопка под сводкой открывает НОВОЕ сообщение", calls.some((c) => c.method === "sendMessage") &&
+  !calls.some((c) => c.method === "editMessageText"));
+calls = [];
+await press(k0[0][0].callback_data);
+check("стрелка листает список на месте", calls.some((c) => c.method === "editMessageText" && c.body.message_id === 42));
+
+// ночью список ждёт вместе со сводкой и приходит утром с кнопками
+posted = [];
+await bot.deliverDigest(env, "ночная сводка со списком", null, night, list);
+check("ночью ничего не ушло", posted.length === 0);
+const fl = await bot.flushDigests(env);
+check("утром сводка пришла с кнопками", fl.length === 1 && posted.length === 3 && posted.every((p) => !!kbOf(p)));
+
+sqlite.exec("DELETE FROM players WHERE player_id LIKE 'tst%'");
+sqlite.exec("DROP TABLE IF EXISTS digest_lists");
 sqlite.exec("DROP TABLE IF EXISTS digest_queue");
 
 sqlite.exec("DELETE FROM alerts"); sqlite.exec("DELETE FROM access"); sqlite.exec("DELETE FROM sent");

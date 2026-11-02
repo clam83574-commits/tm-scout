@@ -808,6 +808,15 @@ async function handleCallback(env, cb) {
     screen = await screenMark(env, p[1], p[2], parseInt(p[3], 10), p[4], p[5] || "s");
   else if (p[0] === "nt")
     screen = await screenNote(env, p[1], p[2], p[3], parseInt(p[4], 10), p[5], p[6] || "s");
+  else if (p[0] === "dl") {
+    // dl|<список>|<h|c>|<страница>[|n]
+    screen = await screenLost(env, p[1], p[2], parseInt(p[3], 10));
+    if (p[4] === "n") {
+      // нажато под сводкой - отвечаем новым сообщением, сводка остаётся
+      await Promise.all([ack, send(env, chat, screen[0], screen[1])]);
+      return;
+    }
+  }
   else if (p[0] === "ns") {
     // ns|<статус или clear>|<pid>|<comp>|<club>|<page>|<flt>|<srt>
     const [, status, pid, comp, clubId, page, flt, srt] = p;
@@ -909,7 +918,7 @@ async function handleMessage(env, msg) {
 
 // Экраны экспортируются ради теста test.mjs — он гоняет их на настоящей базе.
 export { allowed, checkAttempts, noteAttempt, notify, recall, digest,
-         deliverDigest, flushDigests };
+         deliverDigest, flushDigests, screenLost };
 export { screenCountries, screenLeagues, screenClubs, screenPlayers, screenFilter,
          search, screenMark, screenNote };
 
@@ -944,8 +953,8 @@ async function recipients(env) {
  * проверочным уведомлением, ушедшим клиенту. Пока это одна функция, новая
  * рассылка не может завести себе отзыв «потом».
  */
-async function sendTracked(env, uid, text, batch) {
-  const r = await send(env, uid, text);
+async function sendTracked(env, uid, text, batch, kb) {
+  const r = await send(env, uid, text, kb);
   if (!r || !r.ok) return false;
   const mid = r.result && r.result.message_id;
   if (mid) {
@@ -995,7 +1004,7 @@ function splitLong(text, limit = 3800) {
  * только доставка. Разделение намеренное - считать по базе удобнее там, где
  * она лежит целиком, а токен бота остаётся в секретах Cloudflare.
  */
-async function digest(env, text, only) {
+async function digest(env, text, only, kb) {
   if (!text || !text.trim()) return { sent: 0, users: 0, note: "пустая сводка" };
   // only=<id> - отправить ОДНОМУ. Нужен, чтобы проверочную рассылку можно
   // было погонять на себе: правило «не проверяй на живом списке» держится
@@ -1008,8 +1017,10 @@ async function digest(env, text, only) {
   let sent = 0;
   const unrecorded = [];
   for (const uid of ids) {
-    for (const chunk of chunks) {
-      const r = await sendTracked(env, uid, chunk, batch);
+    for (let i = 0; i < chunks.length; i++) {
+      // Кнопки - только под последней частью: там, где кончается текст
+      const r = await sendTracked(env, uid, chunks[i], batch,
+                                  i === chunks.length - 1 ? kb : undefined);
       if (r) sent++;
       if (r && r.unrecorded) unrecorded.push(r.unrecorded);
     }
@@ -1041,14 +1052,124 @@ const DIGEST_QUEUE =
   "CREATE TABLE IF NOT EXISTS digest_queue (id INTEGER PRIMARY KEY AUTOINCREMENT, " +
   "text TEXT NOT NULL, queued_at TEXT, sent_at TEXT)";
 
-async function deliverDigest(env, text, only, now = new Date()) {
-  if (only || !quietHours(now)) return digest(env, text, only);
+/**
+ * Полные списки к сводке: «пропал агент» дороже порога и дешевле.
+ *
+ * В самой сводке помещается только MAX_DETAIL игроков (summary.py), а
+ * фраза «остальные в боте» раньше вела в никуда: бот хранит игроков, но
+ * не знает, кто из них попал в сводку - искать приходилось по странам.
+ * Поэтому сборщик присылает номера игроков вместе с текстом, а под сводкой
+ * появляются кнопки, открывающие список целиком.
+ *
+ * Номера, а не готовый текст: список показывает игрока таким, какой он
+ * СЕЙЧАС в базе, с пометками агентов. Таблица отдельная, а не колонка в
+ * digest_queue: ту уже создали в D1, и CREATE TABLE IF NOT EXISTS новую
+ * колонку туда не добавит.
+ */
+const DIGEST_LISTS =
+  "CREATE TABLE IF NOT EXISTS digest_lists (id INTEGER PRIMARY KEY AUTOINCREMENT, " +
+  "queue_id INTEGER, created_at TEXT, data TEXT NOT NULL)";
+
+async function saveList(env, list, queueId) {
+  if (!list || !((list.hot || []).length || (list.cheap || []).length)) return null;
+  await env.DB.prepare(DIGEST_LISTS).run();
+  const row = await env.DB.prepare(
+    "INSERT INTO digest_lists (queue_id, created_at, data) VALUES (?,?,?) RETURNING id"
+  )
+    .bind(queueId ?? null, new Date().toISOString(), JSON.stringify(list))
+    .first();
+  return row && row.id;
+}
+
+// «n» в конце - открыть НОВЫМ сообщением. Обычная кнопка в боте заменяет
+// текст сообщения, на котором нажата, и сводка бы исчезла.
+function listKb(id, list) {
+  if (!id) return undefined;
+  const kb = [];
+  if ((list.hot || []).length)
+    kb.push([{ text: `🔥 Весь список — ${list.hot.length}`, callback_data: `dl|${id}|h|0|n` }]);
+  if ((list.cheap || []).length)
+    kb.push([{ text: `Дешевле порога — ${list.cheap.length}`, callback_data: `dl|${id}|c|0|n` }]);
+  return kb.length ? kb : undefined;
+}
+
+async function deliverDigest(env, text, only, now = new Date(), list = null) {
+  if (only || !quietHours(now)) {
+    if (!text || !text.trim()) return { sent: 0, users: 0, note: "пустая сводка" };
+    const id = await saveList(env, list, null);
+    return digest(env, text, only, id ? listKb(id, list) : undefined);
+  }
   if (!text || !text.trim()) return { sent: 0, users: 0, note: "пустая сводка" };
   await env.DB.prepare(DIGEST_QUEUE).run();
-  await env.DB.prepare("INSERT INTO digest_queue (text, queued_at) VALUES (?,?)")
+  const q = await env.DB.prepare(
+    "INSERT INTO digest_queue (text, queued_at) VALUES (?,?) RETURNING id"
+  )
     .bind(text, now.toISOString())
-    .run();
+    .first();
+  await saveList(env, list, q && q.id);
   return { sent: 0, queued: true, note: "ночь по Москве - уйдёт в 08:30 МСК" };
+}
+
+const LOST_PAGE = 10;
+
+/** Список из сводки, постранично. kind: h - дороже порога, c - дешевле. */
+async function screenLost(env, listId, kind, page) {
+  const row = await env.DB.prepare("SELECT data FROM digest_lists WHERE id=?")
+    .bind(parseInt(listId, 10))
+    .first();
+  if (!row) return ["Этот список больше не хранится.", withHome([], ALLON)];
+  const d = JSON.parse(row.data);
+  const ids = (kind === "c" ? d.cheap : d.hot) || [];
+  const pages = Math.max(1, Math.ceil(ids.length / LOST_PAGE));
+  page = safePage(page, pages);
+  const slice = ids.slice(page * LOST_PAGE, (page + 1) * LOST_PAGE).map(String);
+  const byId = {};
+  const noted = {};
+  if (slice.length) {
+    const [ps, ns] = await Promise.all([
+      env.DB.prepare(`SELECT * FROM players WHERE player_id IN (${marks(slice.length)})`)
+        .bind(...slice)
+        .all(),
+      env.DB.prepare(
+        `SELECT player_id, status, by_name FROM notes WHERE player_id IN (${marks(slice.length)})`
+      )
+        .bind(...slice)
+        .all(),
+    ]);
+    for (const r of ps.results) byId[String(r.player_id)] = r;
+    for (const n of ns.results) noted[String(n.player_id)] = n;
+  }
+  const title = (kind === "c" ? d.cheap_title : d.hot_title) || "Пропал агент";
+  const lines = [
+    `<b>${esc(title)}</b>\nиз сводки ${esc(d.date || "")} · ` +
+      `${ids.length} ${plural(ids.length, "игрок", "игрока", "игроков")} · ` +
+      `стр. ${page + 1} из ${pages}\n`,
+  ];
+  // Порядок - как в сводке (по цене), а не как вернула база
+  for (const pid of slice) {
+    const r = byId[pid];
+    if (!r) continue;   // игрок пропал из базы после сводки
+    const bits = [has(r.market_value) ? r.market_value : "", contractLine(r)]
+      .filter(Boolean)
+      .join(" · ");
+    const where = [[r.flag, r.country_ru].filter(Boolean).join(" "), compName(r)]
+      .filter(Boolean)
+      .join(" · ");
+    const n = noted[pid];
+    const mark = n ? `${NOTE_ICON[n.status] || "•"} <b>${NOTE_LABEL[n.status] || n.status}</b>` +
+      (n.by_name ? ` · ${esc(n.by_name)}` : "") + "\n    " : "";
+    lines.push(
+      `${BADGE[r.agent_status] || "·"} <a href="${r.url}"><b>${esc(r.name)}</b></a>` +
+        ` · ${LABEL[r.agent_status] || "?"}\n    ${mark}<i>${esc(r.club)}</i>` +
+        (bits ? ` · ${esc(bits)}` : "") + (where ? `\n    ${esc(where)}` : "")
+    );
+  }
+  if (lines.length === 1) lines.push("На этой странице никого не осталось.");
+  const step = (p) => `dl|${listId}|${kind}|${p}`;
+  const nav = [];
+  if (page) nav.push({ text: "◀️", callback_data: step(page - 1) });
+  if (page + 1 < pages) nav.push({ text: "▶️", callback_data: step(page + 1) });
+  return [lines.join("\n\n"), withHome(nav.length ? [nav] : [], ALLON)];
 }
 
 /** Разослать придержанное. Зовётся cron Cloudflare в 08:30 МСК. */
@@ -1066,7 +1187,18 @@ async function flushDigests(env) {
     await env.DB.prepare("UPDATE digest_queue SET sent_at=? WHERE id=?")
       .bind(new Date().toISOString(), q.id)
       .run();
-    out.push(await digest(env, q.text));
+    let kb;
+    try {
+      await env.DB.prepare(DIGEST_LISTS).run();
+      const l = await env.DB.prepare("SELECT id, data FROM digest_lists WHERE queue_id=?")
+        .bind(q.id)
+        .first();
+      if (l) kb = listKb(l.id, JSON.parse(l.data));
+    } catch (e) {
+      // без кнопок сводка всё равно нужна
+      console.error("список к сводке:", e);
+    }
+    out.push(await digest(env, q.text, undefined, kb));
   }
   return out;
 }
@@ -1182,8 +1314,19 @@ export default {
         return new Response("forbidden", { status: 403 });
       }
       try {
-        const r = await deliverDigest(env, await request.text(),
-                                      url.searchParams.get("only"));
+        // JSON {text, list} - сводка вместе с номерами игроков для кнопок
+        // «весь список»; простой текст по-прежнему принимается (ручная
+        // досылка, старые прогоны).
+        const body = await request.text();
+        let text = body;
+        let list = null;
+        if ((request.headers.get("content-type") || "").includes("application/json")) {
+          const j = JSON.parse(body);
+          text = j.text;
+          list = j.list || null;
+        }
+        const r = await deliverDigest(env, text, url.searchParams.get("only"),
+                                      new Date(), list);
         return new Response(JSON.stringify(r), {
           headers: { "content-type": "application/json" },
         });

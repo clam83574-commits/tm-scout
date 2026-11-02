@@ -21,6 +21,7 @@
 """
 import argparse
 import html
+import json
 import sqlite3
 import sys
 from datetime import datetime, timedelta, timezone
@@ -84,18 +85,26 @@ def build(since_days=8, min_value=200000):
 
     # Джойн к players обязателен: в changes лежит только факт смены статуса,
     # а звонить по нему нельзя - там нет ни ссылки, ни цены, ни лиги.
+    #
+    # GROUP BY по игроку: за окно у одного человека бывает несколько смен
+    # (агент пропал, вернулся, снова пропал), и сводка 2 ноября показала
+    # Tahiel Jiménez дважды подряд. Статус берём ТЕКУЩИЙ из players: кто
+    # успел снова обзавестись агентом, тому звонить уже незачем.
     lost = c.execute(
-        "SELECT ch.name, ch.new, p.url, p.club, p.mv_eur, p.market_value, "
-        "       p.flag, p.country_ru, p.comp_ru, p.comp_name, p.contract_until "
+        "SELECT p.player_id, p.name, p.agent_status AS new, p.url, p.club, "
+        "       p.mv_eur, p.market_value, p.flag, p.country_ru, p.comp_ru, "
+        "       p.comp_name, p.contract_until "
         "  FROM changes ch JOIN players p ON p.player_id = ch.player_id "
         " WHERE ch.field='agent_status' AND ch.old='AGENT' "
         "   AND ch.new IN ('NO_AGENT','RELATIVES','UNKNOWN') AND ch.ts >= ? "
-        " ORDER BY p.mv_eur DESC", (cutoff,)).fetchall()
+        "   AND p.agent_status IN ('NO_AGENT','RELATIVES','UNKNOWN') "
+        " GROUP BY p.player_id ORDER BY p.mv_eur DESC", (cutoff,)).fetchall()
     gained = c.execute(
-        "SELECT ch.name FROM changes ch "
+        "SELECT p.name FROM changes ch "
         "  JOIN players p ON p.player_id = ch.player_id "
         " WHERE ch.field='agent_status' AND ch.old IN ('NO_AGENT','RELATIVES','UNKNOWN') "
-        "   AND ch.new='AGENT' AND ch.ts >= ? ORDER BY p.mv_eur DESC",
+        "   AND ch.new='AGENT' AND ch.ts >= ? AND p.agent_status='AGENT' "
+        " GROUP BY p.player_id ORDER BY p.mv_eur DESC",
         (cutoff,)).fetchall()
     moved = c.execute("SELECT COUNT(*) FROM changes WHERE field='club' "
                       "AND ts >= ?", (cutoff,)).fetchone()[0]
@@ -143,17 +152,17 @@ def build(since_days=8, min_value=200000):
                 out.append("    %s" % where)
             out.append("")
         if len(hot) > MAX_DETAIL:
-            out.append("<i>…и ещё %s — весь список в боте</i>"
+            out.append("<i>…и ещё %s — кнопка «Весь список» под сводкой</i>"
                        % num(len(hot) - MAX_DETAIL))
             out.append("")
         cheap = len(lost) - len(hot)
         if cheap:
-            out.append("<i>ещё у %s дешевле порога тоже пропал агент — они в боте</i>"
-                       % num(cheap))
+            out.append("<i>ещё у %s дешевле порога тоже пропал агент — "
+                       "кнопка «Дешевле порога» под сводкой</i>" % num(cheap))
             out.append("")
     elif lost:
         out += ["",
-                "🔥 Пропал агент — %s, все дешевле %s. Смотрите в боте."
+                "🔥 Пропал агент — %s, все дешевле %s. Список — кнопкой под сводкой."
                 % (num(len(lost)), money(min_value))]
 
     tail = []
@@ -181,7 +190,18 @@ def build(since_days=8, min_value=200000):
             "%s %s · %s %s"
             % (num(countries), plural(countries, "страна", "страны", "стран"),
                num(comps), plural(comps, "лига", "лиги", "лиг"))]
-    return "\n".join(out)
+
+    # Номера игроков для кнопок под сводкой: бот показывает их целиком,
+    # постранично. Порядок - тот же, что в сводке (по цене).
+    hot_ids = set(r["player_id"] for r in hot)
+    lists = {
+        "date": "%d %s" % (now.day, MONTHS[now.month - 1]),
+        "hot_title": "🔥 Пропал агент — дороже %s" % money(min_value),
+        "cheap_title": "Пропал агент — дешевле %s" % money(min_value),
+        "hot": [r["player_id"] for r in hot],
+        "cheap": [r["player_id"] for r in lost if r["player_id"] not in hot_ids],
+    }
+    return "\n".join(out), lists
 
 
 if __name__ == "__main__":
@@ -190,11 +210,16 @@ if __name__ == "__main__":
     ap.add_argument("--min-value", type=int, default=200000,
                     help="порог стоимости для подробного списка")
     ap.add_argument("--out", default="out/summary.txt")
+    ap.add_argument("--json", default="out/summary.json",
+                    help="текст + номера игроков для кнопок «весь список»")
     a = ap.parse_args()
 
-    text = build(a.since, a.min_value)
+    text, lists = build(a.since, a.min_value)
     p = Path(a.out)
     p.parent.mkdir(parents=True, exist_ok=True)
     p.write_text(text, encoding="utf-8")
+    Path(a.json).write_text(json.dumps({"text": text, "list": lists},
+                                       ensure_ascii=False), encoding="utf-8")
     print(text)
-    print("\n-> %s (%d символов)" % (p, len(text)))
+    print("\n-> %s (%d символов), %s (%d + %d в списках)"
+          % (p, len(text), a.json, len(lists["hot"]), len(lists["cheap"])))
