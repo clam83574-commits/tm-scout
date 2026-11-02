@@ -47,7 +47,7 @@ jobs:
       CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
       CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
       TM_WEBHOOK_SECRET: ${{ secrets.TM_WEBHOOK_SECRET }}
-      WORKER_URL: https://tm-scout-bot.clam83574.workers.dev
+      WORKER_URL: https://tm-scout-bot.opsfold.workers.dev
 
     steps:
       - uses: actions/checkout@v4
